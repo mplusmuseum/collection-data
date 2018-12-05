@@ -2,14 +2,12 @@
     "constituentID": 152,
     "name": {
         "en": {
-            "id": "144",
-            "alphasort": "Chi, Peng",
-            "displayname": "Chi Peng"
+            "displayName": "Chi Peng",
+            "alphasort": "Chi, Peng"
         },
         "zh-hant": {
-            "id": "1221",
-            "alphasort": "遲, 鵬",
-            "displayname": "遲鵬"
+            "displayName": "遲鵬",
+            "alphasort": "遲, 鵬"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1981",
+        "zh-hant": "中國籍，生於1981年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Yantai"
+    },
+    "deathCity": null,
     "beginDate": 1981,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 152
 }

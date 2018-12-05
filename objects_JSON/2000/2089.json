@@ -1,7 +1,8 @@
 {
     "objectID": 2089,
+    "onView": false,
     "objectNumber": "2012.38",
-    "sortNumber": 2012.38,
+    "sortNumber": "2012    38",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,176 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            16,
+            55,
+            95,
+            103,
+            106
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "This monochrome painting of medical latex gloves is from Zhang Peili’s X? series, for which he had aimed to produce dozens of nearly identical paintings by reducing technical and compositional changes to a minimum, to make the works seem like prints. In the end, he created around ten, but also wrote a manual with rules for reproducing the series. The mechanical approach and clinical subject challenge modernist ideas of art as self-expression. In 1986, Zhang and Geng Jianyi co-founded the artist group Pond Society, one of the earliest conceptual art collectives, in Hangzhou. The collective’s goal was to deliver art from an academic context into public space through Happenings, installations, and collaborative works."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "This monochrome painting of latex medical gloves is from Zhang Peili’s X? series, for which he had aimed to produce dozens of nearly identical paintings by reducing technical and compositional changes to a minimum, to make the works seem like prints. In the end, he created around ten, but also wrote a manual with rules for reproducing the series. The mechanical approach and clinical subject challenge modernist ideas of art as self-expression. In 1986, Zhang and Geng Jianyi co-founded the artist group Pond Society in Hangzhou, one of the earliest conceptual art collectives, in China. The collective’s goal was to deliver art from an academic context into public space through happenings, installations, and collaborative works."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "這幅以橡膠手套為主體的單色油畫作品，來自張培力的《X？》系列。在這個系列中，他的目標是以最少的技巧及構圖變化，繪製數十幅幾乎一模一樣、與印刷品無異的畫作。最後，他創作出約十幅，同時編寫出一套說明如何複製該系列的指南。他結合機械化的形式和醫學主題，挑戰現代藝術所提倡的「自我表現」。1986年，張培力與耿建翌等人於杭州共同創立藝術團體「池社」，是中國最早期的觀念藝術組織之一。該團體的理念在於透過各項活動、裝置及合作計劃，將藝術從學術性的層面融入公共空間。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "這幅以醫用乳膠手套為主體的單色油畫，來自張培力的《X？》系列作品。在這個系列中，他的目標是以最少的技巧及構圖變化，繪製數十幅幾乎一模一樣、與印刷品無異的畫作。最後，他創作出十數幅作品，同時編寫出一套說明如何複製該系列的指南。他結合機械化的形式和醫學主題，挑戰現代藝術所提倡的「自我表現」。1986年，張培力與耿建翌等人於杭州共同創立藝術團體「池社」，是中國最早期的概念藝術組織之一。該團體的理念在於透過各項偶發藝術、裝置及合作計劃，將藝術從學術性的層面融入公共空間。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        22
+    ],
+    "allORC": "Zhang Peili",
     "title": {
         "en": "X? Series: No. 4",
-        "zh-hant": "X？ 第四號",
-        "zh-hans": "X？ 第四号"
+        "zh-hant": "X？ 第四號"
     },
-    "displayDate": "1987",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1987",
+        "zh-hant": "1987"
+    },
     "beginDate": 1987,
     "endDate": 1987,
     "dimension": {
         "en": "overall: 179 × 198 × 4 cm",
-        "zh-hant": "整體: 179 × 198 × 4 厘米",
-        "zh-hans": "图像 (目测量度): 179 × 198.2 厘米"
+        "zh-hant": "整體: 179 × 198 × 4 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": "油彩布本",
-        "zh-hans": "油彩布本"
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": "M+ 希克藏品，香港",
-        "zh-hans": "香港M+ 希克藏品"
+        "zh-hant": "M+ 希克藏品，香港"
+    },
+    "inscription": {
+        "en": "Secondary inscriptions, see catalogue worksheet"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Oil painting on canvas depicting a pair of latex gloves. The pale gloves are depicted with the fingers pointing down and the cuffs folded over.",
+            "AltTextTC": "油彩布本作品上繪畫了一雙乳膠手套。手套呈淡白色，手指部分垂下，袖口部分翻摺。",
+            "src": "002001_002500/002089_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Zhang Peili",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2089
 }

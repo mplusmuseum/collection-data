@@ -2,14 +2,12 @@
     "constituentID": 201,
     "name": {
         "en": {
-            "id": "193",
-            "alphasort": "Hai, Bo",
-            "displayname": "Hai Bo"
+            "displayName": "Hai Bo",
+            "alphasort": "Hai, Bo"
         },
         "zh-hant": {
-            "id": "1258",
-            "alphasort": "海, 波",
-            "displayname": "海波"
+            "displayName": "海波",
+            "alphasort": "海, 波"
         }
     },
     "type": "Individual",
@@ -18,11 +16,50 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Hai Bo (born 1962, Changchun) graduated from the Fine Art Institute of Jilin in 1984, and completed advanced studies at the Print Department of the Central Institute of Fine Arts in Beijing, in 1989. He creates conceptual photographic work that documents the changing climate of social, economic, and environmental conditions in contemporary China. Hai lives and works in Beijing.",
-        "zh-hant": "海波 (1962年生於長春，現工作及生活於北京），1984年畢業於吉林美術學院，並在1989年於北京中央美術學院版畫系修畢專業課程。他的概念攝影作品紀錄當代中國社會、經濟和環境狀況的轉變。"
+        "en": "Chinese, born 1962",
+        "zh-hant": "中國籍，生於1962年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Changchun"
+    },
+    "deathCity": null,
     "beginDate": 1962,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Hai Bo (born 1962, Changchun) graduated from the Fine Art Institute of Jilin in 1984, and completed advanced studies at the Print Department of the Central Institute of Fine Arts in Beijing, in 1989. He creates conceptual photographic work that documents the changing climate of social, economic, and environmental conditions in contemporary China. Hai lives and works in Beijing."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "海波 (1962年生於長春，現工作及生活於北京），1984年畢業於吉林美術學院，並在1989年於北京中央美術學院版畫系修畢專業課程。他的概念攝影作品紀錄當代中國社會、經濟和環境狀況的轉變。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 201
 }

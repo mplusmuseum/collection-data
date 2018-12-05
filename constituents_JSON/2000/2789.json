@@ -2,14 +2,12 @@
     "constituentID": 2789,
     "name": {
         "en": {
-            "id": "4692",
-            "alphasort": "zhang, Hai'er",
-            "displayname": "Zhang Hai'er"
+            "displayName": "Zhang Hai'er",
+            "alphasort": "zhang, Hai'er"
         },
         "zh-hant": {
-            "id": "4694",
-            "alphasort": "張, 海兒",
-            "displayname": "張海兒"
+            "displayName": "張海兒",
+            "alphasort": "張, 海兒"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1957",
+        "zh-hant": "中國籍，生於1957年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "China"
+    },
+    "birthCity": {
+        "en": "Guangzhou"
+    },
+    "deathCity": null,
     "beginDate": 1957,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 2789
 }

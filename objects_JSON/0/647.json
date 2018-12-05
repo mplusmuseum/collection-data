@@ -1,7 +1,8 @@
 {
     "objectID": 647,
+    "onView": false,
     "objectNumber": "2013.517",
-    "sortNumber": 2013.517,
+    "sortNumber": "2013   517",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,158 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            27,
+            75,
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "Ambiguously Yours"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Ambiguously Yours",
+                        "text": "Cinema’s significance on the individual is explored in Ho Sin-tung’s personal yet fictional Inter-vivos Film Festival. Meaning ‘between the living’, Ho’s installation comprises meticulously hand-drawn film stills, movie poster and a cinema seat. These works challenge the mass-produced nature of promotional materials, and are the artist's homage to the enduring influence of the fictional and imaginary world of film on her. Above the chair is a small portrait of an unidentified figure with head bowed in a contemplative and introverted gesture, reinforcing the role of cinema in nurturing the imagination."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "Ambiguously Yours"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Ambiguously Yours",
+                        "text": "何善彤的《吾友烏有》旨在以私密且虛構的角度討論電影的文化特質。藝術家透過一系列的手繪電影海報、劇照和一組電影座椅，在虛實之間對電影節中大量印刷的宣傳品提出質問，卻又同時是藝術家對這些影響至深的電影的一種致敬。電影椅上方有一張圓形的小肖像，觀者無法辨識這位垂下頭的人是男還是女，進一步特顯電影予觀者幻想的空間。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Ho Sin Tung",
     "title": {
         "en": "Andrew Khur Reprospective",
-        "zh-hant": "安德魯．庫爾展望展",
-        "zh-hans": "安德鲁．库尔展望展"
+        "zh-hant": "安德魯．庫爾展望展"
     },
-    "displayDate": "2012",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": "2012"
+    },
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
         "en": "frame: 108.5 × 75.7 × 3.3 cm",
-        "zh-hant": "圖像: 102 × 68.5 厘米\r\r\n框架: 108.5 × 75.7 × 3.3 厘米\r\r\n終日放映框架: 155.1 × 100.1 × 11.2 厘米",
-        "zh-hans": "图像: 102 × 68.5 厘米\r\r\n框架: 108.5 × 75.7 × 3.3 厘米\r\r\n终日放映框架: 155.1 × 100.1 × 11.2 厘米"
+        "zh-hant": "圖像: 102 × 68.5 厘米\r\r\n框架: 108.5 × 75.7 × 3.3 厘米\r\r\n終日放映框架: 155.1 × 100.1 × 11.2 厘米"
     },
     "medium": {
-        "en": "ink and colour pencil on paper, wood, and acrylic",
-        "zh-hant": "墨水彩色鉛筆紙本、木、亞加力",
-        "zh-hans": "墨水、木颜色纸本、木、亚加力胶"
+        "en": "ink and coloured pencil on paper, wood, and acrylic",
+        "zh-hant": "墨水彩色鉛筆紙本、木、亞加力"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Ink and colour pencil on paper, wood, and acrylic. Distinct drawings and phrases presented under the English title include a Caucasian man’s head both front-facing and in profile, a microphone, a jester, several weapons, and Hong Kong slang in Standard Chinese which loosely translates to 'You only live once'.",
+            "AltTextTC": "墨水、木顏色紙本、木、亞加力膠作品。英文標題下面繪上一系列各自獨立的畫像和字句，包括一個男性白人的頭部正面和側面特寫、一支麥克風、一個小丑、幾件武器和香港俚語「有來世，無今生」。",
+            "src": "000501_001000/000647_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "M+ is the copyright owner",
+        "copyright": "© M+, Hong Kong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/PERMISSION GRANTED; commercial merchandise/PERMISSION GRANTED; commercial publishing/PERMISSION GRANTED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 647
 }

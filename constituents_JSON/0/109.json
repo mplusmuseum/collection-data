@@ -2,14 +2,12 @@
     "constituentID": 109,
     "name": {
         "en": {
-            "id": "101",
-            "alphasort": "Cang, Xin",
-            "displayname": "Cang Xin"
+            "displayName": "Cang Xin",
+            "alphasort": "Cang, Xin"
         },
         "zh-hant": {
-            "id": "1186",
-            "alphasort": "蒼, 鑫",
-            "displayname": "蒼鑫"
+            "displayName": "蒼鑫",
+            "alphasort": "蒼, 鑫"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1967",
+        "zh-hant": "中國籍，生於1967年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Suihua"
+    },
+    "deathCity": null,
     "beginDate": 1967,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 109
 }

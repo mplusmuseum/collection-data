@@ -2,14 +2,12 @@
     "constituentID": 850,
     "name": {
         "en": {
-            "id": "1757",
-            "alphasort": "Wong, Ming",
-            "displayname": "Ming Wong"
+            "displayName": "Ming Wong",
+            "alphasort": "Wong, Ming"
         },
         "zh-hant": {
-            "id": "2612",
-            "alphasort": "黃漢明",
-            "displayname": "黃漢明"
+            "displayName": "黃漢明",
+            "alphasort": "黃漢明"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Singaporean",
+    "displayBio": {
+        "en": "Singaporean, born 1971",
+        "zh-hant": "新加坡籍，生於1971年"
+    },
+    "nationality": {
+        "en": "Singaporean",
+        "zh-hant": "新加坡籍"
+    },
+    "region": {
+        "en": "Southeast Asia",
+        "zh-hant": "東南亞"
+    },
+    "activeCity": {
+        "en": "Singapore",
+        "zh-hant": "新加坡"
+    },
+    "birthCity": {
+        "en": "Singapore",
+        "zh-hant": "Singapore"
+    },
+    "deathCity": null,
     "beginDate": 1971,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 850
 }

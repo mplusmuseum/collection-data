@@ -2,14 +2,12 @@
     "constituentID": 340,
     "name": {
         "en": {
-            "id": "332",
-            "alphasort": "Mao, Tongqiang",
-            "displayname": "Mao Tongqiang"
+            "displayName": "Mao Tongqiang",
+            "alphasort": "Mao, Tongqiang"
         },
         "zh-hant": {
-            "id": "1377",
-            "alphasort": "毛, 同強",
-            "displayname": "毛同強"
+            "displayName": "毛同強",
+            "alphasort": "毛, 同強"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1960",
+        "zh-hant": "中國籍，生於1960年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Yinchuan"
+    },
+    "birthCity": {
+        "en": "Yinchuan"
+    },
+    "deathCity": null,
     "beginDate": 1960,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 340
 }

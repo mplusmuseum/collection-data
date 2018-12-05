@@ -2,14 +2,12 @@
     "constituentID": 202,
     "name": {
         "en": {
-            "id": "194",
-            "alphasort": "Han, Lei",
-            "displayname": "Han Lei"
+            "displayName": "Han Lei",
+            "alphasort": "Han, Lei"
         },
         "zh-hant": {
-            "id": "2979",
-            "alphasort": "韓磊",
-            "displayname": "韓磊"
+            "displayName": "韓磊",
+            "alphasort": "韓磊"
         }
     },
     "type": "Individual",
@@ -17,9 +15,20 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
+    "displayBio": null,
     "nationality": null,
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": null,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 202
 }

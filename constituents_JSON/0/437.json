@@ -2,18 +2,41 @@
     "constituentID": 437,
     "name": {
         "en": {
-            "id": "429",
-            "alphasort": "Mies van der Rohe, Ludwig",
-            "displayname": "Ludwig Mies van der Rohe"
+            "displayName": "Ludwig Mies van der Rohe",
+            "alphasort": "Mies van der Rohe, Ludwig"
+        },
+        "zh-hant": {
+            "displayName": "路德維希·密斯·凡德羅",
+            "alphasort": "路德維希·密斯·凡德羅"
         }
     },
     "type": "Individual",
     "gender": {
-        "zh-hant": null
+        "en": "Unknown",
+        "zh-hant": "不詳"
     },
-    "displayBio": {},
-    "nationality": "German",
+    "displayBio": {
+        "en": "German, 1886–1969",
+        "zh-hant": "德國籍，1886–1969年"
+    },
+    "nationality": {
+        "en": "German",
+        "zh-hant": "德國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Aachen"
+    },
+    "deathCity": null,
     "beginDate": 1886,
-    "deathyear": 1969,
+    "endDate": 1969,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 437
 }

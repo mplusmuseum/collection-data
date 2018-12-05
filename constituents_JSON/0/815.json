@@ -2,14 +2,12 @@
     "constituentID": 815,
     "name": {
         "en": {
-            "id": "1722",
-            "alphasort": "Noguchi, Isamu",
-            "displayname": "Isamu Noguchi"
+            "displayName": "Isamu Noguchi",
+            "alphasort": "Noguchi, Isamu"
         },
         "zh-hant": {
-            "id": "4883",
-            "alphasort": "野口勇",
-            "displayname": "野口勇"
+            "displayName": "野口勇",
+            "alphasort": "野口勇"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "American, 1904–1988",
+        "zh-hant": "美國籍，1904–1988年"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "Americas",
+        "zh-hant": "美洲"
+    },
+    "activeCity": {
+        "en": "New York City"
+    },
+    "birthCity": {
+        "en": "Los Angeles"
+    },
+    "deathCity": null,
     "beginDate": 1904,
-    "deathyear": 1988,
+    "endDate": 1988,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 815
 }

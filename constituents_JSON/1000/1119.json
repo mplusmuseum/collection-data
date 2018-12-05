@@ -2,9 +2,8 @@
     "constituentID": 1119,
     "name": {
         "en": {
-            "id": "2124",
-            "alphasort": "Preiss, Joana",
-            "displayname": "Joana Preiss"
+            "displayName": "Joana Preiss",
+            "alphasort": "Preiss, Joana"
         }
     },
     "type": "Individual",
@@ -12,9 +11,26 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "French",
+    "displayBio": {
+        "en": "French, born 1972",
+        "zh-hant": "法國籍，生於1972年"
+    },
+    "nationality": {
+        "en": "French",
+        "zh-hant": "法國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1972,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1119
 }

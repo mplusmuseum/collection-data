@@ -2,9 +2,8 @@
     "constituentID": 432,
     "name": {
         "en": {
-            "id": "424",
-            "alphasort": "Tiravanija, Rirkrit",
-            "displayname": "Rirkrit Tiravanija"
+            "displayName": "Rirkrit Tiravanija",
+            "alphasort": "Tiravanija, Rirkrit"
         }
     },
     "type": "Individual",
@@ -12,9 +11,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Thai",
+    "displayBio": {
+        "en": "Thai, born Argentina, 1961",
+        "zh-hant": "泰國籍，1961年生於阿根廷"
+    },
+    "nationality": {
+        "en": "Thai",
+        "zh-hant": "泰國籍"
+    },
+    "region": {
+        "en": "Southeast Asia",
+        "zh-hant": "東南亞"
+    },
+    "activeCity": {
+        "en": "New York City"
+    },
+    "birthCity": {
+        "en": "Buenos Aires"
+    },
+    "deathCity": null,
     "beginDate": 1961,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 432
 }

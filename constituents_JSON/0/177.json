@@ -2,14 +2,12 @@
     "constituentID": 177,
     "name": {
         "en": {
-            "id": "169",
-            "alphasort": "Feng, Yan",
-            "displayname": "Feng Yan"
+            "displayName": "Feng Yan",
+            "alphasort": "Feng, Yan"
         },
         "zh-hant": {
-            "id": "1242",
-            "alphasort": "封, 岩",
-            "displayname": "封岩"
+            "displayName": "封岩",
+            "alphasort": "封, 岩"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1964",
+        "zh-hant": "中國籍，生於1964年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Xi'an"
+    },
+    "deathCity": null,
     "beginDate": 1964,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 177
 }

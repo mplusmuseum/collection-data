@@ -2,14 +2,12 @@
     "constituentID": 362,
     "name": {
         "en": {
-            "id": "354",
-            "alphasort": "Pan, Jian",
-            "displayname": "Pan Jian"
+            "displayName": "Pan Jian",
+            "alphasort": "Pan, Jian"
         },
         "zh-hant": {
-            "id": "1391",
-            "alphasort": "潘, 劍",
-            "displayname": "潘劍"
+            "displayName": "潘劍",
+            "alphasort": "潘, 劍"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1975",
+        "zh-hant": "中國籍，生於1975年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Shandong Province"
+    },
+    "deathCity": null,
     "beginDate": 1975,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 362
 }

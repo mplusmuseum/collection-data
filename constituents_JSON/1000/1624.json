@@ -2,14 +2,12 @@
     "constituentID": 1624,
     "name": {
         "en": {
-            "id": "3340",
-            "alphasort": "Tong, Yang-Tze",
-            "displayname": "Tong Yang-Tze"
+            "displayName": "Tong Yang-Tze",
+            "alphasort": "Tong, Yang-Tze"
         },
         "zh-hant": {
-            "id": "3341",
-            "alphasort": "董, 陽孜",
-            "displayname": "Tong Yang-Tze / 董陽孜"
+            "displayName": "董陽孜",
+            "alphasort": "董, 陽孜"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Taiwanese",
+    "displayBio": {
+        "en": "Taiwanese, born China, 1942",
+        "zh-hant": "台灣籍，1942年生於中國"
+    },
+    "nationality": {
+        "en": "Taiwanese",
+        "zh-hant": "台灣籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Taipei",
+        "zh-hant": "臺北市"
+    },
+    "birthCity": {
+        "en": "Shanghai"
+    },
+    "deathCity": null,
     "beginDate": 1942,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1624
 }

@@ -2,14 +2,12 @@
     "constituentID": 588,
     "name": {
         "en": {
-            "id": "580",
-            "alphasort": "Zhang, Wei",
-            "displayname": "Zhang Wei"
+            "displayName": "Zhang Wei",
+            "alphasort": "Zhang, Wei"
         },
         "zh-hant": {
-            "id": "3081",
-            "alphasort": "張偉",
-            "displayname": "張偉"
+            "displayName": "張偉",
+            "alphasort": "張偉"
         }
     },
     "type": "Individual",
@@ -18,11 +16,51 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Zhang Wei (born 1952, Beijing) was a member of the No Name Group in the 1980s, during which time he pioneered conceptual landscape painting as a form of resistance against the politically charged realism of the era. His vision for a pure art and experimentation in nonrepresentational painting anchors the development of Chinese contemporary art. Zhang lives and works in Beijing.",
-        "zh-hant": "張偉 (1952年生於北京，現工作及生活於北京) 是80年代「無名畫會」的成員，期間開創以概念山水畫作為對抗政治主導現實主義的一種形式。他對抽象繪畫中的純藝術性和實驗手法的追求啟發了中國當代藝術的發展。"
+        "en": "Chinese, born 1952",
+        "zh-hant": "中國籍，生於1952年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1952,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Zhang Wei (born 1952, Beijing) was a member of the No Name Group in the 1980s, during which time he pioneered conceptual landscape painting as a form of resistance against the politically charged realism of the era. His vision for a pure art and experimentation in nonrepresentational painting anchors the development of Chinese contemporary art. Zhang lives and works in Beijing."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "張偉 (1952年生於北京，現工作及生活於北京) 是80年代「無名畫會」的成員，期間開創以概念山水畫作為對抗政治主導現實主義的一種形式。他對抽象繪畫中的純藝術性和實驗手法的追求啟發了中國當代藝術的發展。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 588
 }

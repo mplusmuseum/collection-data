@@ -2,14 +2,12 @@
     "constituentID": 1726,
     "name": {
         "en": {
-            "id": "3571",
-            "alphasort": "Wen, Pulin",
-            "displayname": "Wen Pulin"
+            "displayName": "Wen Pulin",
+            "alphasort": "Wen, Pulin"
         },
         "zh-hant": {
-            "id": "3573",
-            "alphasort": "溫,普林",
-            "displayname": "溫普林"
+            "displayName": "溫普林",
+            "alphasort": "溫,普林"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1957",
+        "zh-hant": "中國籍，生於1957年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Liaoning Province"
+    },
+    "deathCity": null,
     "beginDate": 1957,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1726
 }

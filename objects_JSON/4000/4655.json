@@ -1,7 +1,8 @@
 {
     "objectID": 4655,
+    "onView": false,
     "objectNumber": "2015.190",
-    "sortNumber": 2015.19,
+    "sortNumber": "2015   190",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,133 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Anzai Shigeo",
     "title": {
         "en": "Susumu Koshimizu, The 5th Exhibition of Contemporary Japanese Sculpture, Ube, October 2, 1973",
-        "zh-hant": "小清水漸，1973年10月2日宇部市「1971年第五屆現代日本雕塑展」",
-        "zh-hans": "小清水渐，1973年10月2日宇部市「1971年第五届现代日本雕塑展」"
+        "zh-hant": "小清水漸，1973年10月2日宇部市「1971年第五屆現代日本雕塑展」"
     },
-    "displayDate": "1973",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1973",
+        "zh-hant": "1973"
+    },
     "beginDate": 1973,
     "endDate": 1973,
     "dimension": {
         "en": "overall (mounted): 25 × 13.7 cm\r\r\nimage: 17.2 × 13.7 cm",
-        "zh-hant": "圖像尺寸: 17.2 × 13.7 厘米\r\r\n裱褙: 25 × 13.7 厘米",
-        "zh-hans": "图像尺寸: 17.2 × 13.7 厘米\r\r\n裱褙: 25 × 13.7 厘米"
+        "zh-hant": "整體 (托裱): 25 × 13.7 厘米\r\n圖像: 17.2 × 13.7 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": "銀鹽照片",
-        "zh-hans": "银盐照片"
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Monochrome photograph of large rocks painted with stripes, dots, lines, and animal patterns sitting outside in a grassy field, backed by a row of trees.",
+            "AltTextTC": "黑白照片中，一些大石分佈在草地上，背後是一排樹木。石頭表面繪上不同的條紋、斑點、線條和動物圖案。",
+            "src": "004501_005000/004655_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© ANZAÏ",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4655
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 2960,
+    "onView": false,
     "objectNumber": "2012.1303",
-    "sortNumber": 2012.1303,
+    "sortNumber": "2012  1303",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,66 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            16,
+            55,
+            95
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "Yu Hong developed this work, part of the She series, from her field research on the daily lives of women in China, which serves as an exploration of the collective female experience. Her approach is novel, offering both the artist and the subject’s perspective by juxtaposing a painting with personal photographs selected by the subject."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "Yu Hong developed this work, part of the She series, from her field research on the daily lives of women in China, a project that serves as an exploration of the collective female experience. Her approach is novel, offering the perspectives of both the artist and the subject by juxtaposing a painting with personal photographs selected by the subject."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "作品屬於喻紅《她》系列的一部分。喻紅就著不同中國女性的日常生活進行田野考察，探索女性的集體經歷。該系列同時以藝術家和受訪者的角度出發，創造性地將繪畫及由受訪者親自挑選的生活照並置。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "作品為喻紅《她》系列的一部分。喻紅就不同中國女性的日常生活進行田野考察，探索女性的集體經歷。該系列同時以藝術家和受訪者的角度出發，創造性地將繪畫及由受訪者親自挑選的生活照並置。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        14
+    ],
+    "allORC": "Yu Hong",
     "title": {
         "en": "She - Unemployed Girl",
         "zh-hant": "她：下崗女工"
     },
-    "displayDate": "2003",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2003",
+        "zh-hant": "2003"
+    },
     "beginDate": 2003,
     "endDate": 2003,
     "dimension": {
@@ -49,6 +105,132 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": ".1: Inscribed, verso LR: 她──下岗姐妹 王英芹 王淑芹 / 150 x 300 cm\r\r\n.2: Inscribed in pen, verso CL: 她──下岗姐妹 / 姐姐 王英芹\r\r\n.3: Inscribed in pen, verso LL:  她──下岗姐妹 / 妹妹 王淑芹\r\r\nSecondary inscriptions, see images"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "002501_003000/002960_004.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002501_003000/002960_002.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "MediaUse": "Sigg Online",
+            "src": "002501_003000/002960_001.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002501_003000/002960_003.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "AltText": "Acrylic painting on canvas featuring two women sitting in a waiting room adorned with a landscape mural and a wall of growing vines. In two accompanying colour photographs on paper, smiling women pose wearing a frilly pink dress and fascinator.",
+            "AltTextTC": "塑膠彩布本作品中，兩個女人坐在等候室，一面牆繪上風景壁畫，另一面牆綴以攀藤植物。附帶兩張彩色相紙照片上，兩個女人穿上飾滿荷葉花邊的粉紅色裙子和網紗頭飾，面露微笑。",
+            "src": "002501_003000/002960_005.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "002501_003000/002960_006.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Yu Hong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2960
 }

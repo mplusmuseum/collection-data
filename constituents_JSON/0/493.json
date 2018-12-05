@@ -2,14 +2,12 @@
     "constituentID": 493,
     "name": {
         "en": {
-            "id": "485",
-            "alphasort": "Xiao, Tianyu",
-            "displayname": "Xiao Tianyu"
+            "displayName": "Xiao Tianyu",
+            "alphasort": "Xiao, Tianyu"
         },
         "zh-hant": {
-            "id": "2926",
-            "alphasort": "肖天宇",
-            "displayname": "肖天宇"
+            "displayName": "肖天宇",
+            "alphasort": "肖天宇"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1987",
+        "zh-hant": "中國籍，生於1987年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shenzhen"
+    },
+    "birthCity": {
+        "en": "Liaoning Province"
+    },
+    "deathCity": null,
     "beginDate": 1987,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 493
 }

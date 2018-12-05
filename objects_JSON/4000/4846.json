@@ -1,7 +1,8 @@
 {
     "objectID": 4846,
+    "onView": false,
     "objectNumber": "2016.54",
-    "sortNumber": 2016.54,
+    "sortNumber": "2016    54",
     "classification": {
         "area": {
             "rank": 2,
@@ -29,25 +30,31 @@
                 "en": "Wang Gongxin",
                 "zh-hant": "王功新"
             }
-        },
-        {
-            "id": 443,
-            "rank": 1,
-            "roles": {
-                "en": "Seller"
-            },
-            "names": {
-                "en": "Wang Gongxin",
-                "zh-hant": "王功新"
-            }
         }
     ],
+    "exhibition": {
+        "ids": [
+            11,
+            105
+        ],
+        "sections": "[{\"11\":\"17/F\"}]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Wang Gongxin",
     "title": {
         "en": "The Sky of Brooklyn—digging a hole in Beijing",
-        "zh-hant": "布魯克林的天空—在北京打井",
-        "zh-hans": "布鲁克林的天空—在北京打井"
+        "zh-hant": "布魯克林的天空—在北京打井"
     },
-    "displayDate": "1995",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1995",
+        "zh-hant": "1995"
+    },
     "beginDate": 1995,
     "endDate": 1995,
     "dimension": {
@@ -55,12 +62,138 @@
         "zh-hant": "彩色照片四張（50 x 35厘米， 無框）；手繪草圖（40×30厘米，無框）；錄像（3分鐘）"
     },
     "medium": {
-        "en": "chromogenic colour prints, sketch, video",
+        "en": "chromogenic colour prints, sketch, and video",
         "zh-hant": "彩色照片、手繪草圖、錄像"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "004501_005000/004846_005.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004501_005000/004846_002.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004501_005000/004846_003.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004501_005000/004846_006.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004501_005000/004846_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "004501_005000/004846_007.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004501_005000/004846_004.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Wang Gongxin",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4846
 }

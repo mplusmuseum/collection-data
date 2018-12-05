@@ -1,7 +1,8 @@
 {
     "objectID": 572,
+    "onView": false,
     "objectNumber": "2012.1995",
-    "sortNumber": 2012.1995,
+    "sortNumber": "2012  1995",
     "classification": {
         "area": {
             "rank": 1,
@@ -29,24 +30,51 @@
                 "en": "Liu Heung-Shing",
                 "zh-hant": "劉香成"
             }
-        },
-        {
-            "id": 303,
-            "rank": 1,
-            "roles": {
-                "en": "Donor"
-            },
-            "names": {
-                "en": "Liu Heung-Shing",
-                "zh-hant": "劉香成"
-            }
         }
     ],
+    "exhibition": {
+        "ids": null,
+        "sections": null,
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "‘A giant portrait of Mao is removed from the Museum of Chinese History on the east side of Tiananmen Square, signaling an official end to the personality cult of Mao, and the start of de-Maoification in China.’ \r\r\n\r\r\nThe accompanying description is courtesy of Liu Heung Shing’s monograph, China After Mao, first published in 1983.\r\r\n\r\r\n‘Liu Heung Shing is a photojournalist who, after completing his studies in the United States, was posted to China as one of the first foreign correspondants to gain accreditation following the normalization of diplomatic relations between China and the U.S. Arriving in 1978, Liu Heung Shing began to document the changes engendered by the reform policy, a project he continued through to the end of the twentieth century. His renowned photographs captured many major historical events including the activities of the Stars Painting Group, and the Tiananman Square incident of 1989.’"
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "「位於天安門廣場東側的中國歷史博物館，毛澤東的肖像被取下來，標誌著對毛澤東個人崇拜的結束和『去毛化』時代的開始。」\r\r\n\r\r\n以上文字敘述出自劉香成著作《毛以後的中國》，首版1983年。\r\r\n\r\r\n「劉香成，紀實攝影師，在美國畢業之後被派駐中國，是中美關係正常化之後首批被委派至中國的外國記者。 1978年到北京之後，劉香成開始紀錄改革開放帶來的變化，直至20世紀末。他著名的照片捕捉了很多重要的歷史事件，包括『星星畫會』運動、1989年『天安門事件』。」"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Liu Heung-Shing / 劉香成",
     "title": {
         "en": "China After Mao. 1981. Beijing, Taking down Mao's portrait",
         "zh-hant": "1981年，北京毛澤東的肖像被取下來"
     },
-    "displayDate": "1981",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1981",
+        "zh-hant": "1981"
+    },
     "beginDate": 1981,
     "endDate": 1981,
     "dimension": {
@@ -59,8 +87,99 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Liu Heung-Shing, 2012",
-        "zh-hant": "M+，香港，劉香成捐贈，2012年",
-        "zh-hans": "香港M+，刘香成捐赠，2012年"
+        "zh-hant": "M+，香港，劉香成捐贈，2012年"
+    },
+    "inscription": {
+        "en": "\" HISTORY MUSEUM MAO\" (on reverse)"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "000501_001000/000572_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Liu Heung-Shing",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/CONTACT the RIGHTS HOLDER; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/CONTACT the RIGHTS HOLDER; M+/WKCDA advertising/CONTACT the RIGHTS HOLDER; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial educational/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial publication/CONTACT the RIGHTS HOLDER; other 3rd-party non-commercial use/CONTACT the RIGHTS HOLDER; social media/CONTACT the RIGHTS HOLDER; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 572
 }

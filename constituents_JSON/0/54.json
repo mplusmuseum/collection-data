@@ -2,23 +2,41 @@
     "constituentID": 54,
     "name": {
         "en": {
-            "id": "46",
-            "alphasort": "Palmer & Turner (P&T Group)",
-            "displayname": "Palmer & Turner (P&T Group)"
+            "displayName": "Palmer & Turner (P&T Group)",
+            "alphasort": "Palmer & Turner (P&T Group)"
         },
         "zh-hant": {
-            "id": "1170",
-            "alphasort": "巴馬丹拿集團",
-            "displayname": "巴馬丹拿集團"
+            "displayName": "巴馬丹拿集團",
+            "alphasort": "巴馬丹拿集團"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "established Hong Kong, 1868",
+        "zh-hant": "1868年成立於香港"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1868,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 54
 }

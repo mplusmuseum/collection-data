@@ -2,14 +2,12 @@
     "constituentID": 477,
     "name": {
         "en": {
-            "id": "1028",
-            "alphasort": "Wong, Wai Yin",
-            "displayname": "Wong Wai Yin"
+            "displayName": "Wong Wai Yin",
+            "alphasort": "Wong, Wai Yin"
         },
         "zh-hant": {
-            "id": "1488",
-            "alphasort": "黃, 慧妍",
-            "displayname": "黃慧妍"
+            "displayName": "黃慧妍",
+            "alphasort": "黃, 慧妍"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1981",
+        "zh-hant": "香港，生於1981年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1981,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 477
 }

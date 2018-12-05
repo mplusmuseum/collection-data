@@ -2,14 +2,12 @@
     "constituentID": 127,
     "name": {
         "en": {
-            "id": "119",
-            "alphasort": "Chen, Guanghui",
-            "displayname": "Chen Guanghui"
+            "displayName": "Chen Guanghui",
+            "alphasort": "Chen, Guanghui"
         },
         "zh-hant": {
-            "id": "1198",
-            "alphasort": "陳, 光輝",
-            "displayname": "陳光輝"
+            "displayName": "陳光輝",
+            "alphasort": "陳, 光輝"
         }
     },
     "type": "Individual",
@@ -17,9 +15,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1969",
+        "zh-hant": "中國籍，生於1969年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1969,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 127
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 6886,
+    "onView": false,
     "objectNumber": "2016.493",
-    "sortNumber": 2016.493,
+    "sortNumber": "2016   493",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,16 +27,35 @@
                 "en": "Designer"
             },
             "names": {
-                "en": "Jasper Morrison"
+                "en": "Jasper Morrison",
+                "zh-hant": "賈斯珀·莫里森"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            58
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": [
+        25
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Jasper Morrison",
     "title": {
         "en": "Handlebar",
-        "zh-hant": "車把",
-        "zh-hans": "车把"
+        "zh-hant": "車把"
     },
-    "displayDate": "1981",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1981",
+        "zh-hant": "1981"
+    },
     "beginDate": 1981,
     "endDate": 1981,
     "dimension": {
@@ -49,6 +69,138 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "006501_007000/006886_003.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006886_004.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006886_005.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006886_006.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006886_007.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006886_008.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006886_001.jpg",
+            "rank": "1",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006886_002.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Jasper Morrison",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 6886
 }

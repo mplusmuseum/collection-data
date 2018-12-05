@@ -1,7 +1,8 @@
 {
     "objectID": 7091,
+    "onView": false,
     "objectNumber": "2017.248",
-    "sortNumber": 2017.248,
+    "sortNumber": "2017   248",
     "classification": {
         "area": {
             "rank": 1,
@@ -29,24 +30,28 @@
                 "en": "Liang Quan",
                 "zh-hant": "梁銓"
             }
-        },
-        {
-            "id": 1679,
-            "rank": 1,
-            "roles": {
-                "en": "Donor"
-            },
-            "names": {
-                "en": "Liang Quan",
-                "zh-hant": "梁銓"
-            }
         }
     ],
+    "exhibition": {
+        "ids": null,
+        "sections": null,
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Liang Quan",
     "title": {
         "en": "Tea and a Little Coffee",
         "zh-hant": "茶和一點點咖啡"
     },
-    "displayDate": "2001",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2001",
+        "zh-hant": "2001"
+    },
     "beginDate": 2001,
     "endDate": 2001,
     "dimension": {
@@ -55,12 +60,132 @@
     },
     "medium": {
         "en": "tea and coffee stains on rice paper",
-        "zh-hant": "咖啡、茶漬、宣紙",
-        "zh-hans": "咖啡，茶，宣纸"
+        "zh-hant": "咖啡、茶漬、宣紙"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Donated by Liang Quan, 2017",
         "zh-hant": "M+，香港，梁銓捐贈，2017年"
+    },
+    "inscription": {
+        "en": "Inscribed in pencil, LR: 1 \r\r\nInscribed in pencil, LR: 2\r\r\nInscribed in pencil, LR: 3\r\r\nInscribed in pencil, LR: 4"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "007001_007500/007091_002.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "007001_007500/007091_003.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "007001_007500/007091_004.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "007001_007500/007091_005.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "007001_007500/007091_006.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "007001_007500/007091_001.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 7091
 }

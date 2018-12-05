@@ -2,14 +2,12 @@
     "constituentID": 124,
     "name": {
         "en": {
-            "id": "116",
-            "alphasort": "Chen, Chieh-Jen",
-            "displayname": "Chen Chieh-Jen"
+            "displayName": "Chen Chieh-Jen",
+            "alphasort": "Chen, Chieh-Jen"
         },
         "zh-hant": {
-            "id": "1195",
-            "alphasort": "陳, 界仁",
-            "displayname": "陳界仁"
+            "displayName": "陳界仁",
+            "alphasort": "陳, 界仁"
         }
     },
     "type": "Individual",
@@ -18,11 +16,48 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Chen Chieh-jen (born 1960, Taoyuan, Taiwan) is an internationally renowned video artist, filmmaker, and a foremost figure in the development of conceptual art in Taiwan. A self-taught artist, Chen staged underground exhibitions and guerrilla-style street performances during the period of martial law in Taiwan from 1949 to 1987. He stopped making art for eight years after the end of martial law. Chen returned to artistic production in 1996, and expanded his practice to weave in multiple narratives of Taiwan’s modern history, personal and familial experiences, globalisation, and collaborations with marginalised groups. His videos and film installations are characterised by a distinct aesthetic that often juxtaposes deliberately slow images with complete silence or concise dialogue as a method of articulating the notion of bodily experiences and memories. His work allows viewers to deploy their imaginations to fill in the gaps within the dialogue and, by such means, establish a mutual understanding. Chen has done solo exhibitions at prestigious institutions, including the Taipei Fine Arts Museum (Taiwan, 2010) and the Museo Nacional Centro De Arte Reina Sofia (Madrid, 2008). He was a recipient of the National Award for Arts from Taiwan’s National Cultural and Arts Foundation in 2009. He also received the Special Prize at the Gwangju Biennale in 2000.",
-        "zh-hant": "陳界仁（1960年生於台灣桃園市）是一位國際知名的錄像藝術家及影片製作人，是台灣概念藝術的先驅人物。這位自學成師的藝術家，曾於1949至1987年台灣戒嚴時期進行地下展覽和於街頭進行快閃表演藝術。戒嚴時期結束後，他暫停藝術創作八年。1996年，他重新投入創作，並擴闊其藝術實踐領域，將台灣近代史、個人與家庭的經歷、全球一體化，以及與弱勢社群的合作經驗互相交織。其錄像和電影裝置風格獨特，影像刻意緩速播放，配合徹底的靜默或簡短的對白，藉此突出人物的形體感受和記憶。作品讓觀眾運用想像，填補對話之間的空白，從而建立互動關係。陳氏曾於多個著名藝術機構舉行個人展覽，包括2010年台灣臺北市立美術館的個展，以及2008年馬德里索菲婭王后國家藝術中心博物館的個展。他在2009年獲得台灣國家文化藝術基金會的國家文藝獎，以及2000年「光州雙年展」特別獎。"
+        "en": "Taiwanese, born 1960",
+        "zh-hant": "台灣籍，生於1960年"
     },
-    "nationality": "Taiwanese",
+    "nationality": {
+        "en": "Taiwanese",
+        "zh-hant": "台灣籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Taoyuan",
+        "zh-hant": "Taoyuan"
+    },
+    "deathCity": null,
     "beginDate": 1960,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Chen Chieh-jen (born 1960, Taoyuan, Taiwan) is an internationally renowned video artist, filmmaker, and a foremost figure in the development of conceptual art in Taiwan. A self-taught artist, Chen staged underground exhibitions and guerrilla-style street performances during the period of martial law in Taiwan from 1949 to 1987. He stopped making art for eight years after the end of martial law. Chen returned to artistic production in 1996, and expanded his practice to weave in multiple narratives of Taiwan’s modern history, personal and familial experiences, globalisation, and collaborations with marginalised groups. His videos and film installations are characterised by a distinct aesthetic that often juxtaposes deliberately slow images with complete silence or concise dialogue as a method of articulating the notion of bodily experiences and memories. His work allows viewers to deploy their imaginations to fill in the gaps within the dialogue and, by such means, establish a mutual understanding. Chen has done solo exhibitions at prestigious institutions, including the Taipei Fine Arts Museum (Taiwan, 2010) and the Museo Nacional Centro De Arte Reina Sofia (Madrid, 2008). He was a recipient of the National Award for Arts from Taiwan’s National Cultural and Arts Foundation in 2009. He also received the Special Prize at the Gwangju Biennale in 2000."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "陳界仁（1960年生於台灣桃園市）是一位國際知名的錄像藝術家及影片製作人，是台灣概念藝術的先驅人物。這位自學成師的藝術家，曾於1949至1987年台灣戒嚴時期進行地下展覽和於街頭進行快閃表演藝術。戒嚴時期結束後，他暫停藝術創作八年。1996年，他重新投入創作，並擴闊其藝術實踐領域，將台灣近代史、個人與家庭的經歷、全球一體化，以及與弱勢社群的合作經驗互相交織。其錄像和電影裝置風格獨特，影像刻意緩速播放，配合徹底的靜默或簡短的對白，藉此突出人物的形體感受和記憶。作品讓觀眾運用想像，填補對話之間的空白，從而建立互動關係。陳氏曾於多個著名藝術機構舉行個人展覽，包括2010年台灣臺北市立美術館的個展，以及2008年馬德里索菲婭王后國家藝術中心博物館的個展。他在2009年獲得台灣國家文化藝術基金會的國家文藝獎，以及2000年「光州雙年展」特別獎。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 124
 }

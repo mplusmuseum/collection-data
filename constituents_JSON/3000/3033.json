@@ -2,18 +2,36 @@
     "constituentID": 3033,
     "name": {
         "en": {
-            "id": "5256",
-            "alphasort": "Comme des Garçons",
-            "displayname": "Comme des Garçons"
+            "displayName": "Comme des Garçons",
+            "alphasort": "Comme des Garçons"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Tokyo, 1973",
+        "zh-hant": "1973年成立於東京"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "<Continents>"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1973,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 3033
 }

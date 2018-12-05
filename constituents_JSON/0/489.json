@@ -2,14 +2,12 @@
     "constituentID": 489,
     "name": {
         "en": {
-            "id": "481",
-            "alphasort": "Xia, Xiaowen",
-            "displayname": "Xia Xiaowen"
+            "displayName": "Xia Xiaowen",
+            "alphasort": "Xia, Xiaowen"
         },
         "zh-hant": {
-            "id": "1497",
-            "alphasort": "夏, 小萬",
-            "displayname": "夏小萬"
+            "displayName": "夏小萬",
+            "alphasort": "夏, 小萬"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1959",
+        "zh-hant": "中國籍，生於1959年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1959,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 489
 }

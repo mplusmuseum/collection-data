@@ -2,14 +2,12 @@
     "constituentID": 1744,
     "name": {
         "en": {
-            "id": "3624",
-            "alphasort": "Ng, Elaine Yan Ling",
-            "displayname": "Elaine Yan Ling Ng"
+            "displayName": "Elaine Yan Ling Ng",
+            "alphasort": "Ng, Elaine Yan Ling"
         },
         "zh-hant": {
-            "id": "3625",
-            "alphasort": "吳燕玲",
-            "displayname": "吳燕玲"
+            "displayName": "吳燕玲",
+            "alphasort": "吳燕玲"
         }
     },
     "type": "Individual",
@@ -17,9 +15,26 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "British",
+    "displayBio": {
+        "en": "British, born 1985",
+        "zh-hant": "英國籍，生於1985年"
+    },
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1985,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1744
 }

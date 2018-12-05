@@ -2,23 +2,40 @@
     "constituentID": 670,
     "name": {
         "en": {
-            "id": "662",
-            "alphasort": "Kuramata Design Office",
-            "displayname": "Kuramata Design Office"
+            "displayName": "Kuramata Design Office",
+            "alphasort": "Kuramata Design Office"
         },
         "zh-hant": {
-            "id": "4869",
-            "alphasort": "梅田設計工作室",
-            "displayname": "梅田設計工作室"
+            "displayName": "梅田設計工作室",
+            "alphasort": "梅田設計工作室"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "established Tokyo, 1965",
+        "zh-hant": "1965年成立於東京"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Tokyo"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1965,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 670
 }

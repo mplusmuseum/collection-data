@@ -2,9 +2,12 @@
     "constituentID": 2949,
     "name": {
         "en": {
-            "id": "5087",
-            "alphasort": "Iwata, Yoshiharu",
-            "displayname": "Iwata Yoshiharu"
+            "displayName": "Iwata Yoshiharu",
+            "alphasort": "Iwata, Yoshiharu"
+        },
+        "zh-hant": {
+            "displayName": "岩田義治",
+            "alphasort": "岩田義治"
         }
     },
     "type": "Individual",
@@ -12,9 +15,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": null,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 2949
 }

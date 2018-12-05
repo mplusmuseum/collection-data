@@ -2,14 +2,12 @@
     "constituentID": 332,
     "name": {
         "en": {
-            "id": "324",
-            "alphasort": "Lye, Eric",
-            "displayname": "Eric Lye"
+            "displayName": "Eric Lye",
+            "alphasort": "Lye, Eric"
         },
         "zh-hant": {
-            "id": "1372",
-            "alphasort": "黎, 錦超",
-            "displayname": "黎錦超"
+            "displayName": "黎錦超",
+            "alphasort": "黎, 錦超"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born Malaysia. 1934–2003",
+        "zh-hant": "香港，生於馬來西亞，1934–2003年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Malaysia"
+    },
+    "deathCity": null,
     "beginDate": 1934,
-    "deathyear": 2003,
+    "endDate": 2003,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 332
 }

@@ -2,14 +2,12 @@
     "constituentID": 180,
     "name": {
         "en": {
-            "id": "172",
-            "alphasort": "Fu, Jie",
-            "displayname": "Fu Jie"
+            "displayName": "Fu Jie",
+            "alphasort": "Fu, Jie"
         },
         "zh-hant": {
-            "id": "1245",
-            "alphasort": "傅, 潔",
-            "displayname": "傅潔"
+            "displayName": "傅潔",
+            "alphasort": "傅, 潔"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1971",
+        "zh-hant": "中國籍，生於1971年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1971,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 180
 }

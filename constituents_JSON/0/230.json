@@ -2,14 +2,12 @@
     "constituentID": 230,
     "name": {
         "en": {
-            "id": "222",
-            "alphasort": "Huang, Yong Ping",
-            "displayname": "Huang Yong Ping"
+            "displayName": "Huang Yong Ping",
+            "alphasort": "Huang, Yong Ping"
         },
         "zh-hant": {
-            "id": "1286",
-            "alphasort": "黄, 永砯‎",
-            "displayname": "黄永砯‎"
+            "displayName": "黄永砯‎",
+            "alphasort": "黄, 永砯‎"
         }
     },
     "type": "Individual",
@@ -18,11 +16,49 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Huang Yong Ping (born 1954, Xiamen) graduated from the Zhejiang Academy of Fine Arts in Hangzhou in 1982. In 1989, he emigrated to Paris, where he still lives and works. He is best known for founding Xiamen Dada and for reworking architectural and animal forms into complex, provocative installations that challenge the viewer to reconsider art and national identity in recent history.",
-        "zh-hant": "黃永砯 (1954年生於廈門，現工作及生活於巴黎)，1982年畢業於杭州浙江美術學院藝術系，於1989年移居巴黎。他是「廈門達達」的創立人，其最為人熟悉的作品是將建築及動物型態重新演繹成複雜而具挑釁性的裝置，刺激觀眾重新審視近代史中的藝術及國民身份。"
+        "en": "French, born China 1954",
+        "zh-hant": "法國籍，1954年生於中國"
     },
-    "nationality": "French",
+    "nationality": {
+        "en": "French",
+        "zh-hant": "法國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": {
+        "en": "Paris"
+    },
+    "birthCity": {
+        "en": "Xiamen"
+    },
+    "deathCity": null,
     "beginDate": 1954,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Huang Yong Ping (born 1954, Xiamen) graduated from the Zhejiang Academy of Fine Arts in Hangzhou in 1982. In 1989, he emigrated to Paris, where he still lives and works. He is best known for founding Xiamen Dada and for reworking architectural and animal forms into complex, provocative installations that challenge the viewer to reconsider art and national identity in recent history."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "黃永砯 (1954年生於廈門，現工作及生活於巴黎)，1982年畢業於杭州浙江美術學院藝術系，於1989年移居巴黎。他是「廈門達達」的創立人，其最為人熟悉的作品是將建築及動物型態重新演繹成複雜而具挑釁性的裝置，刺激觀眾重新審視近代史中的藝術及國民身份。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 230
 }

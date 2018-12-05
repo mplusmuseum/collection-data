@@ -2,14 +2,12 @@
     "constituentID": 1681,
     "name": {
         "en": {
-            "id": "3456",
-            "alphasort": "Xu, Lei",
-            "displayname": "Lei Xu"
+            "displayName": "Lei Xu",
+            "alphasort": "Xu, Lei"
         },
         "zh-hant": {
-            "id": "3457",
-            "alphasort": "徐累",
-            "displayname": "徐累"
+            "displayName": "徐累",
+            "alphasort": "徐累"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Jiangsu Province"
+    },
+    "deathCity": null,
     "beginDate": 1963,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1681
 }

@@ -2,14 +2,12 @@
     "constituentID": 264,
     "name": {
         "en": {
-            "id": "256",
-            "alphasort": "Li, Dafang",
-            "displayname": "Li Dafang"
+            "displayName": "Li Dafang",
+            "alphasort": "Li, Dafang"
         },
         "zh-hant": {
-            "id": "1310",
-            "alphasort": "李, 大方",
-            "displayname": "李大方"
+            "displayName": "李大方",
+            "alphasort": "李, 大方"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1971",
+        "zh-hant": "中國籍，生於1971年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Shenyang"
+    },
+    "deathCity": null,
     "beginDate": 1971,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 264
 }

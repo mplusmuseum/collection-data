@@ -2,14 +2,12 @@
     "constituentID": 1191,
     "name": {
         "en": {
-            "id": "2253",
-            "alphasort": "Chiba, Masaya",
-            "displayname": "Chiba Masaya"
+            "displayName": "Chiba Masaya",
+            "alphasort": "Chiba, Masaya"
         },
         "zh-hant": {
-            "id": "2311",
-            "alphasort": "千葉, 正也",
-            "displayname": "千葉正也"
+            "displayName": "千葉正也",
+            "alphasort": "千葉, 正也"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, born 1980",
+        "zh-hant": "日本籍，生於1980年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Kanagawa Prefecture"
+    },
+    "birthCity": {
+        "en": "Kanagawa Prefecture"
+    },
+    "deathCity": null,
     "beginDate": 1980,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1191
 }

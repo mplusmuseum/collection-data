@@ -2,14 +2,12 @@
     "constituentID": 193,
     "name": {
         "en": {
-            "id": "185",
-            "alphasort": "Gu, Xiaoping",
-            "displayname": "Gu Xiaoping"
+            "displayName": "Gu Xiaoping",
+            "alphasort": "Gu, Xiaoping"
         },
         "zh-hant": {
-            "id": "1252",
-            "alphasort": "顧, 小平",
-            "displayname": "顧小平"
+            "displayName": "顧小平",
+            "alphasort": "顧, 小平"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1969",
+        "zh-hant": "中國籍，生於1969年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1969,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 193
 }

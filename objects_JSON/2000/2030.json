@@ -1,7 +1,8 @@
 {
     "objectID": 2030,
+    "onView": false,
     "objectNumber": "2013.238",
-    "sortNumber": 2013.238,
+    "sortNumber": "2013   238",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,161 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": null,
+        "sections": null,
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Kai Kee Mahjong",
     "title": {
         "en": "Kai Kee Mahjong Entertainment Neon Sign",
-        "zh-hant": "雞記蔴雀耍樂霓虹招牌",
-        "zh-hans": "鸡记麻雀耍乐霓虹招牌"
+        "zh-hant": "雞記蔴雀耍樂霓虹招牌"
     },
-    "displayDate": "1976",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1976",
+        "zh-hant": "1976"
+    },
     "beginDate": 1976,
     "endDate": 1976,
     "dimension": {
         "en": "overall (approximate): 559 × 127 × 51 cm",
-        "zh-hant": "整體約: 559 × 127 × 51 厘米",
-        "zh-hans": "整体约: 559 × 127 × 51 厘米"
+        "zh-hant": "整體約: 559 × 127 × 51 厘米"
     },
     "medium": {
         "en": "neon and painted tin on steel support frame",
-        "zh-hant": "霓虹燈、塗漆鐵皮、鋼框",
-        "zh-hans": "霓虹灯、涂漆铁皮及钢框"
+        "zh-hant": "霓虹燈、塗漆鐵皮、鋼框"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Kai Kee Fun Den Co. Ltd., 2013",
-        "zh-hant": "M+，香港，鷄記分店有限公司捐贈，2014年",
-        "zh-hans": "香港M+，鸡记分店有限公司捐赠，2014年"
+        "zh-hant": "M+，香港，鷄記分店有限公司捐贈，2014年"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {
+        "en": "shop sign"
+    },
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "002001_002500/002030_003.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002030_004.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002030_005.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002030_006.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002030_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002030_002.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Kai Kee Fun Den Co.Ltd.",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2030
 }

@@ -2,14 +2,12 @@
     "constituentID": 1699,
     "name": {
         "en": {
-            "id": "3525",
-            "alphasort": "Miyake, Issey",
-            "displayname": "Issey Miyake"
+            "displayName": "Issey Miyake",
+            "alphasort": "Miyake, Issey"
         },
         "zh-hant": {
-            "id": "4874",
-            "alphasort": "三宅一生",
-            "displayname": "三宅一生"
+            "displayName": "三宅一生",
+            "alphasort": "三宅一生"
         }
     },
     "type": "Individual",
@@ -17,9 +15,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, born 1938",
+        "zh-hant": "日本籍，生於1938年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1938,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1699
 }

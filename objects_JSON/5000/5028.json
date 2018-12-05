@@ -1,7 +1,8 @@
 {
     "objectID": 5028,
+    "onView": false,
     "objectNumber": "2015.98",
-    "sortNumber": 2015.98,
+    "sortNumber": "2015    98",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,32 +27,140 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Simryn Gill"
+                "en": "Simryn Gill",
+                "zh-hant": "西蒙瑞·吉爾"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Simryn Gill",
     "title": {
         "en": "Forest #2",
-        "zh-hant": "森林#2",
-        "zh-hans": "森林#2"
+        "zh-hant": "森林#2"
     },
-    "displayDate": "1996–1998",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1996–1998",
+        "zh-hant": "1996–1998"
+    },
     "beginDate": 1996,
     "endDate": 1998,
     "dimension": {
         "en": "image: 120.7 × 94.4 cm\r\r\nsheet: 145 × 118.3 cm",
-        "zh-hant": "圖像: 121 × 94.5 厘米",
-        "zh-hans": "图像: 121 × 94.5 厘米"
+        "zh-hant": "圖像: 121 × 94.5 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": "銀鹽照片",
-        "zh-hans": "银盐照片"
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Inscribed in pencil, verso LL: forest #2 / 1/15"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Monochrome photograph of the canopy of a banyan tree taken from its base. Stem branches and long thin strips of paper containing printed text hang down from above.",
+            "AltTextTC": "黑白照片從榕樹的底部向上拍攝樹冠。茂盛的氣根和一些印上文字的幼長紙條，從上方垂吊下來。",
+            "src": "005001_005500/005028_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Simryn Gill",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 5028
 }

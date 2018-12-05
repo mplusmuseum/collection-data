@@ -2,14 +2,12 @@
     "constituentID": 406,
     "name": {
         "en": {
-            "id": "398",
-            "alphasort": "Shi, Jing",
-            "displayname": "Shi Jing"
+            "displayName": "Shi Jing",
+            "alphasort": "Shi, Jing"
         },
         "zh-hant": {
-            "id": "1425",
-            "alphasort": "石, 婧",
-            "displayname": "石婧"
+            "displayName": "石婧",
+            "alphasort": "石, 婧"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1971",
+        "zh-hant": "中國籍，生於1971年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "De Hongzhou"
+    },
+    "deathCity": null,
     "beginDate": 1971,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 406
 }

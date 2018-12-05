@@ -1,7 +1,8 @@
 {
     "objectID": 4098,
+    "onView": false,
     "objectNumber": "2015.12",
-    "sortNumber": 2015.12,
+    "sortNumber": "2015    12",
     "classification": {
         "area": {
             "rank": 2,
@@ -31,28 +32,434 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103,
+            105
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Paul Chan",
     "title": {
         "en": "My birds...trash...the future",
-        "zh-hant": "我的鳥…搗毁…未來",
-        "zh-hans": "我的鸟…捣毁…未来"
+        "zh-hant": "我的鳥…搗毁…未來"
     },
-    "displayDate": "2004",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2004",
+        "zh-hant": "2004"
+    },
     "beginDate": 2004,
     "endDate": 2004,
     "dimension": {
         "en": "duration: 16 min. 36 sec.",
-        "zh-hant": "影片長度: 16 分 36 秒",
-        "zh-hans": "影片长度: 16 分 36 秒"
+        "zh-hant": "影片長度: 16 分 36 秒"
     },
     "medium": {
         "en": "two-channel video (colour, sound)",
-        "zh-hant": "雙頻道錄像（彩色、有聲）",
-        "zh-hans": "双声道数码投影装置"
+        "zh-hant": "雙頻道錄像（彩色、有聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Still from an animation showing a person in a white suit standing in a desert landscape in front of a withered tree. Different types of birds, including eagles, owls, and water birds, cover the tree and the ground beneath the tree.",
+            "AltTextTC": "動畫截圖中，一個穿着白色西裝的人，站在沙漠上一棵枯樹前。樹上樹下佈滿不同種類的鳥，包括鷹、貓頭鷹和水鳥。",
+            "src": "004001_004500/004098_001.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_035.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_002.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_003.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        },
+        {
+            "src": "004001_004500/004098_014.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_015.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_026.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_027.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_036.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_037.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_038.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_039.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_040.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_041.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_004.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_005.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_006.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_007.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_008.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_009.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_010.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_011.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_012.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_013.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_016.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_017.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_018.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_019.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_020.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_021.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_022.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_023.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_024.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_025.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_028.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_029.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_030.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_031.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_032.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_033.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_034.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_042.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_044.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_045.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_046.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_047.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_048.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_049.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_050.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_051.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004098_043.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Courtesy of the artist and Greene Naftali, New York. Photograph: Jean Vong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4098
 }

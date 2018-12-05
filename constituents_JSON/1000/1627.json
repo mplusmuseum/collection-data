@@ -2,14 +2,12 @@
     "constituentID": 1627,
     "name": {
         "en": {
-            "id": "3347",
-            "alphasort": "Wong, Blues",
-            "displayname": "Blues Wong"
+            "displayName": "Blues Wong",
+            "alphasort": "Wong, Blues"
         },
         "zh-hant": {
-            "id": "3348",
-            "alphasort": "黃啟裕",
-            "displayname": "黃啟裕"
+            "displayName": "黃啟裕",
+            "alphasort": "黃啟裕"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1966",
+        "zh-hant": "香港，生於1966年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1966,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1627
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 2973,
+    "onView": false,
     "objectNumber": "2012.116",
-    "sortNumber": 2012.116,
+    "sortNumber": "2012   116",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,26 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": null,
+        "sections": null,
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Chen Guanghui",
     "title": {
         "en": "Portrait",
         "zh-hant": "像"
     },
-    "displayDate": "2006",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": "2006"
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
@@ -49,6 +65,99 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "No inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "Copyright": "photo: M+",
+            "src": "002501_003000/002973_001.tif",
+            "rank": "1",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "RISK: untraceable Rights-Holder",
+        "copyright": "© Chen Guanghui",
+        "concatRights": "M+/WKCDA exhibition/RESTRICTED, see NOTES; M+/WKCDA website/RESTRICTED, see NOTES; M+/WKCDA internal use/RESTRICTED, see NOTES; M+/WKCDA publications/RESTRICTED, see NOTES; M+/WKCDA press/publicity/RESTRICTED, see NOTES; M+/WKCDA press packs/RESTRICTED, see NOTES; M+/WKCDA advertising/RESTRICTED, see NOTES; M+/WKCDA learning team activities/RESTRICTED, see NOTES; 3rd-party exhibition (LOANS)/RESTRICTED, see NOTES; 3rd-party non-commercial research/academic/RESTRICTED, see NOTES; 3rd-party non-commercial educational/RESTRICTED, see NOTES; 3rd-party non-commercial publication/RESTRICTED, see NOTES; other 3rd-party non-commercial use/RESTRICTED, see NOTES; social media/RESTRICTED, see NOTES; commercial advertising/RESTRICTED, see NOTES; commercial merchandise/RESTRICTED, see NOTES; commercial publishing/RESTRICTED, see NOTES; Current status/Rights-Holder untraceable (see research document in 'Media' tab)",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder untraceable (see research document in 'Media' tab)",
+        "rights": [
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "social media"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2973
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 4101,
+    "onView": false,
     "objectNumber": "2015.15",
-    "sortNumber": 2015.15,
+    "sortNumber": "2015    15",
     "classification": {
         "area": {
             "rank": 2,
@@ -31,28 +32,187 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Paul Chan",
     "title": {
         "en": "4th l̶i̶g̶h̶t̶",
-        "zh-hant": "第四道光",
-        "zh-hans": "第四道光"
+        "zh-hant": "第四道光"
     },
-    "displayDate": "2006",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": "2006"
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
         "en": "duration: 14 min.",
-        "zh-hant": "影片長度: 14 分",
-        "zh-hans": "影片长度: 14 分"
+        "zh-hant": "影片長度: 14 分"
     },
     "medium": {
         "en": "digital video (colour, silent)",
-        "zh-hant": "數碼錄像投影（彩色、無聲）",
-        "zh-hans": "数码录像投影"
+        "zh-hant": "數碼錄像投影（彩色、無聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "004001_004500/004101_001.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004101_003.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004101_004.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "AltText": "Installation artwork in which a digital video is projected onto the corner of a room with white walls. The video projection shows a window frame and a hammer silhouette against a white background.",
+            "AltTextTC": "裝置藝術品中，數碼錄像投射於擁有白色牆壁的房間角落。錄像投影在白色的背景，上面是窗框和錘子的黑影。",
+            "src": "004001_004500/004101_005.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004101_006.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004101_007.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004101_008.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        },
+        {
+            "src": "004001_004500/004101_009.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004101_010.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004101_002.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Courtesy of the artist and Greene Naftali, New York. Photograph: Jean Vong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4101
 }

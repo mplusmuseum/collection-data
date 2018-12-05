@@ -1,7 +1,8 @@
 {
     "objectID": 2223,
+    "onView": false,
     "objectNumber": "2012.280",
-    "sortNumber": 2012.28,
+    "sortNumber": "2012   280",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,171 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            55,
+            95,
+            103
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "The repetition of the miniature plus signs and crosses is one of Ding Yi’s most recognisable motifs. He began using the crosses in the late 1980s and has employed them consistently until the present. Evenly placed across his canvasses regardless of size and colour, the crosses can be seen as the fundamental building block of the grid, an embodiment of standardarisation, repetition, and rationality in a twentieth century Modernist context."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "The repetition of the miniature plus signs and crosses is one of Ding Yi’s most recognisable motifs. He began using the crosses in the late 1980s and continues to employ them consistently. Evenly placed across his canvases regardless of size and colour, the crosses can be seen as the fundamental building block of the grid, an embodiment of standardisation, repetition, and rationality in a twentieth-century modernist context."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "重複而細小的加號和交叉符號是丁乙的標誌性圖案。這些符號自1980年代末開始並一直被他採用於作品中至今。無論尺寸和顏色，這些符號都平均地分佈在畫作上，交叉符號可視為方格的重要組成部分，在20世紀現代主義語境下體現出標準化、重複及理性化的創作理念。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "重複而細小的加號和交叉符號是丁乙的招牌圖案。他自八十年代末開始在作品中採用這些符號直至今天。無論尺寸和顏色，這些符號都平均地分佈在畫作上，交叉符號可視為方格的重要組成部分，在二十世紀現代主義語境下體現出標準化、重複及理性化的創作理念。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Ding Yi",
     "title": {
         "en": "Untitled (blue/green)",
-        "zh-hant": "無題（藍/綠）",
-        "zh-hans": "无题（蓝/绿）"
+        "zh-hant": "《十示95-14》"
     },
-    "displayDate": "1995",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1995",
+        "zh-hant": "1995"
+    },
     "beginDate": 1995,
     "endDate": 1995,
     "dimension": {
         "en": "overall: 140 × 160.3 cm",
-        "zh-hant": "整體: 140 × 160.3 厘米",
-        "zh-hans": "图像 (目测量度): 140 × 160.3 厘米"
+        "zh-hant": "整體: 140 × 160.3 厘米"
     },
     "medium": {
         "en": "acrylic on canvas",
-        "zh-hant": "塑膠彩布本",
-        "zh-hans": "塑料彩布本"
+        "zh-hant": "塑膠彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港",
-        "zh-hans": "香港M+ 希克藏品（捐赠）"
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "Inscribed verso UR: 《十示95-14》160 x 140 cm Ding Yi"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Acrylic painting on canvas in which the repeated pattern of small blue crosses and green starbursts resembles the weave of a tightly knit blanket.",
+            "AltTextTC": "塑膠彩布本作品裏，細小的藍色十字和綠色星芒圖案重複交錯，恍如一幅緊密編織的毯子。",
+            "src": "002001_002500/002223_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Ding Yi",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2223
 }

@@ -2,9 +2,12 @@
     "constituentID": 1495,
     "name": {
         "en": {
-            "id": "3166",
-            "alphasort": "Li, Shan",
-            "displayname": "Li Shan"
+            "displayName": "Li Shan",
+            "alphasort": "Li, Shan"
+        },
+        "zh-hant": {
+            "displayName": "李山",
+            "alphasort": "李山"
         }
     },
     "type": "Individual",
@@ -12,9 +15,32 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1957",
+        "zh-hant": "中國籍，生於1957年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1957,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1495
 }

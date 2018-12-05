@@ -2,14 +2,12 @@
     "constituentID": 539,
     "name": {
         "en": {
-            "id": "531",
-            "alphasort": "Yang, Zhichao",
-            "displayname": "Yang Zhichao"
+            "displayName": "Yang Zhichao",
+            "alphasort": "Yang, Zhichao"
         },
         "zh-hant": {
-            "id": "1543",
-            "alphasort": "楊, 志超",
-            "displayname": "楊志超"
+            "displayName": "楊志超",
+            "alphasort": "楊, 志超"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Gansu Province"
+    },
+    "deathCity": null,
     "beginDate": 1963,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 539
 }

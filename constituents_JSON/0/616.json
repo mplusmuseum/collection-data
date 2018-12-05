@@ -2,9 +2,8 @@
     "constituentID": 616,
     "name": {
         "en": {
-            "id": "608",
-            "alphasort": "Zhu, Weibing",
-            "displayname": "Zhu Weibing"
+            "displayName": "Zhu Weibing",
+            "alphasort": "Zhu, Weibing"
         }
     },
     "type": "Individual",
@@ -12,9 +11,30 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1971",
+        "zh-hant": "中國籍，生於1971年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shanghai"
+    },
+    "birthCity": {
+        "en": "Heilongjiang Province"
+    },
+    "deathCity": null,
     "beginDate": 1971,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 616
 }

@@ -2,14 +2,12 @@
     "constituentID": 131,
     "name": {
         "en": {
-            "id": "123",
-            "alphasort": "Chen, Ke",
-            "displayname": "Chen Ke"
+            "displayName": "Chen Ke",
+            "alphasort": "Chen, Ke"
         },
         "zh-hant": {
-            "id": "1201",
-            "alphasort": "陳, 可",
-            "displayname": "陳可"
+            "displayName": "陳可",
+            "alphasort": "陳, 可"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1978",
+        "zh-hant": "中國籍，生於1978年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Tongjiang"
+    },
+    "deathCity": null,
     "beginDate": 1978,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 131
 }

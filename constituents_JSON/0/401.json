@@ -2,14 +2,12 @@
     "constituentID": 401,
     "name": {
         "en": {
-            "id": "393",
-            "alphasort": "Shen, Fan",
-            "displayname": "Shen Fan"
+            "displayName": "Shen Fan",
+            "alphasort": "Shen, Fan"
         },
         "zh-hant": {
-            "id": "1420",
-            "alphasort": "申, 凡",
-            "displayname": "申凡"
+            "displayName": "申凡",
+            "alphasort": "申, 凡"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1952",
+        "zh-hant": "中國籍，生於1952年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Hamburg"
+    },
+    "birthCity": {
+        "en": "Hangzhou"
+    },
+    "deathCity": null,
     "beginDate": 1952,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 401
 }

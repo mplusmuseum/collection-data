@@ -1,7 +1,8 @@
 {
     "objectID": 1538,
+    "onView": false,
     "objectNumber": "2013.22.8",
-    "sortNumber": 2013.22,
+    "sortNumber": "2013    22    8",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,27 +32,135 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Wilson Shieh",
     "title": {
         "en": "Eileen Chang Died in Los Angeles 1995",
         "zh-hant": "張愛玲死於洛杉磯1995"
     },
-    "displayDate": "2013",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2013",
+        "zh-hant": "2013"
+    },
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
         "en": "frame: 70.8 × 55.2 × 2 cm\r\r\nsheet (sight): 56 × 40.4 cm",
-        "zh-hant": "整體: 60 × 42 厘米\r\r\n框架: 70 × 55 厘米",
-        "zh-hans": "整体: 60 × 42 厘米\r\r\n框架: 70 × 55 厘米"
+        "zh-hant": "整體: 60 × 42 厘米\r\r\n框架: 70 × 55 厘米"
     },
     "medium": {
-        "en": "colour pencil and collage on paper",
-        "zh-hant": "彩色鉛筆及拼貼紙本",
-        "zh-hans": "木颜色及拼贴纸本"
+        "en": "coloured pencil and collage on paper",
+        "zh-hant": "彩色鉛筆及拼貼紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Inscribed in colour pencil, LC: (Chinese title) 1995 / EILEEN CHANG DIDED IN LOS ANGELES 1995"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Colour pencil on paper depicting an old woman standing on a street in front of a building. The Hollywood sign can be seen in the hills behind the building. The woman is in colour, while the background is black and white.",
+            "AltTextTC": "彩色鉛筆紙本畫作中，一個年老的女人站在建築物前方的街道上。荷里活標誌出現在建築物後的山上。女人以彩色呈現，周遭環境呈黑白色。",
+            "src": "001501_002000/001538_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Wilson Shieh",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 1538
 }

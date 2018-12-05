@@ -2,9 +2,12 @@
     "constituentID": 200,
     "name": {
         "en": {
-            "id": "192",
-            "alphasort": "Hadid, Zaha",
-            "displayname": "Zaha Hadid"
+            "displayName": "Zaha Hadid",
+            "alphasort": "Hadid, Zaha"
+        },
+        "zh-hant": {
+            "displayName": "扎哈‧哈迪德",
+            "alphasort": "扎哈‧哈迪德"
         }
     },
     "type": "Individual",
@@ -12,9 +15,30 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "British",
+    "displayBio": {
+        "en": "British, born Iraq. 1950–2016",
+        "zh-hant": "英國籍，生於伊拉克，1950–2016年"
+    },
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": {
+        "en": "London"
+    },
+    "birthCity": {
+        "en": "Baghdad"
+    },
+    "deathCity": null,
     "beginDate": 1950,
-    "deathyear": 2016,
+    "endDate": 2016,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 200
 }

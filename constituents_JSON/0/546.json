@@ -2,14 +2,12 @@
     "constituentID": 546,
     "name": {
         "en": {
-            "id": "538",
-            "alphasort": "Yin, Yanhua",
-            "displayname": "Yin Yanhua"
+            "displayName": "Yin Yanhua",
+            "alphasort": "Yin, Yanhua"
         },
         "zh-hant": {
-            "id": "1548",
-            "alphasort": "尹, 雁華",
-            "displayname": "尹雁華"
+            "displayName": "尹雁華",
+            "alphasort": "尹, 雁華"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1980",
+        "zh-hant": "中國籍，生於1980年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Dali"
+    },
+    "deathCity": null,
     "beginDate": 1980,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 546
 }

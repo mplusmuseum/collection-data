@@ -1,7 +1,8 @@
 {
     "objectID": 974,
+    "onView": false,
     "objectNumber": "2013.177",
-    "sortNumber": 2013.177,
+    "sortNumber": "2013   177",
     "classification": {
         "area": {
             "rank": 1,
@@ -50,11 +51,28 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            49
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "OMA; Elia Zenghelis; Zoe Zenghelis",
     "title": {
         "en": "Drawing, IBA Lützowstrasse Social Housing Competition, Berlin, Germany",
         "zh-hant": "IBA Lützowstrasse社會住房建築設計比賽參賽草圖，德國柏林"
     },
-    "displayDate": "1980",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1980",
+        "zh-hant": "1980"
+    },
     "beginDate": 1980,
     "endDate": 1980,
     "dimension": {
@@ -68,6 +86,95 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "000501_001000/000974_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "*pending clarification*",
+        "concatRights": "M+/WKCDA exhibition/[pending research]; M+/WKCDA website/[pending research]; M+/WKCDA internal use/[pending research]; M+/WKCDA publications/[pending research]; M+/WKCDA press/publicity/[pending research]; M+/WKCDA press packs/[pending research]; M+/WKCDA advertising/[pending research]; M+/WKCDA learning team activities/[pending research]; 3rd-party exhibition (LOANS)/[pending research]; 3rd-party non-commercial research/academic/[pending research]; 3rd-party non-commercial educational/[pending research]; 3rd-party non-commercial publication/[pending research]; other 3rd-party non-commercial use/[pending research]; social media/[pending research]; commercial advertising/[pending research]; commercial merchandise/[pending research]; commercial publishing/[pending research]; Current status/* research required *",
+        "concatRemark": "",
+        "currentStatus": "* research required *",
+        "rights": [
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "[pending research]",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "[pending research]",
+                "group": "social media"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 974
 }

@@ -2,14 +2,12 @@
     "constituentID": 244,
     "name": {
         "en": {
-            "id": "236",
-            "alphasort": "Kamekura, Yusaku",
-            "displayname": "Kamekura Yusaku"
+            "displayName": "Kamekura Yusaku",
+            "alphasort": "Kamekura, Yusaku"
         },
         "zh-hant": {
-            "id": "2916",
-            "alphasort": "龜倉雄策",
-            "displayname": "龜倉雄策"
+            "displayName": "龜倉雄策",
+            "alphasort": "龜倉雄策"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, 1915–1997",
+        "zh-hant": "日本籍，1915–1997年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Japan",
+        "zh-hant": "日本"
+    },
+    "birthCity": {
+        "en": "Niigata Prefecture"
+    },
+    "deathCity": null,
     "beginDate": 1915,
-    "deathyear": 1997,
+    "endDate": 1997,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 244
 }

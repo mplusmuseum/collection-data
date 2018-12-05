@@ -2,14 +2,12 @@
     "constituentID": 545,
     "name": {
         "en": {
-            "id": "537",
-            "alphasort": "Yin, Xiuzhen",
-            "displayname": "Yin Xiuzhen"
+            "displayName": "Yin Xiuzhen",
+            "alphasort": "Yin, Xiuzhen"
         },
         "zh-hant": {
-            "id": "1547",
-            "alphasort": "尹, 秀珍",
-            "displayname": "尹秀珍"
+            "displayName": "尹秀珍",
+            "alphasort": "尹, 秀珍"
         }
     },
     "type": "Individual",
@@ -18,11 +16,51 @@
         "zh-hant": "女性"
     },
     "displayBio": {
-        "en": "Yin Xiuzhen (born 1963, Beijing) graduated from the Oil Painting Department of Capital Normal University, Beijing, in 1989. Her work explores globalisation and urbanisation. Yin lives and works in Beijing.",
-        "zh-hant": "尹秀珍 (1963年生於北京，現工作及生活於北京) 1989年畢業於北京首都師範大學美術學院油畫系，作品探討全球化及都市化等現代議題。"
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1963,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Yin Xiuzhen (born 1963, Beijing) graduated from the Oil Painting Department of Capital Normal University, Beijing, in 1989. Her work explores globalisation and urbanisation. Yin lives and works in Beijing."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "尹秀珍 (1963年生於北京，現工作及生活於北京) 1989年畢業於北京首都師範大學美術學院油畫系，作品探討全球化及都市化等現代議題。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 545
 }

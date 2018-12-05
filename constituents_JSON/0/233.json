@@ -2,14 +2,12 @@
     "constituentID": 233,
     "name": {
         "en": {
-            "id": "225",
-            "alphasort": "Ji, Dachun",
-            "displayname": "Ji Dachun"
+            "displayName": "Ji Dachun",
+            "alphasort": "Ji, Dachun"
         },
         "zh-hant": {
-            "id": "1288",
-            "alphasort": "季, 大純",
-            "displayname": "季大純"
+            "displayName": "季大純",
+            "alphasort": "季, 大純"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Nantong"
+    },
+    "deathCity": null,
     "beginDate": 1968,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 233
 }

@@ -2,14 +2,12 @@
     "constituentID": 422,
     "name": {
         "en": {
-            "id": "414",
-            "alphasort": "Sun, Guoqi",
-            "displayname": "Sun Guoqi"
+            "displayName": "Sun Guoqi",
+            "alphasort": "Sun, Guoqi"
         },
         "zh-hant": {
-            "id": "1439",
-            "alphasort": "孫, 國岐",
-            "displayname": "孫國岐"
+            "displayName": "孫國岐",
+            "alphasort": "孫, 國岐"
         }
     },
     "type": "Individual",
@@ -17,9 +15,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1942",
+        "zh-hant": "中國籍，生於1942年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1942,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 422
 }

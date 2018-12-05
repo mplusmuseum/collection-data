@@ -1,7 +1,8 @@
 {
     "objectID": 3004,
+    "onView": false,
     "objectNumber": "2012.922",
-    "sortNumber": 2012.922,
+    "sortNumber": "2012   922",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,16 +32,38 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            16,
+            55,
+            81,
+            95,
+            106
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Song Dong",
     "title": {
         "en": "Breathing, Houhai, Back Sea",
         "zh-hant": "哈氣, 後海"
     },
-    "displayDate": "1996",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1996",
+        "zh-hant": "1996"
+    },
     "beginDate": 1996,
     "endDate": 1996,
     "dimension": {
         "en": "frame: 131.3 × 187.8 cm\r\r\nimage (sight): 123.3 × 180 cm",
-        "zh-hant": "120 × 180 厘米"
+        "zh-hant": "框架: 131.3 × 187.8 厘米\r\n圖像 (目測量度): 123.3 × 180 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
@@ -49,6 +72,101 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "No visible inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Photograph of the artist Song Dong lying face-down on the frozen surface of a small urban lake. Dressed in corduroy pants and a thick black jacket, he breathes on the unaffected ice.",
+            "AltTextTC": "照片中，藝術家宋冬俯身趴在市內一個小型湖泊的結冰表面。他身穿燈芯絨長褲和黑色厚外套，朝着結冰的湖面哈氣，冰面未有任何改變。",
+            "src": "003001_003500/003004_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Song Dong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3004
 }

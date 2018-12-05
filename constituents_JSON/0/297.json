@@ -2,14 +2,12 @@
     "constituentID": 297,
     "name": {
         "en": {
-            "id": "289",
-            "alphasort": "Liu Bo, Sophia",
-            "displayname": "Sophia Liu Bo"
+            "displayName": "Sophia Liu Bo",
+            "alphasort": "Liu Bo, Sophia"
         },
         "zh-hant": {
-            "id": "4730",
-            "alphasort": "劉, 波",
-            "displayname": "劉波"
+            "displayName": "劉波",
+            "alphasort": "劉, 波"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1973",
+        "zh-hant": "中國籍，生於1973年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1973,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 297
 }

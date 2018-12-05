@@ -1,7 +1,8 @@
 {
     "objectID": 3145,
+    "onView": false,
     "objectNumber": "2012.562",
-    "sortNumber": 2012.562,
+    "sortNumber": "2012   562",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,20 +27,35 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Li Xi",
-                "zh-hant": "李熙"
+                "en": "Lee Xe",
+                "zh-hant": "李曦"
             }
         }
     ],
+    "exhibition": {
+        "ids": null,
+        "sections": null,
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Lee Xe",
     "title": {
         "en": "Untitled",
         "zh-hant": "無題"
     },
-    "displayDate": "2007",
-    "beginDate": 2007,
-    "endDate": 2007,
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": "2007"
+    },
+    "beginDate": 2008,
+    "endDate": 2008,
     "dimension": {
-        "en": "overall: 338.4 × 218.5 cm",
+        "en": "sheet: 338.4 × 218.5 cm",
         "zh-hant": "整體: 338.4 × 218.5 厘米"
     },
     "medium": {
@@ -49,6 +65,98 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "No inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "003001_003500/003145_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "RISK: untraceable Rights-Holder",
+        "copyright": "© Li Xi",
+        "concatRights": "M+/WKCDA exhibition/RESTRICTED, see NOTES; M+/WKCDA website/RESTRICTED, see NOTES; M+/WKCDA internal use/RESTRICTED, see NOTES; M+/WKCDA publications/RESTRICTED, see NOTES; M+/WKCDA press/publicity/RESTRICTED, see NOTES; M+/WKCDA press packs/RESTRICTED, see NOTES; M+/WKCDA advertising/RESTRICTED, see NOTES; M+/WKCDA learning team activities/RESTRICTED, see NOTES; 3rd-party exhibition (LOANS)/RESTRICTED, see NOTES; 3rd-party non-commercial research/academic/RESTRICTED, see NOTES; 3rd-party non-commercial educational/RESTRICTED, see NOTES; 3rd-party non-commercial publication/RESTRICTED, see NOTES; other 3rd-party non-commercial use/RESTRICTED, see NOTES; social media/RESTRICTED, see NOTES; commercial advertising/RESTRICTED, see NOTES; commercial merchandise/RESTRICTED, see NOTES; commercial publishing/RESTRICTED, see NOTES; Current status/Rights-Holder untraceable (see research document in 'Media' tab)",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder untraceable (see research document in 'Media' tab)",
+        "rights": [
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "social media"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3145
 }

@@ -2,14 +2,12 @@
     "constituentID": 220,
     "name": {
         "en": {
-            "id": "212",
-            "alphasort": "Hu, Qingyan",
-            "displayname": "Hu Qingyan"
+            "displayName": "Hu Qingyan",
+            "alphasort": "Hu, Qingyan"
         },
         "zh-hant": {
-            "id": "1276",
-            "alphasort": "胡慶雁",
-            "displayname": "胡慶雁"
+            "displayName": "胡慶雁",
+            "alphasort": "胡慶雁"
         }
     },
     "type": "Individual",
@@ -18,11 +16,50 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Hu Qingyan (born 1982, Weifang) graduated with an MA in Sculpture from the Central Academy of Fine Arts in Beijing, in 2010. He is known for exploring wood, bamboo, marble, and other natural media, and in the process re-establishing a human connection. Hu lives and works in Beijing.",
-        "zh-hant": "胡慶雁 (1982年生於濰坊，現工作及生活於北京) 於2010年畢業於中央美術學院雕塑系，獲碩士學位。他擅長研究木、竹、大理石及其他自然物料，並以簡約的手法從中重建人與物的關係。"
+        "en": "Chinese, born 1982",
+        "zh-hant": "中國籍，生於1982年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Weifang"
+    },
+    "deathCity": null,
     "beginDate": 1982,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Hu Qingyan (born 1982, Weifang) graduated with an MA in Sculpture from the Central Academy of Fine Arts in Beijing, in 2010. He is known for exploring wood, bamboo, marble, and other natural media, and in the process re-establishing a human connection. Hu lives and works in Beijing."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "胡慶雁 (1982年生於濰坊，現工作及生活於北京) 於2010年畢業於中央美術學院雕塑系，獲碩士學位。他擅長研究木、竹、大理石及其他自然物料，並以簡約的手法從中重建人與物的關係。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 220
 }

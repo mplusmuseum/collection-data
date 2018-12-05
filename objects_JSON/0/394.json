@@ -1,7 +1,8 @@
 {
     "objectID": 394,
+    "onView": false,
     "objectNumber": "2012.2072",
-    "sortNumber": 2012.2072,
+    "sortNumber": "2012  2072",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,17 +27,8 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Michael Wolf"
-            }
-        },
-        {
-            "id": 474,
-            "rank": 1,
-            "roles": {
-                "en": "Donor"
-            },
-            "names": {
-                "en": "Michael Wolf"
+                "en": "Michael Wolf",
+                "zh-hant": "吳爾夫"
             }
         },
         {
@@ -45,31 +37,140 @@
             "roles": {
                 "en": "Commissioned by"
             },
-            "names": {}
+            "names": {
+                "en": "M+ Museum"
+            }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Michael Wolf; M+ Museum",
     "title": {
         "en": "Portraits of Cantonese Opera. Yam Bing-yee",
-        "zh-hant": "粵劇名伶肖像—任冰兒",
-        "zh-hans": "粤剧名伶肖像—任冰儿"
+        "zh-hant": "粵劇名伶肖像—任冰兒"
     },
-    "displayDate": "2012",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": "2012"
+    },
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
-        "en": "overall (paper): 35.4 × 27.8 cm\r\r\nimage: 34.2 × 22.8 cm",
-        "zh-hant": "紙本: 35.5 × 27.8 厘米\r\r\n圖像 (目測量度): 34.2 × 22.8 厘米",
-        "zh-hans": "纸本: 35.5 × 27.8 厘米\r\r\n图像 (目测量度): 34.2 × 22.8 厘米"
+        "en": "sheet: 35.4 × 27.8 cm\r\r\nimage: 34.2 × 22.8 cm",
+        "zh-hant": "紙本: 35.5 × 27.8 厘米\r\r\n圖像 (目測量度): 34.2 × 22.8 厘米"
     },
     "medium": {
         "en": "UV colour inkjet print on Duratrans",
-        "zh-hant": "UV彩色噴墨打印燈箱片",
-        "zh-hans": "UV彩色喷墨打印、特丽灿灯箱片"
+        "zh-hant": "UV彩色噴墨打印燈箱片"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Michael Wolf, 2012",
-        "zh-hant": "M+，香港，吳爾夫捐贈，2012年",
-        "zh-hans": "香港M+，Michael Wolf捐赠，2012年"
+        "zh-hant": "M+，香港，吳爾夫捐贈，2012年"
+    },
+    "inscription": {
+        "en": "No inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Photograph of a Cantonese opera performer standing on a city street wearing a blue costume with silver embroidery and white cuffs, a beaded silver headdress, and white and fuchsia makeup.",
+            "AltTextTC": "照片中，一位粵劇伶人站在城市街道上，她身穿白袖子繡銀藍色戲服，戴上珠飾銀頭冠，臉上化了白裏透紅的大戲妝 。",
+            "src": "000001_000500/000394_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Michael Wolf",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/CONTACT the RIGHTS HOLDER; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial research/academic/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial educational/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial publication/CONTACT the RIGHTS HOLDER; other 3rd-party non-commercial use/CONTACT the RIGHTS HOLDER; social media/CONTACT the RIGHTS HOLDER; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 394
 }

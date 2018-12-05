@@ -2,14 +2,12 @@
     "constituentID": 1428,
     "name": {
         "en": {
-            "id": "3053",
-            "alphasort": "Yanagi, Sori",
-            "displayname": "Yanagi Sori"
+            "displayName": "Yanagi Sori",
+            "alphasort": "Yanagi, Sori"
         },
         "zh-hant": {
-            "id": "4917",
-            "alphasort": "柳宗理",
-            "displayname": "柳宗理"
+            "displayName": "柳宗理",
+            "alphasort": "柳宗理"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, 1915–2011",
+        "zh-hant": "日本籍，1915–2011年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Tokyo"
+    },
+    "deathCity": null,
     "beginDate": 1915,
-    "deathyear": 2011,
+    "endDate": 2011,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1428
 }

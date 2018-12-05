@@ -1,7 +1,8 @@
 {
     "objectID": 905,
+    "onView": false,
     "objectNumber": "2012.2118",
-    "sortNumber": 2012.2118,
+    "sortNumber": "2012  2118",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,32 +27,139 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Stanley Wong"
+                "en": "Stanley Wong",
+                "zh-hant": "又一山人（黃炳培）"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Stanley Wong",
     "title": {
         "en": "Lanwei 15 / Illegal Residence 03 / Bangkok",
-        "zh-hant": "爛尾15/黑市居民03/曼谷",
-        "zh-hans": "烂尾15/黑市居民03/曼谷"
+        "zh-hant": "爛尾15/黑市居民03/曼谷"
     },
-    "displayDate": "2008",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": "2008"
+    },
     "beginDate": 2008,
     "endDate": 2008,
     "dimension": {
         "en": "overall: 139 × 111 cm\r\r\nimage: 139 × 110.5 cm",
-        "zh-hant": "整體: 139 × 111 厘米\r\r\n圖像: 139 × 110.5 厘米",
-        "zh-hans": "整体: 139 × 111 厘米\r\r\n图像: 139 × 110.5 厘米"
+        "zh-hant": "整體: 139 × 111 厘米\r\r\n圖像: 139 × 110.5 厘米"
     },
     "medium": {
         "en": "archival inkjet print",
-        "zh-hant": "收藏級噴墨打印",
-        "zh-hans": "收藏级喷墨打印"
+        "zh-hant": "收藏級噴墨打印"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "Copyright": "Image courtesy of artist and Blindspot Gallery",
+            "AltText": "Photograph of a broken-down elevator shaft inside an abandoned skyscraper. The windows and most of the walls are missing. The elevator shaft is in ruins.",
+            "AltTextTC": "照片中是一座廢棄摩天大樓的內部，裏面有一個破舊電梯井。建築物不設窗戶，大部分外牆都缺掉，電梯井恍如在廢墟當中。",
+            "src": "000501_001000/000905_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© anothermountainman",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 905
 }

@@ -2,14 +2,12 @@
     "constituentID": 557,
     "name": {
         "en": {
-            "id": "549",
-            "alphasort": "Yu, Ji",
-            "displayname": "Yu Ji"
+            "displayName": "Yu Ji",
+            "alphasort": "Yu, Ji"
         },
         "zh-hant": {
-            "id": "1557",
-            "alphasort": "餘, 極",
-            "displayname": "餘極"
+            "displayName": "餘極",
+            "alphasort": "餘, 極"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1965",
+        "zh-hant": "中國籍，生於1965年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Chengdu"
+    },
+    "deathCity": null,
     "beginDate": 1965,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 557
 }

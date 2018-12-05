@@ -1,7 +1,8 @@
 {
     "objectID": 2802,
+    "onView": false,
     "objectNumber": "2012.284",
-    "sortNumber": 2012.284,
+    "sortNumber": "2012   284",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,54 @@
             }
         }
     ],
-    "title": {
-        "en": "Appearance of Cross",
-        "zh-hant": "十示"
+    "exhibition": {
+        "ids": [
+            95,
+            106
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "Appearance of Cross is one of the original paintings in Ding Yi’s experimentation with cross-shaped symbols. Characterised by intersecting straight lines running across the pale, greyish-blue surface, the systematic composition of Ding’s painting is minimal yet abstract. The painting rejects symbolic content and narrative meaning as defined by Western expressionism and abstraction. . Instead, the artist pursues an artistic purity and openness that is free of the perplexities and burdens of traditional Western theories. Through careful execution with a paintbrush, ruler, and tape, the ‘+’ motif is articulated in a structured and disciplined manner with precision. Appearance of Crossopens up an infinite process of construction, deconstruction and re-construction, to create a painting that is rich in texture while also oscillating between flatness and pictorial depth. The rationality of the work offers a wider and more objective approach for viewers to understand the structure of matters in contemporary society."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "《十示》是丁乙以十字符號創作的實驗作品之一。淡灰藍色的表面上，直線縱橫交錯，形成作品的特色。構圖具規律美，既簡約又抽象。藝術家排斥西方表現主義和抽象主義所定下的象徵與敍述意涵，着意拋開傳統西方理論的艱澀與包袱，從而追求藝術上的純粹性與開放性。丁氏以畫筆、間尺和膠紙，在畫布上精確緊密地繪上十字圖案，展開了一個建構、解構與再建構的無盡過程。作品質感豐富，同時遊走於平面與深度之間。其理性特質讓觀者能以更開闊、更客觀的角度，了解當代社會中事物的結構。"
+                    }
+                ]
+            }
+        }
     },
-    "displayDate": "1989",
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        18
+    ],
+    "allORC": "Ding Yi",
+    "title": {
+        "en": "Appearance of Cross 89–4",
+        "zh-hant": "《十示89–4》"
+    },
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1989",
+        "zh-hant": "1989"
+    },
     "beginDate": 1989,
     "endDate": 1989,
     "dimension": {
@@ -49,6 +93,115 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "Inscribed in oil, verso LR: 《十示89–4》 / 50 x 60 cm\r\r\nSecondary inscriptions, see images"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Oil painting on canvas. Precise squares and rectangles in grey, yellow, steel blue, and black are separated by thin lines and resemble a tile mosaic of squares within squares.",
+            "AltTextTC": "油彩布本作品裏，多個精確的正方形和長方形圖案，呈灰、黃、鋼藍和黑色，並以纖幼的線條相隔。大小方格形成格中有格的圖紋，就如一幅瓷磚馬賽克。",
+            "src": "002501_003000/002802_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "002501_003000/002802_002.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "002501_003000/002802_003.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Ding Yi",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2802
 }

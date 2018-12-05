@@ -2,14 +2,12 @@
     "constituentID": 415,
     "name": {
         "en": {
-            "id": "407",
-            "alphasort": "Song, Kun",
-            "displayname": "Song Kun"
+            "displayName": "Song Kun",
+            "alphasort": "Song, Kun"
         },
         "zh-hant": {
-            "id": "1433",
-            "alphasort": "宋, 鯤",
-            "displayname": "宋鯤"
+            "displayName": "宋鯤",
+            "alphasort": "宋, 鯤"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1977",
+        "zh-hant": "中國籍，生於1977年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Inner Mongolia"
+    },
+    "deathCity": null,
     "beginDate": 1977,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 415
 }

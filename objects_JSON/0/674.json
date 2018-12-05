@@ -1,7 +1,8 @@
 {
     "objectID": 674,
+    "onView": false,
     "objectNumber": "2013.538",
-    "sortNumber": 2013.538,
+    "sortNumber": "2013   538",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,137 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            27,
+            32,
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Ho Sin Tung",
     "title": {
         "en": "Double Life of Veroniky",
-        "zh-hant": "翻生花",
-        "zh-hans": "翻生花"
+        "zh-hant": "翻生花"
     },
-    "displayDate": "2012",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": "2012"
+    },
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
         "en": "frame: 39.3 × 54.3 × 1.5 cm\r\r\nsheet (sight): 19.6 × 33.4 cm",
-        "zh-hant": "紙本: 20.5 × 35 厘米\r\r\n框架: 40 × 54.5 × 1.5 厘米",
-        "zh-hans": "纸本: 20.5 × 35 厘米\r\r\n框架: 40 × 54.5 × 1.5 厘米"
+        "zh-hant": "紙本: 20.5 × 35 厘米\r\r\n框架: 40 × 54.5 × 1.5 厘米"
     },
     "medium": {
         "en": "pencil on paper",
-        "zh-hant": "鉛筆紙本",
-        "zh-hans": "铅笔纸本"
+        "zh-hant": "鉛筆紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Titled on mount board, LC: DOUBLE LIFE OF VERONIKY\r\r\nSecondary inscriptions, see catalogue worksheet"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Pencil drawing on paper in shades of grey of a woman looking at herself in a large mirror. Her hands reach up to rub her temples.",
+            "AltTextTC": "鉛筆紙本繪圖呈現不同深淺的灰調。一個女人面向一塊大鏡子，端詳着自己，並伸起雙手按摩太陽穴。",
+            "src": "000501_001000/000674_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "M+ is the copyright owner",
+        "copyright": "© M+, Hong Kong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/PERMISSION GRANTED; commercial merchandise/PERMISSION GRANTED; commercial publishing/PERMISSION GRANTED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 674
 }

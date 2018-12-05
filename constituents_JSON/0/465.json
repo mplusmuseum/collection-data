@@ -2,14 +2,12 @@
     "constituentID": 465,
     "name": {
         "en": {
-            "id": "457",
-            "alphasort": "Wang, Youshen",
-            "displayname": "Wang Youshen"
+            "displayName": "Wang Youshen",
+            "alphasort": "Wang, Youshen"
         },
         "zh-hant": {
-            "id": "1476",
-            "alphasort": "王友身",
-            "displayname": "王友身"
+            "displayName": "王友身",
+            "alphasort": "王友身"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1964",
+        "zh-hant": "中國籍，生於1964年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1964,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 465
 }

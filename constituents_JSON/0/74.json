@@ -2,23 +2,41 @@
     "constituentID": 74,
     "name": {
         "en": {
-            "id": "66",
-            "alphasort": "Taoho Design",
-            "displayname": "Taoho Design"
+            "displayName": "Taoho Design",
+            "alphasort": "Taoho Design"
         },
         "zh-hant": {
-            "id": "1172",
-            "alphasort": "何弢設計",
-            "displayname": "何弢設計"
+            "displayName": "何弢設計",
+            "alphasort": "何弢設計"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "established Hong Kong, 1968",
+        "zh-hant": "1968年成立於香港"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1968,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 74
 }

@@ -2,14 +2,12 @@
     "constituentID": 290,
     "name": {
         "en": {
-            "id": "282",
-            "alphasort": "Lin, Richard",
-            "displayname": "Richard Lin"
+            "displayName": "Richard Lin",
+            "alphasort": "Lin, Richard"
         },
         "zh-hant": {
-            "id": "1335",
-            "alphasort": "林, 壽宇",
-            "displayname": "林壽宇"
+            "displayName": "林壽宇",
+            "alphasort": "林, 壽宇"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "British",
+    "displayBio": {
+        "en": "British, born Taiwan. 1933–2011",
+        "zh-hant": "英國籍，生於台灣，1933–2011年"
+    },
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Taiwan",
+        "zh-hant": "Taiwan"
+    },
+    "deathCity": {
+        "en": "Taiwan",
+        "zh-hant": "臺灣"
+    },
     "beginDate": 1933,
-    "deathyear": 2011,
+    "endDate": 2011,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 290
 }

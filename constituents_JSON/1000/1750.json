@@ -2,18 +2,34 @@
     "constituentID": 1750,
     "name": {
         "en": {
-            "id": "3637",
-            "alphasort": "Julie & Jesse",
-            "displayname": "Julie & Jesse"
+            "displayName": "Julie & Jesse",
+            "alphasort": "Julie & Jesse"
         }
     },
     "type": "Artist Collaborative",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Hong Kong, 2008",
+        "zh-hant": "2008年成立於香港"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 2008,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1750
 }

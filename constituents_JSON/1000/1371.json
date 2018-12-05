@@ -2,18 +2,40 @@
     "constituentID": 1371,
     "name": {
         "en": {
-            "id": "2723",
-            "alphasort": "T. R. Hamzah & Yeang Sdn. Bhd.",
-            "displayname": "T. R. Hamzah & Yeang Sdn. Bhd."
+            "displayName": "T. R. Hamzah & Yeang Sdn. Bhd.",
+            "alphasort": "T. R. Hamzah & Yeang Sdn. Bhd."
+        },
+        "zh-hant": {
+            "displayName": "T. R. Hamzah & Yeang建築事務所",
+            "alphasort": "T. R. Hamzah & Yeang建築事務所"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Kuala Lumpur, 1976",
+        "zh-hant": "1976年成立於吉隆坡"
+    },
+    "nationality": {
+        "en": "Malaysian",
+        "zh-hant": "馬來西亞籍"
+    },
+    "region": {
+        "en": "Southeast Asia",
+        "zh-hant": "東南亞"
+    },
+    "activeCity": {
+        "en": "Kuala Lumpur"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1976,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1371
 }

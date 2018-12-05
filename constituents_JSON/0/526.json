@@ -2,14 +2,12 @@
     "constituentID": 526,
     "name": {
         "en": {
-            "id": "518",
-            "alphasort": "Yang, Maoyuan",
-            "displayname": "Yang Maoyuan"
+            "displayName": "Yang Maoyuan",
+            "alphasort": "Yang, Maoyuan"
         },
         "zh-hant": {
-            "id": "1531",
-            "alphasort": "楊, 茂源",
-            "displayname": "楊茂源"
+            "displayName": "楊茂源",
+            "alphasort": "楊, 茂源"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1966",
+        "zh-hant": "中國籍，生於1966年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Dalian"
+    },
+    "deathCity": null,
     "beginDate": 1966,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 526
 }

@@ -2,14 +2,12 @@
     "constituentID": 1650,
     "name": {
         "en": {
-            "id": "3393",
-            "alphasort": "Li, Naihan",
-            "displayname": "Li Naihan"
+            "displayName": "Li Naihan",
+            "alphasort": "Li, Naihan"
         },
         "zh-hant": {
-            "id": "3394",
-            "alphasort": "李鼐含",
-            "displayname": "李鼐含"
+            "displayName": "李鼐含",
+            "alphasort": "李鼐含"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1981",
+        "zh-hant": "中國籍，生於1981年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Harbin"
+    },
+    "deathCity": null,
     "beginDate": 1981,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1650
 }

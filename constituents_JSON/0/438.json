@@ -2,14 +2,12 @@
     "constituentID": 438,
     "name": {
         "en": {
-            "id": "430",
-            "alphasort": "Varbanov, Maryn",
-            "displayname": "Maryn Varbanov"
+            "displayName": "Maryn Varbanov",
+            "alphasort": "Varbanov, Maryn"
         },
         "zh-hant": {
-            "id": "2896",
-            "alphasort": "萬曼",
-            "displayname": "萬曼"
+            "displayName": "萬曼",
+            "alphasort": "萬曼"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Bulgarian",
+    "displayBio": {
+        "en": "Bulgarian, 1932–1989",
+        "zh-hant": "保加利亞籍，1932–1989年"
+    },
+    "nationality": {
+        "en": "Bulgarian",
+        "zh-hant": "保加利亞籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Oryakhovo"
+    },
+    "deathCity": null,
     "beginDate": 1932,
-    "deathyear": 1989,
+    "endDate": 1989,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 438
 }

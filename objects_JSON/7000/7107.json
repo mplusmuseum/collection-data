@@ -1,7 +1,8 @@
 {
     "objectID": 7107,
+    "onView": false,
     "objectNumber": "2017.168",
-    "sortNumber": 2017.168,
+    "sortNumber": "2017   168",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,16 +32,35 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            58
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": [
+        25
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Shanghai Vacuum Flask Factory No. 2",
     "title": {
         "en": "Sunflower vacuum flask",
-        "zh-hant": "向陽牌保溫瓶",
-        "zh-hans": "向阳牌保温瓶"
+        "zh-hant": "向陽牌保溫瓶"
     },
-    "displayDate": "1966–1975",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1966–1975",
+        "zh-hant": "1966–1975"
+    },
     "beginDate": 1966,
     "endDate": 1975,
     "dimension": {
-        "en": "overall (handle raised): 38.5 × 9.3 × 9.3 cm\r\r\nheight (handle down): 32.8 cm"
+        "en": "overall: 38.5 × 9.3 × 9.3 cm",
+        "zh-hant": "整體: 38.5 × 9.3 × 9.3 厘米"
     },
     "medium": {
         "en": "aluminium and paint",
@@ -49,6 +69,179 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "007001_007500/007107_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "007001_007500/007107_002.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "007001_007500/007107_003.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "007001_007500/007107_004.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "007001_007500/007107_005.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "007001_007500/007107_006.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "007001_007500/007107_007.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "007001_007500/007107_008.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "007001_007500/007107_009.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "007001_007500/007107_010.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "007001_007500/007107_011.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "007001_007500/007107_012.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "007001_007500/007107_013.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "*pending clarification*",
+        "concatRights": "M+/WKCDA exhibition/[pending research]; M+/WKCDA website/[pending research]; M+/WKCDA internal use/[pending research]; M+/WKCDA publications/[pending research]; M+/WKCDA press/publicity/[pending research]; M+/WKCDA press packs/[pending research]; M+/WKCDA advertising/[pending research]; M+/WKCDA learning team activities/[pending research]; 3rd-party exhibition (LOANS)/[pending research]; 3rd-party non-commercial research/academic/[pending research]; 3rd-party non-commercial educational/[pending research]; 3rd-party non-commercial publication/[pending research]; other 3rd-party non-commercial use/[pending research]; social media/[pending research]; commercial advertising/[pending research]; commercial merchandise/[pending research]; commercial publishing/[pending research]; Current status/* research required *",
+        "concatRemark": "",
+        "currentStatus": "* research required *",
+        "rights": [
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "[pending research]",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "[pending research]",
+                "group": "social media"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 7107
 }

@@ -2,14 +2,12 @@
     "constituentID": 561,
     "name": {
         "en": {
-            "id": "553",
-            "alphasort": "Yuan, Xiao Fang",
-            "displayname": "Yuan Xiao Fang"
+            "displayName": "Yuan Xiao Fang",
+            "alphasort": "Yuan, Xiao Fang"
         },
         "zh-hant": {
-            "id": "1560",
-            "alphasort": "袁, 曉舫",
-            "displayname": "袁曉舫"
+            "displayName": "袁曉舫",
+            "alphasort": "袁, 曉舫"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1961",
+        "zh-hant": "中國籍，生於1961年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Hubei Province"
+    },
+    "birthCity": {
+        "en": "Wuhan",
+        "zh-hant": "Wuhan"
+    },
+    "deathCity": null,
     "beginDate": 1961,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 561
 }

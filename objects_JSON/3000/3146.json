@@ -1,7 +1,8 @@
 {
     "objectID": 3146,
+    "onView": false,
     "objectNumber": "2012.639",
-    "sortNumber": 2012.639,
+    "sortNumber": "2012   639",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,28 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            95
+        ],
+        "sections": "[{\"95\":\"Related Work\"}]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Liu Wei",
     "title": {
         "en": "Purple Air IV—8. 10",
         "zh-hant": "紫氣 IV 4-8"
     },
-    "displayDate": "2007",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2007",
+        "zh-hant": "2007"
+    },
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
@@ -49,6 +67,136 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": ".1: Inscribed, verso LL: purple air IV\r\r\n.2: Inscribed, verso LL: purple air"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Oil painting on connected canvas panels depicting dense blocks of thin vertical lines in shades of violet, pink and blue interspersed with geometric landscapes and sunsets in the same palette.",
+            "AltTextTC": "油彩畫作繪於相連的畫布板上，淡紫色、粉紅色和藍色的纖幼直線緊密地聚攏成一片，中間穿插着以相同色系繪畫的幾何圖形風景和日落景色。",
+            "src": "003001_003500/003146_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003146_002.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003146_004.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003146_005.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003146_003.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003146_006.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Liu Wei",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3146
 }

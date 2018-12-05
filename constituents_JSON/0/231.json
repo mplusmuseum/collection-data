@@ -2,14 +2,12 @@
     "constituentID": 231,
     "name": {
         "en": {
-            "id": "223",
-            "alphasort": "Huang, Zhigen",
-            "displayname": "Huang Zhigen"
+            "displayName": "Huang Zhigen",
+            "alphasort": "Huang, Zhigen"
         },
         "zh-hant": {
-            "id": "1287",
-            "alphasort": "黃, 智根",
-            "displayname": "黃智根"
+            "displayName": "黃智根",
+            "alphasort": "黃, 智根"
         }
     },
     "type": "Individual",
@@ -18,11 +16,45 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Huang Zhigen (born 1946, Bei’an, Heilongjiang Province) is a painter of Korean descent, who works and lives in China. Huang graduated from the Luxun Academy of Fine Arts in 1970. After graduating, he immediately joined the Liaoning Artist Association as an official painter. He often creates folklore-inspired images and landscape paintings done in impressionist and realist styles, imbued with bright colours and light.",
-        "zh-hant": "黃智根（1946年生於黑龍江省北安市）是一位擁有韓國血統的畫家，現於中國生活及工作。黃氏在1970年畢業於魯迅美術學院，其後隨即加入遼寧省美術家協會，擔任官方畫家。他喜以民間故事為題材，風景畫瀰漫印象派和現實主義風格，擅於運用明亮色調和光線。"
+        "en": "Chinese, born 1946",
+        "zh-hant": "中國籍，生於1946年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1946,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Huang Zhigen (born 1946, Bei’an, Heilongjiang Province) is a painter of Korean descent, who works and lives in China. Huang graduated from the Luxun Academy of Fine Arts in 1970. After graduating, he immediately joined the Liaoning Artist Association as an official painter. He often creates folklore-inspired images and landscape paintings done in impressionist and realist styles, imbued with bright colours and light."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "黃智根（1946年生於黑龍江省北安市）是一位擁有韓國血統的畫家，現於中國生活及工作。黃氏在1970年畢業於魯迅美術學院，其後隨即加入遼寧省美術家協會，擔任官方畫家。他喜以民間故事為題材，風景畫瀰漫印象派和現實主義風格，擅於運用明亮色調和光線。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 231
 }

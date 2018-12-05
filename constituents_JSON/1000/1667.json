@@ -2,9 +2,12 @@
     "constituentID": 1667,
     "name": {
         "en": {
-            "id": "3423",
-            "alphasort": "Reddy, Krishna",
-            "displayname": "Krishna Reddy"
+            "displayName": "Krishna Reddy",
+            "alphasort": "Reddy, Krishna"
+        },
+        "zh-hant": {
+            "displayName": "克里希納·雷迪",
+            "alphasort": "克里希納·雷迪"
         }
     },
     "type": "Individual",
@@ -12,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Indian",
+    "displayBio": {
+        "en": "Indian, 1925 - 2018",
+        "zh-hant": "印度籍，1925–2018年"
+    },
+    "nationality": {
+        "en": "Indian",
+        "zh-hant": "印度籍"
+    },
+    "region": {
+        "en": "Southeast Asia",
+        "zh-hant": "東南亞"
+    },
+    "activeCity": {
+        "en": "New York City"
+    },
+    "birthCity": {
+        "en": "Chittoor district"
+    },
+    "deathCity": {
+        "en": "New York City"
+    },
     "beginDate": 1925,
-    "deathyear": 2018,
+    "endDate": 2018,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1667
 }

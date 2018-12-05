@@ -2,14 +2,12 @@
     "constituentID": 157,
     "name": {
         "en": {
-            "id": "149",
-            "alphasort": "Chuang, Che",
-            "displayname": "Chuang Che"
+            "displayName": "Chuang Che",
+            "alphasort": "Chuang, Che"
         },
         "zh-hant": {
-            "id": "1907",
-            "alphasort": "莊喆",
-            "displayname": "莊喆"
+            "displayName": "莊喆",
+            "alphasort": "莊喆"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "American, born China, 1934",
+        "zh-hant": "美國籍，1934年生於中國"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "Americas",
+        "zh-hant": "美洲"
+    },
+    "activeCity": {
+        "en": "New York City"
+    },
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1934,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 157
 }

@@ -2,14 +2,12 @@
     "constituentID": 448,
     "name": {
         "en": {
-            "id": "440",
-            "alphasort": "Wang, Jinsong",
-            "displayname": "Wang Jinsong"
+            "displayName": "Wang Jinsong",
+            "alphasort": "Wang, Jinsong"
         },
         "zh-hant": {
-            "id": "1460",
-            "alphasort": "王, 勁松",
-            "displayname": "王勁松"
+            "displayName": "王勁松",
+            "alphasort": "王, 勁松"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Harbin"
+    },
+    "deathCity": null,
     "beginDate": 1963,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 448
 }

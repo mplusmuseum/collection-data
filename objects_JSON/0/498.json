@@ -1,7 +1,8 @@
 {
     "objectID": 498,
+    "onView": false,
     "objectNumber": "2012.1540",
-    "sortNumber": 2012.154,
+    "sortNumber": "2012  1540",
     "classification": {
         "area": {
             "rank": 1,
@@ -29,24 +30,28 @@
                 "en": "Jiang Shaowu",
                 "zh-hant": "蔣少武"
             }
-        },
-        {
-            "id": 303,
-            "rank": 1,
-            "roles": {
-                "en": "Donor"
-            },
-            "names": {
-                "en": "Liu Heung-Shing",
-                "zh-hant": "劉香成"
-            }
         }
     ],
+    "exhibition": {
+        "ids": null,
+        "sections": null,
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Jiang Shaowu / 蔣少武",
     "title": {
         "en": "Mourning Chairman Mao Zhedong, Shenyang",
         "zh-hant": "哀悼毛主席逝世 沈陽"
     },
-    "displayDate": "1976",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1976",
+        "zh-hant": "1976"
+    },
     "beginDate": 1976,
     "endDate": 1976,
     "dimension": {
@@ -60,6 +65,98 @@
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Liu Heung-Shing, 2012",
         "zh-hant": "M+，香港，劉香成捐贈，2012年"
+    },
+    "inscription": {
+        "en": "\"3#-8\" on reverse"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "000001_000500/000498_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "RISK: untraceable Rights-Holder",
+        "copyright": "© Jiang Shaowu",
+        "concatRights": "M+/WKCDA exhibition/RESTRICTED, see NOTES; M+/WKCDA website/RESTRICTED, see NOTES; M+/WKCDA internal use/RESTRICTED, see NOTES; M+/WKCDA publications/RESTRICTED, see NOTES; M+/WKCDA press/publicity/RESTRICTED, see NOTES; M+/WKCDA press packs/RESTRICTED, see NOTES; M+/WKCDA advertising/RESTRICTED, see NOTES; M+/WKCDA learning team activities/RESTRICTED, see NOTES; 3rd-party exhibition (LOANS)/RESTRICTED, see NOTES; 3rd-party non-commercial research/academic/RESTRICTED, see NOTES; 3rd-party non-commercial educational/RESTRICTED, see NOTES; 3rd-party non-commercial publication/RESTRICTED, see NOTES; other 3rd-party non-commercial use/RESTRICTED, see NOTES; social media/RESTRICTED, see NOTES; commercial advertising/RESTRICTED, see NOTES; commercial merchandise/RESTRICTED, see NOTES; commercial publishing/RESTRICTED, see NOTES; Current status/Rights-Holder untraceable (see research document in 'Media' tab)",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder untraceable (see research document in 'Media' tab)",
+        "rights": [
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "social media"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 498
 }

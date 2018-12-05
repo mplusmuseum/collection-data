@@ -2,14 +2,12 @@
     "constituentID": 424,
     "name": {
         "en": {
-            "id": "416",
-            "alphasort": "Sun, Yuan",
-            "displayname": "Sun Yuan"
+            "displayName": "Sun Yuan",
+            "alphasort": "Sun, Yuan"
         },
         "zh-hant": {
-            "id": "1441",
-            "alphasort": "孫, 原",
-            "displayname": "孫原"
+            "displayName": "孫原",
+            "alphasort": "孫, 原"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1972",
+        "zh-hant": "中國籍，生於1972年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1972,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 424
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 671,
+    "onView": false,
     "objectNumber": "2013.535",
-    "sortNumber": 2013.535,
+    "sortNumber": "2013   535",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,137 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            27,
+            32,
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Ho Sin Tung",
     "title": {
         "en": "Forgotten Land: Where Are You?",
-        "zh-hant": "忘掉天地：你這剎你在何方？",
-        "zh-hans": "忘掉天地：你这刹你在何方？"
+        "zh-hant": "忘掉天地：你這剎你在何方？"
     },
-    "displayDate": "2012",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": "2012"
+    },
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
         "en": "frame: 39.5 × 54.5 × 1.5 cm\r\r\nsheet (sight): 19.5 × 33.4 cm",
-        "zh-hant": "紙本: 20.5 × 35 厘米\r\r\n框架: 40 × 54.5 × 1.5 厘米",
-        "zh-hans": "纸本: 20.5 × 35 厘米\r\r\n框架: 40 × 54.5 × 1.5 厘米"
+        "zh-hant": "紙本: 20.5 × 35 厘米\r\r\n框架: 40 × 54.5 × 1.5 厘米"
     },
     "medium": {
         "en": "pencil on paper",
-        "zh-hant": "鉛筆紙本",
-        "zh-hans": "铅笔纸本"
+        "zh-hant": "鉛筆紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Titled on mount board, LC: FORGOTTEN LAND. WHERE ARE YOU\r\r\nSecondary inscriptions, see catalogue worksheet"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Pencil drawing on paper of three horizontal vignettes with black panels across the top and bottom. On our left the phrase 'Where are you?' is written across draping fabric. In the middle the words 'dove sei?' are written across a gaunt face. On our right, clouds blanket a grey sky.",
+            "AltTextTC": "鉛筆紙本作品由三幅橫向連接的敍事插圖組成，三者上下繪上黑色粗條。左邊插圖呈現一幅垂墜的布料，上面寫着「你在哪兒？」。中間的插圖呈現一張憔悴的臉龐，上面以意大利文寫着「你從哪裏來？」。右邊的插圖呈現黑雲密佈的天空。",
+            "src": "000501_001000/000671_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "M+ is the copyright owner",
+        "copyright": "© M+, Hong Kong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/PERMISSION GRANTED; commercial merchandise/PERMISSION GRANTED; commercial publishing/PERMISSION GRANTED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 671
 }

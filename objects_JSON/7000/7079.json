@@ -1,7 +1,8 @@
 {
     "objectID": 7079,
+    "onView": false,
     "objectNumber": "2017.59",
-    "sortNumber": 2017.59,
+    "sortNumber": "2017    59",
     "classification": {
         "area": {
             "rank": 2,
@@ -42,12 +43,30 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            58
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": [
+        25
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Xin Liliang; Shanghai People's Fine Arts Publishing House",
     "title": {
         "en": "Thank you, Uncles of the Volunteer Army, poster",
-        "zh-hant": "《謝謝志願軍叔叔》海報",
-        "zh-hans": "《谢谢志愿军叔叔》海报"
+        "zh-hant": "《謝謝志願軍叔叔》海報"
     },
-    "displayDate": "1954",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1954",
+        "zh-hant": "1954"
+    },
     "beginDate": 1954,
     "endDate": 1954,
     "dimension": {
@@ -61,6 +80,116 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {
+        "en": "poster"
+    },
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "007001_007500/007079_002.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "007001_007500/007079_003.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "007001_007500/007079_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "007001_007500/007079_004.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Rights Holder RESERVES ALL RIGHTS",
+        "copyright": "© Shanghai People’s Fine Arts Publishing House",
+        "concatRights": "M+/WKCDA exhibition/DENIED; M+/WKCDA website/DENIED; M+/WKCDA internal use/DENIED; M+/WKCDA publications/DENIED; M+/WKCDA press/publicity/DENIED; M+/WKCDA press packs/DENIED; M+/WKCDA advertising/DENIED; M+/WKCDA learning team activities/DENIED; 3rd-party exhibition (LOANS)/DENIED; 3rd-party non-commercial research/academic/DENIED; 3rd-party non-commercial educational/DENIED; 3rd-party non-commercial publication/DENIED; other 3rd-party non-commercial use/DENIED; social media/DENIED; commercial advertising/DENIED; commercial merchandise/DENIED; commercial publishing/DENIED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "DENIED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "DENIED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "DENIED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "DENIED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "DENIED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "DENIED",
+                "group": "social media"
+            },
+            {
+                "title": "DENIED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "DENIED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "DENIED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 7079
 }

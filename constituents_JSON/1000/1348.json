@@ -2,23 +2,41 @@
     "constituentID": 1348,
     "name": {
         "en": {
-            "id": "2630",
-            "alphasort": "W. Szeto & Partners",
-            "displayname": "W. Szeto & Partners"
+            "displayName": "W. Szeto & Partners",
+            "alphasort": "W. Szeto & Partners"
         },
         "zh-hant": {
-            "id": "2904",
-            "alphasort": "司徒惠建築師事務所",
-            "displayname": "司徒惠建築師事務所"
+            "displayName": "司徒惠建築師事務所",
+            "alphasort": "司徒惠建築師事務所"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Hong Kong, 1948–1998",
+        "zh-hant": "1948–1998年，於香港成立"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1948,
-    "deathyear": 1998,
+    "endDate": 1998,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1348
 }

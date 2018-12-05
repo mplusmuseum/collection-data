@@ -1,7 +1,8 @@
 {
     "objectID": 908,
+    "onView": false,
     "objectNumber": "2013.76",
-    "sortNumber": 2013.76,
+    "sortNumber": "2013    76",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,17 +32,6 @@
             }
         },
         {
-            "id": 19,
-            "rank": 1,
-            "roles": {
-                "en": "Seller"
-            },
-            "names": {
-                "en": "Atelier FCJZ",
-                "zh-hant": "非常建築"
-            }
-        },
-        {
             "id": 121,
             "rank": 2,
             "roles": {
@@ -53,28 +43,140 @@
             }
         }
     ],
-    "title": {
-        "en": "Model, Hebei Education Publishing House (2000–4), Hebei, China",
-        "zh-hant": "河北教育出版社大樓模型（2000–4），中國河北",
-        "zh-hans": "河北教育出版社大楼模型（2000–4），中国河北"
+    "exhibition": {
+        "ids": [
+            49,
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
     },
-    "displayDate": "2004",
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Atelier FCJZ; Yung Ho Chang",
+    "title": {
+        "en": "Model, Hebei Education Publishing House (2000–2004), Hebei, China",
+        "zh-hant": "河北教育出版社大樓模型（2000–2004），中國河北"
+    },
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2004",
+        "zh-hant": "2004"
+    },
     "beginDate": 2004,
     "endDate": 2004,
     "dimension": {
         "en": "overall (model): 34.7 × 45.1 × 60 cm\r\r\noverall (vitrine): 36.8 × 46.5 × 61.2 cm",
-        "zh-hant": "55 × 40 × 27 厘米",
-        "zh-hans": "55 × 40 × 27 厘米"
+        "zh-hant": "55 × 40 × 27 厘米"
     },
     "medium": {
         "en": "wood and acrylic",
-        "zh-hant": "木、亞加力",
-        "zh-hans": "轻木及亚加力"
+        "zh-hant": "木、亞加力"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Wooden model of a building on a small wooden platform. The building consists of two equally tall structures side by side with a third structure lying horizontally across them. Multiple walkways connect the two.",
+            "AltTextTC": "一個木製建築模型置於一個細小的木平台上。建築物由三個部分組成，兩個高度相同的結構並排而立，以多條走廊通道連接起來，第三個結構橫跨兩者之上。",
+            "src": "000501_001000/000908_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        },
+        {
+            "src": "000501_001000/000908_002.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Atelier FCJZ",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 908
 }

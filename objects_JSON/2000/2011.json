@@ -1,7 +1,8 @@
 {
     "objectID": 2011,
+    "onView": false,
     "objectNumber": "2014.60",
-    "sortNumber": 2014.6,
+    "sortNumber": "2014    60",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,15 +32,30 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": null,
+        "sections": null,
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Iwao Yamawaki",
     "title": {
         "en": "Bauhaus",
         "zh-hant": "包浩斯"
     },
-    "displayDate": "circa 1955",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "circa 1955",
+        "zh-hant": "約1955年"
+    },
     "beginDate": 1953,
     "endDate": 1957,
     "dimension": {
-        "en": "sheet: 17.8 × 12.4 cm",
+        "en": "image (sight): 17.1 × 12 cm\r\r\nframe: 35.1 × 30 × 1.9 cm",
         "zh-hant": "紙本: 17.8 × 12.4 厘米"
     },
     "medium": {
@@ -49,6 +65,109 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Not visible"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "002001_002500/002011_001.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002011_002.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002011_003.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "*pending clarification*",
+        "concatRights": "M+/WKCDA exhibition/[pending research]; M+/WKCDA website/[pending research]; M+/WKCDA internal use/[pending research]; M+/WKCDA publications/[pending research]; M+/WKCDA press/publicity/[pending research]; M+/WKCDA press packs/[pending research]; M+/WKCDA advertising/[pending research]; M+/WKCDA learning team activities/[pending research]; 3rd-party exhibition (LOANS)/[pending research]; 3rd-party non-commercial research/academic/[pending research]; 3rd-party non-commercial educational/[pending research]; 3rd-party non-commercial publication/[pending research]; other 3rd-party non-commercial use/[pending research]; social media/[pending research]; commercial advertising/[pending research]; commercial merchandise/[pending research]; commercial publishing/[pending research]; Current status/* research required *",
+        "concatRemark": "",
+        "currentStatus": "* research required *",
+        "rights": [
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "[pending research]",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "[pending research]",
+                "group": "social media"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2011
 }

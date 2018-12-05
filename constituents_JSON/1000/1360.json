@@ -2,14 +2,12 @@
     "constituentID": 1360,
     "name": {
         "en": {
-            "id": "2692",
-            "alphasort": "Lee, Ka-sing",
-            "displayname": "Lee Ka-sing"
+            "displayName": "Lee Ka-sing",
+            "alphasort": "Lee, Ka-sing"
         },
         "zh-hant": {
-            "id": "2693",
-            "alphasort": "李家昇",
-            "displayname": "李家昇"
+            "displayName": "李家昇",
+            "alphasort": "李家昇"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1954",
+        "zh-hant": "香港，生於1954年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Toronto"
+    },
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1954,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1360
 }

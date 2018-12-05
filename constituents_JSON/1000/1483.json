@@ -2,18 +2,43 @@
     "constituentID": 1483,
     "name": {
         "en": {
-            "id": "3149",
-            "alphasort": "Jung, Boyoung",
-            "displayname": "Boyoung Jung"
+            "displayName": "Boyoung Jung",
+            "alphasort": "Jung, Boyoung"
+        },
+        "zh-hant": {
+            "displayName": "鄭普榮／WOLFS＋JUNG",
+            "alphasort": "鄭普榮／WOLFS＋JUNG"
         }
     },
     "type": "Individual",
     "gender": {
-        "zh-hant": null
+        "en": "Unknown",
+        "zh-hant": "不詳"
     },
-    "displayBio": {},
-    "nationality": "Korean",
+    "displayBio": {
+        "en": "Korean, born 1978",
+        "zh-hant": "韓國籍，生於1978年"
+    },
+    "nationality": {
+        "en": "South Korean",
+        "zh-hant": "南韓籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Seoul"
+    },
+    "birthCity": {
+        "en": "Gwangju"
+    },
+    "deathCity": null,
     "beginDate": 1978,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1483
 }

@@ -2,26 +2,60 @@
     "constituentID": 96,
     "name": {
         "en": {
-            "id": "88",
-            "alphasort": "Yangjiang Group",
-            "displayname": "Yangjiang Group"
+            "displayName": "Yangjiang Group",
+            "alphasort": "Yangjiang Group"
         },
         "zh-hant": {
-            "id": "3083",
-            "alphasort": "陽江組",
-            "displayname": "陽江組"
+            "displayName": "陽江組",
+            "alphasort": "陽江組"
         }
     },
     "type": "Artist Collaborative",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
     "displayBio": {
-        "en": "Yangjiang Group (founded 2002, Yangjiang) is an artist collective formed by Zheng Guogu (born 1970, Yangjiang), Chen Zaiyan (born 1971, Yangchun), and Sun Qinglin (born 1971, Yangjiang). The trio are known for reappropriating Chinese calligraphy by incorporating daily actions and processes into large-scale installations and photographs that subvert the established rules and controlled conditions of contemporary artistic practice.",
-        "zh-hant": "陽江組 (2002年於陽江成立) 是由鄭國谷（1970年生於陽江）、陳再炎（1971年生於陽春）和孫慶麟（1971年生於中國陽江）組成的藝術家組織。他們長於通過重新挪用中國書法，把一系列日常行為結集成大型裝置及攝影作品，從而顛覆當代藝術實踐中既定的規則和受控的處境。"
+        "en": "established Yangjiang, 2002",
+        "zh-hant": "2002年成立於陽江"
     },
-    "nationality": null,
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Yangjiang"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 2002,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Yangjiang Group (founded 2002, Yangjiang) is an artist collective formed by Zheng Guogu (born 1970, Yangjiang), Chen Zaiyan (born 1971, Yangchun), and Sun Qinglin (born 1971, Yangjiang). The trio are known for reappropriating Chinese calligraphy by incorporating daily actions and processes into large-scale installations and photographs that subvert the established rules and controlled conditions of contemporary artistic practice."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "陽江組 (2002年於陽江成立) 是由鄭國谷（1970年生於陽江）、陳再炎（1971年生於陽春）和孫慶麟（1971年生於中國陽江）組成的藝術家組織。他們長於通過重新挪用中國書法，把一系列日常行為結集成大型裝置及攝影作品，從而顛覆當代藝術實踐中既定的規則和受控的處境。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 96
 }

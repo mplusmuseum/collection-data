@@ -1,7 +1,8 @@
 {
     "objectID": 1665,
+    "onView": false,
     "objectNumber": "2015.274",
-    "sortNumber": 2015.274,
+    "sortNumber": "2015   274",
     "classification": {
         "area": {
             "rank": 1,
@@ -29,41 +30,135 @@
                 "en": "Lui Chun-kwong",
                 "zh-hant": "呂振光"
             }
-        },
-        {
-            "id": 326,
-            "rank": 1,
-            "roles": {
-                "en": "Donor"
-            },
-            "names": {
-                "en": "Lui Chun-kwong",
-                "zh-hant": "呂振光"
-            }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Lui Chun-kwong",
     "title": {
         "en": "The Wounded Bird series No.1",
-        "zh-hant": "刺鳥系列之一",
-        "zh-hans": "刺鸟系列之一"
+        "zh-hant": "刺鳥系列之一"
     },
-    "displayDate": "1987",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1987",
+        "zh-hant": "1987"
+    },
     "beginDate": 1987,
     "endDate": 1987,
     "dimension": {
         "en": "frame: 87.1 × 104.5 × 2.1 cm\r\r\nsheet (sight): 54.2 × 73.7 cm",
-        "zh-hant": "57 × 75 厘米",
-        "zh-hans": "57 × 75 厘米"
+        "zh-hant": "框架: 87.1 × 104.5 × 2.1 厘米\r\n紙本 (目測量度): 54.2 × 73.7 厘米"
     },
     "medium": {
         "en": "acrylic and mixed media on paper",
-        "zh-hant": "塑膠彩及混合媒材紙本",
-        "zh-hans": "塑胶彩及综合材料紙本"
+        "zh-hant": "塑膠彩及混合媒材紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Lui Chun-kwong, 2012",
-        "zh-hant": "M+，香港，劉香成捐贈，2012年",
-        "zh-hans": "香港M+，刘香成捐赠，2012年"
+        "zh-hant": "M+，香港，劉香成捐贈，2012年"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Acrylic and mixed media painting on paper of a stylized black and orange striped bird flying across a landscape that features distinct, patch-like images. Rendered with dry, frenetic brush strokes.",
+            "AltTextTC": "塑膠彩及混合素材紙本作品中，一隻非寫實的鳥類形象，身上佈滿黑色和橙色間紋，飛越一片大地，地上展示一些片狀的獨立圖像。作品以狂放的乾枯筆觸繪畫。",
+            "src": "001501_002000/001665_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Lui Chun-kwong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/PERMISSION GRANTED; commercial merchandise/PERMISSION GRANTED; commercial publishing/PERMISSION GRANTED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 1665
 }

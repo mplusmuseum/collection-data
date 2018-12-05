@@ -2,14 +2,12 @@
     "constituentID": 241,
     "name": {
         "en": {
-            "id": "233",
-            "alphasort": "Jing, Kewen",
-            "displayname": "Jing Kewen"
+            "displayName": "Jing Kewen",
+            "alphasort": "Jing, Kewen"
         },
         "zh-hant": {
-            "id": "1295",
-            "alphasort": "景, 柯文",
-            "displayname": "景柯文"
+            "displayName": "景柯文",
+            "alphasort": "景, 柯文"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1965",
+        "zh-hant": "中國籍，生於1965年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Xining City"
+    },
+    "deathCity": null,
     "beginDate": 1965,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 241
 }

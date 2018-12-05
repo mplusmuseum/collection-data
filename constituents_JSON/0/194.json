@@ -2,14 +2,12 @@
     "constituentID": 194,
     "name": {
         "en": {
-            "id": "186",
-            "alphasort": "Guang, Tingbo",
-            "displayname": "Guang Tingbo"
+            "displayName": "Guang Tingbo",
+            "alphasort": "Guang, Tingbo"
         },
         "zh-hant": {
-            "id": "1253",
-            "alphasort": "廣, 廷渤",
-            "displayname": "廣廷渤"
+            "displayName": "廣廷渤",
+            "alphasort": "廣, 廷渤"
         }
     },
     "type": "Individual",
@@ -18,11 +16,49 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Guang Tingbo (born 1938, Dalian, Liaoning Province) graduated from the oil painting department of Luxun Academy of Fine Arts (was known as the Luxun Arts College before 1958) in 1964. Guang worked as a professional painter with the Liaoning Artist Association during the Cultural Revolution in the 1960s. He was known for creating portraits in social realist style to highlight humble civilian life during the revolution period. Guang works and lives in Liaoning.",
-        "zh-hant": "廣廷渤（1938年生於遼寧省大連市）在1964年畢業於魯迅美術學院（前身為魯迅藝術學院）油畫系，1960年代文革時期曾遼寧省美術家協會創作員。其創作之肖像作品流露社會現實主義色彩，刻劃革命時期人民的樸實生活。廣氏現於遼寧生活及工作。"
+        "en": "Chinese, born 1938",
+        "zh-hant": "中國籍，生於1938年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "United States"
+    },
+    "birthCity": {
+        "en": "Dalian"
+    },
+    "deathCity": null,
     "beginDate": 1938,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Guang Tingbo (born 1938, Dalian, Liaoning Province) graduated from the oil painting department of Luxun Academy of Fine Arts (was known as the Luxun Arts College before 1958) in 1964. Guang worked as a professional painter with the Liaoning Artist Association during the Cultural Revolution in the 1960s. He was known for creating portraits in social realist style to highlight humble civilian life during the revolution period. Guang works and lives in Liaoning."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "廣廷渤（1938年生於遼寧省大連市）在1964年畢業於魯迅美術學院（前身為魯迅藝術學院）油畫系，1960年代文革時期曾遼寧省美術家協會創作員。其創作之肖像作品流露社會現實主義色彩，刻劃革命時期人民的樸實生活。廣氏現於遼寧生活及工作。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 194
 }

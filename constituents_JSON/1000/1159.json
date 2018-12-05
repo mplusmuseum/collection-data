@@ -2,13 +2,12 @@
     "constituentID": 1159,
     "name": {
         "en": {
-            "id": "2205",
-            "alphasort": "Hsu, Yu-Jen",
-            "displayname": "Hsu Yu-Jen"
+            "displayName": "Hsu Yu-Jen",
+            "alphasort": "Hsu, Yu-Jen"
         },
         "zh-hant": {
-            "id": "2206",
-            "displayname": "許雨仁"
+            "displayName": "許雨仁",
+            "alphasort": "許雨仁"
         }
     },
     "type": "Individual",
@@ -16,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Taiwanese",
+    "displayBio": {
+        "en": "Taiwanese, born 1951",
+        "zh-hant": "台灣籍，生於1951年"
+    },
+    "nationality": {
+        "en": "Taiwanese",
+        "zh-hant": "台灣籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Taipei",
+        "zh-hant": "臺北市"
+    },
+    "birthCity": {
+        "en": "Tainan"
+    },
+    "deathCity": null,
     "beginDate": 1951,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1159
 }

@@ -2,14 +2,12 @@
     "constituentID": 301,
     "name": {
         "en": {
-            "id": "293",
-            "alphasort": "Liu, Ding",
-            "displayname": "Liu Ding"
+            "displayName": "Liu Ding",
+            "alphasort": "Liu, Ding"
         },
         "zh-hant": {
-            "id": "1343",
-            "alphasort": "劉, 鼎",
-            "displayname": "劉鼎"
+            "displayName": "劉鼎",
+            "alphasort": "劉, 鼎"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1976",
+        "zh-hant": "中國籍，生於1976年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Changzhou"
+    },
+    "deathCity": null,
     "beginDate": 1976,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 301
 }

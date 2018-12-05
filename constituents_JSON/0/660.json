@@ -2,14 +2,12 @@
     "constituentID": 660,
     "name": {
         "en": {
-            "id": "652",
-            "alphasort": "Fan, Ho",
-            "displayname": "Ho Fan"
+            "displayName": "Ho Fan",
+            "alphasort": "Fan, Ho"
         },
         "zh-hant": {
-            "id": "1812",
-            "alphasort": "何藩",
-            "displayname": "何藩"
+            "displayName": "何藩",
+            "alphasort": "何藩"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born China. 1931–2016",
+        "zh-hant": "香港，生於中國，1931–2016年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Shanghai"
+    },
+    "deathCity": null,
     "beginDate": 1931,
-    "deathyear": 2016,
+    "endDate": 2016,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 660
 }

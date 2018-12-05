@@ -2,9 +2,12 @@
     "constituentID": 821,
     "name": {
         "en": {
-            "id": "1728",
-            "alphasort": "Perriand, Charlotte",
-            "displayname": "Charlotte Perriand"
+            "displayName": "Charlotte Perriand",
+            "alphasort": "Perriand, Charlotte"
+        },
+        "zh-hant": {
+            "displayName": "夏洛特·佩里安",
+            "alphasort": "夏洛特·佩里安"
         }
     },
     "type": "Individual",
@@ -12,9 +15,28 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "French",
+    "displayBio": {
+        "en": "French, 1903–1999",
+        "zh-hant": "法國籍，1903–1999年"
+    },
+    "nationality": {
+        "en": "French",
+        "zh-hant": "法國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Paris"
+    },
+    "deathCity": null,
     "beginDate": 1903,
-    "deathyear": 1999,
+    "endDate": 1999,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 821
 }

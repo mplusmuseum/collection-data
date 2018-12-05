@@ -1,7 +1,8 @@
 {
     "objectID": 2038,
+    "onView": false,
     "objectNumber": "2014.85",
-    "sortNumber": 2014.85,
+    "sortNumber": "2014    85",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,139 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Kamekura Yusaku",
     "title": {
         "en": "Poster, Tokyo Olympics 1964",
-        "zh-hant": "1964年東京奧運會海報",
-        "zh-hans": "1964年东京奥运会海报"
+        "zh-hant": "1964年東京奧運會海報"
     },
-    "displayDate": "1964",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1964",
+        "zh-hant": "1964"
+    },
     "beginDate": 1964,
     "endDate": 1964,
     "dimension": {
-        "en": "100 × 70.7 cm",
-        "zh-hant": "100 × 70.7 厘米",
-        "zh-hans": "100 × 70.7 厘米"
+        "en": "sheet: 100 × 70.7 cm",
+        "zh-hant": "紙本: 100 × 70.7 厘米"
     },
     "medium": {
         "en": "offset lithograph",
-        "zh-hant": "柯式石印",
-        "zh-hans": "柯式印刷纸本"
+        "zh-hant": "柯式石印"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Poster for the 1964 Tokyo Summer Olympics. The poster consists of a photo of six male runners of different ethnicities rising in unison from the starting blocks. Along the bottom of the poster is the text \"TOKYO\" followed by the crimson-red disc centre of Japan's national flag above the Olympic symbols, and finally the text \"1964\". The text and the Olympic symbols are rendered in gold.",
+            "AltTextTC": "1964年東京奧運會海報。照片裏出現六位不同種族的男性賽跑運動員，於起步點一同躍身起跑。海報下方出現一些字樣和圖像，左邊首先以英文寫着「東京」，中間是日本國旗的紅色圓形，圓形下方是奧運標誌，最後右邊呈現「1964」字樣。字體和奧運標誌採用了金色。",
+            "src": "002001_002500/002038_002.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        },
+        {
+            "src": "002001_002500/002038_001.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© all rights reserved",
+        "concatRights": "M+/WKCDA exhibition/RISK JUDGEMENT = OK; M+/WKCDA website/RISK JUDGEMENT = OK; M+/WKCDA internal use/RISK JUDGEMENT = OK; M+/WKCDA publications/RISK JUDGEMENT = OK; M+/WKCDA press/publicity/CONTACT the RIGHTS HOLDER; M+/WKCDA press packs/CONTACT the RIGHTS HOLDER; M+/WKCDA advertising/CONTACT the RIGHTS HOLDER; M+/WKCDA learning team activities/RISK JUDGEMENT = OK; 3rd-party exhibition (LOANS)/RISK JUDGEMENT = OK; 3rd-party non-commercial research/academic/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial educational/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial publication/CONTACT the RIGHTS HOLDER; other 3rd-party non-commercial use/CONTACT the RIGHTS HOLDER; social media/RISK JUDGEMENT = NOT OK; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/In correspondence with Rights-Holder",
+        "concatRemark": "",
+        "currentStatus": "In correspondence with Rights-Holder",
+        "rights": [
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "RISK JUDGEMENT = NOT OK",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2038
 }

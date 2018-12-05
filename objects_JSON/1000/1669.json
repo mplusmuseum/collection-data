@@ -1,7 +1,8 @@
 {
     "objectID": 1669,
+    "onView": false,
     "objectNumber": "2015.278",
-    "sortNumber": 2015.278,
+    "sortNumber": "2015   278",
     "classification": {
         "area": {
             "rank": 1,
@@ -29,41 +30,173 @@
                 "en": "Lui Chun-kwong",
                 "zh-hant": "呂振光"
             }
-        },
-        {
-            "id": 326,
-            "rank": 1,
-            "roles": {
-                "en": "Donor"
-            },
-            "names": {
-                "en": "Lui Chun-kwong",
-                "zh-hant": "呂振光"
-            }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Lui Chun-kwong",
     "title": {
         "en": "Something about the Sixties",
-        "zh-hant": "關於六十年代",
-        "zh-hans": "关于六十年代"
+        "zh-hant": "關於六十年代"
     },
-    "displayDate": "1992",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1992",
+        "zh-hant": "1992"
+    },
     "beginDate": 1992,
     "endDate": 1992,
     "dimension": {
         "en": "overall (approx): 214 × 366.3 × 6.5 cm",
-        "zh-hant": "整體: 213 × 268 厘米",
-        "zh-hans": "整体: 213 × 268 厘米"
+        "zh-hant": "整體: 213 × 268 厘米"
     },
     "medium": {
         "en": "acrylic and mixed media on canvas",
-        "zh-hant": "塑膠彩及混合素材布本",
-        "zh-hans": "塑胶彩及综合材料紙本"
+        "zh-hant": "塑膠彩及混合素材布本"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Lui Chun-kwong, 2012",
-        "zh-hant": "M+，香港，劉香成捐贈，2012年",
-        "zh-hans": "香港M+，刘香成捐赠，2012年"
+        "zh-hant": "M+，香港，劉香成捐贈，2012年"
+    },
+    "inscription": {
+        "en": "No visible inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Acrylic and mixed media painting on four adjacent canvases depicting different sketches and vignettes on a taupe background. Vignettes include a lounging figure, people in doorways, hands holding red sticks, and rows and columns of square-framed designs.",
+            "AltTextTC": "塑膠彩及混合素材布本作品，繪於四張左右並排的畫布上。棕灰色的背景上，呈現一系列速繪和小插畫。內容包括一個姿態悠閒的人物、站在門口的人、拿着紅色枝條的手，以及縱列和橫列的正方框圖像。",
+            "src": "001501_002000/001669_002.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "001501_002000/001669_001.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "001501_002000/001669_004.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "001501_002000/001669_005.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "001501_002000/001669_006.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "001501_002000/001669_007.jpg",
+            "rank": "1",
+            "primaryDisplay": true,
+            "publicAccess": true
+        },
+        {
+            "src": "001501_002000/001669_003.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Lui Chun-kwong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/PERMISSION GRANTED; commercial merchandise/PERMISSION GRANTED; commercial publishing/PERMISSION GRANTED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 1669
 }

@@ -2,14 +2,12 @@
     "constituentID": 506,
     "name": {
         "en": {
-            "id": "498",
-            "alphasort": "Xu, Peiwu",
-            "displayname": "Xu Peiwu"
+            "displayName": "Xu Peiwu",
+            "alphasort": "Xu, Peiwu"
         },
         "zh-hant": {
-            "id": "1513",
-            "alphasort": "許, 培武",
-            "displayname": "許培武"
+            "displayName": "許培武",
+            "alphasort": "許, 培武"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Chaozhou"
+    },
+    "deathCity": null,
     "beginDate": 1963,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 506
 }

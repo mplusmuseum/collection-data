@@ -2,14 +2,12 @@
     "constituentID": 159,
     "name": {
         "en": {
-            "id": "151",
-            "alphasort": "Cui, Xiuwen",
-            "displayname": "Cui Xiuwen"
+            "displayName": "Cui Xiuwen",
+            "alphasort": "Cui, Xiuwen"
         },
         "zh-hant": {
-            "id": "1227",
-            "alphasort": "崔, 岫聞",
-            "displayname": "崔岫聞"
+            "displayName": "崔岫聞",
+            "alphasort": "崔, 岫聞"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, 1970–2018",
+        "zh-hant": "中國籍，1970–2018年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Harbin"
+    },
+    "deathCity": null,
     "beginDate": 1970,
-    "deathyear": 2018,
+    "endDate": 2018,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 159
 }

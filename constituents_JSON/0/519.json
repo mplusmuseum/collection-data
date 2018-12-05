@@ -2,14 +2,12 @@
     "constituentID": 519,
     "name": {
         "en": {
-            "id": "511",
-            "alphasort": "Yamawaki, Iwao",
-            "displayname": "Iwao Yamawaki"
+            "displayName": "Iwao Yamawaki",
+            "alphasort": "Yamawaki, Iwao"
         },
         "zh-hant": {
-            "id": "2970",
-            "alphasort": "山脇巌",
-            "displayname": "山脇巌"
+            "displayName": "山脇巌",
+            "alphasort": "山脇巌"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, 1898–1987",
+        "zh-hant": "日本籍，1898–1987年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Japan",
+        "zh-hant": "Japan"
+    },
+    "deathCity": null,
     "beginDate": 1898,
-    "deathyear": 1987,
+    "endDate": 1987,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 519
 }

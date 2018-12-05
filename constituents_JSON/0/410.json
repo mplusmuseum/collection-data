@@ -2,14 +2,12 @@
     "constituentID": 410,
     "name": {
         "en": {
-            "id": "402",
-            "alphasort": "Shi, Yong",
-            "displayname": "Shi Yong"
+            "displayName": "Shi Yong",
+            "alphasort": "Shi, Yong"
         },
         "zh-hant": {
-            "id": "1429",
-            "alphasort": "施, 勇",
-            "displayname": "施勇"
+            "displayName": "施勇",
+            "alphasort": "施, 勇"
         }
     },
     "type": "Individual",
@@ -18,11 +16,49 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Shi Yong (born 1963, Shanghai) graduated from the fine art department of the Shanghai Light Industry College in 1984. Shi became active when China underwent the process of internationalisation in the 1990s. He produced works in the forms of photography, large-scale installations, and architectural models to address ideologies of consumerism and modernisation. Shi lives and works in Shanghai.",
-        "zh-hant": "施勇（1963年生於上海）在1984年畢業於上海輕工業高等專科學校美術系。他在1990年代開始活躍藝壇，當時中國正經歷國際化進程。作品類別涵蓋攝影、大型裝置及建築模型，表現消費主義和現代化的意識形態。施氏現於上海生活及工作。"
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shanghai"
+    },
+    "birthCity": {
+        "en": "Shanghai"
+    },
+    "deathCity": null,
     "beginDate": 1963,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Shi Yong (born 1963, Shanghai) graduated from the fine art department of the Shanghai Light Industry College in 1984. Shi became active when China underwent the process of internationalisation in the 1990s. He produced works in the forms of photography, large-scale installations, and architectural models to address ideologies of consumerism and modernisation. Shi lives and works in Shanghai."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "施勇（1963年生於上海）在1984年畢業於上海輕工業高等專科學校美術系。他在1990年代開始活躍藝壇，當時中國正經歷國際化進程。作品類別涵蓋攝影、大型裝置及建築模型，表現消費主義和現代化的意識形態。施氏現於上海生活及工作。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 410
 }

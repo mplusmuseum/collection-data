@@ -2,14 +2,12 @@
     "constituentID": 1097,
     "name": {
         "en": {
-            "id": "2078",
-            "alphasort": "Han, Hsiang-ning",
-            "displayname": "Han Hsiang-ning"
+            "displayName": "Han Hsiang-ning",
+            "alphasort": "Han, Hsiang-ning"
         },
         "zh-hant": {
-            "id": "2079",
-            "alphasort": "Han, Hsiang-ning",
-            "displayname": "韓湘寧"
+            "displayName": "韓湘寧",
+            "alphasort": "Han, Hsiang-ning"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "American, born China, 1939",
+        "zh-hant": "美國籍，1939年生於中國"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "Americas",
+        "zh-hant": "美洲"
+    },
+    "activeCity": {
+        "en": "Dali"
+    },
+    "birthCity": {
+        "en": "Chongqing"
+    },
+    "deathCity": null,
     "beginDate": 1939,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1097
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 4852,
+    "onView": false,
     "objectNumber": "2015.82",
-    "sortNumber": 2015.82,
+    "sortNumber": "2015    82",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,27 +32,159 @@
             }
         }
     ],
-    "title": {
-        "en": "Architecture Series",
-        "zh-hant": "建築系列"
+    "exhibition": {
+        "ids": [
+            75,
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "Ambiguously Yours"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Ambiguously Yours",
+                        "text": "Here, modern buildings take on gendered roles of scaffoldings for political commentary, a conjecture of women, fashion, art deco, and architecture.\r\r\n──Patrick D. Flores, ‘Outfit’, Wilson Shieh – Fitting Room, Hong Kong: Osage Gallery, 2009, page 7"
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "Ambiguously Yours"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Ambiguously Yours",
+                        "text": "在這裡，現代大廈扮演了性別角色，或成為政治評論的平台，變成女人、潮流、裝飾藝術和建築的結合。\r\r\n──Patrick D. Flores，〈整裝〉，《石家豪─試身室》，香港：Osage Gallery，2009年，頁10"
+                    }
+                ]
+            }
+        }
     },
-    "displayDate": "2007",
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Wilson Shieh",
+    "title": {
+        "en": "Jardine House with or without Star Ferry",
+        "zh-hant": "怡和有沒有天星"
+    },
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2007",
+        "zh-hant": "2007"
+    },
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
         "en": "sheet (sight): 85 × 43.9 cm\r\r\nother (mount. sight): 90 × 48.8 cm",
-        "zh-hant": "圖像: 86 × 44 厘米",
-        "zh-hans": "图像: 86 × 44 厘米"
+        "zh-hant": "圖像: 86 × 44 厘米"
     },
     "medium": {
         "en": "ink, watercolour and gouache on white silk",
-        "zh-hant": "墨水、水彩、水粉白絹本",
-        "zh-hans": "水墨、水彩及水粉白绢本"
+        "zh-hant": "墨水、水彩、水粉白絹本"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Yiqingzhai Foundation Limited, 2014",
-        "zh-hant": "M+，香港，怡情齋慈善基金有限公司捐贈，2014年",
-        "zh-hans": "香港M+，怡情斋慈善基金有限公司捐赠，2014年"
+        "zh-hant": "M+，香港，怡情齋慈善基金有限公司捐贈，2014年"
+    },
+    "inscription": {
+        "en": "No visible inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Ink, watercolour, and gouache painting on silk of three people and a small baby against a blank background. Each person is dressed as a different Hong Kong landmark.",
+            "AltTextTC": "水墨、水彩及水粉絹本畫作上，三個站着的大人和一個嬰兒出現在空白的背景前。各人打扮成香港的地標建築。",
+            "src": "004501_005000/004852_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Wilson Shieh",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4852
 }

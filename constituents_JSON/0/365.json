@@ -2,14 +2,12 @@
     "constituentID": 365,
     "name": {
         "en": {
-            "id": "357",
-            "alphasort": "Pau, Ellen",
-            "displayname": "Ellen Pau"
+            "displayName": "Ellen Pau",
+            "alphasort": "Pau, Ellen"
         },
         "zh-hant": {
-            "id": "1394",
-            "alphasort": "鮑, 藹倫",
-            "displayname": "鮑藹倫"
+            "displayName": "鮑藹倫",
+            "alphasort": "鮑, 藹倫"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1961",
+        "zh-hant": "香港，生於1961年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1961,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 365
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 4107,
+    "onView": false,
     "objectNumber": "2015.293",
-    "sortNumber": 2015.293,
+    "sortNumber": "2015   293",
     "classification": {
         "area": {
             "rank": 1,
@@ -29,41 +30,166 @@
                 "en": "Hans Tan",
                 "zh-hant": "陳彥翰"
             }
-        },
-        {
-            "id": 858,
-            "rank": 1,
-            "roles": {
-                "en": "Seller"
-            },
-            "names": {
-                "en": "Hans Tan",
-                "zh-hant": "陳彥翰"
-            }
         }
     ],
+    "exhibition": {
+        "ids": [
+            58,
+            103
+        ],
+        "sections": "[{\"58\":\"4\"}]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": [
+        25
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Hans Tan",
     "title": {
         "en": "Spotted Nyonya—Kamcheng",
-        "zh-hant": "點點娘惹──蓋罐",
-        "zh-hans": "点点娘惹──盖罐"
+        "zh-hant": "點點娘惹──蓋罐"
     },
-    "displayDate": "2011",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": "2011"
+    },
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
         "en": "overall: 22.8 × 22.5 × 22.5 cm",
-        "zh-hant": "22.3 × 23 厘米",
-        "zh-hans": "22.3 × 23 厘米"
+        "zh-hant": "整體: 22.8 × 22.5 × 22.5 厘米"
     },
     "medium": {
         "en": "sandblasted porcelain",
-        "zh-hant": "噴砂瓷",
-        "zh-hans": "喷砂瓷"
+        "zh-hant": "噴砂瓷"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "2015.239.2: Painted, bottom of base: HANS TAN / STUDIO"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "004001_004500/004107_004.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "AltText": "Round porcelain with lid. Small circles of coloured glaze depicting partial pictoral images cover the jar and lid in circular rows. Three animal-like protrusions are located equidistant around the center line of the jar. On top of the lid is another animal-like protrusion detail.",
+            "AltTextTC": "陶瓷蓋罐外型圓潤，色釉小圓點排列成多個環形，覆蓋着瓷罐和蓋子的表面，並呈現某些不完整的圖像。三個造型恍如動物的凸出物成橫排位於瓷罐中線，三者距離均等。蓋子頂端是另一個外型恍如動物的凸出物。",
+            "src": "004001_004500/004107_001.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "AltText": "Round porcelain with lid. Small circles of coloured glaze depicting partial pictoral images cover the jar and lid in circular rows. Three animal-like protrusions are located equidistant around the centre line of the jar. On top of the lid is another animal-like protrusion detail.",
+            "AltTextTC": "有蓋的圓形瓷壺，壺身及蓋子均被彩色圓點圖案覆蓋，圓點上有不完整的圖像。壺的腰身有三個動物形態的突出物，以同等距離環繞壺身。蓋子上亦有另一動物形態的突出物細節。",
+            "src": "004001_004500/004107_002.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        },
+        {
+            "src": "004001_004500/004107_003.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004001_004500/004107_005.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Hans Tan",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/CONTACT the RIGHTS HOLDER; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4107
 }

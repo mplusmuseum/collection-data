@@ -1,7 +1,8 @@
 {
     "objectID": 657,
+    "onView": false,
     "objectNumber": "2013.523",
-    "sortNumber": 2013.523,
+    "sortNumber": "2013   523",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,134 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            27,
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Ho Sin Tung",
     "title": {
         "en": "Double Life of Veroniky",
-        "zh-hant": "翻生花",
-        "zh-hans": "翻生花"
+        "zh-hant": "翻生花"
     },
-    "displayDate": "2012",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": "2012"
+    },
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
         "en": "sheet: 101.5 × 68 cm",
-        "zh-hant": "101.5 × 68 厘米",
-        "zh-hans": "101.5 × 68 厘米"
+        "zh-hant": "紙本: 101.5 × 68 厘米"
     },
     "medium": {
-        "en": "ink and colour pencil on paper, wood, and acrylic",
-        "zh-hant": "墨水彩色鉛筆紙本、木、亞加力",
-        "zh-hans": "墨水木颜色纸本、木、亚加力"
+        "en": "ink and coloured pencil on paper, wood, and acrylic",
+        "zh-hant": "墨水彩色鉛筆紙本、木、亞加力"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Ink and colour pencil painting on paper of a film poster with two sepia-toned images depicting a woman and a man sitting across from each other on a train. In the first image, the man is talking, and in the second they are silent. The words \"Dvojí Zivot Veroniký\" are written across the middle.",
+            "AltTextTC": "墨水彩色鉛筆紙本畫作呈現一張電影海報，兩幅褐色畫像中，一男一女在火車上相對而坐。第一張圖裏的男人在說話，第二張圖裏兩人都不說話。海報中央橫跨着虛構電影《翻生花》的法文電影名字「Dvojí Zivot Veroniký」。",
+            "src": "000501_001000/000657_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "M+ is the copyright owner",
+        "copyright": "© M+, Hong Kong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/PERMISSION GRANTED; commercial merchandise/PERMISSION GRANTED; commercial publishing/PERMISSION GRANTED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 657
 }

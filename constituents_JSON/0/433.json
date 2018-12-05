@@ -2,9 +2,8 @@
     "constituentID": 433,
     "name": {
         "en": {
-            "id": "425",
-            "alphasort": "Tschumi, Bernard",
-            "displayname": "Bernard Tschumi"
+            "displayName": "Bernard Tschumi",
+            "alphasort": "Tschumi, Bernard"
         }
     },
     "type": "Individual",
@@ -12,9 +11,27 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "French and Swiss",
+    "displayBio": {
+        "en": "French and Swiss, born Switzerland, 1944",
+        "zh-hant": "法國／瑞士籍，1944年生於瑞士"
+    },
+    "nationality": null,
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": {
+        "en": "New York City"
+    },
+    "birthCity": {
+        "en": "Lausanne"
+    },
+    "deathCity": null,
     "beginDate": 1944,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 433
 }

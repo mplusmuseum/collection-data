@@ -2,14 +2,12 @@
     "constituentID": 270,
     "name": {
         "en": {
-            "id": "262",
-            "alphasort": "Li, Shan",
-            "displayname": "Li Shan"
+            "displayName": "Li Shan",
+            "alphasort": "Li, Shan"
         },
         "zh-hant": {
-            "id": "1315",
-            "alphasort": "李, 山",
-            "displayname": "李山"
+            "displayName": "李山",
+            "alphasort": "李, 山"
         }
     },
     "type": "Individual",
@@ -18,11 +16,47 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Li Shan (born 1942, Lanxi) graduated from Heilongjiang University in 1963, and from the Arts Department (Oil Painting) of Shanghai Theatre Academy in 1968. A founding member of the Political Pop movement in 1990s, he is known for his portraits of Mao Zedong set against a blue, pink, or green background and accompanied by a lotus flower. Li lives and works in Shanghai.",
-        "zh-hant": "李山 (1942年生於蘭溪，現工作及生活於上海)，1963年畢業於黑龍江大學，1968年畢業於上海戲劇學院藝術系（油畫），是90年代「政治波普」運動的發起人之一。他最廣為人知的繪畫作品為在藍色、粉紅色或綠色背景下伴有蓮花的毛澤東肖像。"
+        "en": "Chinese, born 1942",
+        "zh-hant": "中國籍，生於1942年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Lanxi"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1942,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Li Shan (born 1942, Lanxi) graduated from Heilongjiang University in 1963, and from the Arts Department (Oil Painting) of Shanghai Theatre Academy in 1968. A founding member of the Political Pop movement in 1990s, he is known for his portraits of Mao Zedong set against a blue, pink, or green background and accompanied by a lotus flower. Li lives and works in Shanghai."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "李山 (1942年生於蘭溪，現工作及生活於上海)，1963年畢業於黑龍江大學，1968年畢業於上海戲劇學院藝術系（油畫），是90年代「政治波普」運動的發起人之一。他最廣為人知的繪畫作品為在藍色、粉紅色或綠色背景下伴有蓮花的毛澤東肖像。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 270
 }

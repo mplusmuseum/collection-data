@@ -1,7 +1,8 @@
 {
     "objectID": 5870,
+    "onView": false,
     "objectNumber": "2016.801",
-    "sortNumber": 2016.801,
+    "sortNumber": "2016   801",
     "classification": {
         "area": {
             "rank": 2,
@@ -31,12 +32,53 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            56
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Screening: Visible Places"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Screening: Visible Places",
+                        "text": "Lovers embracing in a field; crowds revelling through the night; people waving their arms in unison; an assembly of meditators sitting in silence on the ground; the unpopulated scenery of a mining region. Zhou Tao's lens traverses Guangzhou, Bangkok, and an exurban mining site, taking the pulse of movement and stillness in these three locales from an outsider's perspective, and capturing the lights and shadows of blue and red."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Screening: Visible Places"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Screening: Visible Places",
+                        "text": "草坪上擁眠的戀人、夜夜狂歡的民眾、集體揮動著的手臂、席地靜坐的集會、礦山區的無人風景，周淘的鏡頭穿梭於廣州、曼谷與城郊的礦區之間，以他者的姿態，一動一靜地拉扯著兩城三地的脈搏，捕捉藍與紅的光影。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        15
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Zhou Tao",
     "title": {
         "en": "Blue and Red",
-        "zh-hant": "藍與紅",
-        "zh-hans": "蓝与红"
+        "zh-hant": "藍與紅"
     },
-    "displayDate": "2014",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2014",
+        "zh-hant": "2014"
+    },
     "beginDate": 2014,
     "endDate": 2014,
     "dimension": {
@@ -50,6 +92,127 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {
+        "en": "single-channel video"
+    },
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "005501_006000/005870_002.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "005501_006000/005870_003.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "005501_006000/005870_004.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "005501_006000/005870_005.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "005501_006000/005870_006.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "005501_006000/005870_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 5870
 }

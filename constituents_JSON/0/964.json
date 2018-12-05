@@ -2,9 +2,12 @@
     "constituentID": 964,
     "name": {
         "en": {
-            "id": "1901",
-            "alphasort": "Bischof, Werner",
-            "displayname": "Werner Bischof"
+            "displayName": "Werner Bischof",
+            "alphasort": "Bischof, Werner"
+        },
+        "zh-hant": {
+            "displayName": "沃納．比朔夫",
+            "alphasort": "沃納．比朔夫"
         }
     },
     "type": "Individual",
@@ -12,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Swiss",
+    "displayBio": {
+        "en": "Swiss, 1916–1954",
+        "zh-hant": "瑞士籍，1916–1954年"
+    },
+    "nationality": {
+        "en": "Swiss",
+        "zh-hant": "瑞士籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Zurich"
+    },
+    "deathCity": null,
     "beginDate": 1916,
-    "deathyear": 1954,
+    "endDate": 1954,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 964
 }

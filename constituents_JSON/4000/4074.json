@@ -2,9 +2,12 @@
     "constituentID": 4074,
     "name": {
         "en": {
-            "id": "6320",
-            "alphasort": "Jumsai, Sumet",
-            "displayname": "Sumet Jumsai"
+            "displayName": "Sumet Jumsai",
+            "alphasort": "Jumsai, Sumet"
+        },
+        "zh-hant": {
+            "displayName": "書梅春塞",
+            "alphasort": "春塞, 書梅"
         }
     },
     "type": "Individual",
@@ -12,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Thai",
+    "displayBio": {
+        "en": "Thai, born 1939",
+        "zh-hant": "泰國籍，生於1939年"
+    },
+    "nationality": {
+        "en": "Thai",
+        "zh-hant": "泰國籍"
+    },
+    "region": {
+        "en": "Southeast Asia",
+        "zh-hant": "東南亞"
+    },
+    "activeCity": {
+        "en": "Bangkok"
+    },
+    "birthCity": {
+        "en": "Bangkok"
+    },
+    "deathCity": null,
     "beginDate": 1939,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 4074
 }

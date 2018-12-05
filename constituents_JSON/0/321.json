@@ -2,14 +2,12 @@
     "constituentID": 321,
     "name": {
         "en": {
-            "id": "313",
-            "alphasort": "Lu, Hao",
-            "displayname": "Lu Hao"
+            "displayName": "Lu Hao",
+            "alphasort": "Lu, Hao"
         },
         "zh-hant": {
-            "id": "1360",
-            "alphasort": "盧, 昊",
-            "displayname": "盧昊"
+            "displayName": "盧昊",
+            "alphasort": "盧, 昊"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1969",
+        "zh-hant": "中國籍，生於1969年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1969,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 321
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 2371,
+    "onView": false,
     "objectNumber": "2012.1356",
-    "sortNumber": 2012.1356,
+    "sortNumber": "2012  1356",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,173 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            55,
+            95,
+            103,
+            106
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "This photograph documents a performance by Zhang Huan wherein he and a group of Beijing East Village artists lay on top of one another in an attempt to raise the height of Miaofeng Mountain by one metre. The work examines the physicality of the human body and highlights the collective aspect of artistic production that was characteristic of the Beijing East Village community."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "This photograph documents a performance by Zhang Huan in which he and a group of Beijing East Village artists lay on top of one another in an attempt to raise the height of Miaofeng Mountain by one metre. The work examines the physicality of the human body and highlights the collective aspect of artistic production that was characteristic of the Beijing East Village community."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "這張照片紀錄了張洹和一班「北京東村」的藝術家在北京妙峰山進行的行為藝術表演。他們在山頂上疊在一起，試圖為妙峰山增高一米。該作品探索人體的肉體性並展示了「北京東村」藝術社群的集體特性。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "這張照片記錄了張洹和一群「北京東村」的藝術家在北京妙峰山進行的行為展演。他們在山頂上疊在一起，試圖為妙峰山增高一米。該作品探索人體的肉體性並展示了「北京東村」藝術社群的集體特性。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        24
+    ],
+    "allORC": "Zhang Huan",
     "title": {
         "en": "To Add One Meter to an Anonymous Mountain",
-        "zh-hant": "為無名山增高一米",
-        "zh-hans": "为无名山增高一米"
+        "zh-hant": "為無名山增高一米"
     },
-    "displayDate": "1995",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1995",
+        "zh-hant": "1995"
+    },
     "beginDate": 1995,
     "endDate": 1995,
     "dimension": {
         "en": "overall: 104 × 212.5 cm\r\r\nimage: 69 × 103.5 cm",
-        "zh-hant": "104 × 212.5 厘米",
-        "zh-hans": "104 × 212.5 厘米"
+        "zh-hant": "整體: 104 × 212.5 厘米\r\n圖像: 69 × 103.5 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": "彩色照片",
-        "zh-hans": "彩色照片"
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港",
-        "zh-hans": "香港M+ 希克藏品（捐赠）"
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Photograph of a group of naked men and women lying in a heap atop a mountain. With their faces obscured by dark hair, they lie with their bodies in the same direction, facing the dry, grassy ground.",
+            "AltTextTC": "照片中，一群赤裸的男人和女人，一個疊一個地俯臥於山上的乾草地。他們的臉龐被黑髮遮蓋，身體全部朝下。",
+            "src": "002001_002500/002371_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Zhang Huan",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2371
 }

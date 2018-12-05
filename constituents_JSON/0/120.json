@@ -2,14 +2,12 @@
     "constituentID": 120,
     "name": {
         "en": {
-            "id": "112",
-            "alphasort": "Chang, Xugong",
-            "displayname": "Chang Xugong"
+            "displayName": "Chang Xugong",
+            "alphasort": "Chang, Xugong"
         },
         "zh-hant": {
-            "id": "1193",
-            "alphasort": "常, 徐功",
-            "displayname": "常徐功"
+            "displayName": "常徐功",
+            "alphasort": "常, 徐功"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1956",
+        "zh-hant": "中國籍，生於1956年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Tangshan"
+    },
+    "deathCity": null,
     "beginDate": 1956,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 120
 }

@@ -2,18 +2,36 @@
     "constituentID": 1152,
     "name": {
         "en": {
-            "id": "2187",
-            "alphasort": "Ishimaru Co. Ltd.",
-            "displayname": "Ishimaru Co. Ltd."
+            "displayName": "Ishimaru Co. Ltd.",
+            "alphasort": "Ishimaru Co. Ltd."
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Tokyo, 1969",
+        "zh-hant": "1969年成立於東京"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Tokyo"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1969,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1152
 }

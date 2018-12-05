@@ -2,14 +2,12 @@
     "constituentID": 504,
     "name": {
         "en": {
-            "id": "496",
-            "alphasort": "Xu, Hualing",
-            "displayname": "Xu Hualing"
+            "displayName": "Xu Hualing",
+            "alphasort": "Xu, Hualing"
         },
         "zh-hant": {
-            "id": "1511",
-            "alphasort": "徐, 華翎",
-            "displayname": "徐華翎"
+            "displayName": "徐華翎",
+            "alphasort": "徐, 華翎"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1975",
+        "zh-hant": "中國籍，生於1975年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Harbin"
+    },
+    "deathCity": null,
     "beginDate": 1975,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 504
 }

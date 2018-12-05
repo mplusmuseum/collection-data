@@ -2,18 +2,27 @@
     "constituentID": 4051,
     "name": {
         "en": {
-            "id": "6286",
-            "alphasort": "Office Indochinois du Tourisme",
-            "displayname": "Office Indochinois du Tourisme"
+            "displayName": "Office Indochinois du Tourisme",
+            "alphasort": "Office Indochinois du Tourisme"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
+    "displayBio": null,
     "nationality": null,
+    "region": null,
+    "activeCity": {
+        "en": "France"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": null,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 4051
 }

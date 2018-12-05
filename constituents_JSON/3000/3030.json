@@ -2,9 +2,8 @@
     "constituentID": 3030,
     "name": {
         "en": {
-            "id": "5245",
-            "alphasort": "Hashimoto, Minoru",
-            "displayname": "Hashimoto Minoru"
+            "displayName": "Hashimoto Minoru",
+            "alphasort": "Hashimoto, Minoru"
         }
     },
     "type": "Individual",
@@ -12,9 +11,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": null,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 3030
 }

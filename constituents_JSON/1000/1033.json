@@ -2,23 +2,40 @@
     "constituentID": 1033,
     "name": {
         "en": {
-            "id": "1986",
-            "alphasort": "Tendo Co., Ltd.",
-            "displayname": "Tendo Co., Ltd."
+            "displayName": "Tendo Co., Ltd.",
+            "alphasort": "Tendo Co., Ltd."
         },
         "zh-hant": {
-            "id": "2910",
-            "alphasort": "株式會社 天童木工",
-            "displayname": "株式會社 天童木工"
+            "displayName": "株式會社 天童木工",
+            "alphasort": "株式會社 天童木工"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Tendo, 1940",
+        "zh-hant": "1940年成立於天童"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Tendo"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1940,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1033
 }

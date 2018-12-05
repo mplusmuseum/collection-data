@@ -1,7 +1,8 @@
 {
     "objectID": 884,
+    "onView": false,
     "objectNumber": "2012.2143",
-    "sortNumber": 2012.2143,
+    "sortNumber": "2012  2143",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,42 +27,141 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Stanley Wong"
-            }
-        },
-        {
-            "id": 17,
-            "rank": 1,
-            "roles": {
-                "en": "Donor"
-            },
-            "names": {
-                "en": "Stanley Wong"
+                "en": "Stanley Wong",
+                "zh-hant": "又一山人（黃炳培）"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Stanley Wong",
     "title": {
         "en": "Lanwei 52 / Wonderland 03 / Door God / Beijing",
-        "zh-hant": "爛尾52/神奇樂園03/牛頭馬面/北京",
-        "zh-hans": "烂尾52/神奇乐园03/牛头马面/北京"
+        "zh-hant": "爛尾52/神奇樂園03/牛頭馬面/北京"
     },
-    "displayDate": "2012",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": "2012"
+    },
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
         "en": "sheet: 201 × 111.8 cm\r\r\nimage: 138.2 × 110.5 cm",
-        "zh-hant": "整體: 139 × 111 厘米\r\r\n圖像: 139 × 110.5 厘米",
-        "zh-hans": "整体: 139 × 111 厘米\r\r\n图像: 139 × 110.5 厘米"
+        "zh-hant": "整體: 139 × 111 厘米\r\r\n圖像: 139 × 110.5 厘米"
     },
     "medium": {
         "en": "archival inkjet print",
-        "zh-hant": "收藏級噴墨打印",
-        "zh-hans": "收藏级喷墨打印"
+        "zh-hant": "收藏級噴墨打印"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2012",
-        "zh-hant": "M+，香港，又一山人（黃炳培）捐贈，2012年",
-        "zh-hans": "香港M+，又一山人捐赠，2012年"
+        "zh-hant": "M+，香港，又一山人（黃炳培）捐贈，2012年"
+    },
+    "inscription": {
+        "en": "Inscribed in pencil, LL: LANWEI 52/WONDERLAND 03/DOOR GOD/DEIJING...2/8"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "Copyright": "Image courtesy of artist and Blindspot Gallery",
+            "AltText": "Photograph of a large abandoned structure with castle-like turrets. Its walls are completely gone, leaving only its structural skeleton behind. Two people are play-fighting in front of it.",
+            "AltTextTC": "照片中是一座大型的廢棄建築物，擁有城堡般的尖塔。建築物沒有牆壁，只餘下鏤空的結構，兩個人站在前方，擺出打鬥的姿勢。",
+            "src": "000501_001000/000884_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© anothermountainman",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 884
 }

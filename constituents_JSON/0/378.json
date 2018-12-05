@@ -2,14 +2,12 @@
     "constituentID": 378,
     "name": {
         "en": {
-            "id": "370",
-            "alphasort": "Yau, Leung",
-            "displayname": "Yau Leung"
+            "displayName": "Yau Leung",
+            "alphasort": "Yau, Leung"
         },
         "zh-hant": {
-            "id": "2977",
-            "alphasort": "邱良",
-            "displayname": "邱良"
+            "displayName": "邱良",
+            "alphasort": "邱良"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, 1941–1997",
+        "zh-hant": "香港，1941–1997年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1941,
-    "deathyear": 1997,
+    "endDate": 1997,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 378
 }

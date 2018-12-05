@@ -1,7 +1,8 @@
 {
     "objectID": 641,
+    "onView": false,
     "objectNumber": "2013.514",
-    "sortNumber": 2013.514,
+    "sortNumber": "2013   514",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,134 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            27,
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Ho Sin-tung / 何倩彤",
     "title": {
         "en": "10 Things I hate about You",
-        "zh-hant": "圓方很玄",
-        "zh-hans": "圆方很玄"
+        "zh-hant": "圓方很玄"
     },
-    "displayDate": "2010",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": "2010"
+    },
     "beginDate": 2010,
     "endDate": 2010,
     "dimension": {
         "en": "frame: 99.5 × 79 × 4 cm\r\r\nsheet: 55 × 75 cm",
-        "zh-hant": "圖像: 55 × 75 cm\r\r\n框架: 99.5 × 79 × 4 cm",
-        "zh-hans": "图像: 55 × 75 cm\r\r\n框架: 99.5 × 79 × 4 cm"
+        "zh-hant": "圖像: 55 × 75 cm\r\r\n框架: 99.5 × 79 × 4 cm"
     },
     "medium": {
         "en": "pencil and ink on paper",
-        "zh-hant": "鉛筆及墨水紙本",
-        "zh-hans": "铅笔墨水纸本"
+        "zh-hant": "鉛筆及墨水紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Pencil and ink drawing on paper of various illustrations on a blank background. The illustrations are numbered from one to ten, each with written notes next to them. In the center is a small theatre seating chart. Words on the right of the image read \"Mystery of The Grand (Cinema)\".",
+            "AltTextTC": "鉛筆墨水紙本繪圖。空白的背景繪上多幅插畫，插畫編上數字一至十，每幅都附有一段文字。作品中間是小型電影院座位表，而右面則寫上「圓方影院不思議事件」。",
+            "src": "000501_001000/000641_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "M+ is the copyright owner",
+        "copyright": "© M+, Hong Kong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/PERMISSION GRANTED; commercial merchandise/PERMISSION GRANTED; commercial publishing/PERMISSION GRANTED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 641
 }

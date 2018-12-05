@@ -2,9 +2,12 @@
     "constituentID": 189,
     "name": {
         "en": {
-            "id": "181",
-            "alphasort": "Gormley, Antony",
-            "displayname": "Antony Gormley"
+            "displayName": "Antony Gormley",
+            "alphasort": "Gormley, Antony"
+        },
+        "zh-hant": {
+            "displayName": "安東尼·葛姆雷",
+            "alphasort": "安東尼·葛姆雷"
         }
     },
     "type": "Individual",
@@ -12,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "British",
+    "displayBio": {
+        "en": "British, born 1950",
+        "zh-hant": "英國籍，生於1950年"
+    },
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": {
+        "en": "United Kingdom"
+    },
+    "birthCity": {
+        "en": "London"
+    },
+    "deathCity": null,
     "beginDate": 1950,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 189
 }

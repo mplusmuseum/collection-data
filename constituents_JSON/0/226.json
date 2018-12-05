@@ -2,14 +2,12 @@
     "constituentID": 226,
     "name": {
         "en": {
-            "id": "218",
-            "alphasort": "Huang, Hairong",
-            "displayname": "Huang Hairong"
+            "displayName": "Huang Hairong",
+            "alphasort": "Huang, Hairong"
         },
         "zh-hant": {
-            "id": "1282",
-            "alphasort": "黃, 海蓉",
-            "displayname": "黃海蓉"
+            "displayName": "黃海蓉",
+            "alphasort": "黃, 海蓉"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1974",
+        "zh-hant": "中國籍，生於1974年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Wuhan",
+        "zh-hant": "武漢"
+    },
+    "birthCity": {
+        "en": "Hubei Province"
+    },
+    "deathCity": null,
     "beginDate": 1974,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 226
 }

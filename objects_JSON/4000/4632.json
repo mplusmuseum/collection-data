@@ -1,7 +1,8 @@
 {
     "objectID": 4632,
+    "onView": false,
     "objectNumber": "2015.167",
-    "sortNumber": 2015.167,
+    "sortNumber": "2015   167",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,133 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Anzai Shigeo",
     "title": {
         "en": "Koji Enokura, The 10th Contemporary Exhibition of Japan 1971, Tokyo Metropolitan Art Museum, May, 1971",
-        "zh-hant": "榎倉康二，1971年 5月東京都美術館「1971年第十屆現代日本美術展」",
-        "zh-hans": "榎仓康二，1971年 5月东京都美术馆「1971年第十届现代日本美术展」"
+        "zh-hant": "榎倉康二，1971年 5月東京都美術館「1971年第十屆現代日本美術展」"
     },
-    "displayDate": "1971",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1971",
+        "zh-hant": "1971"
+    },
     "beginDate": 1971,
     "endDate": 1971,
     "dimension": {
         "en": "overall (mounted): 25.2 × 20.5 cm\r\r\nimage: 24.3 × 18.8 cm",
-        "zh-hant": "圖像尺寸: 24.3 × 18.8 厘米\r\r\n裱褙: 25.2 × 20.5 厘米",
-        "zh-hans": "图像尺寸: 24.3 × 18.8 厘米\r\r\n裱褙: 25.2 × 20.5 厘米"
+        "zh-hant": "整體 (托裱): 25.2 × 20.5 厘米\r\n圖像: 24.3 × 18.8 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": "銀鹽照片",
-        "zh-hans": "银盐照片"
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Monochrome photograph of a large two-panel piece covering the corner of an empty gallery space. It features dyed fabric with a surface that resembles peeling plaster.",
+            "AltTextTC": "黑白照片中，由兩塊鑲板組成的大型作品，覆蓋着空曠的展覽空間一角。板上展示着染色布材，表面呈現恍如灰泥剝落的質感。",
+            "src": "004501_005000/004632_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© ANZAÏ",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4632
 }

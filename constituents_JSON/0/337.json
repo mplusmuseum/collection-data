@@ -2,14 +2,12 @@
     "constituentID": 337,
     "name": {
         "en": {
-            "id": "329",
-            "alphasort": "Ma, Yansong",
-            "displayname": "Ma Yansong"
+            "displayName": "Ma Yansong",
+            "alphasort": "Ma, Yansong"
         },
         "zh-hant": {
-            "id": "2925",
-            "alphasort": "馬岩松",
-            "displayname": "馬岩松"
+            "displayName": "馬岩松",
+            "alphasort": "馬岩松"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1975",
+        "zh-hant": "中國籍，生於1975年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1975,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 337
 }

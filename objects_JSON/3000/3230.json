@@ -1,7 +1,8 @@
 {
     "objectID": 3230,
+    "onView": false,
     "objectNumber": "2012.1015",
-    "sortNumber": 2012.1015,
+    "sortNumber": "2012  1015",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,16 +32,72 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            20,
+            7,
+            55,
+            95,
+            106
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "In 1984, during a period when academic institutions placed a rigorous focus on technical skills, Wang Peng, who was then a nineteen-year-old high school student, privately performed 84 as a way to escape the limits of painting. The conceptual artist asked two classmates to assist him and document the work. The performance lasted just over half an hour, during which time the artist covered his naked body with ink, then imprinted rolls of xuan paper. This is China’s first nude performance piece."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "In 1984, in a period when academic institutions placed a rigorous focus on technical skills, Wang Peng, who was then a nineteen-year-old high-school student, privately performed 84 as a way to escape the limits of painting. The conceptual artist asked two classmates to assist him and document the work. The performance lasted just over half an hour, during which time the artist covered his naked body with ink, then imprinted on rolls of xuan paper. This was China’s first nude performance piece."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "1984年的中國，學院派仍然偏重一絲不苟的藝術技巧；當時只有19歲的高中生王蓬，卻私底下進行了《84行為》，突破繪畫的界限。這位概念藝術家得到兩位同學協助，紀錄演出過程。演出全長大約半個小時，期間藝術家全身染上墨水，再於宣紙上印上作品。這是中國首次裸體行為藝術表演。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "1984年的中國，學院派仍然偏重一絲不苟的藝術技巧；當時只有19歲的高中生王蓬，卻私底下進行了《84行為》，突破繪畫的界限。這位概念藝術家得到兩位同學協助，紀錄展演的過程。演出全長大約半個小時，期間藝術家全身染上墨水，再於宣紙上印上作品。這是中國首個裸體行為藝術展演。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        11
+    ],
+    "allORC": "Wang Peng",
     "title": {
         "en": "84 Performance",
         "zh-hant": "84行爲"
     },
-    "displayDate": "1984",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1984",
+        "zh-hant": "1984"
+    },
     "beginDate": 1984,
     "endDate": 1984,
     "dimension": {
-        "en": "frame: 77.1 × 61.7 cm\r\r\nimage (sight): 54.2 × 39.1 cm",
-        "zh-hant": "框架: 77.1 × 61.7 厘米\r\r\n圖像 (目測量度): 54.2 × 39.1 厘米"
+        "en": "frame: 77 × 61.7 × 4.3 cm\r\r\nsheet (sight): 58.5 × 43.1 cm\r\r\nimage (sight): 54.5 × 39.1 cm",
+        "zh-hant": "框架: 77.1 × 61.7 厘米\r\r\n\r\r\n圖像 (目測量度): 54.2 × 39.1 厘米"
     },
     "medium": {
         "en": "gelatin silver print on fiber-based paper",
@@ -49,6 +106,113 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "Inscribed in pencil, LR: 5/7"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "003001_003500/003230_001.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Photograph on fibre-based paper. A thin man in his underwear bends forward to arrange large sheets of paper on an open drop sheet as part of a private performance.",
+            "AltTextTC": "紙基相紙照片。一個穿着內褲的瘦削男人向前躬身，站在攤開的布塊上整理大型紙張，是私人行為藝術表演的一部分。",
+            "src": "003001_003500/003230_002.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003230_003.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Wang Peng",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3230
 }

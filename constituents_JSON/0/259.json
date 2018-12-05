@@ -2,9 +2,12 @@
     "constituentID": 259,
     "name": {
         "en": {
-            "id": "251",
-            "alphasort": "Lambot, Ian",
-            "displayname": "Ian Lambot"
+            "displayName": "Ian Lambot",
+            "alphasort": "Lambot, Ian"
+        },
+        "zh-hant": {
+            "displayName": "林保賢",
+            "alphasort": "林保賢"
         }
     },
     "type": "Individual",
@@ -12,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "British",
+    "displayBio": {
+        "en": "British, born 1953",
+        "zh-hant": "英國籍，生於1953年"
+    },
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": {
+        "en": "United Kingdom"
+    },
+    "birthCity": {
+        "en": "United Kingdom"
+    },
+    "deathCity": null,
     "beginDate": 1953,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 259
 }

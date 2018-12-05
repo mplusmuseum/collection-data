@@ -1,7 +1,8 @@
 {
     "objectID": 2352,
+    "onView": false,
     "objectNumber": "2012.984",
-    "sortNumber": 2012.984,
+    "sortNumber": "2012   984",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,65 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            55,
+            95
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "This series of photographs document a major public performance by Wang Jin in January 1996. He built an ice wall across from a newly-opened department store in Zhenzhou with the help of artists Gou Jinghan and Jiang Bo. He placed consumer goods such as toys and jewellery inside the blocks of ice, provoking the crowd to destroy the wall to retrieve the objects."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "This series of photographs documents a major public performance by Wang Jin in January 1996. He built an ice wall across from a newly opened department store in Zhenzhou with the help of artists Gou Jinghan and Jiang Bo. He placed consumer goods such as toys and jewellery inside the blocks of ice, provoking the crowd to destroy the wall to retrieve the objects."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "此系列照片於1996年1月拍攝，當時王晉正在進行一場大型公共行為表演。在藝術家郭景涵和姜波的協助下，王晉在鄭州一間新開張的百貨公司對面築起一堵冰牆。他們把玩具和珠寶等消費品封在冰裡，並鼓勵群眾鑿破冰牆取得物品。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "此系列照片於1996年1月拍攝，當時王晉正在進行一場大型公共行為展演。在藝術家郭景涵和姜波的協助下，王晉在鄭州一間新開張的百貨公司對面築起一堵冰牆。他們把玩具和珠寶等消費品封在冰裏，鼓勵群眾鑿破冰牆取得物品。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        27
+    ],
+    "allORC": "Wang Jin",
     "title": {
         "en": "Ice Wall",
         "zh-hant": "冰墻"
     },
-    "displayDate": "1996–2004",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1996–2004",
+        "zh-hant": "1996–2004"
+    },
     "beginDate": 1996,
     "endDate": 2004,
     "dimension": {
@@ -49,6 +104,179 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "Inscribed on each in pencil, from LL to LR: 《冰. 96中原》 1/5 一九九六年一月二十八日中國河南省郑州市二七广场"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "002001_002500/002352_001.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002352_002.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002352_003.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002352_004.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002352_005.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002352_006.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002352_007.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002352_008.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002352_009.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Monochrome photograph of a public performance, mounted on alu-dibond. A crowd gathers in a downtown square examining a long, curved wall of ice blocks. Uniformed officers stand guard as the crowd examines objects protruding from the wall.",
+            "AltTextTC": "鋁塑板裝裱黑白照片上，記錄了一場公眾行為藝術表演的情況。群眾在市中心廣場聚集，端詳着一幅又長又彎的冰牆。人們仔細觀看牆面突出的物件，身穿制服的警衛在旁站崗監視。",
+            "src": "002001_002500/002352_010.jpg",
+            "rank": "1",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002352_011.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002352_012.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002352_013.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002352_014.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Wang Jin",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2352
 }

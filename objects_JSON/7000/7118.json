@@ -1,7 +1,8 @@
 {
     "objectID": 7118,
+    "onView": false,
     "objectNumber": "2017.51",
-    "sortNumber": 2017.51,
+    "sortNumber": "2017    51",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,17 +32,34 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            58
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": [
+        25
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Shenzhen AIEK Science & Technology Co., Ltd",
     "title": {
         "en": "AIEK card phone, model Mini M5",
-        "zh-hant": "AIEK Mini M5型卡片手機",
-        "zh-hans": "AIEK Mini M5型卡片手机"
+        "zh-hant": "AIEK Mini M5型卡片手機"
     },
-    "displayDate": "2015",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2015"
+    },
     "beginDate": 2015,
     "endDate": 2015,
     "dimension": {
         "en": "overall (phone): 0.5 × 8.6 × 5.8 cm",
-        "zh-hant": "整體（電話）：0.5 × 8.6 × 5.8 厘米"
+        "zh-hant": "整體 (電話): 0.5 × 8.6 × 5.8 厘米"
     },
     "medium": {
         "en": "plastic, electronic parts, and LED",
@@ -50,6 +68,101 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "007001_007500/007118_002.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "007001_007500/007118_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "*pending clarification*",
+        "concatRights": "M+/WKCDA exhibition/[pending research]; M+/WKCDA website/[pending research]; M+/WKCDA internal use/[pending research]; M+/WKCDA publications/[pending research]; M+/WKCDA press/publicity/[pending research]; M+/WKCDA press packs/[pending research]; M+/WKCDA advertising/[pending research]; M+/WKCDA learning team activities/[pending research]; 3rd-party exhibition (LOANS)/[pending research]; 3rd-party non-commercial research/academic/[pending research]; 3rd-party non-commercial educational/[pending research]; 3rd-party non-commercial publication/[pending research]; other 3rd-party non-commercial use/[pending research]; social media/[pending research]; commercial advertising/[pending research]; commercial merchandise/[pending research]; commercial publishing/[pending research]; Current status/* research required *",
+        "concatRemark": "",
+        "currentStatus": "* research required *",
+        "rights": [
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "[pending research]",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "[pending research]",
+                "group": "social media"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 7118
 }

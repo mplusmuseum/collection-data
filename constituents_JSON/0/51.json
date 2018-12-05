@@ -2,18 +2,36 @@
     "constituentID": 51,
     "name": {
         "en": {
-            "id": "43",
-            "alphasort": "nendo",
-            "displayname": "nendo"
+            "displayName": "nendo",
+            "alphasort": "nendo"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Tokyo, 2002",
+        "zh-hant": "2002年成立於東京"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Tokyo"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 2002,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 51
 }

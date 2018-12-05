@@ -2,14 +2,12 @@
     "constituentID": 574,
     "name": {
         "en": {
-            "id": "566",
-            "alphasort": "Zhang, Fan",
-            "displayname": "Zhang Fan"
+            "displayName": "Zhang Fan",
+            "alphasort": "Zhang, Fan"
         },
         "zh-hant": {
-            "id": "1570",
-            "alphasort": "張, 帆",
-            "displayname": "張帆"
+            "displayName": "張帆",
+            "alphasort": "張, 帆"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1975",
+        "zh-hant": "中國籍，生於1975年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Qingdao"
+    },
+    "deathCity": null,
     "beginDate": 1975,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 574
 }

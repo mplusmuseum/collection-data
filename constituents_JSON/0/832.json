@@ -2,14 +2,12 @@
     "constituentID": 832,
     "name": {
         "en": {
-            "id": "1739",
-            "alphasort": "Kusama, Yayoi",
-            "displayname": "Yayoi Kusama"
+            "displayName": "Yayoi Kusama",
+            "alphasort": "Kusama, Yayoi"
         },
         "zh-hant": {
-            "id": "2707",
-            "alphasort": "草間彌生",
-            "displayname": "草間彌生"
+            "displayName": "草間彌生",
+            "alphasort": "草間彌生"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, born 1929",
+        "zh-hant": "日本籍，生於1929年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Japan",
+        "zh-hant": "日本"
+    },
+    "birthCity": {
+        "en": "Matsumoto"
+    },
+    "deathCity": null,
     "beginDate": 1929,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 832
 }

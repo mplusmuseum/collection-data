@@ -2,14 +2,12 @@
     "constituentID": 280,
     "name": {
         "en": {
-            "id": "272",
-            "alphasort": "Li, Zhanyang",
-            "displayname": "Li Zhanyang"
+            "displayName": "Li Zhanyang",
+            "alphasort": "Li, Zhanyang"
         },
         "zh-hant": {
-            "id": "1325",
-            "alphasort": "李, 占洋",
-            "displayname": "李占洋"
+            "displayName": "李占洋",
+            "alphasort": "李, 占洋"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1969",
+        "zh-hant": "中國籍，生於1969年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Changchun"
+    },
+    "deathCity": null,
     "beginDate": 1969,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 280
 }

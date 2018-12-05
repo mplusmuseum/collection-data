@@ -1,7 +1,8 @@
 {
     "objectID": 2250,
+    "onView": false,
     "objectNumber": "2012.1208",
-    "sortNumber": 2012.1208,
+    "sortNumber": "2012  1208",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,66 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            55,
+            95,
+            106
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "This painting is based on a photograph of a group of important western curators visiting China on a research trip. It exemplifies Yan Lei’s signature technique of borrowing, re-photographing, and manipulating existing imagery for use in his painting practice."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "This painting is based on a photograph of a group of important Western curators visiting China on a research trip. It exemplifies Yan Lei’s signature technique of borrowing, re-photographing, and manipulating existing imagery for use in his painting practice."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "這幅畫作是根據一張西方策展人訪華期間拍攝的團體合照繪製而成，全面展示了顏磊借用，重攝和操控現有圖像為己用的藝術方法論。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "這幅畫作是根據一張西方策展人訪華期間拍攝的合照繪製而成，全面展示了顏磊以借用、重攝和操控現有圖像為己用的藝術方法。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        30
+    ],
+    "allORC": "Yan Lei",
     "title": {
         "en": "The Curators",
         "zh-hant": "策劃人"
     },
-    "displayDate": "2000",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2000",
+        "zh-hant": "2000"
+    },
     "beginDate": 2000,
     "endDate": 2000,
     "dimension": {
@@ -49,6 +105,101 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "Secondary inscriptions, see images"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Acrylic painting on canvas depicting eleven important Western curators rendered in black and white who face us as they pose for a snapshot in a outdoor garden.",
+            "AltTextTC": "塑膠彩布本作品上，以黑白兩色描繪11位舉足輕重的西方策展人。他們身處一個戶外花園，面向我們，擺好姿勢拍照。",
+            "src": "002001_002500/002250_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below (standard)",
+        "copyright": "© Yan Lei",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2250
 }

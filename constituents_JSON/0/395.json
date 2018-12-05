@@ -2,14 +2,12 @@
     "constituentID": 395,
     "name": {
         "en": {
-            "id": "387",
-            "alphasort": "Shan, Fan",
-            "displayname": "Shan Fan"
+            "displayName": "Shan Fan",
+            "alphasort": "Shan, Fan"
         },
         "zh-hant": {
-            "id": "1416",
-            "alphasort": "單, 凡",
-            "displayname": "單凡"
+            "displayName": "單凡",
+            "alphasort": "單, 凡"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "German",
+    "displayBio": {
+        "en": "Chinese, born 1959",
+        "zh-hant": "中國籍，生於1959年"
+    },
+    "nationality": {
+        "en": "German",
+        "zh-hant": "德國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Hamburg"
+    },
+    "birthCity": {
+        "en": "Hangzhou"
+    },
+    "deathCity": null,
     "beginDate": 1959,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 395
 }

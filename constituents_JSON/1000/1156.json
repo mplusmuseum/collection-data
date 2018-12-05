@@ -2,14 +2,12 @@
     "constituentID": 1156,
     "name": {
         "en": {
-            "id": "2198",
-            "alphasort": "Tamiko, Nishimura",
-            "displayname": "Nishimura Tamiko"
+            "displayName": "Nishimura Tamiko",
+            "alphasort": "Tamiko, Nishimura"
         },
         "zh-hant": {
-            "id": "2199",
-            "alphasort": "西村多美子",
-            "displayname": "西村多美子"
+            "displayName": "西村多美子",
+            "alphasort": "西村多美子"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, born 1949",
+        "zh-hant": "日本籍，生於1949年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Tokyo"
+    },
+    "deathCity": null,
     "beginDate": 1949,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1156
 }

@@ -2,14 +2,12 @@
     "constituentID": 1660,
     "name": {
         "en": {
-            "id": "3412",
-            "alphasort": "Nagasaka, Jo",
-            "displayname": "Jo Nagasaka"
+            "displayName": "Jo Nagasaka",
+            "alphasort": "Nagasaka, Jo"
         },
         "zh-hant": {
-            "id": "4877",
-            "alphasort": "長阪常",
-            "displayname": "長阪常"
+            "displayName": "長阪常",
+            "alphasort": "長阪常"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, born 1971",
+        "zh-hant": "日本籍，生於1971年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Osaka"
+    },
+    "deathCity": null,
     "beginDate": 1971,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1660
 }

@@ -2,14 +2,12 @@
     "constituentID": 208,
     "name": {
         "en": {
-            "id": "200",
-            "alphasort": "He, Xiangyu",
-            "displayname": "He Xiangyu"
+            "displayName": "He Xiangyu",
+            "alphasort": "He, Xiangyu"
         },
         "zh-hant": {
-            "id": "1264",
-            "alphasort": "何, 翔宇",
-            "displayname": "何翔宇"
+            "displayName": "何翔宇",
+            "alphasort": "何, 翔宇"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Kuandian"
+    },
+    "deathCity": null,
     "beginDate": 1968,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 208
 }

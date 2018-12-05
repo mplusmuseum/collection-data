@@ -1,7 +1,8 @@
 {
     "objectID": 4612,
+    "onView": false,
     "objectNumber": "2015.147",
-    "sortNumber": 2015.147,
+    "sortNumber": "2015   147",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,133 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Anzai Shigeo",
     "title": {
         "en": "Jiro Takamatsu, The 10th Contemporary Exhibition of Japan 1971, Tokyo Metropolitan Art Museum, May, 1971",
-        "zh-hant": "高松次郎，1971年 5月東京都美術館「1971年第十屆現代日本美術展」",
-        "zh-hans": "高松次郎，1971年 5月东京都美术馆「1971年第十届现代日本美术展」"
+        "zh-hant": "高松次郎，1971年 5月東京都美術館「1971年第十屆現代日本美術展」"
     },
-    "displayDate": "1971",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1971",
+        "zh-hant": "1971"
+    },
     "beginDate": 1971,
     "endDate": 1971,
     "dimension": {
         "en": "overall (mounted): 29.4 × 21.6 cm\r\r\nimage: 25.4 × 17.1 cm",
-        "zh-hant": "圖像尺寸: 25.4 × 17.1 厘米\r\r\n裱褙: 29.4 × 21.6 厘米",
-        "zh-hans": "图像尺寸: 25.4 × 17.1 厘米\r\r\n裱褙: 29.4 × 21.6 厘米"
+        "zh-hant": "整體 (托裱): 29.4 × 21.6 厘米\r\n圖像: 25.4 × 17.1 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": "銀鹽照片",
-        "zh-hans": "银盐照片"
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Monochrome photograph of a man crouching on top of two metal sheets. He is handling a rectangular cube-like object. Several tools are on the floor, including scissors, rags, some cans, and a cardboard box. The feet and lower body of a second man standing by are visible on the right.",
+            "AltTextTC": "黑白照片中，一個男人蹲在兩塊金屬片上。他正在處理一個矩形物體。地上放置了一些工具，包括剪刀、舊布塊、幾個罐子和一個紙箱。另一個男人站在右邊，可見其雙足和下半身。",
+            "src": "004501_005000/004612_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© ANZAÏ",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4612
 }

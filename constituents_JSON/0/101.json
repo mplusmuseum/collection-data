@@ -2,9 +2,12 @@
     "constituentID": 101,
     "name": {
         "en": {
-            "id": "93",
-            "alphasort": "Au, Hoi Lam",
-            "displayname": "Au Hoi Lam"
+            "displayName": "Au Hoi Lam",
+            "alphasort": "Au, Hoi Lam"
+        },
+        "zh-hant": {
+            "displayName": "區凱琳",
+            "alphasort": "區凱琳"
         }
     },
     "type": "Individual",
@@ -12,9 +15,32 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1978",
+        "zh-hant": "香港，生於1978年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1978,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 101
 }

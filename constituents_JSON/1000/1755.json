@@ -2,14 +2,12 @@
     "constituentID": 1755,
     "name": {
         "en": {
-            "id": "3647",
-            "alphasort": "Lee, Holly",
-            "displayname": "Holly Lee"
+            "displayName": "Holly Lee",
+            "alphasort": "Lee, Holly"
         },
         "zh-hant": {
-            "id": "3648",
-            "alphasort": "黃楚喬",
-            "displayname": "黃楚喬"
+            "displayName": "黃楚喬",
+            "alphasort": "黃楚喬"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1953",
+        "zh-hant": "香港，生於1953年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Toronto"
+    },
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1953,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1755
 }

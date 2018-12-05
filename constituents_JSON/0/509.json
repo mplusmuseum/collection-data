@@ -2,14 +2,12 @@
     "constituentID": 509,
     "name": {
         "en": {
-            "id": "501",
-            "alphasort": "Xu, Ruotao",
-            "displayname": "Xu Ruotao"
+            "displayName": "Xu Ruotao",
+            "alphasort": "Xu, Ruotao"
         },
         "zh-hant": {
-            "id": "1516",
-            "alphasort": "徐, 若濤",
-            "displayname": "徐若濤"
+            "displayName": "徐若濤",
+            "alphasort": "徐, 若濤"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Shenyang"
+    },
+    "deathCity": null,
     "beginDate": 1968,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 509
 }

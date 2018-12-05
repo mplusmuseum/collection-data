@@ -1,7 +1,8 @@
 {
     "objectID": 3064,
+    "onView": false,
     "objectNumber": "2012.584",
-    "sortNumber": 2012.584,
+    "sortNumber": "2012   584",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,202 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            55,
+            95,
+            103
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "Beginning in 2004, Liang Yuanwei typed the phrase ‘umustbestrong’ onto a roll of two-ply toilet paper forty-four times a day for an extended period of time. The painstaking and self-discplined approach adheres to the mantra ‘you must be strong’, which contrasts with the flimsy and disposable quality of the paper. It is also a comment on the condition of being a female artist in the mainstream art scene and daily life."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "Liang Yuanwei typed the phrase ‘umustbestrong’ on a roll of two-ply toilet paper forty-four times a day for an extended period of time. The artist’s painstaking and disciplined approach corresponds to the mantra ‘you must be strong’, which contrasts with the flimsy and disposable paper. The work is a comment on the condition of being a female artist in the mainstream art scene and in daily life."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "自2004年起，梁遠葦幾乎每天都在卷裝兩層廁紙上打上「umustbestrong」的字樣44次，維持了一段頗長時間。如此認真而嚴謹的行為，卻與廁紙薄弱易爛的特質形成反諷，呼應句中的「U must be strong」（你一定要堅強），表達她在主流藝壇和日常生活中作為女性藝術家的特殊感受。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "梁遠葦幾乎每天都在卷裝兩層廁紙上打上「umustbestrong」的字句44次，維持了一段頗長時間。如此細緻而嚴謹的行為，卻與廁紙薄弱易爛的特質形成反諷，呼應句中的「U must be strong」（你一定要堅強），表達身為女性藝術家的她在主流藝壇和日常生活中特殊感受。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        28
+    ],
+    "allORC": "Liang Yuanwei",
     "title": {
         "en": "umustbestrong",
-        "zh-hant": "umustbestrong",
-        "zh-hans": "umustbestrong"
+        "zh-hant": "umustbestrong"
     },
-    "displayDate": "2004–2005",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2004–2005",
+        "zh-hant": "2004–2005"
+    },
     "beginDate": 2004,
     "endDate": 2005,
     "dimension": {
         "en": "overall (toilet paper roll): 15 × 15 × 15 cm\r\r\nframe (photograph): 70.5 × 92 × 3 cm\r\r\nimage (photograph): 47.5 × 70 cm",
-        "zh-hant": "衛生紙卷: 15 × 15 × 15 厘米\r\r\n照片: 47.5 × 70 厘米",
-        "zh-hans": "卫生纸卷: 15 × 15 × 15 厘米\r\r\n照片: 47.5 × 70 厘米"
+        "zh-hant": "衛生紙卷: 15 × 15 × 15 厘米\r\r\n照片: 47.5 × 70 厘米"
     },
     "medium": {
         "en": "toilet paper roll and colour photograph",
-        "zh-hant": "衛生紙、彩色照片",
-        "zh-hans": "卫生纸及彩色照片"
+        "zh-hant": "衛生紙、彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港",
-        "zh-hans": "香港M+ 希克藏品（捐赠）"
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "003001_003500/003064_001.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003064_002.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003064_004.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003064_005.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "A framed photograph of a portable typewriter loaded with toilet paper hangs on a wall. Beneath it, the actual roll of toilet paper is displayed in a glass case. The word ‘UMustBeStrong’ has been repeatedly typed on the roll of paper in the style of a formal dated diary.",
+            "AltTextTC": "牆上是一幅裝裱了相框的照片，照片裏的手提打字機裝上一卷廁紙。相框下方的玻璃箱內，正展示着那卷廁紙的實物，廁紙上標有日期，以日記形式重複打上「你必須堅強」。",
+            "src": "003001_003500/003064_003.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        },
+        {
+            "src": "003001_003500/003064_006.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Liang Yuanwei",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3064
 }

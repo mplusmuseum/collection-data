@@ -2,14 +2,12 @@
     "constituentID": 458,
     "name": {
         "en": {
-            "id": "450",
-            "alphasort": "Wang, Qingsong",
-            "displayname": "Wang Qingsong"
+            "displayName": "Wang Qingsong",
+            "alphasort": "Wang, Qingsong"
         },
         "zh-hant": {
-            "id": "1470",
-            "alphasort": "王, 慶松",
-            "displayname": "王慶松"
+            "displayName": "王慶松",
+            "alphasort": "王, 慶松"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1966",
+        "zh-hant": "中國籍，生於1966年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Daqing"
+    },
+    "deathCity": null,
     "beginDate": 1966,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 458
 }

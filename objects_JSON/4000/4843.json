@@ -1,7 +1,8 @@
 {
     "objectID": 4843,
+    "onView": false,
     "objectNumber": "2016.244",
-    "sortNumber": 2016.244,
+    "sortNumber": "2016   244",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,12 +32,30 @@
             }
         }
     ],
-    "title": {
-        "en": "Interior of the Old Shoin Seen from the East Side of the Second Room",
-        "zh-hant": "從二房的東端望向古書院內部",
-        "zh-hans": "从二房的东端望向古书院内部"
+    "exhibition": {
+        "ids": [
+            58
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
     },
-    "displayDate": "photographed 1954, printed 1990s",
+    "relatedEventIds": [
+        25
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Ishimoto Yasuhiro",
+    "title": {
+        "en": "Interior of the Old Shoin seen from the east side of the second room, 1954",
+        "zh-hant": "從二房的東端望向古書院內部"
+    },
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "photographed 1954, printed 1990s",
+        "zh-hant": "1954年拍攝，1990年代印刷"
+    },
     "beginDate": 1954,
     "endDate": 1999,
     "dimension": {
@@ -50,6 +69,110 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Three signed in pencil and each with credit blindstamp in the margin"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "004501_005000/004843_002.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004501_005000/004843_003.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004501_005000/004843_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Rights Holder RESERVES ALL RIGHTS",
+        "copyright": "© Kochi Prefecture, Ishimoto Yasuhiro Photo Center",
+        "concatRights": "M+/WKCDA exhibition/CONTACT the RIGHTS HOLDER; M+/WKCDA website/CONTACT the RIGHTS HOLDER; M+/WKCDA internal use/CONTACT the RIGHTS HOLDER; M+/WKCDA publications/CONTACT the RIGHTS HOLDER; M+/WKCDA press/publicity/CONTACT the RIGHTS HOLDER; M+/WKCDA press packs/CONTACT the RIGHTS HOLDER; M+/WKCDA advertising/CONTACT the RIGHTS HOLDER; M+/WKCDA learning team activities/CONTACT the RIGHTS HOLDER; 3rd-party exhibition (LOANS)/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial research/academic/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial educational/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial publication/CONTACT the RIGHTS HOLDER; other 3rd-party non-commercial use/CONTACT the RIGHTS HOLDER; social media/CONTACT the RIGHTS HOLDER; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/In correspondence with Rights-Holder",
+        "concatRemark": "",
+        "currentStatus": "In correspondence with Rights-Holder",
+        "rights": [
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4843
 }

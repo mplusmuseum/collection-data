@@ -2,14 +2,12 @@
     "constituentID": 1430,
     "name": {
         "en": {
-            "id": "3057",
-            "alphasort": "Kenmochi, Isamu",
-            "displayname": "Kenmochi Isamu"
+            "displayName": "Kenmochi Isamu",
+            "alphasort": "Kenmochi, Isamu"
         },
         "zh-hant": {
-            "id": "3059",
-            "alphasort": "劍持勇",
-            "displayname": "劍持勇"
+            "displayName": "劍持勇",
+            "alphasort": "劍持勇"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, 1912–1971",
+        "zh-hant": "日本籍，1912–1971年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Tokyo"
+    },
+    "deathCity": null,
     "beginDate": 1912,
-    "deathyear": 1971,
+    "endDate": 1971,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1430
 }

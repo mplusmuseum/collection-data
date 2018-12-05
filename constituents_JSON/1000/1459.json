@@ -2,13 +2,12 @@
     "constituentID": 1459,
     "name": {
         "en": {
-            "id": "3110",
-            "alphasort": "Leung, Chi Wo",
-            "displayname": "Warren Leung Chi Wo"
+            "displayName": "Leung Chi Wo",
+            "alphasort": "Leung, Chi Wo"
         },
         "zh-hant": {
-            "id": "3120",
-            "displayname": "梁志和"
+            "displayName": "梁志和",
+            "alphasort": "梁志和"
         }
     },
     "type": "Individual",
@@ -16,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1968",
+        "zh-hant": "香港，生於1968年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1968,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1459
 }

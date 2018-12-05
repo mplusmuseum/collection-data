@@ -2,14 +2,12 @@
     "constituentID": 418,
     "name": {
         "en": {
-            "id": "410",
-            "alphasort": "Song, Yongping",
-            "displayname": "Song Yongping"
+            "displayName": "Song Yongping",
+            "alphasort": "Song, Yongping"
         },
         "zh-hant": {
-            "id": "1436",
-            "alphasort": "宋, 永平",
-            "displayname": "宋永平"
+            "displayName": "宋永平",
+            "alphasort": "宋, 永平"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1961",
+        "zh-hant": "中國籍，生於1961年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Taiyuan"
+    },
+    "deathCity": null,
     "beginDate": 1961,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 418
 }

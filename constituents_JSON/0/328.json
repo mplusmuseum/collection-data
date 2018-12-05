@@ -2,14 +2,12 @@
     "constituentID": 328,
     "name": {
         "en": {
-            "id": "320",
-            "alphasort": "Lum, Ken",
-            "displayname": "Ken Lum"
+            "displayName": "Ken Lum",
+            "alphasort": "Lum, Ken"
         },
         "zh-hant": {
-            "id": "1368",
-            "alphasort": "林蔭庭",
-            "displayname": "林蔭庭"
+            "displayName": "林蔭庭",
+            "alphasort": "林蔭庭"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Canadian",
+    "displayBio": {
+        "en": "Canadian, born 1956",
+        "zh-hant": "加拿大籍，生於1956年"
+    },
+    "nationality": {
+        "en": "Canadian",
+        "zh-hant": "加拿大籍"
+    },
+    "region": {
+        "en": "Americas",
+        "zh-hant": "美洲"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Vancouver"
+    },
+    "deathCity": null,
     "beginDate": 1956,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 328
 }

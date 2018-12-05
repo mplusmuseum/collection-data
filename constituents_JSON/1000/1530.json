@@ -2,23 +2,33 @@
     "constituentID": 1530,
     "name": {
         "en": {
-            "id": "3216",
-            "alphasort": "Unknown (Mainland China)",
-            "displayname": "Unknown (Mainland China)"
+            "displayName": "Unknown (Mainland China)",
+            "alphasort": "Unknown (Mainland China)"
         },
         "zh-hant": {
-            "id": "4912",
-            "alphasort": "佚名 (中國內地)",
-            "displayname": "佚名 (中國內地)"
+            "displayName": "佚名 (中國內地)",
+            "alphasort": "佚名 (中國內地)"
         }
     },
     "type": "Individual",
     "gender": {
-        "zh-hant": null
+        "en": "Unknown",
+        "zh-hant": "不詳"
     },
-    "displayBio": {},
+    "displayBio": null,
     "nationality": null,
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": null,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1530
 }

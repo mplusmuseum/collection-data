@@ -2,14 +2,12 @@
     "constituentID": 287,
     "name": {
         "en": {
-            "id": "279",
-            "alphasort": "Liao, Guohe",
-            "displayname": "Liao Guohe"
+            "displayName": "Liao Guohe",
+            "alphasort": "Liao, Guohe"
         },
         "zh-hant": {
-            "id": "1332",
-            "alphasort": "廖, 國核",
-            "displayname": "廖國核"
+            "displayName": "廖國核",
+            "alphasort": "廖, 國核"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born India, 1977",
+        "zh-hant": "中國籍，1977年生於印度"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Changsha"
+    },
+    "birthCity": {
+        "en": "Calcutta"
+    },
+    "deathCity": null,
     "beginDate": 1977,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 287
 }

@@ -2,14 +2,12 @@
     "constituentID": 286,
     "name": {
         "en": {
-            "id": "278",
-            "alphasort": "Liang, Yuanwei",
-            "displayname": "Liang Yuanwei"
+            "displayName": "Liang Yuanwei",
+            "alphasort": "Liang, Yuanwei"
         },
         "zh-hant": {
-            "id": "1331",
-            "alphasort": "梁, 遠葦",
-            "displayname": "梁遠葦"
+            "displayName": "梁遠葦",
+            "alphasort": "梁, 遠葦"
         }
     },
     "type": "Individual",
@@ -18,11 +16,49 @@
         "zh-hant": "女性"
     },
     "displayBio": {
-        "en": "Liang Yuanwei (born 1977, Xi’an) graduated from the Central Academy of Fine Arts, Beijing, with a Bachelor of Arts in 1999 and a Master of Arts in 2004. Often working with painting and installation, she is known for her meticulous, time-consuming, and repetitive processes. Liang lives and works in Beijing.",
-        "zh-hant": "梁遠葦 (1977年生於西安，現工作及生活於北京)，1999 年畢業於北京中央美術學院，獲文學學士學位，並於2004年獲該學院頒發文學碩士學位。梁遠葦較常創作繪畫及裝置作品，作品以精細、費時及重複的製作工序見稱。"
+        "en": "Chinese, born 1977",
+        "zh-hant": "中國籍，生於1977年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Xi'an"
+    },
+    "birthCity": {
+        "en": "Xi'an"
+    },
+    "deathCity": null,
     "beginDate": 1977,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Liang Yuanwei (born 1977, Xi’an) graduated from the Central Academy of Fine Arts, Beijing, with a Bachelor of Arts in 1999 and a Master of Arts in 2004. Often working with painting and installation, she is known for her meticulous, time-consuming, and repetitive processes. Liang lives and works in Beijing."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "梁遠葦 (1977年生於西安，現工作及生活於北京)，1999 年畢業於北京中央美術學院，獲文學學士學位，並於2004年獲該學院頒發文學碩士學位。梁遠葦較常創作繪畫及裝置作品，作品以精細、費時及重複的製作工序見稱。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 286
 }

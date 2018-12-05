@@ -1,7 +1,8 @@
 {
     "objectID": 2458,
+    "onView": false,
     "objectNumber": "2012.1079",
-    "sortNumber": 2012.1079,
+    "sortNumber": "2012  1079",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,53 @@
             }
         }
     ],
-    "title": {
-        "en": "Untitled",
-        "zh-hant": "無題"
+    "exhibition": {
+        "ids": [
+            95
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "Untitled is an early painting from Wei Guangqing’s iconic Red Wall series. In this work, Wei reappropriates an illustration on the proper manner of hosting a party (宴客切勿流連), taken from the moral teachings of Zhu Bolu, a Confucian scholar during the Qing dynasty. The painting embraces the stylistic language of pop art; a red wall is amplified as the prominent visual motif that foregrounds Zhu’s message, vibrant red is juxtaposed with muddy yellow tones, bold borders are featured, and there is flattened spatial depth. With all these elements, Untitled recontextualises Eastern philosophy with Western post-modern aesthetics. The work represents Wei’s conscious intention of positioning opposing concepts of past and present, and figurative and abstract, in order to provoke multiple readings of contemporary society, popular culture, and consumerism."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "《無題》是魏光慶著名系列《紅牆》的早期畫作之一。他挪用了清朝儒家學者朱柏廬著作《朱子治家格言》裏的插畫，題為「宴客切勿流連」。作品洋溢濃厚的波普藝術風格，紅牆佔據了畫面大部分空間，成為比朱子格言插畫更顯要的視覺元素，鮮艷的紅色與泥黃色調並列，再加上粗黑框線和富平面感的構圖，以西方後現代美學重塑東方哲學語境。魏氏刻意將今與昔、具象與抽象這些對立概念並列，就著當代社會、流行文化和消費主義激發多重解讀。"
+                    }
+                ]
+            }
+        }
     },
-    "displayDate": "1992",
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        12
+    ],
+    "allORC": "Wei Guangqing",
+    "title": {
+        "en": "Red Wall—Do Not Prolong the Party",
+        "zh-hant": "紅牆—宴客切勿流連"
+    },
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1992",
+        "zh-hant": "1992"
+    },
     "beginDate": 1992,
     "endDate": 1992,
     "dimension": {
@@ -49,6 +92,102 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "Inscribed in marker, verso LR: 《红墙—宴客勿留连》 / 146 cm x 114 cm\r\r\nSecondary inscriptions, see images"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "Copyright": "photo: M+",
+            "AltText": "Oil paining on canvas. Above a red brick wall labelled ‘China’ is an illustrated vignette. An unpainted figure stands in the doorway of a painted man’s home facing a set dining table. A small block of text reads: 'When inviting guests over, do not keep them for too long.'",
+            "AltTextTC": "油彩布本作品。標示着「中國」的紅色磚牆上方，是一幅故事小插圖。一個沒有上色的人物，站在已上色的男人的家門前，面向飯桌。圖中工整地寫着幾個細小的文字：「宴客切勿留連」。",
+            "src": "002001_002500/002458_001.tif",
+            "rank": "1",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Wei Guangqing",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2458
 }

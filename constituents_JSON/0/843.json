@@ -2,9 +2,12 @@
     "constituentID": 843,
     "name": {
         "en": {
-            "id": "1750",
-            "alphasort": "Dono, Heri",
-            "displayname": "Heri Dono"
+            "displayName": "Heri Dono",
+            "alphasort": "Dono, Heri"
+        },
+        "zh-hant": {
+            "displayName": "赫里·多诺",
+            "alphasort": "赫里·多诺"
         }
     },
     "type": "Individual",
@@ -12,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Indonesian",
+    "displayBio": {
+        "en": "Indonesian, born 1960",
+        "zh-hant": "印尼籍，生於1960年"
+    },
+    "nationality": {
+        "en": "Indonesian",
+        "zh-hant": "印尼籍"
+    },
+    "region": {
+        "en": "Southeast Asia",
+        "zh-hant": "東南亞"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Jakarta"
+    },
+    "deathCity": null,
     "beginDate": 1960,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 843
 }

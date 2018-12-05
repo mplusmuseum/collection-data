@@ -2,14 +2,12 @@
     "constituentID": 1643,
     "name": {
         "en": {
-            "id": "3378",
-            "alphasort": "Doi, Toshitada",
-            "displayname": "Doi Toshitada"
+            "displayName": "Doi Toshitada",
+            "alphasort": "Doi, Toshitada"
         },
         "zh-hant": {
-            "id": "4853",
-            "alphasort": "土井利忠",
-            "displayname": "土井利忠"
+            "displayName": "土井利忠",
+            "alphasort": "土井利忠"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, born 1942",
+        "zh-hant": "日本籍，生於1942年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Hyōgo Prefecture"
+    },
+    "deathCity": null,
     "beginDate": 1942,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1643
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 2048,
+    "onView": false,
     "objectNumber": "2014.56",
-    "sortNumber": 2014.56,
+    "sortNumber": "2014    56",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,25 +32,176 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "Inspired by the moon landing missions that had captured the American popular imagination, Chuang Che made Moon Eater during his short residency in New York in 1967. It belongs to a creative period when Chuang, a member of the Taiwanese modernist art group, Fifth Moon Society (1956–72) , made abstract paintings composed of blunt and deliberately uncalligraphic strokes in oil, acrylic, and ink, combined and layered with paper collage. He constructed forms and shapes foreign to Chinese painting in order to invent his own language of painting, consciously breaking away from his upbringing, which was immersed in traditional calligraphy and painting."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "莊喆在1967年客居紐約期間創作了《食月者》，靈感來自當時風魔全美的登月計 劃。此作乃莊喆參與台灣現代主義藝術團體「五月畫會」（1956–1972年）時期所畫，他以紙本拼貼做底，混用油彩、塑膠彩和水墨形成率性的「非書法」筆劃。他在構圖中融入國畫罕見的造形，創造出自己的藝術語言，有意擺脫自幼耳濡目染的傳統書畫影響。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Chuang Che",
     "title": {
         "en": "Moon Eater",
         "zh-hant": "食月者"
     },
-    "displayDate": "1967",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1967",
+        "zh-hant": "1967"
+    },
     "beginDate": 1967,
     "endDate": 1967,
     "dimension": {
         "en": "overall: 121.8 × 96.3 × 3.5 cm",
-        "zh-hant": "整體: 121.8 × 96.3 × 3.5 厘米",
-        "zh-hans": "整体: 121.8 × 96.3 x 3.5 厘米"
+        "zh-hant": "整體: 121.8 × 96.3 × 3.5 厘米"
     },
     "medium": {
         "en": "oil, ink, acrylic, and paper collage on canvas",
-        "zh-hant": "油彩、水墨、塑膠彩及紙拼貼布本"
+        "zh-hant": "油彩、墨水、塑膠彩、紙拼貼布本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "002001_002500/002048_001.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "AltText": "Oil, ink, and acrylic painting with paper collage on canvas of shapes in brown, blue, orange, yellow, and pink. The shapes are angular and surrounded by thick black lines, except for a vertical light brown shape in the background and gray blotches surrounding it.",
+            "AltTextTC": "油彩、水墨、塑膠彩及紙拼貼布本作品，以棕色、藍色、橙色、黃色和粉紅色繪上有稜角的圖形。除了背景中垂直的棕色圖形外，其他圖形均由粗黑色線條圍繞，旁邊更有灰色斑點。",
+            "src": "002001_002500/002048_003.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002048_002.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002048_004.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Chuang Che",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2048
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 1994,
+    "onView": false,
     "objectNumber": "2016.83",
-    "sortNumber": 2016.83,
+    "sortNumber": "2016    83",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,54 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82,
+            105
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "In the late1950s, Li Yuan-chia was a pioneer in using the tenets of Taoist philosophy and the aesthetics of Chinese ink art to create his own visual and conceptual language. Untitled, painted in Taiwan when Li was a member of the modernist group Ton Fan Society(1956–71) shortly before he moved to Bologna and then London, shows calligraphic points and lines in the unusual combinations that had become part of Li’s formal vocabulary. The ink marks along a horizontal orientation suggest a musical notation or an abstract landscape. Yet, signed and dated on both ends, the orientation of reading the work is unclear, leaving the meaning of these invented symbols ultimately enigmatic."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "五十年代末，李元佳開創了以道家思想和中國水墨美學為基礎的視覺語言與藝術概念。《無題》是他移居波隆那和倫敦之前，參與台灣現代主義藝術團體「東方畫會」（1956–1971年）時期的作品。結構獨特的書法線條和筆觸形成了李元佳的藝術語言。橫幅上的墨跡既像音符，又似抽象山水。畫幅的左右兩邊都有落款，故此作品的閱讀方向變得模棱兩可，令畫中符號的意義更難以捉摸。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Li Yuan-chia",
     "title": {
         "en": "Untitled",
         "zh-hant": "無題"
     },
-    "displayDate": "1960",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1960",
+        "zh-hant": "1960"
+    },
     "beginDate": 1960,
     "endDate": 1960,
     "dimension": {
@@ -49,6 +93,134 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Long rectangular paper scroll with black ink marks and lines painted across it along a horizontal orientation, suggesting a musical notation or an abstract landscape.",
+            "AltTextTC": "長度甚可觀的長方形橫幅紙軸，上面有黑色的墨跡及線條，看似隨意繪畫的音符，又像抽象山水。",
+            "src": "001501_002000/001994_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "001501_002000/001994_002.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "001501_002000/001994_003.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "001501_002000/001994_004.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "001501_002000/001994_005.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "001501_002000/001994_006.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "001501_002000/001994_007.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Li Yuan-Chia Foundation",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 1994
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 5827,
+    "onView": false,
     "objectNumber": "2016.84",
-    "sortNumber": 2016.84,
+    "sortNumber": "2016    84",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,30 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Hsiao Chin",
     "title": {
         "en": "Qi 311",
         "zh-hant": "炁之三一一"
     },
-    "displayDate": "1981",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1981",
+        "zh-hant": "1981"
+    },
     "beginDate": 1981,
     "endDate": 1981,
     "dimension": {
@@ -44,11 +64,105 @@
     },
     "medium": {
         "en": "acrylic on paper",
-        "zh-hant": "墨水布本"
+        "zh-hant": "塑膠彩紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "titled and inscribed LR: 氣之三一一 Hsiao勤 八八"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Landscape-oriented beige paper with five wide lines in blue ink—drawn with an extra-large flathead paintbrush—moving in parallel from left to right, covering most of the paper with a wave-like texture. The upper left and bottom left corners are each imprinted with a red seal. The one on top reads, in Chinese, ‘Enlightenment in the absence of material comfort’, while the other reads, ‘Capturing the essence without capturing the form’. The latter text is a play on words: these characters also form an idiom meaning ‘to be carried away by excitement’.",
+            "AltTextTC": "橫幅米色紙上，五道蔚藍色的特大平頭水墨粗筆由左邊延伸至右邊，呈現波浪紋理，平排填滿大半畫面。左上及左下角分別有朱紅鈐印，寫着「悟無居」及「得意忘形」。",
+            "src": "005501_006000/005827_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Hsiao Chin",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 5827
 }

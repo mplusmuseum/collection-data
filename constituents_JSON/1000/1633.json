@@ -2,14 +2,12 @@
     "constituentID": 1633,
     "name": {
         "en": {
-            "id": "3360",
-            "alphasort": "Liu, Kuo-sung",
-            "displayname": "Liu Kuo-sung"
+            "displayName": "Liu Kuo-sung",
+            "alphasort": "Liu, Kuo-sung"
         },
         "zh-hant": {
-            "id": "3361",
-            "alphasort": "劉國松",
-            "displayname": "劉國松"
+            "displayName": "劉國松",
+            "alphasort": "劉國松"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Taiwanese",
+    "displayBio": {
+        "en": "Taiwanese, born China, 1932",
+        "zh-hant": "台灣籍，1932年生於中國"
+    },
+    "nationality": {
+        "en": "Taiwanese",
+        "zh-hant": "台灣籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Taoyuan",
+        "zh-hant": "桃園縣"
+    },
+    "birthCity": {
+        "en": "Bengbu"
+    },
+    "deathCity": null,
     "beginDate": 1932,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1633
 }

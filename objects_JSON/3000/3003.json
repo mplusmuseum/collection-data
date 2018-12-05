@@ -1,7 +1,8 @@
 {
     "objectID": 3003,
+    "onView": false,
     "objectNumber": "2012.921",
-    "sortNumber": 2012.921,
+    "sortNumber": "2012   921",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,16 +32,71 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            16,
+            55,
+            81,
+            95,
+            106
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "These two photographs document Song Dong’s performances in January 1996. He laid down face first on the ground of Tiananmen Square under sub-zero conditions for forty minutes. As he breathed on the ground, a thin layer of ice formed. When he repeated the act on the frozen surface of Houhai, a small lake near Tiananmen Square, the ice he wished to melt remained unaffected, symbolising the conflict between the individual and the establishment. Together, the two performances illustrate the artist’s desire to use his body to facilitate a change in the environment, regardless of its minimal impact."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "These two photographs document Song Dong’s performances in January 1996. He laid down face first on the ground of Tiananmen Square in sub-zero conditions for forty minutes. As he breathed on the ground, a thin layer of ice formed. When he repeated the act on the frozen surface of Houhai, a small lake near Tiananmen Square, the ice he wished to melt remained unaffected, symbolising the conflict between the individual and the establishment. Together, the two performances illustrate the artist’s desire to use his body to make a change in the environment, no matter how small."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "這兩張照片紀錄了宋冬在1996年1月的行為藝術。他身處攝氏零下的氣溫，在天安門面朝下方俯臥40分鐘，不停向地面呼氣，並形成一層薄冰。當他在天安門附近的後海重覆以上行為，希望融化結冰的湖面時，湖面完全不受影響，象徵個人與體制之間的衝突。兩次表演展示出藝術家希望以自身改變環境的渴求，無論成效如何渺小也在所不計。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "這兩張照片紀錄了宋冬在1996年1月的行為藝術展演。他身處攝氏零下的氣溫，在天安門前的地下做俯臥撐40分鐘，不停向地面呼氣，並形成一層薄冰。當他在天安門附近的後海重複以上行為，希望融化結冰的湖面時，但湖面完全不受影響，這象徵了個人與體制之間的衝突。兩次表演展示出藝術家希望以自身改變環境的渴求，無論成效如何渺小也在所不計。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Song Dong",
     "title": {
         "en": "Breathing, Tiananmen Square",
         "zh-hant": "哈氣, 天安門"
     },
-    "displayDate": "1996",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1996",
+        "zh-hant": "1996"
+    },
     "beginDate": 1996,
     "endDate": 1996,
     "dimension": {
         "en": "frame: 131.2 × 187.7 cm\r\r\nimage (sight): 123.5 × 179.8 cm",
-        "zh-hant": "120 × 180 厘米"
+        "zh-hant": "框架: 131.2 × 187.7 厘米\r\n圖像 (目測量度): 123.5 × 179.8 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
@@ -49,6 +105,101 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "No visible inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Photograph of the artist Song Dong, lying on his stomach in Tiananmen Square at night. Dressed in a thick black jacket, he breathes on the ground, creating a thin layer of ice on the concrete slab.",
+            "AltTextTC": "照片中，藝術家宋冬在晚上俯身趴在天安門廣場。他身穿黑色厚外套，朝着地面哈氣，在混凝土地面上結成了一層薄冰。",
+            "src": "003001_003500/003003_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Song Dong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3003
 }

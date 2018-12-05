@@ -1,7 +1,8 @@
 {
     "objectID": 4840,
+    "onView": false,
     "objectNumber": "2016.245",
-    "sortNumber": 2016.245,
+    "sortNumber": "2016   245",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,30 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Ishimoto Yasuhiro",
     "title": {
         "en": "Stone, Moss, Stone",
         "zh-hant": "石 苔 石"
     },
-    "displayDate": "photographed 1954, printed 1990s",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "photographed 1954, printed 1990s",
+        "zh-hant": "1954年拍攝，1990年代印刷"
+    },
     "beginDate": 1954,
     "endDate": 1999,
     "dimension": {
@@ -49,6 +69,112 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Blindstamp on LL"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "004501_005000/004840_002.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "004501_005000/004840_003.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "AltText": "Monochrome photograph overlooking the ground. The composition is divided in two by a vertical line. On the left side, stones are placed together neatly; on the right, moss plants fill the space, and part of a large rock appears at the bottom right.",
+            "AltTextTC": "直幅的黑白照片從俯瞰角度拍攝着地面。中間一條直線把畫面一分為二：左半是整齊堆砌的石塊，右半佈滿苔類植物，右下方可見大石的一角。",
+            "src": "004501_005000/004840_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Rights Holder RESERVES ALL RIGHTS",
+        "copyright": "© Kochi Prefecture, Ishimoto Yasuhiro Photo Center",
+        "concatRights": "M+/WKCDA exhibition/CONTACT the RIGHTS HOLDER; M+/WKCDA website/CONTACT the RIGHTS HOLDER; M+/WKCDA internal use/CONTACT the RIGHTS HOLDER; M+/WKCDA publications/CONTACT the RIGHTS HOLDER; M+/WKCDA press/publicity/CONTACT the RIGHTS HOLDER; M+/WKCDA press packs/CONTACT the RIGHTS HOLDER; M+/WKCDA advertising/CONTACT the RIGHTS HOLDER; M+/WKCDA learning team activities/CONTACT the RIGHTS HOLDER; 3rd-party exhibition (LOANS)/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial research/academic/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial educational/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial publication/CONTACT the RIGHTS HOLDER; other 3rd-party non-commercial use/CONTACT the RIGHTS HOLDER; social media/CONTACT the RIGHTS HOLDER; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/In correspondence with Rights-Holder",
+        "concatRemark": "",
+        "currentStatus": "In correspondence with Rights-Holder",
+        "rights": [
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4840
 }

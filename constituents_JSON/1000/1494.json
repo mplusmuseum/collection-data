@@ -2,13 +2,12 @@
     "constituentID": 1494,
     "name": {
         "en": {
-            "id": "3165",
-            "alphasort": "Szeto, Keung",
-            "displayname": "Szeto Keung"
+            "displayName": "Szeto Keung",
+            "alphasort": "Szeto, Keung"
         },
         "zh-hant": {
-            "id": "3186",
-            "displayname": "司徒強"
+            "displayName": "司徒強",
+            "alphasort": "司徒強"
         }
     },
     "type": "Individual",
@@ -16,9 +15,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "American, born China. 1948 - 2011",
+        "zh-hant": "美國籍，生於中國，1948–2011年"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "Americas",
+        "zh-hant": "美洲"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1948,
-    "deathyear": 2011,
+    "endDate": 2011,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1494
 }

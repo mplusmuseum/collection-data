@@ -1,7 +1,8 @@
 {
     "objectID": 1715,
+    "onView": false,
     "objectNumber": "2013.270",
-    "sortNumber": 2013.27,
+    "sortNumber": "2013   270",
     "classification": {
         "area": {
             "rank": 1,
@@ -29,41 +30,137 @@
                 "en": "Wucius Wong",
                 "zh-hant": "王無邪"
             }
-        },
-        {
-            "id": 478,
-            "rank": 1,
-            "roles": {
-                "en": "Seller"
-            },
-            "names": {
-                "en": "Wucius Wong",
-                "zh-hant": "王無邪"
-            }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Wucius Wong",
     "title": {
         "en": "Infinite Landscape",
-        "zh-hant": "無涯",
-        "zh-hans": "无涯"
+        "zh-hant": "無涯"
     },
-    "displayDate": "1964",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1964",
+        "zh-hant": "1964"
+    },
     "beginDate": 1964,
     "endDate": 1964,
     "dimension": {
         "en": "sheet: 67.7 × 162 cm\r\r\nimage: 47.5 × 132.3 cm",
-        "zh-hant": "47 × 131.5 厘米",
-        "zh-hans": "47 × 131.5 厘米"
+        "zh-hant": "紙本: 67.7 × 162 厘米\r\n圖像: 47.5 × 132.3 厘米"
     },
     "medium": {
         "en": "ink and colour on paper",
-        "zh-hant": "水墨設色紙本",
-        "zh-hans": "水墨设色纸本"
+        "zh-hant": "水墨設色紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Inscribed in pencil and ball pen, verso lower left: 6402 / 1964 / 無涯 / Infinite Landscape / ( scribble)\r\r\nInscribed in pencil, verso lower right: 無涯 / 6402 / 6"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Ink and colour painting on paper depicting splotches and smears of black ink, sweeping grey clouds, and patches of white light. The painting is darker on our left, and brighter on our right.",
+            "AltTextTC": "水墨設色紙本作品中，呈現放逸塗染的黑色墨跡、橫掃天空的灰雲和幾片白光。作品左面用色較深，右面用色較淺。",
+            "src": "001501_002000/001715_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "M+ is the copyright owner",
+        "copyright": "© M+, Hong Kong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/PERMISSION GRANTED; commercial merchandise/PERMISSION GRANTED; commercial publishing/PERMISSION GRANTED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 1715
 }

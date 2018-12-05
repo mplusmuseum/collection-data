@@ -2,9 +2,12 @@
     "constituentID": 1445,
     "name": {
         "en": {
-            "id": "3094",
-            "alphasort": "Young, Hay",
-            "displayname": "Young Hay"
+            "displayName": "Young Hay",
+            "alphasort": "Young, Hay"
+        },
+        "zh-hant": {
+            "displayName": "楊曦",
+            "alphasort": "楊曦"
         }
     },
     "type": "Individual",
@@ -12,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1963",
+        "zh-hant": "香港，生於1963年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1963,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1445
 }

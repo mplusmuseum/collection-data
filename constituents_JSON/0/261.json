@@ -2,14 +2,12 @@
     "constituentID": 261,
     "name": {
         "en": {
-            "id": "253",
-            "alphasort": "Lee, Kwangho",
-            "displayname": "Kwangho Lee"
+            "displayName": "Kwangho Lee",
+            "alphasort": "Lee, Kwangho"
         },
         "zh-hant": {
-            "id": "1307",
-            "alphasort": "李光鎬",
-            "displayname": "李光鎬"
+            "displayName": "李光鎬",
+            "alphasort": "李光鎬"
         }
     },
     "type": "Individual",
@@ -17,9 +15,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Korean",
+    "displayBio": {
+        "en": "Korean, born 1981",
+        "zh-hant": "韓國籍，生於1981年"
+    },
+    "nationality": {
+        "en": "South Korean",
+        "zh-hant": "南韓籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1981,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 261
 }

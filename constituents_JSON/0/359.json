@@ -2,14 +2,12 @@
     "constituentID": 359,
     "name": {
         "en": {
-            "id": "351",
-            "alphasort": "Paik, Nam June",
-            "displayname": "Nam June Paik"
+            "displayName": "Nam June Paik",
+            "alphasort": "Paik, Nam June"
         },
         "zh-hant": {
-            "id": "1819",
-            "alphasort": "白南准",
-            "displayname": "白南准"
+            "displayName": "白南准",
+            "alphasort": "白南准"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "American, born Korea. 1932–2006",
+        "zh-hant": "美國籍，生於韓國，1932–2006年"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "Americas",
+        "zh-hant": "美洲"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Seoul"
+    },
+    "deathCity": {
+        "en": "Miami"
+    },
     "beginDate": 1932,
-    "deathyear": 2006,
+    "endDate": 2006,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 359
 }

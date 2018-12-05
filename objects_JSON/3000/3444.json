@@ -1,7 +1,8 @@
 {
     "objectID": 3444,
+    "onView": false,
     "objectNumber": "2012.43",
-    "sortNumber": 2012.43,
+    "sortNumber": "2012    43",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,65 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            36,
+            55,
+            95,
+            106
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "Zhang Wei encountered abstract expressionist paintings in Beijing in the early 1980s at one of the earliest exhibitions of western art in China. Afterwards, he began to move away from figurative compositions, producing a series of non-representational paintings that became part of the wave of abstract art in the 1980s."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "Zhang Wei encountered abstract expressionist paintings in Beijing in the early 1980s at one of the earliest exhibitions of Western art in China. Afterwards, he began to move away from figurative compositions, producing a series of non-representational paintings that became part of the wave of abstract art in the 1980s."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "1980年代初，在北京一場最早的西方畫展上，張偉欣賞到了傑克遜・波洛克的作品。其後，他脫離寫實風格，集中創作了一系列抽象作品，並成為1980年代抽象藝術運動的其中一分子。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "八十年代初，在北京一場最早的西方畫展上，張偉欣賞到了傑克遜・波洛克的作品。其後，他脫離寫實風格，集中創作了一系列抽象作品，並成為八十年代抽象藝術運動的一分子。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Zhang Wei",
     "title": {
         "en": "AC9",
         "zh-hant": "AC9"
     },
-    "displayDate": "1984",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1984",
+        "zh-hant": "1984"
+    },
     "beginDate": 1984,
     "endDate": 1984,
     "dimension": {
@@ -49,6 +104,99 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
         "zh-hant": "M+ 希克藏品，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Oil painting featuring forest green splotches, splashes and smears on an off-white linen diptych.",
+            "AltTextTC": "油彩作品繪於米色雙聯麻質畫布上，暗綠色油彩在畫布上暈染、潑灑、塗抹。",
+            "src": "003001_003500/003444_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Zhang Wei",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3444
 }

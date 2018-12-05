@@ -2,14 +2,12 @@
     "constituentID": 1101,
     "name": {
         "en": {
-            "id": "2090",
-            "alphasort": "Kidokoro, Ubunji",
-            "displayname": "Kidokoro Ubunji"
+            "displayName": "Kidokoro Ubunji",
+            "alphasort": "Kidokoro, Ubunji"
         },
         "zh-hant": {
-            "id": "2915",
-            "alphasort": "城所右文次",
-            "displayname": "城所右文次"
+            "displayName": "城所右文次",
+            "alphasort": "城所右文次"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, 1910–1945",
+        "zh-hant": "日本籍，1910–1945年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Tokyo"
+    },
+    "birthCity": {
+        "en": "Shizuoka Prefecture"
+    },
+    "deathCity": null,
     "beginDate": 1910,
-    "deathyear": 1945,
+    "endDate": 1945,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1101
 }

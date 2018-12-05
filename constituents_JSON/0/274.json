@@ -2,14 +2,12 @@
     "constituentID": 274,
     "name": {
         "en": {
-            "id": "266",
-            "alphasort": "Li, Wei",
-            "displayname": "Li Wei"
+            "displayName": "Li Wei",
+            "alphasort": "Li, Wei"
         },
         "zh-hant": {
-            "id": "1319",
-            "alphasort": "李, 暐",
-            "displayname": "李暐"
+            "displayName": "李暐",
+            "alphasort": "李, 暐"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1970",
+        "zh-hant": "中國籍，生於1970年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Hubei Province"
+    },
+    "deathCity": null,
     "beginDate": 1970,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 274
 }

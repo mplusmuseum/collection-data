@@ -2,23 +2,40 @@
     "constituentID": 1696,
     "name": {
         "en": {
-            "id": "3522",
-            "alphasort": "Toshiba Corporation",
-            "displayname": "Toshiba Corporation"
+            "displayName": "Toshiba Corporation",
+            "alphasort": "Toshiba Corporation"
         },
         "zh-hant": {
-            "id": "4905",
-            "alphasort": "東芝集團",
-            "displayname": "東芝集團"
+            "displayName": "東芝集團",
+            "alphasort": "東芝集團"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "established Tokyo, 1875",
+        "zh-hant": "1875年成立於東京"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Tokyo"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1875,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1696
 }

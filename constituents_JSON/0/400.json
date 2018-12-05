@@ -2,9 +2,8 @@
     "constituentID": 400,
     "name": {
         "en": {
-            "id": "392",
-            "alphasort": "Sharif, Hassan",
-            "displayname": "Hassan Sharif"
+            "displayName": "Hassan Sharif",
+            "alphasort": "Sharif, Hassan"
         }
     },
     "type": "Individual",
@@ -12,9 +11,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Emirati",
+    "displayBio": {
+        "en": "Emirati, 1951–2016",
+        "zh-hant": "阿拉伯聯合酋長國籍，1951–2016年"
+    },
+    "nationality": {
+        "en": "Emirati",
+        "zh-hant": "阿聯酋籍"
+    },
+    "region": {
+        "en": "Western Asia",
+        "zh-hant": "西亞"
+    },
+    "activeCity": {
+        "en": "Dubai"
+    },
+    "birthCity": {
+        "en": "Dubai"
+    },
+    "deathCity": null,
     "beginDate": 1951,
-    "deathyear": 2016,
+    "endDate": 2016,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 400
 }

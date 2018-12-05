@@ -2,23 +2,41 @@
     "constituentID": 1675,
     "name": {
         "en": {
-            "id": "3442",
-            "alphasort": "People's Fine Arts Publishing House",
-            "displayname": "People's Fine Arts Publishing House"
+            "displayName": "People's Fine Arts Publishing House",
+            "alphasort": "People's Fine Arts Publishing House"
         },
         "zh-hant": {
-            "id": "3444",
-            "alphasort": "人民美術出版社",
-            "displayname": "人民美術出版社"
+            "displayName": "人民美術出版社",
+            "alphasort": "人民美術出版社"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "established Beijing, 1951",
+        "zh-hant": "1951年於北京成立"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1951,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1675
 }

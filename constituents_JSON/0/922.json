@@ -2,9 +2,12 @@
     "constituentID": 922,
     "name": {
         "en": {
-            "id": "1841",
-            "alphasort": "Guiline, Kim",
-            "displayname": "Kim Guiline"
+            "displayName": "Kim Guiline",
+            "alphasort": "Guiline, Kim"
+        },
+        "zh-hant": {
+            "displayName": "金麒麟",
+            "alphasort": "金麒麟"
         }
     },
     "type": "Individual",
@@ -12,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Korean",
+    "displayBio": {
+        "en": "Korean, born 1936",
+        "zh-hant": "韓國籍，生於1936年"
+    },
+    "nationality": {
+        "en": "South Korean",
+        "zh-hant": "南韓籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Kowon"
+    },
+    "deathCity": null,
     "beginDate": 1936,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 922
 }

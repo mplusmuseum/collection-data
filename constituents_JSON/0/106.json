@@ -2,9 +2,8 @@
     "constituentID": 106,
     "name": {
         "en": {
-            "id": "98",
-            "alphasort": "Breitz, Candice",
-            "displayname": "Candice Breitz"
+            "displayName": "Candice Breitz",
+            "alphasort": "Breitz, Candice"
         }
     },
     "type": "Individual",
@@ -12,9 +11,30 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "South African",
+    "displayBio": {
+        "en": "South African, born 1972",
+        "zh-hant": "南非籍，生於1972年"
+    },
+    "nationality": {
+        "en": "South African",
+        "zh-hant": "南非籍"
+    },
+    "region": {
+        "en": "Africa",
+        "zh-hant": "非洲"
+    },
+    "activeCity": {
+        "en": "Berlin"
+    },
+    "birthCity": {
+        "en": "Johannesburg"
+    },
+    "deathCity": null,
     "beginDate": 1972,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 106
 }

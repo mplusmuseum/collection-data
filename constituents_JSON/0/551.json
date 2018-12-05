@@ -2,9 +2,12 @@
     "constituentID": 551,
     "name": {
         "en": {
-            "id": "543",
-            "alphasort": "Young, John",
-            "displayname": "John Young"
+            "displayName": "John Young",
+            "alphasort": "Young, John"
+        },
+        "zh-hant": {
+            "displayName": "楊子榮",
+            "alphasort": "楊子榮"
         }
     },
     "type": "Individual",
@@ -12,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Australian",
+    "displayBio": {
+        "en": "Australian, born Hong Kong, 1956",
+        "zh-hant": "澳洲籍，1956年生於香港"
+    },
+    "nationality": {
+        "en": "Australian",
+        "zh-hant": "澳洲籍"
+    },
+    "region": {
+        "en": "Oceania",
+        "zh-hant": "大洋洲"
+    },
+    "activeCity": {
+        "en": "Melbourne"
+    },
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1956,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 551
 }

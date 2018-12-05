@@ -2,23 +2,38 @@
     "constituentID": 1424,
     "name": {
         "en": {
-            "id": "3047",
-            "alphasort": "Mitsukoshi Ltd.",
-            "displayname": "Mitsukoshi Ltd."
+            "displayName": "Mitsukoshi Ltd.",
+            "alphasort": "Mitsukoshi Ltd."
         },
         "zh-hant": {
-            "id": "4872",
-            "alphasort": "株式會社三越",
-            "displayname": "株式會社三越"
+            "displayName": "株式會社三越",
+            "alphasort": "株式會社三越"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "established Tokyo, 1673",
+        "zh-hant": "1673年成立於東京"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1673,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1424
 }

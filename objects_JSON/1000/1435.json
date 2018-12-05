@@ -1,7 +1,8 @@
 {
     "objectID": 1435,
+    "onView": false,
     "objectNumber": "2012.2108",
-    "sortNumber": 2012.2108,
+    "sortNumber": "2012  2108",
     "classification": {
         "area": {
             "rank": 1,
@@ -29,41 +30,171 @@
                 "en": "Liu Heung-Shing",
                 "zh-hant": "劉香成"
             }
-        },
-        {
-            "id": 303,
-            "rank": 1,
-            "roles": {
-                "en": "Seller"
-            },
-            "names": {
-                "en": "Liu Heung-Shing",
-                "zh-hant": "劉香成"
-            }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            55,
+            95
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "‘An exhausted Chinese student sleeps amidst abandoned banners by the Monument to the People’s Heroes in Beijing’s Tiananmen Square, towards the end of May 1989, after a month-long hunger strike by the student demonstrators.’ \r\r\n\r\r\nThe accompanying description is courtesy of Liu Heung Shing’s monograph, China After Mao, first published in 1983.\r\r\n\r\r\n‘Liu Heung Shing is a photojournalist who, after completing his studies in the United States, was posted to China as one of the first foreign correspondants to gain accreditation following the normalization of diplomatic relations between China and the U.S. Arriving in 1978, Liu Heung Shing began to document the changes engendered by the reform policy, a project he continued through to the end of the twentieth century. His renowned photographs captured many major historical events including the activities of the Stars Painting Group, and the Tiananman Square incident of 1989.’"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "An exhausted Chinese student sleeps amidst abandoned banners by the Monument to the People’s Heroes in Beijing’s Tiananmen Square, towards the end of May 1989, after a month-long hunger strike by the student demonstrators."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "「自1989年五月底開始，長達一個月的學生絕食抗議後，一名學生精疲力竭躺在天安門廣場人民英雄紀念碑旁廢棄的條幅中。」\r\r\n\r\r\n以上文字敘述出自劉香成著作《毛以後的中國》，首版1983年。\r\r\n\r\r\n「劉香成，紀實攝影師，在美國畢業之後被派駐中國，是中美關係正常化之後首批被委派至中國的外國記者。 1978年到北京之後，劉香成開始紀錄改革開放帶來的變化，直至20世紀末。他著名的照片捕捉了很多重要的歷史事件，包括『星星畫會』運動、1989年『天安門事件』。」"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "1989年5月底，一名學生精疲力竭躺在天安門廣場人民英雄紀念碑旁廢棄的標語橫額中，其時學生已展開了長達一個月的絕食抗議。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Liu Heung-Shing",
     "title": {
         "en": "1989 Beijing, Hunger strike",
-        "zh-hant": "1989年，北京，絕食。",
-        "zh-hans": "1989年，北京，绝食。"
+        "zh-hant": "1989年，北京，絕食。"
     },
-    "displayDate": "1989",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1989",
+        "zh-hant": "1989"
+    },
     "beginDate": 1989,
     "endDate": 1989,
     "dimension": {
         "en": "sheet: 81.8 × 110 cm",
-        "zh-hant": "81.8 × 110 厘米",
-        "zh-hans": "81.8 × 110 厘米"
+        "zh-hant": "紙本: 81.8 × 110 厘米"
     },
     "medium": {
         "en": "archival inkjet print",
-        "zh-hant": "收藏級噴墨打印",
-        "zh-hans": "噴墨彩印"
+        "zh-hant": "收藏級噴墨打印"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Photograph of a man in a blue blazer and grey slacks lying unconscious on the cement ground amid a tangle of banners, strings, and bamboo poles.",
+            "AltTextTC": "照片中，一個穿着灰藍色西裝外套和淺灰色長褲的男人，不省人事地躺在水泥地上，身旁盡是亂糟糟的橫額、繩子和竹枝。",
+            "src": "001001_001500/001435_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "M+ is the copyright owner",
+        "copyright": "© M+, Hong Kong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/PERMISSION GRANTED; commercial merchandise/PERMISSION GRANTED; commercial publishing/PERMISSION GRANTED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 1435
 }

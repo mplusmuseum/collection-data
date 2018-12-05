@@ -2,14 +2,12 @@
     "constituentID": 206,
     "name": {
         "en": {
-            "id": "198",
-            "alphasort": "He, Jinwei",
-            "displayname": "He Jinwei"
+            "displayName": "He Jinwei",
+            "alphasort": "He, Jinwei"
         },
         "zh-hant": {
-            "id": "1262",
-            "alphasort": "何, 晉渭",
-            "displayname": "何晉渭"
+            "displayName": "何晉渭",
+            "alphasort": "何, 晉渭"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1967",
+        "zh-hant": "中國籍，生於1967年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Nanbu County"
+    },
+    "deathCity": null,
     "beginDate": 1967,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 206
 }

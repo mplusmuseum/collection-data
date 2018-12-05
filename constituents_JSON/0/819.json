@@ -2,14 +2,12 @@
     "constituentID": 819,
     "name": {
         "en": {
-            "id": "1726",
-            "alphasort": "Koji, Enokura",
-            "displayname": "Enokura Koji"
+            "displayName": "Enokura Koji",
+            "alphasort": "Koji, Enokura"
         },
         "zh-hant": {
-            "id": "2620",
-            "alphasort": "榎倉康二",
-            "displayname": "榎倉康二"
+            "displayName": "榎倉康二",
+            "alphasort": "榎倉康二"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, 1942–1995",
+        "zh-hant": "日本籍，1942–1995年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Tokyo"
+    },
+    "deathCity": null,
     "beginDate": 1942,
-    "deathyear": 1995,
+    "endDate": 1995,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 819
 }

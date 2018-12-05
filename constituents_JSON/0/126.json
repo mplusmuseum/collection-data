@@ -2,9 +2,12 @@
     "constituentID": 126,
     "name": {
         "en": {
-            "id": "118",
-            "alphasort": "Tchan, Fou-li",
-            "displayname": "Tchan Fou-li"
+            "displayName": "Tchan Fou-li",
+            "alphasort": "Tchan, Fou-li"
+        },
+        "zh-hant": {
+            "displayName": "陳復禮",
+            "alphasort": "陳復禮"
         }
     },
     "type": "Individual",
@@ -12,9 +15,34 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born China. 1916–2018",
+        "zh-hant": "香港，生於中國，1916–2018年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Guantang"
+    },
+    "deathCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
     "beginDate": 1916,
-    "deathyear": null,
+    "endDate": 2018,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 126
 }

@@ -2,14 +2,12 @@
     "constituentID": 144,
     "name": {
         "en": {
-            "id": "136",
-            "alphasort": "Chen, Yujun",
-            "displayname": "Chen Yujun"
+            "displayName": "Chen Yujun",
+            "alphasort": "Chen, Yujun"
         },
         "zh-hant": {
-            "id": "1213",
-            "alphasort": "陳, 彧君",
-            "displayname": "陳彧君"
+            "displayName": "陳彧君",
+            "alphasort": "陳, 彧君"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1976",
+        "zh-hant": "中國籍，生於1976年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Hangzhou"
+    },
+    "birthCity": {
+        "en": "Putian"
+    },
+    "deathCity": null,
     "beginDate": 1976,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 144
 }

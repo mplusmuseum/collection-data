@@ -2,23 +2,38 @@
     "constituentID": 1745,
     "name": {
         "en": {
-            "id": "3626",
-            "alphasort": "Nanjing Radio Broadcasting Factory",
-            "displayname": "Nanjing Radio Broadcasting Factory"
+            "displayName": "Nanjing Radio Broadcasting Factory",
+            "alphasort": "Nanjing Radio Broadcasting Factory"
         },
         "zh-hant": {
-            "id": "3627",
-            "alphasort": "南京無線電廠",
-            "displayname": "南京無線電廠"
+            "displayName": "南京無線電廠",
+            "alphasort": "南京無線電廠"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Nanjing, 1946",
+        "zh-hant": "1946年成立於南京"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1946,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1745
 }

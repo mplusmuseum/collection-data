@@ -2,9 +2,12 @@
     "constituentID": 1574,
     "name": {
         "en": {
-            "id": "3273",
-            "alphasort": "Morrison, Jasper",
-            "displayname": "Jasper Morrison"
+            "displayName": "Jasper Morrison",
+            "alphasort": "Morrison, Jasper"
+        },
+        "zh-hant": {
+            "displayName": "賈斯珀·莫里森",
+            "alphasort": "賈斯珀·莫里森"
         }
     },
     "type": "Individual",
@@ -12,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "British",
+    "displayBio": {
+        "en": "British, born 1959",
+        "zh-hant": "英國籍，生於1959年"
+    },
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": {
+        "en": "London"
+    },
+    "birthCity": {
+        "en": "London"
+    },
+    "deathCity": null,
     "beginDate": 1959,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1574
 }

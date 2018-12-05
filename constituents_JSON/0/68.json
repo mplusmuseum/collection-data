@@ -2,23 +2,38 @@
     "constituentID": 68,
     "name": {
         "en": {
-            "id": "60",
-            "alphasort": "Star Industrial Co., Ltd.",
-            "displayname": "Star Industrial Co., Ltd."
+            "displayName": "Star Industrial Co., Ltd.",
+            "alphasort": "Star Industrial Co., Ltd."
         },
         "zh-hant": {
-            "id": "2250",
-            "alphasort": "星光實業有限公司",
-            "displayname": "星光實業有限公司"
+            "displayName": "星光實業有限公司",
+            "alphasort": "星光實業有限公司"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Hong Kong, 1949",
+        "zh-hant": "1949年成立於香港"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1949,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 68
 }

@@ -2,23 +2,40 @@
     "constituentID": 80,
     "name": {
         "en": {
-            "id": "72",
-            "alphasort": "Urbanus",
-            "displayname": "Urbanus"
+            "displayName": "Urbanus",
+            "alphasort": "Urbanus"
         },
         "zh-hant": {
-            "id": "1177",
-            "alphasort": "都市實踐",
-            "displayname": "都市實踐"
+            "displayName": "都市實踐",
+            "alphasort": "都市實踐"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Shenzhen, 1999",
+        "zh-hant": "1999年成立於深圳"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shenzhen"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1999,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 80
 }

@@ -2,18 +2,35 @@
     "constituentID": 3029,
     "name": {
         "en": {
-            "id": "5243",
-            "alphasort": "Otsuki, Tadashi",
-            "displayname": "Otsuki Tadashi"
+            "displayName": "Otsuki Tadashi",
+            "alphasort": "Otsuki, Tadashi"
         }
     },
     "type": "Individual",
     "gender": {
-        "zh-hant": null
+        "en": "Unknown",
+        "zh-hant": "不詳"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, born 1948",
+        "zh-hant": "日本籍，生於1948年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1948,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 3029
 }

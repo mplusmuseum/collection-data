@@ -1,7 +1,8 @@
 {
     "objectID": 634,
+    "onView": false,
     "objectNumber": "2012.1645",
-    "sortNumber": 2012.1645,
+    "sortNumber": "2012  1645",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,171 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            55,
+            65,
+            95,
+            103
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "These two works dissect the daily actions of dressing and undressing and laughing into sequential steps. They offer a rational, non-expressive approach to human behaviour at a time when the passions and idealism of the 85 New Wave were at their height. Rather than use oil paint, Geng Jianyi experimented with a conceptual method of cutting and pasting paper photocopies onto wooden boards."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "These two works dissect the daily actions of dressing, undressing, and laughing into sequential steps. They offer a rational, non-expressive approach to human behaviour at a time when the passions and idealism of the ’85 New Wave were at their height. Geng here abandoned oil paint and experimented with a conceptual method of cutting and pasting paper photocopies onto wooden boards."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "兩件作品分別將穿衣、脫衣及笑的行為解構成連續步驟。在「八五新潮」的激情及理想主義發展到高潮時，作品為人類行為提供了一種理性的、非表現性的手法。耿建翌摒棄了油彩，開始以剪貼影印圖像及木板拼貼進行實驗概念創作。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "兩件作品分別將穿衣、脫衣及笑的行為解構成連續步驟。在「八五新潮」的激情及理想主義發展到高潮時，作品為人類行為提供了一種理性的、非表現性的手法。耿建翌揚棄油彩，開始以剪貼影印圖像及木板拼貼進行實驗概念創作。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Geng Jianyi",
     "title": {
         "en": "Two Series of Fives Steps of Wearing Clothes",
-        "zh-hant": "着衣的兩個五拍",
-        "zh-hans": "着衣的两个五拍"
+        "zh-hant": "着衣的兩個五拍"
     },
-    "displayDate": "1991",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1991",
+        "zh-hant": "1991"
+    },
     "beginDate": 1991,
     "endDate": 1991,
     "dimension": {
-        "en": "sheet: 122 × 147 × 0.3 cm",
-        "zh-hant": "122 × 147 × 0.3 厘米",
-        "zh-hans": "122 × 147 × 0.3 厘米"
+        "en": "overall: 122 × 147 × 0.3 cm",
+        "zh-hant": "紙本: 122 × 147 × 0.3 厘米"
     },
     "medium": {
         "en": "photocopy, collage on wood",
-        "zh-hant": "剪貼影印圖像、拼貼、木板",
-        "zh-hans": "剪贴影印图像，木板拼贴"
+        "zh-hant": "剪貼影印圖像、拼貼、木板"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Photocopied collage on wood. Next to the words ‘Wear a Jacket: Five Beats’ is a row of five photocopies depicting a man donning a jacket. In the second row, beside the words ‘Take Off a Sweater: Five Beats’, the man takes off his sweater. Each step is accompanied by a remark such as “Don’t pull on your shirt too hard’.",
+            "AltTextTC": "影印圖像木板拼貼。其上半部分顯示着「外套：一個五拍」的字樣，旁邊是一排五張影印圖像，展現一個男人穿上外套的過程。木板下半部分顯示着「脫毛衣：一個五拍」的字樣，旁邊圖像是一個男人脫去外套的五個步驟。每一步都附設註解，例如是「不要硬拉和用力過猛」。",
+            "src": "000501_001000/000634_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "M+ is the copyright owner",
+        "copyright": "© M+, Hong Kong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/PERMISSION GRANTED; commercial merchandise/PERMISSION GRANTED; commercial publishing/PERMISSION GRANTED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 634
 }

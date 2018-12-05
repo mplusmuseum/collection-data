@@ -1,7 +1,8 @@
 {
     "objectID": 3118,
+    "onView": false,
     "objectNumber": "2012.65",
-    "sortNumber": 2012.65,
+    "sortNumber": "2012    65",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,13 +32,32 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            25,
+            81,
+            95
+        ],
+        "sections": "[{\"95\":\"Related Work\"}]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Ai Weiwei",
     "title": {
         "en": "Dropping a Han Dynasty Urn",
         "zh-hant": "摔一隻漢代的瓦罐"
     },
-    "displayDate": "1995",
-    "beginDate": 1995,
-    "endDate": 1995,
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": "1995"
+    },
+    "beginDate": 2006,
+    "endDate": 2006,
     "dimension": {
         "en": "overall (each): 147.7 × 120 cm\r\r\nimage: 127.8 × 107.7 cm",
         "zh-hant": "整體 (各): 147.7 × 120 厘米\r\n圖像: 127.8 × 107.7 厘米"
@@ -49,6 +69,165 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "Photo: Edition in ink, LR: 7/8\r\r\nFragment Box: Inscribed, UL: 29块 / 2006.8"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Triptych of monochrome photographs featuring artist Ai Weiwei standing in front of a brick wall. In the first two images he holds - and then drops - a vase-like urn. In the third photo the urn lies in shards at his feet.",
+            "AltTextTC": "三張黑白照片中，藝術家艾未未站在磚牆前方。在首兩張照片中，他手持並丟下一個看似花瓶的陶甕。在第三張照片中，陶甕的碎片散落在他足前。",
+            "src": "003001_003500/003118_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003118_009.jpg",
+            "rank": "2",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003118_010.jpg",
+            "rank": "2",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003118_011.tif",
+            "rank": "2",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003118_012.tif",
+            "rank": "2",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003118_013.tif",
+            "rank": "2",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003118_014.tif",
+            "rank": "2",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003118_003.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003118_002.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003118_004.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003118_005.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Ai Weiwei",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3118
 }

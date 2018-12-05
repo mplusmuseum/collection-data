@@ -2,9 +2,12 @@
     "constituentID": 849,
     "name": {
         "en": {
-            "id": "1756",
-            "alphasort": "Pich, Sopheap",
-            "displayname": "Sopheap Pich"
+            "displayName": "Sopheap Pich",
+            "alphasort": "Pich, Sopheap"
+        },
+        "zh-hant": {
+            "displayName": "索皮·比",
+            "alphasort": "索皮·比"
         }
     },
     "type": "Individual",
@@ -12,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Cambodian",
+    "displayBio": {
+        "en": "Cambodian, born 1971",
+        "zh-hant": "柬埔寨籍，生於1971年"
+    },
+    "nationality": {
+        "en": "Cambodian",
+        "zh-hant": "柬埔寨籍"
+    },
+    "region": {
+        "en": "Southeast Asia",
+        "zh-hant": "東南亞"
+    },
+    "activeCity": {
+        "en": "Cambodia"
+    },
+    "birthCity": {
+        "en": "Battambang"
+    },
+    "deathCity": null,
     "beginDate": 1971,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 849
 }

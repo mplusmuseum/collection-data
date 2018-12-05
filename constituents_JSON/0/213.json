@@ -2,14 +2,12 @@
     "constituentID": 213,
     "name": {
         "en": {
-            "id": "205",
-            "alphasort": "Ho, Tao",
-            "displayname": "Tao Ho"
+            "displayName": "Tao Ho",
+            "alphasort": "Ho, Tao"
         },
         "zh-hant": {
-            "id": "1269",
-            "alphasort": "何, 弢",
-            "displayname": "何弢"
+            "displayName": "何弢",
+            "alphasort": "何, 弢"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born China, 1936",
+        "zh-hant": "香港，1936年生於中國"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Shanghai"
+    },
+    "deathCity": null,
     "beginDate": 1936,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 213
 }

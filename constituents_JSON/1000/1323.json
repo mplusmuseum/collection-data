@@ -2,18 +2,37 @@
     "constituentID": 1323,
     "name": {
         "en": {
-            "id": "2561",
-            "alphasort": "Zenghelis, Elia",
-            "displayname": "Elia Zenghelis"
+            "displayName": "Elia Zenghelis",
+            "alphasort": "Zenghelis, Elia"
         }
     },
     "type": "Individual",
     "gender": {
-        "zh-hant": null
+        "en": "Male",
+        "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "British",
+    "displayBio": {
+        "en": "British, born Greece, 1937",
+        "zh-hant": "英籍，1937年生於希臘"
+    },
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Athens"
+    },
+    "deathCity": null,
     "beginDate": 1937,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1323
 }

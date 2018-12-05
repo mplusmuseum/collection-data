@@ -2,14 +2,12 @@
     "constituentID": 1526,
     "name": {
         "en": {
-            "id": "3209",
-            "alphasort": "Zhao, Gang",
-            "displayname": "Zhao Gang"
+            "displayName": "Zhao Gang",
+            "alphasort": "Zhao, Gang"
         },
         "zh-hant": {
-            "id": "3210",
-            "alphasort": "趙, 剛",
-            "displayname": "趙剛"
+            "displayName": "趙剛",
+            "alphasort": "趙, 剛"
         }
     },
     "type": "Individual",
@@ -17,9 +15,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "Chinese, born 1961",
+        "zh-hant": "中國籍，生於1961年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1961,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1526
 }

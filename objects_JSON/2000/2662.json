@@ -1,7 +1,8 @@
 {
     "objectID": 2662,
+    "onView": false,
     "objectNumber": "2012.1049",
-    "sortNumber": 2012.1049,
+    "sortNumber": "2012  1049",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,54 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            95,
+            106
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "The photograph documents thousands of peasants working on an irrigation project. This collective activity calls to mind the folklore of the old man who moved the mountain, which Mao referenced in 1945 in a mantra to encourage Chinese citizens to overthrow imperialism and feudalism. The black-and-white image enhances the expressionist and theatrical quality of the work. It also depicts the spiritual power and unity of grandiose state activities."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "照片展現成千上萬的農民進行灌溉的情景。這項集體的生產活動，令人聯想到古代寓言故事《愚公移山》。毛澤東在1945年一場演說中也特別提到愚公移山的精神，鼓勵中國人民推翻帝國主義和封建主義。黑白影像突顯了作品的表現主義和戲劇性風格，也呈現了大型國家活動中人民所體現的精神力量和團結一致。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        5
+    ],
+    "allORC": "Wang Shilong",
     "title": {
         "en": "Untitled",
         "zh-hant": "無題"
     },
-    "displayDate": "1972",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1972",
+        "zh-hant": "1972"
+    },
     "beginDate": 1972,
     "endDate": 1972,
     "dimension": {
@@ -49,6 +93,101 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "No inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Monochrome photograph. Backed by a small band with simple instruments, six women in work shirts and dusty pants perform outdoors for a tightly-packed crowd. Nearby, a portrait of Mao Zedong hangs under banners that read “serving for the people”, “modesty helps one to move forward” and “conceit makes one fall behind”.",
+            "AltTextTC": "黑白照片中，六個女人身穿工作服和沾滿塵埃的長褲，在擠擁的群眾面前進行戶外表演，身後的小型樂隊正演奏簡單樂器。附近掛着一幅毛澤東肖像，肖像上面的橫額寫着「為人民服務」，兩旁的直幅分別寫着「虛心使人進步」和「驕傲使人落後」。",
+            "src": "002501_003000/002662_001.tif",
+            "rank": "1",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Wang Wenya",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2662
 }

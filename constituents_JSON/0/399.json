@@ -2,9 +2,12 @@
     "constituentID": 399,
     "name": {
         "en": {
-            "id": "391",
-            "alphasort": "Shao, Yinong",
-            "displayname": "Shao Yinong"
+            "displayName": "Shao Yinong",
+            "alphasort": "Shao, Yinong"
+        },
+        "zh-hant": {
+            "displayName": "邵逸農",
+            "alphasort": "邵逸農"
         }
     },
     "type": "Individual",
@@ -12,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1961",
+        "zh-hant": "中國籍，生於1961年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Xining City"
+    },
+    "deathCity": null,
     "beginDate": 1961,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 399
 }

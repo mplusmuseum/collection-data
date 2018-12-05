@@ -2,14 +2,12 @@
     "constituentID": 334,
     "name": {
         "en": {
-            "id": "326",
-            "alphasort": "Ma, Han",
-            "displayname": "Ma Han"
+            "displayName": "Ma Han",
+            "alphasort": "Ma, Han"
         },
         "zh-hant": {
-            "id": "1373",
-            "alphasort": "馬, 晗",
-            "displayname": "馬晗"
+            "displayName": "馬晗",
+            "alphasort": "馬, 晗"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Hunan Province"
+    },
+    "deathCity": null,
     "beginDate": 1968,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 334
 }

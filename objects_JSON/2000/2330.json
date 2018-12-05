@@ -1,7 +1,8 @@
 {
     "objectID": 2330,
+    "onView": false,
     "objectNumber": "2012.382",
-    "sortNumber": 2012.382,
+    "sortNumber": "2012   382",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,53 @@
             }
         }
     ],
-    "title": {
-        "en": "My Name is P.L.A. (Lei Feng)",
-        "zh-hant": "我的名字叫解放軍 (雷鋒肖像)"
+    "exhibition": {
+        "ids": [
+            95
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "Painted in 1973 at the height of the Cultural Revolution, My Name is P.L.A (Li Feng) portrays an optimistic young red guard. He is waving and seems to be heading towards a humble countryside hut in the background. The painting demonstrates that social realism was commonly adopted in Chinese propaganda art to praise the revolution, it delivers a positivism of the progressive social change and serves as a political tool to stabilise Mao’s regime as the revolution continued."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "《我的名字叫解放軍（雷鋒）》繪於1973年文化大革命的巔峰時期，畫中描繪一名朝氣蓬勃的年輕紅衛兵，他揮著手，似乎正步往背景裏的簡陋村屋。社會現實主義普遍採用於政治宣傳畫，歌頌革命的偉大。這幅油畫為文革時期的社會轉變狀況營造正面訊息，作為鞏固毛澤東政權的政治工具。"
+                    }
+                ]
+            }
+        }
     },
-    "displayDate": "1973",
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        5
+    ],
+    "allORC": "Guang Tingbo",
+    "title": {
+        "en": "My Name is P.L.A.",
+        "zh-hant": "我叫解放軍"
+    },
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1973",
+        "zh-hant": "1973"
+    },
     "beginDate": 1973,
     "endDate": 1973,
     "dimension": {
@@ -49,6 +92,140 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "Inscribed, verso on the right stretcher: 中國美术館收\r\r\nInscribed, verso on the left stretcher: 辽宁省美展办公室寄\r\r\nSecondary inscriptions, see images"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Oil painting on canvas of a soldier in uniform. Smiling, the young man waves at us as he prepares to leave a garden featuring a white flowers and a wooden fence.",
+            "AltTextTC": "油彩布本作品裏，一位身穿軍服的年輕男士兵，微笑着向我們揮手，並準備踏出花園。花園設置木圍欄，栽種了白花。",
+            "src": "002001_002500/002330_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002330_002.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002330_003.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002330_004.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "002001_002500/002330_005.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "002001_002500/002330_006.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "002001_002500/002330_007.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Guang Tingbo",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2330
 }

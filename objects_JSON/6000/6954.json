@@ -1,7 +1,8 @@
 {
     "objectID": 6954,
+    "onView": false,
     "objectNumber": "2016.796",
-    "sortNumber": 2016.796,
+    "sortNumber": "2016   796",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,15 +27,58 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Hung Fai"
+                "en": "Hung Fai",
+                "zh-hant": "熊輝"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "In this work, Hung Fai challenges the practice of ‘Transmission’ (exercises of copying and imitating) from Xie He’s‘ Six Principlesof Chinese Painting’ written in the sixth century. Hung first invited his father and acclaimed landscape painter Hung Hoi to paint a large rock, a symbol of endurance and solidity, with brush and cinnabar on paper, creating an integrated representation of classical authority; he then put two layers of paper on and underneath it, dampened them and traced the revealed cinnabar contours with a black fountain pen. As both sets of ink seeped through the paper, the steady red lines and bouncing black dots unevenly duplicated and overlapped, embodying the shifting power relations between father and son,tutor and pupil."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "熊輝藉此作詰問六世紀南朝畫家謝赫所提出的「繪畫六法」中「傳移摹寫」之論。熊輝之父熊海乃知名山水畫家，藝術家邀得父親用毛筆和硃砂顏料，在紙上繪畫寓意堅定不移的磐石，反映傳統的權威。然後熊輝分別於畫作上下放置兩層紙，潤濕後以黑色墨水筆描摹穿透浮現的朱紅線條。兩層墨水滲透紙背，連貫的紅線與跳躍的墨點不時重複、重疊，象徵父子、師生之間權力關係的相互轉移。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Hung Fai",
     "title": {
         "en": "The Six Principles of Chinese Painting - Transmission IV (with Hung Hoi)",
         "zh-hant": "繪畫六法—傳移摹寫之四（熊海合作）"
     },
-    "displayDate": "2015",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2015",
+        "zh-hant": "2015"
+    },
     "beginDate": 2015,
     "endDate": 2015,
     "dimension": {
@@ -48,6 +92,100 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "2016.796.1: Seal stamped on ML and LL corner"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Ink and colour painting on paper divided up into five equal vertical sections, marked by faded folds along the paper. Each section has a large stencil of an illustration of a rock in red ink.",
+            "AltTextTC": "一張長方形的紙平均分成五個垂直部分，各部分有褪色的摺痕分隔。每個部分均有一個以硃砂描摹的巨石。",
+            "src": "006501_007000/006954_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Hung Fai",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 6954
 }

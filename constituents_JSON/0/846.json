@@ -2,18 +2,37 @@
     "constituentID": 846,
     "name": {
         "en": {
-            "id": "1753",
-            "alphasort": "WORK PTE LTD",
-            "displayname": "WORK PTE LTD"
+            "displayName": "WORK PTE LTD",
+            "alphasort": "WORK PTE LTD"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Singapore, 1997",
+        "zh-hant": "1997年成立於新加坡"
+    },
+    "nationality": {
+        "en": "Singaporean",
+        "zh-hant": "新加坡籍"
+    },
+    "region": {
+        "en": "Southeast Asia",
+        "zh-hant": "東南亞"
+    },
+    "activeCity": {
+        "en": "Singapore",
+        "zh-hant": "新加坡"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1997,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 846
 }

@@ -2,9 +2,12 @@
     "constituentID": 262,
     "name": {
         "en": {
-            "id": "254",
-            "alphasort": "Leung, Kui Ting",
-            "displayname": "Leung Kui Ting"
+            "displayName": "Leung Kui Ting",
+            "alphasort": "Leung, Kui Ting"
+        },
+        "zh-hant": {
+            "displayName": "梁巨廷",
+            "alphasort": "梁, 巨廷"
         }
     },
     "type": "Individual",
@@ -12,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Hong Kong, born China, 1945",
+        "zh-hant": "香港，1945年生於中國"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Guangzhou"
+    },
+    "deathCity": null,
     "beginDate": 1945,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 262
 }

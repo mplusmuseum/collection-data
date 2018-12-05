@@ -2,23 +2,33 @@
     "constituentID": 1534,
     "name": {
         "en": {
-            "id": "3220",
-            "alphasort": "Unknown (Europe)",
-            "displayname": "Unknown (Europe)"
+            "displayName": "Unknown (Europe)",
+            "alphasort": "Unknown (Europe)"
         },
         "zh-hant": {
-            "id": "6859",
-            "alphasort": "佚名（歐洲）",
-            "displayname": "佚名（歐洲）"
+            "displayName": "佚名（歐洲）",
+            "alphasort": "佚名（歐洲）"
         }
     },
     "type": "Individual",
     "gender": {
-        "zh-hant": null
+        "en": "Unknown",
+        "zh-hant": "不詳"
     },
-    "displayBio": {},
+    "displayBio": null,
     "nationality": null,
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": null,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1534
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 2408,
+    "onView": false,
     "objectNumber": "2012.474",
-    "sortNumber": 2012.474,
+    "sortNumber": "2012   474",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,15 +32,34 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            22,
+            48,
+            66
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Huang Yan",
     "title": {
         "en": "Chinese Landscape: Tattoo. No. 8",
-        "zh-hant": "中國風景 紋身系列 第8號"
+        "zh-hant": "《中國山水．紋身》之八"
     },
-    "displayDate": "1999",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1999",
+        "zh-hant": "1999"
+    },
     "beginDate": 1999,
     "endDate": 1999,
     "dimension": {
-        "en": "sheet: 50.7 × 61.3 cm",
+        "en": "sheet: 50.7 × 61.2 cm",
         "zh-hant": "紙本: 50.7 × 61.3 厘米"
     },
     "medium": {
@@ -49,6 +69,99 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "Inscribed in ink, LL: 《中国山水．纹身》之八 10/12"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "Copyright": "photo: M+",
+            "src": "002001_002500/002408_002.tif",
+            "rank": "1",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Rights Holder RESERVES ALL RIGHTS",
+        "copyright": "© Huang Yan",
+        "concatRights": "M+/WKCDA exhibition/ALLOWED - NO RESTRICTIONS; M+/WKCDA website/CONTACT the RIGHTS HOLDER; M+/WKCDA internal use/CONTACT the RIGHTS HOLDER; M+/WKCDA publications/CONTACT the RIGHTS HOLDER; M+/WKCDA press/publicity/CONTACT the RIGHTS HOLDER; M+/WKCDA press packs/CONTACT the RIGHTS HOLDER; M+/WKCDA advertising/CONTACT the RIGHTS HOLDER; M+/WKCDA learning team activities/CONTACT the RIGHTS HOLDER; 3rd-party exhibition (LOANS)/ALLOWED - NO RESTRICTIONS; 3rd-party non-commercial research/academic/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial educational/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial publication/CONTACT the RIGHTS HOLDER; other 3rd-party non-commercial use/CONTACT the RIGHTS HOLDER; social media/CONTACT the RIGHTS HOLDER; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/In correspondence with Rights-Holder",
+        "concatRemark": "",
+        "currentStatus": "In correspondence with Rights-Holder",
+        "rights": [
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2408
 }

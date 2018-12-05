@@ -1,7 +1,8 @@
 {
     "objectID": 169,
+    "onView": false,
     "objectNumber": "2013.34",
-    "sortNumber": 2013.34,
+    "sortNumber": "2013    34",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,27 +32,139 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Tsang Tsou-choi",
     "title": {
         "en": "Untitled (Partial Map of Kowloon)",
         "zh-hant": "無題 (部份九龍地圖)"
     },
-    "displayDate": "circa 1994–1997",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "circa 1994–1997",
+        "zh-hant": "約1994–1997年"
+    },
     "beginDate": 1992,
-    "endDate": 1997,
+    "endDate": 1999,
     "dimension": {
         "en": "image: 88 × 32.2 cm",
-        "zh-hant": "圖像 (目測量度): 87.6 × 32.1 厘米",
-        "zh-hans": "图像 (目测量度): 87.6 × 32.1 厘米"
+        "zh-hant": "圖像 (目測量度): 87.6 × 32.1 厘米"
     },
     "medium": {
         "en": "Chinese ink on map",
-        "zh-hant": "墨水、地圖",
-        "zh-hans": "水墨旧地图纸本"
+        "zh-hant": "墨水、地圖"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Chinese ink on a vintage vertical folding map, in which large characters in black ink list generations of the artist’s family and where they live.",
+            "AltTextTC": "直幅舊地圖水墨紙本作品寫滿黑色大字，列出藝術家家族成員的名字和住址。",
+            "src": "000001_000500/000169_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        },
+        {
+            "src": "000001_000500/000169_002.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "RISK: untraceable Rights-Holder",
+        "copyright": "© Tsang Tsou-choi / King of Kowloon",
+        "concatRights": "M+/WKCDA exhibition/RISK JUDGEMENT = OK; M+/WKCDA website/RISK JUDGEMENT = OK; M+/WKCDA internal use/RISK JUDGEMENT = OK; M+/WKCDA publications/RISK JUDGEMENT = OK; M+/WKCDA press/publicity/RISK JUDGEMENT = OK; M+/WKCDA press packs/RISK JUDGEMENT = OK; M+/WKCDA advertising/RISK JUDGEMENT = OK; M+/WKCDA learning team activities/RISK JUDGEMENT = OK; 3rd-party exhibition (LOANS)/RISK JUDGEMENT = OK; 3rd-party non-commercial research/academic/RISK JUDGEMENT = OK; 3rd-party non-commercial educational/RISK JUDGEMENT = OK; 3rd-party non-commercial publication/RISK JUDGEMENT = OK; other 3rd-party non-commercial use/RISK JUDGEMENT = OK; social media/RISK JUDGEMENT = OK; commercial advertising/RISK JUDGEMENT = NOT OK; commercial merchandise/RISK JUDGEMENT = NOT OK; commercial publishing/RISK JUDGEMENT = NOT OK; Current status/Rights-Holder untraceable (see research document in 'Media' tab)",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder untraceable (see research document in 'Media' tab)",
+        "rights": [
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "social media"
+            },
+            {
+                "title": "RISK JUDGEMENT = NOT OK",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "RISK JUDGEMENT = NOT OK",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "RISK JUDGEMENT = NOT OK",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 169
 }

@@ -2,14 +2,12 @@
     "constituentID": 372,
     "name": {
         "en": {
-            "id": "364",
-            "alphasort": "Qi, Zhilong",
-            "displayname": "Qi Zhilong"
+            "displayName": "Qi Zhilong",
+            "alphasort": "Qi, Zhilong"
         },
         "zh-hant": {
-            "id": "1399",
-            "alphasort": "祁, 志龍",
-            "displayname": "祁志龍"
+            "displayName": "祁志龍",
+            "alphasort": "祁, 志龍"
         }
     },
     "type": "Individual",
@@ -18,11 +16,50 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Qi Zhilong (born 1962, Hohhot, Inner Mongolia) graduated from the Central Academy of Fine Arts in Beijing in 1987. Qi was involved in the Political Pop movement and produced a series of iconic female portraits that recalled the distinctive artistic style that was prevalent during the Cultural Revolution. Qi lives and works in Beijing.",
-        "zh-hant": "祁志龍（1962年生於內蒙古呼和浩特市）在1987年畢業於北京中央美術學院。他曾涉足政治波普運動，沿用文化大革命時期常見的藝術風格，繪下一系列形象突出的女性肖像。祁氏現於北京生活及工作。"
+        "en": "Chinese, born 1962",
+        "zh-hant": "中國籍，生於1962年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Hohhot"
+    },
+    "deathCity": null,
     "beginDate": 1962,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Qi Zhilong (born 1962, Hohhot, Inner Mongolia) graduated from the Central Academy of Fine Arts in Beijing in 1987. Qi was involved in the Political Pop movement and produced a series of iconic female portraits that recalled the distinctive artistic style that was prevalent during the Cultural Revolution. Qi lives and works in Beijing."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "祁志龍（1962年生於內蒙古呼和浩特市）在1987年畢業於北京中央美術學院。他曾涉足政治波普運動，沿用文化大革命時期常見的藝術風格，繪下一系列形象突出的女性肖像。祁氏現於北京生活及工作。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 372
 }

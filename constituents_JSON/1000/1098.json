@@ -2,14 +2,12 @@
     "constituentID": 1098,
     "name": {
         "en": {
-            "id": "2081",
-            "alphasort": "Ku, Fu-sheng",
-            "displayname": "Ku Fu-sheng"
+            "displayName": "Ku Fu-sheng",
+            "alphasort": "Ku, Fu-sheng"
         },
         "zh-hant": {
-            "id": "2082",
-            "alphasort": "顧福生",
-            "displayname": "顧福生"
+            "displayName": "顧福生",
+            "alphasort": "顧福生"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "American, born China. 1935–2017",
+        "zh-hant": "美國籍，生於中國，1935–2017年"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Los Angeles"
+    },
+    "birthCity": {
+        "en": "Shanghai"
+    },
+    "deathCity": null,
     "beginDate": 1935,
-    "deathyear": 2017,
+    "endDate": 2017,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1098
 }

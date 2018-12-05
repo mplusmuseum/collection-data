@@ -2,23 +2,38 @@
     "constituentID": 1671,
     "name": {
         "en": {
-            "id": "3429",
-            "alphasort": "Shanghai People's Fine Arts Publishing House",
-            "displayname": "Shanghai People's Fine Arts Publishing House"
+            "displayName": "Shanghai People's Fine Arts Publishing House",
+            "alphasort": "Shanghai People's Fine Arts Publishing House"
         },
         "zh-hant": {
-            "id": "3432",
-            "alphasort": "上海人民美術出版社",
-            "displayname": "上海人民美術出版社"
+            "displayName": "上海人民美術出版社",
+            "alphasort": "上海人民美術出版社"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "established Shanghai, 1952",
+        "zh-hant": "1952年成立於上海"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1952,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1671
 }

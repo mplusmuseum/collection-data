@@ -2,14 +2,12 @@
     "constituentID": 219,
     "name": {
         "en": {
-            "id": "211",
-            "alphasort": "Hu, Liu",
-            "displayname": "Hu Liu"
+            "displayName": "Hu Liu",
+            "alphasort": "Hu, Liu"
         },
         "zh-hant": {
-            "id": "1275",
-            "alphasort": "胡, 柳",
-            "displayname": "胡柳"
+            "displayName": "胡柳",
+            "alphasort": "胡, 柳"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1982",
+        "zh-hant": "中國籍，生於1982年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Xinyang"
+    },
+    "deathCity": null,
     "beginDate": 1982,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 219
 }

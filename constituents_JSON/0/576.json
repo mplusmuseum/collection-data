@@ -2,9 +2,12 @@
     "constituentID": 576,
     "name": {
         "en": {
-            "id": "568",
-            "alphasort": "Zhang, Hongzan",
-            "displayname": "Zhang Hongzan"
+            "displayName": "Zhang Hongzan",
+            "alphasort": "Zhang, Hongzan"
+        },
+        "zh-hant": {
+            "displayName": "張洪贊",
+            "alphasort": "張, 洪贊"
         }
     },
     "type": "Individual",
@@ -12,9 +15,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1944",
+        "zh-hant": "中國籍，生於1944年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1944,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 576
 }

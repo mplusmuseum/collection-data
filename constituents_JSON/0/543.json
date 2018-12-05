@@ -2,14 +2,12 @@
     "constituentID": 543,
     "name": {
         "en": {
-            "id": "535",
-            "alphasort": "Yim, Rocco",
-            "displayname": "Rocco Yim"
+            "displayName": "Rocco Yim",
+            "alphasort": "Yim, Rocco"
         },
         "zh-hant": {
-            "id": "1545",
-            "alphasort": "嚴, 迅奇",
-            "displayname": "嚴迅奇"
+            "displayName": "嚴迅奇",
+            "alphasort": "嚴, 迅奇"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1952",
+        "zh-hant": "香港，生於1952年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1952,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 543
 }

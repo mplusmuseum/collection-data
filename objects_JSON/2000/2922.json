@@ -1,7 +1,8 @@
 {
     "objectID": 2922,
+    "onView": false,
     "objectNumber": "2012.1147",
-    "sortNumber": 2012.1147,
+    "sortNumber": "2012  1147",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,16 +32,71 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            29,
+            55,
+            95
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "Inspired by the Chinese housing market boom, Xing Danwen digitally manipulates images of real estate models to include a cast of characters and lurid narratives. The staged scenes of sex and murder disrupt the pristine architecture as well as idealised lifestyles."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "Inspired by the Chinese housing market boom, Xing Danwen digitally manipulates images of real estate models to include a cast of characters and lurid narratives. The staged scenes of sex and murder disrupt the pristine architecture and idealised lifestyles."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "此系列的創作靈感來自急速發展的中國房地產市場。形丹文將地產銷售常用的樓宇模型拍成照片，再以電腦修飾改造，加入性和謀殺等場面，繼而對這些精美建築模型所營造出的理想又虛幻的中產生活提出懷疑。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "此系列的創作靈感來自急速發展的中國房地產市場。形丹文將地產銷售常用的樓宇模型拍成照片，再以電腦修飾改造，加入了性和謀殺等場面，繼而粉碎這些精美建築模型所營造出的理想又虛幻的生活風格。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        27
+    ],
+    "allORC": "Xing Danwen",
     "title": {
         "en": "Urban Fiction No. 13",
         "zh-hant": "都市演繹 （圖十三）"
     },
-    "displayDate": "2005",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2005",
+        "zh-hant": "2005"
+    },
     "beginDate": 2005,
     "endDate": 2005,
     "dimension": {
         "en": "sheet: 169 × 216 cm",
-        "zh-hant": "169.5 × 216 厘米"
+        "zh-hant": "紙本: 169 × 216 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
@@ -49,6 +105,133 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "Astist seal in black, LR\r\r\nInscribed in silver ink, LR: Urban Fiction 13, 1/5"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "002501_003000/002922_001.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002501_003000/002922_002.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002501_003000/002922_003.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Photograph of a real estate display model depicting an orderly streetscape of white, mid-rise buildings and pristine grey roads. In one corner of an open condo unit is a tiny couple leaning against the wall in a passionate embrace.",
+            "AltTextTC": "照片顯示房地產展示模型。模型中整齊的街道上，建有多幢不高不矮的白色建築物，灰色路面簇新潔淨。其中一個無天花板的大樓公寓角落，一對微型情侶模型靠着牆邊，熱情地擁抱。",
+            "src": "002501_003000/002922_004.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "002501_003000/002922_005.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "002501_003000/002922_006.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Xing Danwen",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2922
 }

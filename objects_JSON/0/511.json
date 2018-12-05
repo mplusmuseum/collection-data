@@ -1,7 +1,8 @@
 {
     "objectID": 511,
+    "onView": false,
     "objectNumber": "2013.32",
-    "sortNumber": 2013.32,
+    "sortNumber": "2013    32",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,32 +27,144 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Leung Kui Ting"
+                "en": "Leung Kui Ting",
+                "zh-hant": "梁巨廷"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "梁巨廷",
     "title": {
         "en": "Vision: Change 2",
-        "zh-hant": "象：易之二",
-        "zh-hans": "象：易之二"
+        "zh-hant": "象：易之二"
     },
-    "displayDate": "2005",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2005",
+        "zh-hant": "2005"
+    },
     "beginDate": 2005,
     "endDate": 2005,
     "dimension": {
-        "en": "500 × 300 × 100 cm",
-        "zh-hant": "500 × 300 × 100 厘米",
-        "zh-hans": "500 × 300 × 100 厘米"
+        "en": "overall: 500 × 300 × 100 cm",
+        "zh-hant": "整體: 500 × 300 × 100 厘米"
     },
     "medium": {
-        "en": "ink on silk, and wood",
-        "zh-hant": "水墨絹本、木",
-        "zh-hans": "水墨绢本、木"
+        "en": "ink on silk and wood",
+        "zh-hant": "水墨絹本、木"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "000501_001000/000511_001.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "AltText": "Installation consisting of three pieces. A large brown cloth hangs askew on a wall with black ink markings in the lower righthand corner. A curved wooden stick leans against the cloth on top of the ink markings. A black scroll hangs on top of the brown cloth, unrolled from the wall onto the floor. There are cloudy, brown shapes painted on the black cloth.",
+            "AltTextTC": "裝置作品由三個部分組成，棕色大型布塊歪斜地掛在牆上，其右下角有一些黑色墨跡。一枝彎曲的木條倚在布面，木條頂部高於布上的墨跡。黑色卷軸掛在棕色布塊之上，由牆壁攤開至地面，黑色的布軸繪上棕色的雲霧。",
+            "src": "000501_001000/000511_002.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "M+ is the copyright owner",
+        "copyright": "© M+, Hong Kong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/PERMISSION GRANTED; commercial merchandise/PERMISSION GRANTED; commercial publishing/PERMISSION GRANTED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 511
 }

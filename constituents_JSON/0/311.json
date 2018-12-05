@@ -2,14 +2,12 @@
     "constituentID": 311,
     "name": {
         "en": {
-            "id": "303",
-            "alphasort": "Liu, Wei",
-            "displayname": "Liu Wei"
+            "displayName": "Liu Wei",
+            "alphasort": "Liu, Wei"
         },
         "zh-hant": {
-            "id": "1351",
-            "alphasort": "劉, 韡",
-            "displayname": "劉韡"
+            "displayName": "劉韡",
+            "alphasort": "劉, 韡"
         }
     },
     "type": "Individual",
@@ -18,11 +16,51 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Liu Wei (born 1972, Beijing) graduated from the National Academy of Fine Arts in Hangzhou in 1996. He grew up in a period of rapidly accelerating urbanisation in China; he is interested in what shapes and forms our environment, and expresses this through his practice, which includes photography, painting, and installation. Liu lives and works in Beijing.",
-        "zh-hant": "劉韡 (1972年生於北京，現工作及生活於北京)，1996年畢業於杭州中國美術學院。成長於一個經歷急速城市化的中國，他對塑造身邊環境的因素感興趣，並以獨特手法，透過攝影、繪畫及裝置等不同的媒介表達自己的想法。"
+        "en": "Chinese, born 1972",
+        "zh-hant": "中國籍，1972年生於北京"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1972,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Liu Wei (born 1972, Beijing) graduated from the National Academy of Fine Arts in Hangzhou in 1996. He grew up in a period of rapidly accelerating urbanisation in China; he is interested in what shapes and forms our environment, and expresses this through his practice, which includes photography, painting, and installation. Liu lives and works in Beijing."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "劉韡 (1972年生於北京，現工作及生活於北京)，1996年畢業於杭州中國美術學院。成長於一個經歷急速城市化的中國，他對塑造身邊環境的因素感興趣，並以獨特手法，透過攝影、繪畫及裝置等不同的媒介表達自己的想法。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 311
 }

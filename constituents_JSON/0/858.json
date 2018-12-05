@@ -2,14 +2,12 @@
     "constituentID": 858,
     "name": {
         "en": {
-            "id": "1765",
-            "alphasort": "Tan, Hans",
-            "displayname": "Hans Tan"
+            "displayName": "Hans Tan",
+            "alphasort": "Tan, Hans"
         },
         "zh-hant": {
-            "id": "4723",
-            "alphasort": "陳彥翰",
-            "displayname": "陳彥翰"
+            "displayName": "陳彥翰",
+            "alphasort": "陳彥翰"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Singaporean",
+    "displayBio": {
+        "en": "Singaporean, born 1980",
+        "zh-hant": "新加坡籍，生於1980年"
+    },
+    "nationality": {
+        "en": "Singaporean",
+        "zh-hant": "新加坡籍"
+    },
+    "region": {
+        "en": "Southeast Asia",
+        "zh-hant": "東南亞"
+    },
+    "activeCity": {
+        "en": "Singapore",
+        "zh-hant": "新加坡"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1980,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 858
 }

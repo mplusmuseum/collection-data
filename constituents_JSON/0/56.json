@@ -2,23 +2,40 @@
     "constituentID": 56,
     "name": {
         "en": {
-            "id": "48",
-            "alphasort": "PINWU",
-            "displayname": "PINWU"
+            "displayName": "PINWU",
+            "alphasort": "PINWU"
         },
         "zh-hant": {
-            "id": "2928",
-            "alphasort": "品物流形",
-            "displayname": "品物流形"
+            "displayName": "品物流形",
+            "alphasort": "品物流形"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Hangzhou, 2010",
+        "zh-hant": "2010年成立於杭州"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Hangzhou"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 2010,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 56
 }

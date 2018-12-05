@@ -2,14 +2,12 @@
     "constituentID": 161,
     "name": {
         "en": {
-            "id": "153",
-            "alphasort": "Dai, Guangyu",
-            "displayname": "Dai Guangyu"
+            "displayName": "Dai Guangyu",
+            "alphasort": "Dai, Guangyu"
         },
         "zh-hant": {
-            "id": "1229",
-            "alphasort": "戴, 光鬱",
-            "displayname": "戴光鬱"
+            "displayName": "戴光鬱",
+            "alphasort": "戴, 光鬱"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1955",
+        "zh-hant": "中國籍，生於1955年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Chengdu"
+    },
+    "deathCity": null,
     "beginDate": 1955,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 161
 }

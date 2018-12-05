@@ -2,14 +2,12 @@
     "constituentID": 370,
     "name": {
         "en": {
-            "id": "362",
-            "alphasort": "Pu, Jie",
-            "displayname": "Pu Jie"
+            "displayName": "Pu Jie",
+            "alphasort": "Pu, Jie"
         },
         "zh-hant": {
-            "id": "1398",
-            "alphasort": "浦, 捷",
-            "displayname": "浦捷"
+            "displayName": "浦捷",
+            "alphasort": "浦, 捷"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1959",
+        "zh-hant": "中國籍，生於1959年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shanghai"
+    },
+    "birthCity": {
+        "en": "Shanghai"
+    },
+    "deathCity": null,
     "beginDate": 1959,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 370
 }

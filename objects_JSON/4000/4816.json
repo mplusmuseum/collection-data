@@ -1,7 +1,8 @@
 {
     "objectID": 4816,
+    "onView": false,
     "objectNumber": "2015.309",
-    "sortNumber": 2015.309,
+    "sortNumber": "2015   309",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,12 +32,53 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "In the early 1980s, Zheng Chongbin continued hisexperimentswithinkafter graduating from the Zhejiang Academy of Fine Arts (now the China Academy of Fine Arts) in Hangzhou, known as an incubator for experimentation and individuality. Between 1987 and 1988, he explored the middle ground between the figurative and the abstract with the thirty-painting series Another State of Man. The larger-than-life human forms, composed by broad strokes of twists and swirls in both conventional black ink and white acrylic paint (which Zheng calls ‘whiteink’), show his\r\r\ninterest in blending materials, enriching the surface texture, and pushing the boundaries of ink painting."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "鄭重賓八十年代初畢業於倡導實驗精神及個人發展的杭州浙江美術學院（今中國美術學院）之後，繼續對水墨的實驗，於1987至1988年間完成30幅的系列作品《人的另一種狀態》，探索介乎具象和抽象之間的模糊地帶。昂昂然的人體形態因筆觸粗獷的轉折與迴旋而變形，傳統的黑色墨汁與白色塑膠彩（鄭重賓稱之為「白墨」）相間，表現出他對混合媒材、豐富表面質感和拓寬水墨畫界限的志興。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Zheng Chongbin",
     "title": {
         "en": "Another State of Man No. 19",
-        "zh-hant": "人的另一種狀態19號",
-        "zh-hans": "人的另一种状态19号"
+        "zh-hant": "人的另一種狀態19號"
     },
-    "displayDate": "1988",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1988",
+        "zh-hant": "1988"
+    },
     "beginDate": 1988,
     "endDate": 1988,
     "dimension": {
@@ -50,6 +92,96 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "004501_005000/004816_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Copyright Zheng Chongbin",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4816
 }

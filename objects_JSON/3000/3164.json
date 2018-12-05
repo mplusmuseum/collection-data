@@ -1,7 +1,8 @@
 {
     "objectID": 3164,
+    "onView": false,
     "objectNumber": "2012.839",
-    "sortNumber": 2012.839,
+    "sortNumber": "2012   839",
     "classification": {
         "area": {
             "rank": 2,
@@ -31,11 +32,56 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            29,
+            36,
+            46,
+            95
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "This work incorporates performance, video, and photography to examine traditional Chinese calligraphy. Orchid Pavilion Preface was written by Wang Xizhi (303–361), a master of calligraphy. Over the course of five years, Qiu kept copying this celebrated work—a primary model for cursive writing—on a single piece of rice paper, writing it out a thousand times until the entire piece of paper was saturated with ink and turned into total abstraction. Through this repetitive process, Qiu pushed the highly esteemed art form of calligraphy from a literati ritual to a post-modern abstract expression. Created in the Post-Cold War era of the 1990s when China and contemporary art was driven by marketisation and internationalisation, this particular work by Qiu accumulated fragmented histories as a response to the new institutionalisation in China."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "作品揉合行為、錄像和攝影，藉此審視傳統中國書法。《蘭亭序》是著名書法家王羲之（303至361年）的傳世之作，也是學習行書的首選範本。邱氏在五年間在同一張宣紙上臨摹《蘭亭序》一千遍，最後宣紙染滿墨水，變成一片抽象糢糊的。他透過重覆書寫的過程，將備受尊敬的書法藝術，由文人的習字形式推展成後現代抽象藝術。邱氏於1990年代進行這項創作，當時正值後冷戰時期，中國社會和當代藝術同時步向市場化和國際化。作品上累積歷史的碎片，回應中國漸趨新的制度化之狀態。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        17
+    ],
+    "allORC": "Qiu Zhijie",
     "title": {
         "en": "A one-thousand-time copy of Lantingxu",
         "zh-hant": "書寫蘭亭序一千遍"
     },
-    "displayDate": "1990–1995",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1990–1995",
+        "zh-hant": "1990–1995"
+    },
     "beginDate": 1990,
     "endDate": 1995,
     "dimension": {
@@ -49,6 +95,171 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "No visible inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Digital print depicting five stages of a video installation. The first shows the Preface to the Orchid’s Pavilion written on rice paper in traditional Chinese calligraphy. In subsequent stages, overlapping copies of the same text are added until the calligraphy becomes a solid rectangle of thick black ink.",
+            "AltTextTC": "數碼照片呈現一項錄像裝置的五個階段。第一階段顯示一幅臨摹在宣紙上的《蘭亭序》書法作品。接着下來的幾個階段，同一段文字在紙上重複摹寫，字體逐漸重疊，直至宣紙變成染滿黑色墨水，變成實色的長方形。",
+            "src": "003001_003500/003164_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003164_002.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003164_003.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003164_004.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003164_005.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003164_006.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003164_007.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003164_008.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003164_009.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003164_010.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "003001_003500/003164_011.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Qiu Zhijie",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3164
 }

@@ -2,14 +2,12 @@
     "constituentID": 583,
     "name": {
         "en": {
-            "id": "575",
-            "alphasort": "Zhang, O",
-            "displayname": "O Zhang"
+            "displayName": "Zhang O",
+            "alphasort": "Zhang, O"
         },
         "zh-hant": {
-            "id": "1576",
-            "alphasort": "張, 鷗",
-            "displayname": "張鷗"
+            "displayName": "張鷗",
+            "alphasort": "張, 鷗"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1976",
+        "zh-hant": "中國籍，生於1976年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "New York City"
+    },
+    "birthCity": {
+        "en": "Guangzhou"
+    },
+    "deathCity": null,
     "beginDate": 1976,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 583
 }

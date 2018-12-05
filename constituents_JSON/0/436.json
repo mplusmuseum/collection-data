@@ -2,14 +2,12 @@
     "constituentID": 436,
     "name": {
         "en": {
-            "id": "428",
-            "alphasort": "Tsuruko, Yamazaki",
-            "displayname": "Yamazaki Tsuruko"
+            "displayName": "Yamazaki Tsuruko",
+            "alphasort": "Tsuruko, Yamazaki"
         },
         "zh-hant": {
-            "id": "1451",
-            "alphasort": "山崎つる子",
-            "displayname": "山崎つる子"
+            "displayName": "山崎つる子",
+            "alphasort": "山崎つる子"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, born 1925",
+        "zh-hant": "日本籍，生於1925年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Ashiya"
+    },
+    "birthCity": {
+        "en": "Ashiya"
+    },
+    "deathCity": null,
     "beginDate": 1925,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 436
 }

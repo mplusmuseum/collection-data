@@ -1,7 +1,8 @@
 {
     "objectID": 2759,
+    "onView": false,
     "objectNumber": "2012.636",
-    "sortNumber": 2012.636,
+    "sortNumber": "2012   636",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,16 +32,70 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            55,
+            95
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "After the 2004 Shanghai Biennale panel rejected several of his proposals, Liu Wei submitted this photograph featuring buttocks and body hair, which to his surprise was accepted. He went outside his usual preferred mediums of installation, painting, and video, to create this seemingly classical landscape that mocks arbitrary institutional standards. Its monumental size and horizontal composition is a contrast to the traditional handscroll in the literati context, where viewing is an intimate and personal act. His artistic practice is primarily concerned with the changing cityscape and contemporary issues stemming from globalisation."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "After the 2004 Shanghai Biennale panel rejected several of his proposals, Liu Wei submitted this photograph featuring buttocks and body hair, which, to his surprise, was accepted. He went outside his usual preferred mediums of installation, painting, and video to create this seemingly classical landscape that mocks arbitrary institutional standards. Its monumental size and horizontal composition contrasts with the traditional handscroll in a literati context, where viewing is an intimate and personal act. Liu’s artistic practice is primarily concerned with the changing cityscape and contemporary issues stemming from globalisation."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "2004年上海雙年展拒絕了劉韡數項作品方案，其後他呈交了這張展示胴體臀部和體毛的照片，出乎意料地獲得接納。他走出個人偏好的裝置、繪畫及錄像媒體，創作了這張看似傳統山水畫的攝影作品，諷刺大型機構隨意而為的決策標準。龐大的尺寸及横幅佈局，與著重私密觀賞形式的傳統水墨手卷構成強烈對比。劉韡主要關注城市景觀的轉變及全球化所衍生的當代議題。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "2004年上海雙年展委員會拒絕了劉韡數項作品提案，其後他呈交了這張展示胴體臀部和體毛的照片，出乎意料地獲得接納。他走出個人偏好的裝置、繪畫及錄像媒介，創作了這張看似傳統山水畫的攝影作品，諷刺大型機構隨意而為的決策標準。龐大的尺寸及横幅佈局，與着重私密觀賞形式的傳統水墨手卷構成強烈對比。劉韡主要關注城市景觀的轉變及全球化所衍生的當代議題。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        17
+    ],
+    "allORC": "Liu Wei",
     "title": {
         "en": "It Looks Like a Landscape",
         "zh-hant": "風景"
     },
-    "displayDate": "2004",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2004",
+        "zh-hant": "2004"
+    },
     "beginDate": 2004,
     "endDate": 2004,
     "dimension": {
-        "en": "sheet: 310 × 619.4 cm",
-        "zh-hant": "306 × 612 厘米"
+        "en": "overall (approx.): 310 × 619.4 cm",
+        "zh-hant": "紙本: 310 × 619.4 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
@@ -49,6 +104,101 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": ".5: Inscribed in metallic ink, LR: 1/5"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Photograph of a mountain-range of hairy bottoms, lumpy flesh, tufts of pubic hair, and pointy hip bones.",
+            "AltTextTC": "照片裏的山巒意象，由毛茸茸的臀部、凹凸皺摺的肉團、一束束的陰毛和突出的盤骨所組成。",
+            "src": "002501_003000/002759_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Liu Wei",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2759
 }

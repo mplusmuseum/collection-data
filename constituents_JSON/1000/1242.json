@@ -2,13 +2,12 @@
     "constituentID": 1242,
     "name": {
         "en": {
-            "id": "2331",
-            "alphasort": "Mak, Antonio",
-            "displayname": "Antonio Mak"
+            "displayName": "Antonio Mak",
+            "alphasort": "Mak, Antonio"
         },
         "zh-hant": {
-            "id": "2459",
-            "displayname": "麥顯揚"
+            "displayName": "麥顯揚",
+            "alphasort": "麥顯揚"
         }
     },
     "type": "Individual",
@@ -16,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, 1951–1994",
+        "zh-hant": "香港，1951–1994年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Philippines"
+    },
+    "deathCity": null,
     "beginDate": 1951,
-    "deathyear": 1994,
+    "endDate": 1994,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1242
 }

@@ -2,14 +2,12 @@
     "constituentID": 1094,
     "name": {
         "en": {
-            "id": "2074",
-            "alphasort": "Hu, Chi-chung",
-            "displayname": "Hu Chi-chung"
+            "displayName": "Hu Chi-chung",
+            "alphasort": "Hu, Chi-chung"
         },
         "zh-hant": {
-            "id": "2075",
-            "alphasort": "Hu, Chi-chung",
-            "displayname": "胡奇中"
+            "displayName": "胡奇中",
+            "alphasort": "Hu, Chi-chung"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "American, born China. 1927–2012",
+        "zh-hant": "美國籍，生於中國，1927–2012年"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Carmel"
+    },
+    "birthCity": {
+        "en": "Song Yan Cun"
+    },
+    "deathCity": null,
     "beginDate": 1927,
-    "deathyear": 2012,
+    "endDate": 2012,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1094
 }

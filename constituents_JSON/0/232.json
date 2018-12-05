@@ -2,9 +2,12 @@
     "constituentID": 232,
     "name": {
         "en": {
-            "id": "224",
-            "alphasort": "Jankowski, Christian",
-            "displayname": "Christian Jankowski"
+            "displayName": "Christian Jankowski",
+            "alphasort": "Jankowski, Christian"
+        },
+        "zh-hant": {
+            "displayName": "克里斯坦·揚可夫斯基",
+            "alphasort": "克里斯坦·揚可夫斯基"
         }
     },
     "type": "Individual",
@@ -12,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "German",
+    "displayBio": {
+        "en": "German, born 1968",
+        "zh-hant": "德國籍，生於1968年"
+    },
+    "nationality": {
+        "en": "German",
+        "zh-hant": "德國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": {
+        "en": "Berlin"
+    },
+    "birthCity": {
+        "en": "Göttingen"
+    },
+    "deathCity": null,
     "beginDate": 1968,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 232
 }

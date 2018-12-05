@@ -1,7 +1,8 @@
 {
     "objectID": 3011,
+    "onView": false,
     "objectNumber": "2012.85",
-    "sortNumber": 2012.85,
+    "sortNumber": "2012    85",
     "classification": {
         "area": {
             "rank": 2,
@@ -31,11 +32,69 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            11,
+            47,
+            55,
+            95
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "Cao Fei produced this video during her residency at a lighting factory in Foshan in the Pearl River Delta region. She began by giving factory workers—migrants with modest means and limited education—a questionnaire, asking about their backgrounds and prospects for the future. She later invited some of them to break away from routine and perform their secret aspirations alongside production lines. In the video, she juxtaposes shots of modern machinery with scenes depicting personal dreams, thereby questioning the idea of utopia in an age of economic reform and globalisation. Cao is known for her video and multimedia installations, which act as critical commentary on China’s recent rapid urbanisation and also function as a history of the Pearl River Delta."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "Cao Fei produced this video during her residency at a lighting factory in Foshan, in the Pearl River Delta region. She began by giving factory workers—migrants with modest means and limited education—a questionnaire, asking about their backgrounds and prospects for the future. She later invited some of them to break away from routine and perform their secret aspirations alongside production lines. In the video, she juxtaposes shots of modern machinery with scenes depicting personal dreams, thereby questioning the idea of utopia in an age of economic reform and globalisation. Cao is known for her video and multimedia installations, which act as critical commentary on China’s recent rapid urbanisation and also function as a history of the Pearl River Delta."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "曹斐在廣東佛山一間燈飾廠成為駐場藝術家期間，製作了這段錄像。她首先向工人派發問卷，詢問他們的背景和未來願景——這些工人大部分都是學歷不高的農民工。然後，她邀請部分人在廠房內進行一些工作以外、但渴望已久的行為表演。錄像裡，現代化機械與工人的夢想交替出現，從而帶出一個問題：在經濟改革與全球化的大前提下，烏托邦究竟是否存在。曹斐以錄像及多媒體裝置聞名，藉此對中國城市急速發展的批判，並作為珠江三角洲歷史的記錄。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "曹斐在廣東佛山一間燈飾廠擔任駐場藝術家期間，製作了這段錄像。她首先向工人派發問卷，詢問他們的背景和未來抱負，這些工人大多是學歷不高的農民工。然後，她邀請部分人暫時停下工作，在廠房的生產線間以行為展演方式呈現自己的夢想。錄像中，現代化機器與工人的夢想並置，從而質疑在經濟改革與全球化的時代，烏托邦究竟是否存在。曹斐以錄像及多媒體裝置聞名，她的作品批判中國城市的急速發展，並記錄珠江三角洲的歷史。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        13
+    ],
+    "relatedConceptIds": [
+        17
+    ],
+    "allORC": "Cao Fei",
     "title": {
         "en": "Whose Utopia",
         "zh-hant": "誰的烏托邦"
     },
-    "displayDate": "2006",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": "2006"
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
@@ -49,6 +108,137 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {
+        "en": "single-channel video"
+    },
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "003001_003500/003011_001.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Still from a digital video. A slender young woman in a long white dress stands in a warehouse flanked by rows of shrink-wrapped pallets, looking at us with her bare arms crossed.",
+            "AltTextTC": "擷取自數碼錄像的截圖，畫面中一位身形窈窕的年輕女性身穿白色長裙，站在貨倉內直視我們，赤露的雙臂交叉抱於胸前。兩旁排滿了搬運貨物用的卡板，上面的貨物以塑膠薄膜包裹。",
+            "src": "003001_003500/003011_002.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003011_003.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003011_004.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003011_005.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003011_006.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003011_007.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Cao Fei",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3011
 }

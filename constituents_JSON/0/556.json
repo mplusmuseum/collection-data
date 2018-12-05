@@ -2,14 +2,12 @@
     "constituentID": 556,
     "name": {
         "en": {
-            "id": "548",
-            "alphasort": "Yu, Hong",
-            "displayname": "Yu Hong"
+            "displayName": "Yu Hong",
+            "alphasort": "Yu, Hong"
         },
         "zh-hant": {
-            "id": "1556",
-            "alphasort": "喻, 紅",
-            "displayname": "喻紅"
+            "displayName": "喻紅",
+            "alphasort": "喻, 紅"
         }
     },
     "type": "Individual",
@@ -18,11 +16,50 @@
         "zh-hant": "女性"
     },
     "displayBio": {
-        "en": "Yu Hong (born 1966, Xian) graduated from the Oil Painting Department, Central Academy of Fine Arts, with a Bachelor of Fine Arts in 1988 and a Master of Fine Arts in 1996. In addition to photography, she works on canvas, silk, and resin with oil, pastel, and fabric paints. Her work reflects the social, cultural, and political changes taking place in China, and their effects on the everyday experiences and challenges of women. Yu lives and works in Beijing.",
-        "zh-hant": "喻紅 (1966年生於西安，現工作及生活於北京) 於北京中央美術學院修習油畫系課程，分別於1988年及1996年獲美術學士學位及美術碩士學位。她常以畫布、絹、油彩、粉彩、布彩以及攝影進行創作，作品反映當下中國正在發生的社會、文化與政治的變化，及其對日常生活的影響與為女性帶來的挑戰。"
+        "en": "Chinese, born 1966",
+        "zh-hant": "中國籍，生於1966年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Xi'an"
+    },
+    "deathCity": null,
     "beginDate": 1966,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Yu Hong (born 1966, Xian) graduated from the Oil Painting Department, Central Academy of Fine Arts, with a Bachelor of Fine Arts in 1988 and a Master of Fine Arts in 1996. In addition to photography, she works on canvas, silk, and resin with oil, pastel, and fabric paints. Her work reflects the social, cultural, and political changes taking place in China, and their effects on the everyday experiences and challenges of women. Yu lives and works in Beijing."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "喻紅 (1966年生於西安，現工作及生活於北京) 於北京中央美術學院修習油畫系課程，分別於1988年及1996年獲美術學士學位及美術碩士學位。她常以畫布、絹、油彩、粉彩、布彩以及攝影進行創作，作品反映當下中國正在發生的社會、文化與政治的變化，及其對日常生活的影響與為女性帶來的挑戰。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 556
 }

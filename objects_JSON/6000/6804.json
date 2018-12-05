@@ -1,7 +1,8 @@
 {
     "objectID": 6804,
+    "onView": false,
     "objectNumber": "2016.480",
-    "sortNumber": 2016.48,
+    "sortNumber": "2016   480",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,26 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": null,
+        "sections": null,
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Tong King-sum",
     "title": {
         "en": "Proximity",
         "zh-hant": "關係"
     },
-    "displayDate": "1978",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1978",
+        "zh-hant": "1978"
+    },
     "beginDate": 1978,
     "endDate": 1978,
     "dimension": {
@@ -49,6 +65,96 @@
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Chiu Wai-Yee, 2016",
         "zh-hant": "M+，香港，趙慧儀捐贈，2016年"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "006501_007000/006804_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "M+ is the copyright owner",
+        "copyright": "© M+, Hong Kong",
+        "concatRights": "M+/WKCDA exhibition/ALLOWED - NO RESTRICTIONS; M+/WKCDA website/ALLOWED - NO RESTRICTIONS; M+/WKCDA internal use/ALLOWED - NO RESTRICTIONS; M+/WKCDA publications/ALLOWED - NO RESTRICTIONS; M+/WKCDA press/publicity/ALLOWED - NO RESTRICTIONS; M+/WKCDA press packs/ALLOWED - NO RESTRICTIONS; M+/WKCDA advertising/ALLOWED - NO RESTRICTIONS; M+/WKCDA learning team activities/ALLOWED - NO RESTRICTIONS; 3rd-party exhibition (LOANS)/ALLOWED - NO RESTRICTIONS; 3rd-party non-commercial research/academic/ALLOWED - NO RESTRICTIONS; 3rd-party non-commercial educational/ALLOWED - NO RESTRICTIONS; 3rd-party non-commercial publication/ALLOWED - NO RESTRICTIONS; other 3rd-party non-commercial use/ALLOWED - NO RESTRICTIONS; social media/ALLOWED - NO RESTRICTIONS; commercial advertising/ALLOWED - NO RESTRICTIONS; commercial merchandise/ALLOWED - NO RESTRICTIONS; commercial publishing/ALLOWED - NO RESTRICTIONS; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "2018-06-05,Council of New Art CNA/GC/01/2018",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "social media"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 6804
 }

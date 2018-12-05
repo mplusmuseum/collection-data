@@ -2,18 +2,38 @@
     "constituentID": 1749,
     "name": {
         "en": {
-            "id": "3633",
-            "alphasort": "Chongqing Enamelware Main Factory",
-            "displayname": "Chongqing Enamelware Main Factory"
+            "displayName": "Chongqing Enamelware Main Factory",
+            "alphasort": "Chongqing Enamelware Main Factory"
+        },
+        "zh-hant": {
+            "displayName": "重慶搪瓷總廠",
+            "alphasort": "重慶搪瓷總廠"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Chongqing, 1953–2002",
+        "zh-hant": "成立於重慶，1953至2002年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1953,
-    "deathyear": 2002,
+    "endDate": 2002,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1749
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 3985,
+    "onView": false,
     "objectNumber": "2016.485",
-    "sortNumber": 2016.485,
+    "sortNumber": "2016   485",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,15 +27,31 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Jerry Kwan"
+                "en": "Jerry Kwan",
+                "zh-hant": "關晃"
             }
         }
     ],
+    "exhibition": {
+        "ids": null,
+        "sections": null,
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Jerry Kwan",
     "title": {
         "en": "Three Cities",
         "zh-hant": "三城記"
     },
-    "displayDate": "1984",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1984",
+        "zh-hant": "1984"
+    },
     "beginDate": 1984,
     "endDate": 1984,
     "dimension": {
@@ -48,6 +65,99 @@
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Anonymous Donor, 2015",
         "zh-hant": "M+，香港，匿名人士捐贈, 2015年"
+    },
+    "inscription": {
+        "en": "2016.485.1: Inascribed in ink, verso UL: Triptych #1\r\r\n2015.485.2: Inascribed in ink, verso UL: Triptych #2\r\r\n2015.485.3: Inascribed in ink, verso UL: Triptych #3"
+    },
+    "archiveDescription": {},
+    "objectName": {
+        "en": "triptych"
+    },
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "003501_004000/003985_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "RISK: untraceable Rights-Holder",
+        "concatRights": "M+/WKCDA exhibition/ALLOWED - NO RESTRICTIONS; M+/WKCDA website/[pending research]; M+/WKCDA internal use/[pending research]; M+/WKCDA publications/[pending research]; M+/WKCDA press/publicity/[pending research]; M+/WKCDA press packs/[pending research]; M+/WKCDA advertising/[pending research]; M+/WKCDA learning team activities/[pending research]; 3rd-party exhibition (LOANS)/ALLOWED - NO RESTRICTIONS; 3rd-party non-commercial research/academic/[pending research]; 3rd-party non-commercial educational/[pending research]; 3rd-party non-commercial publication/[pending research]; other 3rd-party non-commercial use/[pending research]; social media/[pending research]; commercial advertising/[pending research]; commercial merchandise/[pending research]; commercial publishing/[pending research]; Current status/Attempting to trace Rights-Holder",
+        "concatRemark": "",
+        "currentStatus": "Attempting to trace Rights-Holder",
+        "rights": [
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "[pending research]",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "[pending research]",
+                "group": "social media"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3985
 }

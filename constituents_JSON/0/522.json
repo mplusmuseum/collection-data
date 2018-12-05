@@ -2,14 +2,12 @@
     "constituentID": 522,
     "name": {
         "en": {
-            "id": "514",
-            "alphasort": "Yan, Changjiang",
-            "displayname": "Changjiang Yan"
+            "displayName": "Changjiang Yan",
+            "alphasort": "Yan, Changjiang"
         },
         "zh-hant": {
-            "id": "1527",
-            "alphasort": "顔, 長江",
-            "displayname": "顔長江"
+            "displayName": "顔長江",
+            "alphasort": "顔, 長江"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Guangzhou"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1968,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 522
 }

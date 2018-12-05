@@ -1,7 +1,8 @@
 {
     "objectID": 5530,
+    "onView": false,
     "objectNumber": "2016.74",
-    "sortNumber": 2016.74,
+    "sortNumber": "2016    74",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,53 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "Sea Flowing Unstopping……Forms Floating Sinking……depicts an infinite and austere seascape. Hsu Yu-Jen’s signature dry-ink dashes crystalise into waves, splashes, and vapour along a vertical scroll, directing the eye beyond the visible. Hsu’s poetry, made up of repeated words and ellipses, blends into the painting’s foreground and echoes the cadence of his ink lines. The poem expresses a fatalistic view toward the perpetual changes of the sea and the fleeting of time. Together with the scattered, staccato lines, the painting encapsulates Hsu’s lyrical view of time, space, and being."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "《海海流流不斷……》描繪出一片無垠大海。許雨仁標誌性的乾筆虛線，在直幅上譜出無盡的波浪、水花和霧氣，帶領觀者目光超越畫面之境。以重複的字句和斑駁的墨點組成的詩句，融入畫幅前景，與墨線的韻律互相和應。詩句表達了大海變動不居和時間轉瞬飛逝的宿命觀，配襯星散斷續的線條，皆是藝術家對時間、空間和存在充滿詩意的詮釋。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Hsu Yu-Jen",
     "title": {
         "en": "Sea Flowing Unstopping…Forms Floating Sinking…",
         "zh-hant": "海海流流不斷…"
     },
-    "displayDate": "2006",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": "2006"
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
@@ -44,11 +87,107 @@
     },
     "medium": {
         "en": "ink on silk",
-        "zh-hant": "水墨絹本立軸"
+        "zh-hant": "水墨絹本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Inscribed and signed, in ink, LC: 海海流流不斷斷… 只是 形形體 體 浮浮潛潛 許雨仁… 那暫暫的……那暫的………那暫時 的……那暫時的……..\r\r\n日出 日中 日落 明明的我 月出 月中 月落 暗暗的我 HYJ 2006  海流經我 海浮飄我 海帶走我"
+    },
+    "archiveDescription": {},
+    "objectName": {
+        "en": "hanging scroll"
+    },
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Ink painting on a white silk screen depicting small black dots that come together to form irregular lines extending from the bottom of the silk upwards, before fading out near the top. The lines resemble waves and mountain ranges. At the bottom, a poem is inscribed in Chinese characters, in sparsely sprinkled dashes of strokes. Part of it reads, ‘Sea water waving and waving uninterrupted… only forming shapes and shapes floating and submerging… That ephemeral… that ephemeral… that ephemeral… that ephemeral…’.",
+            "AltTextTC": "直幅長方白絹上以黑墨點描不規則的線條和陰影，從下方延伸至上方淡出，形似連綿山脈或海浪。畫面底部以斷斷續續的點描筆觸，寫有「海海流流不斷……只是形形體體浮浮潛潛 那暫時的……那暫時的……那暫時的……那暫時的……」等詩句。",
+            "src": "005501_006000/005530_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Hsu Yu-Jen",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 5530
 }

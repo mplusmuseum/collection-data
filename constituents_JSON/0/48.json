@@ -2,23 +2,38 @@
     "constituentID": 48,
     "name": {
         "en": {
-            "id": "40",
-            "alphasort": "MAD Architects",
-            "displayname": "MAD Architects"
+            "displayName": "MAD Architects",
+            "alphasort": "MAD Architects"
         },
         "zh-hant": {
-            "id": "2765",
-            "alphasort": "MAD建築事務所",
-            "displayname": "MAD建築事務所"
+            "displayName": "MAD建築事務所",
+            "alphasort": "MAD建築事務所"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Beijing, 2004",
+        "zh-hant": "2004年成立於北京"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 2004,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 48
 }

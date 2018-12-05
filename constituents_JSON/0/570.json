@@ -2,14 +2,12 @@
     "constituentID": 570,
     "name": {
         "en": {
-            "id": "562",
-            "alphasort": "Zhan, Rui",
-            "displayname": "Zhan Rui"
+            "displayName": "Zhan Rui",
+            "alphasort": "Zhan, Rui"
         },
         "zh-hant": {
-            "id": "1567",
-            "alphasort": "詹, 蕤",
-            "displayname": "詹蕤"
+            "displayName": "詹蕤",
+            "alphasort": "詹, 蕤"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1980",
+        "zh-hant": "中國籍，生於1980年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Wuhan",
+        "zh-hant": "武漢"
+    },
+    "birthCity": {
+        "en": "Wuhan",
+        "zh-hant": "Wuhan"
+    },
+    "deathCity": null,
     "beginDate": 1980,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 570
 }

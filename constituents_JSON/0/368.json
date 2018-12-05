@@ -2,14 +2,12 @@
     "constituentID": 368,
     "name": {
         "en": {
-            "id": "360",
-            "alphasort": "Peng, Yu",
-            "displayname": "Peng Yu"
+            "displayName": "Peng Yu",
+            "alphasort": "Peng, Yu"
         },
         "zh-hant": {
-            "id": "1397",
-            "alphasort": "彭, 宇",
-            "displayname": "彭宇"
+            "displayName": "彭宇",
+            "alphasort": "彭, 宇"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1974",
+        "zh-hant": "中國籍，生於1974年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Heilongjiang Province"
+    },
+    "deathCity": null,
     "beginDate": 1974,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 368
 }

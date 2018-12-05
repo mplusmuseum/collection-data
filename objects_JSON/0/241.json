@@ -1,7 +1,8 @@
 {
     "objectID": 241,
+    "onView": false,
     "objectNumber": "2013.256",
-    "sortNumber": 2013.256,
+    "sortNumber": "2013   256",
     "classification": {
         "area": {
             "rank": 1,
@@ -23,44 +24,187 @@
             "id": 245,
             "rank": 1,
             "roles": {
-                "en": "Seller"
-            },
-            "names": {
-                "en": "Kan Tai-keung"
-            }
-        },
-        {
-            "id": 245,
-            "rank": 1,
-            "roles": {
                 "en": "Artist"
             },
             "names": {
-                "en": "Kan Tai-keung"
+                "en": "Kan Tai-keung",
+                "zh-hant": "靳埭强"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82,
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "In the 1970s, painter and graphic designer Kan Tai-keung incorporated Chinese landscape forms in to his paintings, which until then had been heavily influenced by Western art, design, and colour theory. In Cliffs Beyond, he double-copies a mountain from a classical Chinese painting to create a composition that is both a twist on the Tai Chi symbol and an expression of his inclination towards geometric structures. The bluish mirage brings a surrealist bent and demonstrates that landscape can be adopted as a modular component in his painting."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "畫家兼平面設計師靳埭強從七十年代開始在繪畫中融入中國山水造形，此前他的創作深受西方藝術、設計和色彩理論的影響。在《重岩》中，靳埭強重複臨摹古畫中的山石造形兩次，構圖恍如太極兩儀圖，體現了藝術家對幾何結構的濃厚興趣。藍色山石猶如超現實幻景，證明「山水」在靳埭強的藝術中，已轉化成構圖的元素。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Kan Tai-keung",
     "title": {
         "en": "Cliffs Beyond",
         "zh-hant": "重岩"
     },
-    "displayDate": "1977",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1977",
+        "zh-hant": "1977"
+    },
     "beginDate": 1977,
     "endDate": 1977,
     "dimension": {
         "en": "sheet: 101 × 101 cm\r\r\nimage: 90.4 × 90.1 cm",
-        "zh-hant": "90.4 × 90.1 厘米",
-        "zh-hans": "90.4 × 90.1 厘米"
+        "zh-hant": "紙本: 101 × 101 厘米\r\n圖像: 90.4 × 90.1 厘米"
     },
     "medium": {
         "en": "ink and colour on paper",
-        "zh-hant": "水墨設色紙本",
-        "zh-hans": "水墨设色纸本"
+        "zh-hant": "水墨設色紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Inscribed in pencil, verso LR, CR: 重岩"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Ink and colour painting on paper depicting two identical yonic cloud shapes in light blues and greys, nestled together somewhat like the symbol for yin and yang.",
+            "AltTextTC": "水墨設色紙本作品中，呈現兩朵相同的雲，每朵的形態都恍如女性陰部，以淺藍和灰色描繪。雲朵簇擁在一起，隱約形成一個陰陽符號。",
+            "src": "000001_000500/000241_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        },
+        {
+            "src": "000001_000500/000241_002.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "000001_000500/000241_003.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "000001_000500/000241_004.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Kan Tai-keung",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/CONTACT the RIGHTS HOLDER; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 241
 }

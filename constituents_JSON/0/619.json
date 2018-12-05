@@ -2,14 +2,12 @@
     "constituentID": 619,
     "name": {
         "en": {
-            "id": "611",
-            "alphasort": "Zhuang, Hui",
-            "displayname": "Zhuang Hui"
+            "displayName": "Zhuang Hui",
+            "alphasort": "Zhuang, Hui"
         },
         "zh-hant": {
-            "id": "1607",
-            "alphasort": "莊, 輝",
-            "displayname": "莊輝"
+            "displayName": "莊輝",
+            "alphasort": "莊, 輝"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Yumen"
+    },
+    "deathCity": null,
     "beginDate": 1963,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 619
 }

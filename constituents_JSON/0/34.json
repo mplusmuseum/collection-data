@@ -2,18 +2,37 @@
     "constituentID": 34,
     "name": {
         "en": {
-            "id": "26",
-            "alphasort": "EOQ",
-            "displayname": "EOQ"
+            "displayName": "EOQ",
+            "alphasort": "EOQ"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, established 2012",
+        "zh-hant": "2012年於香港成立"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 2012,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 34
 }

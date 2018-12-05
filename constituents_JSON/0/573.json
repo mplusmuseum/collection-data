@@ -2,14 +2,12 @@
     "constituentID": 573,
     "name": {
         "en": {
-            "id": "565",
-            "alphasort": "Zhang, Bing",
-            "displayname": "Zhang Bing"
+            "displayName": "Zhang Bin",
+            "alphasort": "Zhang, Bin"
         },
         "zh-hant": {
-            "id": "1569",
-            "alphasort": "張, 瀕",
-            "displayname": "張瀕"
+            "displayName": "張瀕",
+            "alphasort": "張, 瀕"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1974",
+        "zh-hant": "中國籍，生於1974年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Heilongjiang Province"
+    },
+    "deathCity": null,
     "beginDate": 1974,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 573
 }

@@ -2,14 +2,12 @@
     "constituentID": 497,
     "name": {
         "en": {
-            "id": "489",
-            "alphasort": "Xie, Nanxing",
-            "displayname": "Xie Nanxing"
+            "displayName": "Xie Nanxing",
+            "alphasort": "Xie, Nanxing"
         },
         "zh-hant": {
-            "id": "1504",
-            "alphasort": "謝, 南星",
-            "displayname": "謝南星"
+            "displayName": "謝南星",
+            "alphasort": "謝, 南星"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1970",
+        "zh-hant": "中國籍，生於1970年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Chongqing"
+    },
+    "deathCity": null,
     "beginDate": 1970,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 497
 }

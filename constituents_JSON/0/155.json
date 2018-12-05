@@ -2,9 +2,12 @@
     "constituentID": 155,
     "name": {
         "en": {
-            "id": "147",
-            "alphasort": "Chu, Hing-wah",
-            "displayname": "Chu Hing-wah"
+            "displayName": "Chu Hing Wah",
+            "alphasort": "Chu, Hing Wah"
+        },
+        "zh-hant": {
+            "displayName": "朱興華",
+            "alphasort": "朱, 興華"
         }
     },
     "type": "Individual",
@@ -12,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1935",
+        "zh-hant": "香港，1935年生於中國"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Guangdong Province"
+    },
+    "deathCity": null,
     "beginDate": 1935,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 155
 }

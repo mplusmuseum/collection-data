@@ -2,14 +2,12 @@
     "constituentID": 487,
     "name": {
         "en": {
-            "id": "479",
-            "alphasort": "Wu, Francis",
-            "displayname": "Francis Wu"
+            "displayName": "Francis Wu",
+            "alphasort": "Wu, Francis"
         },
         "zh-hant": {
-            "id": "1036",
-            "alphasort": "吳章建",
-            "displayname": "吳章建"
+            "displayName": "吳章建",
+            "alphasort": "吳章建"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born China. 1911–1989",
+        "zh-hant": "香港，生於中國，1911–1989年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Guangzhou"
+    },
+    "deathCity": null,
     "beginDate": 1911,
-    "deathyear": 1989,
+    "endDate": 1989,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 487
 }

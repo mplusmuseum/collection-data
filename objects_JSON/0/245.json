@@ -1,7 +1,8 @@
 {
     "objectID": 245,
+    "onView": false,
     "objectNumber": "2013.260",
-    "sortNumber": 2013.26,
+    "sortNumber": "2013   260",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,42 +27,140 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Kan Tai-keung"
-            }
-        },
-        {
-            "id": 245,
-            "rank": 1,
-            "roles": {
-                "en": "Seller"
-            },
-            "names": {
-                "en": "Kan Tai-keung"
+                "en": "Kan Tai-keung",
+                "zh-hant": "靳埭强"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Kan Tai-keung",
     "title": {
         "en": "Sun and Peaks",
-        "zh-hant": "日照雲峰",
-        "zh-hans": "日照云峰"
+        "zh-hant": "日照雲峰"
     },
-    "displayDate": "1999",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1999",
+        "zh-hant": "1999"
+    },
     "beginDate": 1999,
     "endDate": 1999,
     "dimension": {
         "en": "overall (open): 208.5 × 78.2 × 3.7 cm\r\r\nimage: 139.6 × 76.1 cm",
-        "zh-hant": "135 × 66 厘米",
-        "zh-hans": "135 × 66 厘米"
+        "zh-hant": "整體 (打開): 208.5 × 78.2 × 3.7 厘米\r\n圖像: 139.6 × 76.1 厘米"
     },
     "medium": {
         "en": "ink and colour on paper",
-        "zh-hant": "水墨設色紙本",
-        "zh-hans": "水墨设色纸本"
+        "zh-hant": "水墨設色紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Artist seal in red ink, lowe left"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Ink painting on paper depicting a group of mountain peaks amidst clouds with the sun high in the sky. The sun is a red dot with light red glow around it, while the rest of the painting is monochrome.",
+            "AltTextTC": "水墨紙本畫作呈現太陽高照下的雲海群峰。太陽是一個紅點，被淡紅色的光暈圍繞著，畫作其他部分以黑白呈現。",
+            "src": "000001_000500/000245_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Kan Tai-keung",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/CONTACT the RIGHTS HOLDER; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 245
 }

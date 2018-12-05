@@ -1,7 +1,8 @@
 {
     "objectID": 6940,
+    "onView": false,
     "objectNumber": "2017.232",
-    "sortNumber": 2017.232,
+    "sortNumber": "2017   232",
     "classification": {
         "area": {
             "rank": 1,
@@ -27,15 +28,57 @@
             },
             "names": {
                 "en": "Tong Yang-Tze",
-                "zh-hant": "Tong Yang-Tze / 董陽孜"
+                "zh-hant": "董陽孜"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "One of the most celebrated artists working exclusively in calligraphy today, Tong Yang-Tze invented her own style, which accentuates the spirit of the line, the foremost quality in calligraphy, while simultaneously pushing calligraphy to the verge of abstraction. She writes verses from Chinese classics or Buddhist scriptures that she finds relevant to contemporary conditions. Tong pays homage to poet Qu Yuan (343–278 B.C.) in this phrase taken from the Song of Chu, in which Qu offers wilfull self-consolation amidst societal and moral decline. Tong urges her viewers to uphold their integrity in trying times, to aspire to be a defiant, ‘far-journeying steed’ rather than a complacent, ‘floating duck’."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "董陽孜是當今專事書法創作首屈一指的藝術家。她獨創的風格，突顯出書法以線條為主的精 神，同時把書法帶向抽象。董陽孜書寫內容多為詩詞古籍和佛經中的金玉良言，抒發她對社會的感受。「昂昂若千里之駒，泛泛若水中之鳧」出 自《楚辭》，是 屈原於世風日下之際，聊以抒洩之文。董陽孜以此作向屈原致敬，勉勵觀者在艱難之時仍堅持初衷，寧做昂首不屈的「千里之駒」，也不做安於現狀的「水中之鳧」。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Tong Yang-Tze",
     "title": {
         "en": "Spirited, like a far-journeying steed; floating, like a duck on water",
         "zh-hant": "昂昂若千里之駒 泛泛若水中之鳧"
     },
-    "displayDate": "2002",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2002",
+        "zh-hant": "2002"
+    },
     "beginDate": 2002,
     "endDate": 2002,
     "dimension": {
@@ -49,6 +92,106 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "1 seal UR, 1 seal LR, 2 seals in centre, 2 artist seals LL\r\r\nUR: 縱浪大化\r\r\nLR: 萬事有為應有盡 此身無我自無窮\r\r\nCentre:吉利 \r\r\n　　　無恙\r\r\nLL: 董印 陽孜"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Long, rectangular ink painting on canvas with Chinese characters in black ink scrawled across it. The characters are painted with a mixture of sizes, thick and thin lines, in a messy style.",
+            "AltTextTC": "長形橫幅卷軸上，滿是以黑墨書寫的中文，字體大小粗幼不一，風格雄渾奔放。",
+            "src": "006501_007000/006940_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006940_002.tif",
+            "rank": "2",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Tong Yang-tze",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 6940
 }

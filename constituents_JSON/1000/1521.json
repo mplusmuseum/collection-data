@@ -2,23 +2,41 @@
     "constituentID": 1521,
     "name": {
         "en": {
-            "id": "3201",
-            "alphasort": "Kin Hip Metal & Plastic Fty. Ltd.",
-            "displayname": "Kin Hip Metal & Plastic Fty. Ltd."
+            "displayName": "Kin Hip Metal & Plastic Fty. Ltd.",
+            "alphasort": "Kin Hip Metal & Plastic Fty. Ltd."
         },
         "zh-hant": {
-            "id": "3202",
-            "alphasort": "建業五金塑膠廠有限公司",
-            "displayname": "建業五金塑膠廠有限公司"
+            "displayName": "建業五金塑膠廠有限公司",
+            "alphasort": "建業五金塑膠廠有限公司"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Hong Kong, 1949",
+        "zh-hant": "1949年成立於香港"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1949,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1521
 }

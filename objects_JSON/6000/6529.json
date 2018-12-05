@@ -1,7 +1,8 @@
 {
     "objectID": 6529,
+    "onView": false,
     "objectNumber": "2016.447",
-    "sortNumber": 2016.447,
+    "sortNumber": "2016   447",
     "classification": {
         "area": {
             "rank": 1,
@@ -20,17 +21,6 @@
     },
     "consituents": [
         {
-            "id": 1033,
-            "rank": 2,
-            "roles": {
-                "en": "Manufacturer"
-            },
-            "names": {
-                "en": "Tendo Co., Ltd.",
-                "zh-hant": "株式會社 天童木工"
-            }
-        },
-        {
             "id": 1751,
             "rank": 1,
             "roles": {
@@ -40,19 +30,48 @@
                 "en": "Choh Daisaku",
                 "zh-hant": "長大作"
             }
+        },
+        {
+            "id": 1033,
+            "rank": 2,
+            "roles": {
+                "en": "Manufacturer"
+            },
+            "names": {
+                "en": "Tendo Co., Ltd.",
+                "zh-hant": "株式會社 天童木工"
+            }
         }
     ],
+    "exhibition": {
+        "ids": [
+            58
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": [
+        25
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Choh Daisaku / Sakakura Junzo Architectural Office (now Sakaura Associates, Inc.); Tendo Co., Ltd.",
     "title": {
         "en": "Low Chair, model 5016",
-        "zh-hant": "低座椅子，5016型",
-        "zh-hans": "低座椅子，5016型"
+        "zh-hant": "低座椅子，5016型"
     },
-    "displayDate": "designed 1957, made 1960",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "designed 1957, made 1960",
+        "zh-hant": "1957年設計, 1961年製造"
+    },
     "beginDate": 1957,
     "endDate": 1960,
     "dimension": {
         "en": "overall (chair 1): 65.5 × 54.5 × 67 cm\r\r\noverall (chair 2): 65.5 × 55.5 × 68 cm",
-        "zh-hant": "整體（椅一）：65.5 × 54.5 × 67 厘米\r\r\n整體（椅二）：65.5 × 55.5 × 68 厘米"
+        "zh-hant": "整體 (椅一): 65.5 × 54.5 × 67 厘米\r\r\n整體 (椅二): 65.5 × 55.5 × 68 厘米"
     },
     "medium": {
         "en": "teak-veneered plywood and fabric",
@@ -61,6 +80,189 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "No inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {
+        "en": "chair"
+    },
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "006501_007000/006529_013.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_014.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_015.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_016.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_001.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_002.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_003.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_004.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_005.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_006.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_007.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_008.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_009.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_010.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_011.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006529_012.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "© expired",
+        "concatRights": "M+/WKCDA exhibition/© expired = OK; M+/WKCDA website/© expired = OK; M+/WKCDA internal use/© expired = OK; M+/WKCDA publications/© expired = OK; M+/WKCDA press/publicity/© expired = OK; M+/WKCDA press packs/© expired = OK; M+/WKCDA advertising/© expired = OK; M+/WKCDA learning team activities/© expired = OK; 3rd-party exhibition (LOANS)/© expired = OK; 3rd-party non-commercial research/academic/© expired = OK; 3rd-party non-commercial educational/© expired = OK; 3rd-party non-commercial publication/© expired = OK; other 3rd-party non-commercial use/© expired = OK; social media/© expired = OK; commercial advertising/© expired = OK; commercial merchandise/RESTRICTED, see NOTES; commercial publishing/© expired = OK; Current status/© expired",
+        "concatRemark": "",
+        "currentStatus": "© expired",
+        "rights": [
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "social media"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "RESTRICTED, see NOTES",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 6529
 }

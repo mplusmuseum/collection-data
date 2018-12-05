@@ -2,9 +2,12 @@
     "constituentID": 371,
     "name": {
         "en": {
-            "id": "363",
-            "alphasort": "Pucher, Florian",
-            "displayname": "Florian Pucher"
+            "displayName": "Florian Pucher",
+            "alphasort": "Pucher, Florian"
+        },
+        "zh-hant": {
+            "displayName": "弗洛里安·普克爾",
+            "alphasort": "弗洛里安·普克爾"
         }
     },
     "type": "Individual",
@@ -12,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Austrian",
+    "displayBio": {
+        "en": "Austrian, born 1977",
+        "zh-hant": "奧地利籍，生於1977年"
+    },
+    "nationality": {
+        "en": "Austrian",
+        "zh-hant": "奧地利籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Vienna"
+    },
+    "deathCity": null,
     "beginDate": 1977,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 371
 }

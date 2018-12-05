@@ -2,14 +2,12 @@
     "constituentID": 983,
     "name": {
         "en": {
-            "id": "1931",
-            "alphasort": "Yuan, Goang-Ming",
-            "displayname": "Yuan Goang-Ming"
+            "displayName": "Yuan Goang-Ming",
+            "alphasort": "Yuan, Goang-Ming"
         },
         "zh-hant": {
-            "id": "1932",
-            "alphasort": "袁,廣鳴",
-            "displayname": "袁廣鳴"
+            "displayName": "袁廣鳴",
+            "alphasort": "袁,廣鳴"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Taiwanese",
+    "displayBio": {
+        "en": "Taiwanese, born 1965",
+        "zh-hant": "台灣籍，生於1965年"
+    },
+    "nationality": {
+        "en": "Taiwanese",
+        "zh-hant": "台灣籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Taipei",
+        "zh-hant": "臺北市"
+    },
+    "birthCity": {
+        "en": "Taipei",
+        "zh-hant": "Taipei"
+    },
+    "deathCity": null,
     "beginDate": 1965,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 983
 }

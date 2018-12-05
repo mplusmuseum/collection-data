@@ -1,7 +1,8 @@
 {
     "objectID": 3462,
+    "onView": false,
     "objectNumber": "2012.453",
-    "sortNumber": 2012.453,
+    "sortNumber": "2012   453",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,183 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            55,
+            95,
+            103
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "Hu Qingyan carved these four sculptural pieces, resembling bamboo, from wooden beams found amid ruins after the 2008 Sichuan earthquake. The work is part of Hu’s ongoing experimentation with altering the appearance of materials and bridging the gap between sculpture and ready-made objects."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "胡慶雁以2008年四川大地震災後的廢墟中拾獲的舊木樑刻出四件雕塑，形態恍如竹竿。這是他一直進行的藝術實驗的一部分，通過改變了不同物料的外觀來消除雕塑與現成物之間的差異。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Hu Qingyan",
     "title": {
         "en": "A Stick of Bamboo",
-        "zh-hant": "一根竹竿",
-        "zh-hans": "一根竹竿"
+        "zh-hant": "一根竹竿"
     },
-    "displayDate": "2011",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": "2011"
+    },
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
         "en": "overall: 300 × 7 cm\r\r\noverall: 285.5 × 7 cm\r\r\noverall: 78 × 7 cm\r\r\noverall: 22.9 × 7 cm",
-        "zh-hant": "300 × 7 厘米\r\r\n285.5 × 7 厘米\r\r\n78 × 7 厘米\r\r\n22.9 × 7 厘米",
-        "zh-hans": "300 × 7 厘米\r\r\n285.5 × 7 厘米\r\r\n78 × 7 厘米\r\r\n22.9 × 7 厘米"
+        "zh-hant": "300 × 7 厘米\r\r\n285.5 × 7 厘米\r\r\n78 × 7 厘米\r\r\n22.9 × 7 厘米"
     },
     "medium": {
         "en": "gold phoebe (wood)",
-        "zh-hant": "金絲楠木",
-        "zh-hans": "金丝楠木"
+        "zh-hant": "金絲楠木"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港",
-        "zh-hans": "香港M+ 希克藏品（捐赠）"
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "003001_003500/003462_001.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003462_002.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003462_004.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003462_003.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Installation consisting of two lengths of gold phoebe wood which have been carved to resemble bamboo. The poles lean against a wall like an upside-down V with two shorter pieces of phoebe wood bamboo on the floor between them.",
+            "AltTextTC": "裝置由兩組長短不一的金絲楠木組成，外型雕刻成竹枝的模樣。兩枝較長的木竿，呈八字狀倚在牆上，另外兩枝短竿，則置於長竿之間的地上。",
+            "src": "003001_003500/003462_005.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Hu Qingyan",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3462
 }

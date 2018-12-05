@@ -2,14 +2,12 @@
     "constituentID": 363,
     "name": {
         "en": {
-            "id": "355",
-            "alphasort": "Pan, Xiaorong",
-            "displayname": "Pan Xiaorong"
+            "displayName": "Pan Xiaorong",
+            "alphasort": "Pan, Xiaorong"
         },
         "zh-hant": {
-            "id": "1392",
-            "alphasort": "潘, 小榮",
-            "displayname": "潘小榮"
+            "displayName": "潘小榮",
+            "alphasort": "潘, 小榮"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1985",
+        "zh-hant": "中國籍，生於1985年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shanghai"
+    },
+    "birthCity": {
+        "en": "Yichun"
+    },
+    "deathCity": null,
     "beginDate": 1985,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 363
 }

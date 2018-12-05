@@ -2,14 +2,12 @@
     "constituentID": 530,
     "name": {
         "en": {
-            "id": "522",
-            "alphasort": "Yan, Pei-Ming",
-            "displayname": "Yan Pei-Ming"
+            "displayName": "Yan Pei-Ming",
+            "alphasort": "Yan, Pei-Ming"
         },
         "zh-hant": {
-            "id": "1535",
-            "alphasort": "嚴, 培明",
-            "displayname": "嚴培明"
+            "displayName": "嚴培明",
+            "alphasort": "嚴, 培明"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1960",
+        "zh-hant": "中國籍，生於1960年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Shanghai"
+    },
+    "deathCity": null,
     "beginDate": 1960,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 530
 }

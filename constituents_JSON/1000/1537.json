@@ -2,13 +2,12 @@
     "constituentID": 1537,
     "name": {
         "en": {
-            "id": "3225",
-            "alphasort": "Tong, King-sum",
-            "displayname": "Tong King-sum"
+            "displayName": "Tong King-sum",
+            "alphasort": "Tong, King-sum"
         },
         "zh-hant": {
-            "id": "3226",
-            "displayname": "唐景森"
+            "displayName": "唐景森",
+            "alphasort": "唐景森"
         }
     },
     "type": "Individual",
@@ -16,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, 1940–2008",
+        "zh-hant": "香港，1940–2008年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1940,
-    "deathyear": 2008,
+    "endDate": 2008,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1537
 }

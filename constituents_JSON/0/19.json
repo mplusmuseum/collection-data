@@ -2,23 +2,38 @@
     "constituentID": 19,
     "name": {
         "en": {
-            "id": "11",
-            "alphasort": "Atelier FCJZ",
-            "displayname": "Atelier FCJZ"
+            "displayName": "Atelier FCJZ",
+            "alphasort": "Atelier FCJZ"
         },
         "zh-hant": {
-            "id": "2760",
-            "alphasort": "非常建築",
-            "displayname": "非常建築"
+            "displayName": "非常建築",
+            "alphasort": "非常建築"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
+    "displayBio": {
+        "en": "established Houston, 1993; now based in Beijing and Shanghai",
+        "zh-hant": "1993年成立於侯斯頓，現設於北京及上海"
+    },
     "nationality": null,
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1993,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 19
 }

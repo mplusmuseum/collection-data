@@ -1,14 +1,45 @@
 {
     "constituentID": 1044,
-    "name": {},
+    "name": {
+        "en": {
+            "displayName": "Trevor Yeung",
+            "alphasort": "Yeung, Trevor"
+        },
+        "zh-hant": {
+            "displayName": "楊沛鏗",
+            "alphasort": "楊沛鏗"
+        }
+    },
     "type": "Individual",
     "gender": {
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born China, 1988",
+        "zh-hant": "香港，1988年生於中國"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Guangdong Province"
+    },
+    "deathCity": null,
     "beginDate": 1988,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1044
 }

@@ -2,9 +2,12 @@
     "constituentID": 116,
     "name": {
         "en": {
-            "id": "108",
-            "alphasort": "Chan, Gaylord",
-            "displayname": "Gaylord Chan"
+            "displayName": "Gaylord Chan",
+            "alphasort": "Chan, Gaylord"
+        },
+        "zh-hant": {
+            "displayName": "陳餘生",
+            "alphasort": "陳餘生"
         }
     },
     "type": "Individual",
@@ -12,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1925",
+        "zh-hant": "香港，生於1925年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1925,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 116
 }

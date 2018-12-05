@@ -1,7 +1,8 @@
 {
     "objectID": 3913,
+    "onView": false,
     "objectNumber": "2015.263",
-    "sortNumber": 2015.263,
+    "sortNumber": "2015   263",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,135 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Ozawa Tsuyoshi",
     "title": {
         "en": "Chapter 8, The Return of Dr. N",
-        "zh-hant": "單元一，N博士的回歸",
-        "zh-hans": "单元一，N博士的回归"
+        "zh-hant": "單元一，N博士的回歸"
     },
-    "displayDate": "2013",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2013",
+        "zh-hant": "2013"
+    },
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
         "en": "overall: 148.5 × 250 × 4 cm",
-        "zh-hant": "148.7 × 250.1 × 4 厘米",
-        "zh-hans": "148.7 × 250.1 × 4 厘米"
+        "zh-hant": "整體: 148.5 × 250 × 4 厘米"
     },
     "medium": {
         "en": "acrylic on cotton",
-        "zh-hant": "塑膠彩棉布本",
-        "zh-hans": "塑料彩棉布本"
+        "zh-hant": "塑膠彩棉布本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Inscribed in paint, LR: ALMHITY GOD / ART WORKSSUAME JUNC. / KUMASI-GHANA / 0277 896 229"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Acrylic painting on cotton of two men with dark hair and mustaches. The left man is sitting up, while the right man is lying in a hospital bed. A paragraph of text dedicated to \"Our forefather, Dr. N\" is written in the top left corner. Small images sit along the top, the left of which shows a man with a mustache drinking with two women, while the right shows a doctor looking at several X-ray scans.",
+            "AltTextTC": "塑膠彩棉布本畫作呈現兩個蓄深色頭髮和鬍子的男人。左邊那個男人坐直身子，右邊那個男人躺在醫院病床上。畫面左上角寫上一段獻給「我們的祖先N博士」的文字。畫面頂部排列著細小的圖像，左面那幅呈現一個蓄鬍子的男人，他正與兩個女人喝酒，而在右面那幅，一個醫生正在看著幾幅X光掃描片。",
+            "src": "003501_004000/003913_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Ozawa Tsuyoshi",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3913
 }

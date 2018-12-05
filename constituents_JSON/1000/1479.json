@@ -2,23 +2,40 @@
     "constituentID": 1479,
     "name": {
         "en": {
-            "id": "3142",
-            "alphasort": "DJI",
-            "displayname": "DJI"
+            "displayName": "DJI",
+            "alphasort": "DJI"
         },
         "zh-hant": {
-            "id": "4851",
-            "alphasort": "大疆",
-            "displayname": "大疆"
+            "displayName": "大疆",
+            "alphasort": "大疆"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Shenzhen, 2006",
+        "zh-hant": "2006年成立於深圳"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shenzhen"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 2006,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1479
 }

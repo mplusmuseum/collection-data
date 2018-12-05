@@ -2,14 +2,12 @@
     "constituentID": 1725,
     "name": {
         "en": {
-            "id": "3570",
-            "alphasort": "Chen, Chiang",
-            "displayname": "Chiang Chen"
+            "displayName": "Chiang Chen",
+            "alphasort": "Chen, Chiang"
         },
         "zh-hant": {
-            "id": "3579",
-            "alphasort": "蔣震",
-            "displayname": "蔣震"
+            "displayName": "蔣震",
+            "alphasort": "蔣震"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1923",
+        "zh-hant": "香港，生於1923年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1923,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1725
 }

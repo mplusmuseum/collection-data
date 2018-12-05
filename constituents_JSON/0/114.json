@@ -2,9 +2,12 @@
     "constituentID": 114,
     "name": {
         "en": {
-            "id": "106",
-            "alphasort": "Cartier-Bresson, Henri",
-            "displayname": "Henri Cartier-Bresson"
+            "displayName": "Henri Cartier-Bresson",
+            "alphasort": "Cartier-Bresson, Henri"
+        },
+        "zh-hant": {
+            "displayName": "亨利·卡蒂埃-布列松",
+            "alphasort": "亨利·卡蒂埃-布列松"
         }
     },
     "type": "Individual",
@@ -12,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "French",
+    "displayBio": {
+        "en": "French, 1908–2004",
+        "zh-hant": "法國籍，1908–2004年"
+    },
+    "nationality": {
+        "en": "French",
+        "zh-hant": "法國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "France"
+    },
+    "deathCity": null,
     "beginDate": 1908,
-    "deathyear": 2004,
+    "endDate": 2004,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 114
 }

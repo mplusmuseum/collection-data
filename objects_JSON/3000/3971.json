@@ -1,7 +1,8 @@
 {
     "objectID": 3971,
+    "onView": false,
     "objectNumber": "2016.59",
-    "sortNumber": 2016.59,
+    "sortNumber": "2016    59",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,7 +27,8 @@
                 "en": "Designer"
             },
             "names": {
-                "en": "Charlotte Perriand"
+                "en": "Charlotte Perriand",
+                "zh-hant": "夏洛特·佩里安"
             }
         },
         {
@@ -41,17 +43,36 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            58,
+            102
+        ],
+        "sections": "[{\"58\":\"1\"}]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": [
+        25
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Charlotte Perriand; Isamu Noguchi",
     "title": {
         "en": "Light stand with Akari 30P by Isamu Noguchi",
-        "zh-hant": "燈座配野口勇30P 型燈罩",
-        "zh-hans": "灯座配野口勇30P 型灯罩"
+        "zh-hant": "燈座配野口勇30P 型燈罩"
     },
-    "displayDate": "circa 1963",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "circa 1963",
+        "zh-hant": "約1964年"
+    },
     "beginDate": 1958,
     "endDate": 1968,
     "dimension": {
         "en": "overall: 235 × 134 × 80 cm",
-        "zh-hant": "整體：235 × 134 × 80 厘米"
+        "zh-hant": "整體: 235 × 134 × 80 厘米"
     },
     "medium": {
         "en": "iron, washi paper, bamboo, and painted metal",
@@ -60,6 +81,204 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "003501_004000/003971_001.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_002.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_011.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_012.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_013.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_014.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_015.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_016.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_017.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_018.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_003.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_004.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_005.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_006.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_007.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_008.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_009.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_010.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003971_019.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Rights Holder RESERVES ALL RIGHTS",
+        "copyright": "© Estate of Charlotte Perriand and Isamu Noguchi Foundation",
+        "concatRights": "M+/WKCDA exhibition/ALLOWED - NO RESTRICTIONS; M+/WKCDA website/CONTACT the RIGHTS HOLDER; M+/WKCDA internal use/CONTACT the RIGHTS HOLDER; M+/WKCDA publications/CONTACT the RIGHTS HOLDER; M+/WKCDA press/publicity/CONTACT the RIGHTS HOLDER; M+/WKCDA press packs/CONTACT the RIGHTS HOLDER; M+/WKCDA advertising/CONTACT the RIGHTS HOLDER; M+/WKCDA learning team activities/CONTACT the RIGHTS HOLDER; 3rd-party exhibition (LOANS)/ALLOWED - NO RESTRICTIONS; 3rd-party non-commercial research/academic/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial educational/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial publication/CONTACT the RIGHTS HOLDER; other 3rd-party non-commercial use/CONTACT the RIGHTS HOLDER; social media/CONTACT the RIGHTS HOLDER; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/In correspondence with Rights-Holder",
+        "concatRemark": "",
+        "currentStatus": "In correspondence with Rights-Holder",
+        "rights": [
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3971
 }

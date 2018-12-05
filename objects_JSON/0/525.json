@@ -1,7 +1,8 @@
 {
     "objectID": 525,
+    "onView": false,
     "objectNumber": "2012.2002",
-    "sortNumber": 2012.2002,
+    "sortNumber": "2012  2002",
     "classification": {
         "area": {
             "rank": 1,
@@ -29,41 +30,138 @@
                 "en": "Liu Heung-Shing",
                 "zh-hant": "劉香成"
             }
-        },
-        {
-            "id": 303,
-            "rank": 1,
-            "roles": {
-                "en": "Donor"
-            },
-            "names": {
-                "en": "Liu Heung-Shing",
-                "zh-hant": "劉香成"
-            }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103,
+            106
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Liu Heung-Shing",
     "title": {
         "en": "China After Mao—Look at 'unofficial artists' sketches, Beijing 1979",
-        "zh-hant": "1979年， 北京市民觀看非正式藝術家的素描",
-        "zh-hans": "1979年， 北京市民观看非正式艺术家的素描"
+        "zh-hant": "1979年， 北京市民觀看非正式藝術家的素描"
     },
-    "displayDate": "1979",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1979",
+        "zh-hant": "1979"
+    },
     "beginDate": 1979,
     "endDate": 1979,
     "dimension": {
         "en": "sheet: 60 × 70 cm",
-        "zh-hant": "紙本: 60 × 70 厘米",
-        "zh-hans": "图像尺寸: 39.5 × 60 厘米\r\r\n纸本尺寸: 60 × 70 厘米"
+        "zh-hant": "紙本: 60 × 70 厘米"
     },
     "medium": {
         "en": "photograph mounted on plastic",
-        "zh-hant": "照片裱於塑膠",
-        "zh-hans": "照片（塑胶托裱）"
+        "zh-hant": "照片裱於塑膠"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Liu Heung-Shing, 2012",
-        "zh-hant": "M+，香港，劉香成捐贈，2012年",
-        "zh-hans": "香港M+，刘香成捐赠，2012年"
+        "zh-hant": "M+，香港，劉香成捐贈，2012年"
+    },
+    "inscription": {
+        "en": "\"LIU HEUNG SHING DEMOC WALL EXPO\" on wooden mount"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Monochrome photograph. Outside, a row of pedestrians and cyclists study life-sized portraits of figures with fully rendered faces and unfinished bodies.",
+            "AltTextTC": "黑白照片中是戶外的場景，行人和騎單車的人聚集成一行，駐足觀看幾張真人大小的肖像畫，臉孔描繪得非常仔細，但身體部分仍未完成。",
+            "src": "000501_001000/000525_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Liu Heung-Shing",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/CONTACT the RIGHTS HOLDER; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/CONTACT the RIGHTS HOLDER; M+/WKCDA advertising/CONTACT the RIGHTS HOLDER; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial educational/CONTACT the RIGHTS HOLDER; 3rd-party non-commercial publication/CONTACT the RIGHTS HOLDER; other 3rd-party non-commercial use/CONTACT the RIGHTS HOLDER; social media/CONTACT the RIGHTS HOLDER; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 525
 }

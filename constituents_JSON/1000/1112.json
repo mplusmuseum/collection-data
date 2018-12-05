@@ -2,9 +2,12 @@
     "constituentID": 1112,
     "name": {
         "en": {
-            "id": "2105",
-            "alphasort": "Jeanneret, Pierre",
-            "displayname": "Pierre Jeanneret"
+            "displayName": "Pierre Jeanneret",
+            "alphasort": "Jeanneret, Pierre"
+        },
+        "zh-hant": {
+            "displayName": "皮耶‧江耐瑞",
+            "alphasort": "江耐瑞, 皮耶"
         }
     },
     "type": "Individual",
@@ -12,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Swiss",
+    "displayBio": {
+        "en": "Swiss, 1896–1967",
+        "zh-hant": "瑞士籍，1896–1967年"
+    },
+    "nationality": {
+        "en": "Swiss",
+        "zh-hant": "瑞士籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Geneva"
+    },
+    "deathCity": null,
     "beginDate": 1896,
-    "deathyear": 1967,
+    "endDate": 1967,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1112
 }

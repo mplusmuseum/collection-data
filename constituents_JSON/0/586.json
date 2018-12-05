@@ -2,14 +2,12 @@
     "constituentID": 586,
     "name": {
         "en": {
-            "id": "578",
-            "alphasort": "Zhang, Qikai",
-            "displayname": "Zhang Qikai"
+            "displayName": "Zhang Qikai",
+            "alphasort": "Zhang, Qikai"
         },
         "zh-hant": {
-            "id": "1579",
-            "alphasort": "張, 奇開",
-            "displayname": "張奇開"
+            "displayName": "張奇開",
+            "alphasort": "張, 奇開"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1950",
+        "zh-hant": "中國籍，生於1950年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Shehong"
+    },
+    "deathCity": null,
     "beginDate": 1950,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 586
 }

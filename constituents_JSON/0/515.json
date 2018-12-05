@@ -2,14 +2,12 @@
     "constituentID": 515,
     "name": {
         "en": {
-            "id": "507",
-            "alphasort": "Xu, Zhongmin",
-            "displayname": "Xu Zhongmin"
+            "displayName": "Xu Zhongmin",
+            "alphasort": "Xu, Zhongmin"
         },
         "zh-hant": {
-            "id": "1521",
-            "alphasort": "許, 仲敏",
-            "displayname": "許仲敏"
+            "displayName": "許仲敏",
+            "alphasort": "許, 仲敏"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1961",
+        "zh-hant": "中國籍，生於1961年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Sichuan Province"
+    },
+    "deathCity": null,
     "beginDate": 1961,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 515
 }

@@ -2,14 +2,12 @@
     "constituentID": 345,
     "name": {
         "en": {
-            "id": "337",
-            "alphasort": "Miao, Xiaochun",
-            "displayname": "Miao Xiaochun"
+            "displayName": "Miao Xiaochun",
+            "alphasort": "Miao, Xiaochun"
         },
         "zh-hant": {
-            "id": "1382",
-            "alphasort": "繆, 曉春",
-            "displayname": "繆曉春"
+            "displayName": "繆曉春",
+            "alphasort": "繆, 曉春"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1964",
+        "zh-hant": "中國籍，生於1964年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Wuxi"
+    },
+    "deathCity": null,
     "beginDate": 1964,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 345
 }

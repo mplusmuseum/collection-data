@@ -2,14 +2,12 @@
     "constituentID": 511,
     "name": {
         "en": {
-            "id": "503",
-            "alphasort": "Xu, Wentao",
-            "displayname": "Xu Wentao"
+            "displayName": "Xu Wentao",
+            "alphasort": "Xu, Wentao"
         },
         "zh-hant": {
-            "id": "1517",
-            "alphasort": "徐, 文濤",
-            "displayname": "徐文濤"
+            "displayName": "徐文濤",
+            "alphasort": "徐, 文濤"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Wuhan",
+        "zh-hant": "Wuhan"
+    },
+    "deathCity": null,
     "beginDate": 1968,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 511
 }

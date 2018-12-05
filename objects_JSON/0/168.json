@@ -1,7 +1,8 @@
 {
     "objectID": 168,
+    "onView": false,
     "objectNumber": "2013.7",
-    "sortNumber": 2013.7,
+    "sortNumber": "2013     7",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,27 +32,133 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": null,
+        "sections": null,
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Tsang Tsou-choi (a.k.a. King of Kowloon)",
     "title": {
         "en": "Untitled",
         "zh-hant": "無題"
     },
-    "displayDate": "1990s",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1990s",
+        "zh-hant": "1990s"
+    },
     "beginDate": 1990,
     "endDate": 2009,
     "dimension": {
-        "en": "overall (approx): 274 × 227 × 8.5 cm",
-        "zh-hant": "270 × 200 厘米",
-        "zh-hans": "270 × 200 厘米"
+        "en": "overall (approx.): 274 × 227 × 8.5 cm",
+        "zh-hant": "整體約: 274 × 227 × 8.5 厘米"
     },
     "medium": {
         "en": "ink on iron gates",
-        "zh-hant": "墨水、鐵閘",
-        "zh-hans": "水墨、铁闸"
+        "zh-hant": "墨水、鐵閘"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Urban Renewal Council, 2013",
-        "zh-hant": "M+，香港，藝術家捐贈，2013年",
-        "zh-hans": "香港M+，艺术家捐赠，2013年"
+        "zh-hant": "M+，香港，藝術家捐贈，2013年"
+    },
+    "inscription": {
+        "en": "No inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Ink on an iron door. Black graffiti of Chinese calligraphy blankets a rusty iron door. Words and phrases include: 'Hong Kong Government', 'TSANG Tsou-choi', 'New China', and 'King of Kowloon'.",
+            "AltTextTC": "鐵閘上的水墨作品。一道生鏽的鐵閘上，佈滿黑色的中國書法塗鴉，當中的字句包括「香港政府」、「曾灶財」、「新中國」和「九龍國皇帝」。",
+            "src": "000001_000500/000168_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "RISK: untraceable Rights-Holder",
+        "copyright": "© Tsang Tsou-choi / King of Kowloon",
+        "concatRights": "M+/WKCDA exhibition/RISK JUDGEMENT = OK; M+/WKCDA website/RISK JUDGEMENT = OK; M+/WKCDA internal use/RISK JUDGEMENT = OK; M+/WKCDA publications/RISK JUDGEMENT = OK; M+/WKCDA press/publicity/RISK JUDGEMENT = OK; M+/WKCDA press packs/RISK JUDGEMENT = OK; M+/WKCDA advertising/RISK JUDGEMENT = OK; M+/WKCDA learning team activities/RISK JUDGEMENT = OK; 3rd-party exhibition (LOANS)/RISK JUDGEMENT = OK; 3rd-party non-commercial research/academic/RISK JUDGEMENT = OK; 3rd-party non-commercial educational/RISK JUDGEMENT = OK; 3rd-party non-commercial publication/RISK JUDGEMENT = OK; other 3rd-party non-commercial use/RISK JUDGEMENT = OK; social media/RISK JUDGEMENT = OK; commercial advertising/RISK JUDGEMENT = NOT OK; commercial merchandise/RISK JUDGEMENT = NOT OK; commercial publishing/RISK JUDGEMENT = NOT OK; Current status/Rights-Holder untraceable (see research document in 'Media' tab)",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder untraceable (see research document in 'Media' tab)",
+        "rights": [
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "RISK JUDGEMENT = OK",
+                "group": "social media"
+            },
+            {
+                "title": "RISK JUDGEMENT = NOT OK",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "RISK JUDGEMENT = NOT OK",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "RISK JUDGEMENT = NOT OK",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 168
 }

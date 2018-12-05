@@ -1,7 +1,8 @@
 {
     "objectID": 2580,
+    "onView": false,
     "objectNumber": "2012.1090",
-    "sortNumber": 2012.109,
+    "sortNumber": "2012  1090",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,16 +32,60 @@
             }
         }
     ],
-    "title": {
-        "en": "On the Wall - Guangzhou (II)",
-        "zh-hant": "騎墻廣州 （II）"
+    "exhibition": {
+        "ids": [
+            7,
+            16,
+            95
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "This series features images of adolescent girls sitting atop walls in Guangzhou, Haikou, and Shenzhen, looking over cityscapes dominated by skyscrapers. By juxtaposing towering high-rises with the girls, Weng symbolises the overwhelming curiosity, fear, and anticipation that the younger generation has towards China’s looming urbanised future."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "此系列照片攝於廣州、海口和深圳，女中學生坐在不同城市的牆上，遙望由摩天大樓組成的都市風景。翁氏透過並置高樓大廈與女生的，隱喻年輕一代對中國都市化步步迫近的無比好奇、恐懼與期盼。"
+                    }
+                ]
+            }
+        }
     },
-    "displayDate": "2002",
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        17
+    ],
+    "allORC": "Weng Fen",
+    "title": {
+        "en": "SItting on the Wall—Shenzhen (I)",
+        "zh-hant": "騎牆—深圳 (I)"
+    },
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2002",
+        "zh-hant": "2002"
+    },
     "beginDate": 2002,
     "endDate": 2002,
     "dimension": {
-        "en": "sheet: 124 × 164 cm",
-        "zh-hant": "124 × 164 厘米"
+        "en": "overall: 124 × 164.5 × 4.3 cm",
+        "zh-hant": "紙本: 124 × 164 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
@@ -49,6 +94,101 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "No inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Photograph of a schoolgirl in running shoes and a kilt straddling a concrete wall. She faces a narrow blue-glass skyscraper which dominates a city skyline.",
+            "AltTextTC": "照片中，一個穿着運動鞋和格子短裙的中學女生，跨坐在一幅混凝土牆上。她面向城市天際線下一幢又高又窄的藍色玻璃摩天大樓。",
+            "src": "002501_003000/002580_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Weng Fen",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2580
 }

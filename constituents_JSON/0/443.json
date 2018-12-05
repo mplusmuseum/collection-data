@@ -2,14 +2,12 @@
     "constituentID": 443,
     "name": {
         "en": {
-            "id": "435",
-            "alphasort": "Wang, Gongxin",
-            "displayname": "Wang Gongxin"
+            "displayName": "Wang Gongxin",
+            "alphasort": "Wang, Gongxin"
         },
         "zh-hant": {
-            "id": "1455",
-            "alphasort": "王, 功新",
-            "displayname": "王功新"
+            "displayName": "王功新",
+            "alphasort": "王, 功新"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1960",
+        "zh-hant": "中國籍，生於1960年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1960,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 443
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 2120,
+    "onView": false,
     "objectNumber": "2012.814",
-    "sortNumber": 2012.814,
+    "sortNumber": "2012   814",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,52 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            95
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "Though this seemingly empty canvas evokes elements of abstraction and minimalism, it draws from the Taoist concept of ‘nothingness’ rather than Western art history. There is a meditative quality to Qiu’s practice. In Untitled  (No. 30), spectators need to be patient before a figurative landscape – replete with drifting clouds, trees, and riverbanks – appears behind the veil of white. Qiu trained in traditional landscape ink painting, but after a visit to France in the 1980s, he developed a disciplined approach that fuses elements of Impressionism and Taoism to create canvases that drift between the conventions of Western scenery and Chinese landscapes."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "這幅看似空白的油畫，雖然令人聯想到抽象和簡約主義，但其實非以西方藝術史為基礎，而是道家的「虛白」。邱世華的藝術實踐具有冥想特質。觀賞《無題（第30號）》時必須耐心靜候，在虛無之間慢慢發現浮雲、樹木和河岸，形成一幅具象風景畫。邱氏本來研習傳統山水畫，1980年代到訪法國後，隨之發展出一套揉合印象主義與道家思想的作畫方式，一系列油彩作品遊走西方傳統風景畫與中國山水畫之間。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Qiu Shihua",
     "title": {
         "en": "Untitled (Nr. 30)",
         "zh-hant": "無題 (第30號)"
     },
-    "displayDate": "1995",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1995",
+        "zh-hant": "1995"
+    },
     "beginDate": 1995,
     "endDate": 1995,
     "dimension": {
@@ -49,6 +91,101 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "Secondary inscriptions, see images"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Oil painting on canvas resembling a mottled sheet of off-white parchment. Patterns in the dappling may evoke a figurative landscape of clouds, trees, and riverbanks.",
+            "AltTextTC": "這幅油彩布本作品，恍如一張滿佈斑點的米色羊皮紙，斑駁的圖案或會令人聯想到由雲朵、樹木和河堤組成的具象風景畫。",
+            "src": "002001_002500/002120_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Qiu Shihua",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2120
 }

@@ -2,23 +2,41 @@
     "constituentID": 507,
     "name": {
         "en": {
-            "id": "499",
-            "alphasort": "Xu, Qin",
-            "displayname": "Xu Qin"
+            "displayName": "Xu Qin",
+            "alphasort": "Xu, Qin"
         },
         "zh-hant": {
-            "id": "1514",
-            "alphasort": "徐, 青",
-            "displayname": "徐青"
+            "displayName": "徐勤",
+            "alphasort": "徐, 勤"
         }
     },
     "type": "Individual",
     "gender": {
-        "zh-hant": null
+        "en": "Male",
+        "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1985",
+        "zh-hant": "中國籍，生於1985年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Jiangxi Province"
+    },
+    "deathCity": null,
     "beginDate": 1985,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 507
 }

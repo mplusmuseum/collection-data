@@ -1,7 +1,8 @@
 {
     "objectID": 1802,
+    "onView": false,
     "objectNumber": "2013.433",
-    "sortNumber": 2013.433,
+    "sortNumber": "2013   433",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,142 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103,
+            105
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "David Diao",
     "title": {
         "en": "Da Hen Li cycle — Return to Sender/Study",
-        "zh-hant": "大亨里：送返寄件人",
-        "zh-hans": "大亨里：送返寄件人"
+        "zh-hant": "大亨里：送返寄件人"
     },
-    "displayDate": "2011",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": "2011"
+    },
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
-        "en": "overall: 36 × 36 × 3.5 cm",
-        "zh-hant": "整體: 36 × 36 × 3.5 厘米",
-        "zh-hans": "36 × 36 × 3.5 厘米"
+        "en": "overall: 35.5 × 35.5 × 3 cm",
+        "zh-hant": "整體: 36 × 36 × 3.5 厘米"
     },
     "medium": {
         "en": "laser print on paper and acrylic on canvas",
-        "zh-hant": "雷射印刷紙本、塑膠彩布本",
-        "zh-hans": "激光印刷纸本、塑料彩布本"
+        "zh-hant": "雷射印刷紙本、塑膠彩布本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Inscribed in verso LC in marker: 14''SQ 63cm SQ paper collage+/Acrylic/canvas\r\r\nInscribed in verso UR in marker: Return to sender/ (STUDY)\r\r\nInscribed arrow in verso UR edge and UL edage in marker"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "001501_002000/001802_001.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "AltText": "Acrylic painting on canvas of a laser printed and hand written note posted in the corner of a flat black canvas.",
+            "AltTextTC": "塑膠彩布本作品中，一張以激光打印及手寫的紙條，貼在黑色平面畫布的一角。",
+            "src": "001501_002000/001802_002.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© David Diao",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 1802
 }

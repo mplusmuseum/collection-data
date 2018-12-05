@@ -2,14 +2,12 @@
     "constituentID": 303,
     "name": {
         "en": {
-            "id": "295",
-            "alphasort": "Liu, Heung-Shing",
-            "displayname": "Liu Heung-Shing"
+            "displayName": "Liu Heung-Shing",
+            "alphasort": "Liu, Heung-Shing"
         },
         "zh-hant": {
-            "id": "1344",
-            "alphasort": "劉, 香成",
-            "displayname": "劉香成"
+            "displayName": "劉香成",
+            "alphasort": "劉, 香成"
         }
     },
     "type": "Individual",
@@ -18,11 +16,48 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Liu Heung Shing (born 1951, Hong Kong) graduated from Hunter College of The City University of New York in 1975. A former foreign correspondent and photojournalist for Time and the Associated Press, Liu was posted to China, the United States, Korea, India, and the former Soviet Union between 1976 and 1988. As a photojournalist, he documents daily life. Liu lives and works in Beijing.",
-        "zh-hant": "劉香成 (1951年生於香港，現工作及生活於北京)，1975年畢業於紐約市立大學亨特學院，曾任《時代雜誌》和美聯社（AP）外國記者和攝影記者，1976年至1988年期間曾被派駐中國、美國、韓國、印度和前蘇聯。在其攝影生涯中，劉香成如實記錄生活的每個瞬間。"
+        "en": "Hong Kong, born 1951",
+        "zh-hant": "香港，生於1951年"
     },
-    "nationality": "Hong Kong",
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1951,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Liu Heung Shing (born 1951, Hong Kong) graduated from Hunter College of The City University of New York in 1975. A former foreign correspondent and photojournalist for Time and the Associated Press, Liu was posted to China, the United States, Korea, India, and the former Soviet Union between 1976 and 1988. As a photojournalist, he documents daily life. Liu lives and works in Beijing."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "劉香成 (1951年生於香港，現工作及生活於北京)，1975年畢業於紐約市立大學亨特學院，曾任《時代雜誌》和美聯社（AP）外國記者和攝影記者，1976年至1988年期間曾被派駐中國、美國、韓國、印度和前蘇聯。在其攝影生涯中，劉香成如實記錄生活的每個瞬間。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 303
 }

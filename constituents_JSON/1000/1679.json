@@ -2,14 +2,12 @@
     "constituentID": 1679,
     "name": {
         "en": {
-            "id": "3452",
-            "alphasort": "Liang, Quan",
-            "displayname": "Liang Quan"
+            "displayName": "Liang Quan",
+            "alphasort": "Liang, Quan"
         },
         "zh-hant": {
-            "id": "3454",
-            "alphasort": "梁, 銓",
-            "displayname": "梁銓"
+            "displayName": "梁銓",
+            "alphasort": "梁, 銓"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1948",
+        "zh-hant": "中國籍，生於1948年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shenzhen"
+    },
+    "birthCity": {
+        "en": "Shanghai"
+    },
+    "deathCity": null,
     "beginDate": 1948,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1679
 }

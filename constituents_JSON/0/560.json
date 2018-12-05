@@ -2,9 +2,12 @@
     "constituentID": 560,
     "name": {
         "en": {
-            "id": "552",
-            "alphasort": "Yuan, Jai",
-            "displayname": "Yuan Jai"
+            "displayName": "Yuan Jai",
+            "alphasort": "Yuan, Jai"
+        },
+        "zh-hant": {
+            "displayName": "袁旃",
+            "alphasort": "Yuan, Jai"
         }
     },
     "type": "Individual",
@@ -12,9 +15,30 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Taiwanese",
+    "displayBio": {
+        "en": "Taiwanese, born China, 1941",
+        "zh-hant": "台灣籍，生於1941年"
+    },
+    "nationality": {
+        "en": "Taiwanese",
+        "zh-hant": "台灣籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Hsinchu"
+    },
+    "birthCity": {
+        "en": "Chongqing"
+    },
+    "deathCity": null,
     "beginDate": 1941,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 560
 }

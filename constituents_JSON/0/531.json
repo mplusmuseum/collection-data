@@ -2,14 +2,12 @@
     "constituentID": 531,
     "name": {
         "en": {
-            "id": "523",
-            "alphasort": "Yang, Qian",
-            "displayname": "Yang Qian"
+            "displayName": "Yang Qian",
+            "alphasort": "Yang, Qian"
         },
         "zh-hant": {
-            "id": "1536",
-            "alphasort": "楊, 千",
-            "displayname": "楊千"
+            "displayName": "楊千",
+            "alphasort": "楊, 千"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1959",
+        "zh-hant": "中國籍，生於1959年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Chengdu"
+    },
+    "deathCity": null,
     "beginDate": 1959,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 531
 }

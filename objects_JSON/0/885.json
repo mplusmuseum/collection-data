@@ -1,7 +1,8 @@
 {
     "objectID": 885,
+    "onView": false,
     "objectNumber": "2012.2144",
-    "sortNumber": 2012.2144,
+    "sortNumber": "2012  2144",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,42 +27,141 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Stanley Wong"
-            }
-        },
-        {
-            "id": 17,
-            "rank": 1,
-            "roles": {
-                "en": "Donor"
-            },
-            "names": {
-                "en": "Stanley Wong"
+                "en": "Stanley Wong",
+                "zh-hant": "又一山人（黃炳培）"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Stanley Wong",
     "title": {
         "en": "Lanwei 53 / Wonderland 04 / The Friendship / Beijing",
-        "zh-hant": "爛尾53/神奇樂園04/友誼永固/北京",
-        "zh-hans": "烂尾53/神奇乐园04/友谊永固/北京"
+        "zh-hant": "爛尾53/神奇樂園04/友誼永固/北京"
     },
-    "displayDate": "2012",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": "2012"
+    },
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
         "en": "overall: 200.9 × 111.7 cm\r\r\nimage: 138 × 110.4 cm",
-        "zh-hant": "整體: 139 × 111 厘米\r\r\n圖像: 139 × 110.5 厘米",
-        "zh-hans": "整体: 139 × 111 厘米\r\r\n图像: 139 × 110.5 厘米"
+        "zh-hant": "整體: 139 × 111 厘米\r\r\n圖像: 139 × 110.5 厘米"
     },
     "medium": {
         "en": "archival inkjet print",
-        "zh-hant": "收藏級噴墨打印",
-        "zh-hans": "收藏级喷墨打印"
+        "zh-hant": "收藏級噴墨打印"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2012",
-        "zh-hant": "M+，香港，又一山人（黃炳培）捐贈，2012年",
-        "zh-hans": "香港M+，又一山人捐赠，2012年"
+        "zh-hant": "M+，香港，又一山人（黃炳培）捐贈，2012年"
+    },
+    "inscription": {
+        "en": "Inscribed in pencil, lower left: LANWEI 53/WONDERLAND 04/THE FRIENDSHIP/BEIJING...2/8"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "Copyright": "Image courtesy of artist and Blindspot Gallery",
+            "AltText": "Photograph of two men standing in a field in front of a large abandoned structure with turrets that is missing all of its walls. The men are dressed up as Mao Zedong and Puyi, the last emperor of China, and are shaking hands.",
+            "AltTextTC": "照片中，兩個男人站在草叢中，後面是一座大型廢棄建築物，擁有城堡般的尖塔，沒有任何牆壁。男人分別打扮成毛澤東和中國末代皇帝溥儀，兩人正在握手。",
+            "src": "000501_001000/000885_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© anothermountainman",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 885
 }

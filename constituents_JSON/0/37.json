@@ -2,18 +2,36 @@
     "constituentID": 37,
     "name": {
         "en": {
-            "id": "29",
-            "alphasort": "Front",
-            "displayname": "Front"
+            "displayName": "Front",
+            "alphasort": "Front"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Stockholm, 2003",
+        "zh-hant": "2003年成立於斯德哥爾摩"
+    },
+    "nationality": {
+        "en": "Swiss",
+        "zh-hant": "瑞士籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": {
+        "en": "Stockholm"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 2003,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 37
 }

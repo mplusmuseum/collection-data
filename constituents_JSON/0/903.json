@@ -2,14 +2,12 @@
     "constituentID": 903,
     "name": {
         "en": {
-            "id": "1813",
-            "alphasort": "Lim, Charles",
-            "displayname": "Charles Lim"
+            "displayName": "Charles Lim",
+            "alphasort": "Lim, Charles"
         },
         "zh-hant": {
-            "id": "1815",
-            "alphasort": "林,育榮",
-            "displayname": "林育榮"
+            "displayName": "林育榮",
+            "alphasort": "林,育榮"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Singaporean",
+    "displayBio": {
+        "en": "Singaporean, born 1973",
+        "zh-hant": "新加坡籍，生於1973年"
+    },
+    "nationality": {
+        "en": "Singaporean",
+        "zh-hant": "新加坡籍"
+    },
+    "region": {
+        "en": "Southeast Asia",
+        "zh-hant": "東南亞"
+    },
+    "activeCity": {
+        "en": "Singapore",
+        "zh-hant": "新加坡"
+    },
+    "birthCity": {
+        "en": "Singapore",
+        "zh-hant": "Singapore"
+    },
+    "deathCity": null,
     "beginDate": 1973,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 903
 }

@@ -2,14 +2,12 @@
     "constituentID": 1302,
     "name": {
         "en": {
-            "id": "2504",
-            "alphasort": "Chan, Theseus",
-            "displayname": "Theseus Chan"
+            "displayName": "Theseus Chan",
+            "alphasort": "Chan, Theseus"
         },
         "zh-hant": {
-            "id": "2943",
-            "alphasort": "陳益",
-            "displayname": "陳益"
+            "displayName": "陳益",
+            "alphasort": "陳益"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Singaporean",
+    "displayBio": {
+        "en": "Singaporean, born 1961",
+        "zh-hant": "新加坡籍，生於1961年"
+    },
+    "nationality": {
+        "en": "Singaporean",
+        "zh-hant": "新加坡籍"
+    },
+    "region": {
+        "en": "Southeast Asia",
+        "zh-hant": "東南亞"
+    },
+    "activeCity": {
+        "en": "Singapore",
+        "zh-hant": "新加坡"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1961,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1302
 }

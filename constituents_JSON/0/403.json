@@ -2,14 +2,12 @@
     "constituentID": 403,
     "name": {
         "en": {
-            "id": "395",
-            "alphasort": "Shen, Yuan",
-            "displayname": "Shen Yuan"
+            "displayName": "Shen Yuan",
+            "alphasort": "Shen, Yuan"
         },
         "zh-hant": {
-            "id": "1422",
-            "alphasort": "沈, 遠",
-            "displayname": "沈遠"
+            "displayName": "沈遠",
+            "alphasort": "沈, 遠"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1959",
+        "zh-hant": "中國籍，生於1959年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Paris"
+    },
+    "birthCity": {
+        "en": "Xianyou"
+    },
+    "deathCity": null,
     "beginDate": 1959,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 403
 }

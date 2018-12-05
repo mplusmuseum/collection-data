@@ -2,14 +2,12 @@
     "constituentID": 151,
     "name": {
         "en": {
-            "id": "143",
-            "alphasort": "Chi, Lei",
-            "displayname": "Chi Lei"
+            "displayName": "Chi Lei",
+            "alphasort": "Chi, Lei"
         },
         "zh-hant": {
-            "id": "1220",
-            "alphasort": "池, 磊",
-            "displayname": "池磊"
+            "displayName": "池磊",
+            "alphasort": "池, 磊"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1981",
+        "zh-hant": "中國籍，生於1981年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1981,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 151
 }

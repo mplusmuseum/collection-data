@@ -2,9 +2,8 @@
     "constituentID": 1372,
     "name": {
         "en": {
-            "id": "2724",
-            "alphasort": "Cohen, Revital",
-            "displayname": "Revital Cohen"
+            "displayName": "Revital Cohen",
+            "alphasort": "Cohen, Revital"
         }
     },
     "type": "Individual",
@@ -12,9 +11,30 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Israeli",
+    "displayBio": {
+        "en": "Israeli, born 1981",
+        "zh-hant": "以色列籍，生於1981年"
+    },
+    "nationality": {
+        "en": "Israeli",
+        "zh-hant": "以色列籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": {
+        "en": "London"
+    },
+    "birthCity": {
+        "en": "Jerusalem"
+    },
+    "deathCity": null,
     "beginDate": 1981,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1372
 }

@@ -2,14 +2,12 @@
     "constituentID": 1700,
     "name": {
         "en": {
-            "id": "3526",
-            "alphasort": "Fujiwara, Dai",
-            "displayname": "Dai Fujiwara"
+            "displayName": "Dai Fujiwara",
+            "alphasort": "Fujiwara, Dai"
         },
         "zh-hant": {
-            "id": "4856",
-            "alphasort": "藤原大",
-            "displayname": "藤原大"
+            "displayName": "藤原大",
+            "alphasort": "藤原大"
         }
     },
     "type": "Individual",
@@ -17,9 +15,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, born 1967",
+        "zh-hant": "日本籍，生於1967年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1967,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1700
 }

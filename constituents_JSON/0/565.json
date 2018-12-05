@@ -2,14 +2,12 @@
     "constituentID": 565,
     "name": {
         "en": {
-            "id": "557",
-            "alphasort": "Yue, Minjun",
-            "displayname": "Yue Minjun"
+            "displayName": "Yue Minjun",
+            "alphasort": "Yue, Minjun"
         },
         "zh-hant": {
-            "id": "1562",
-            "alphasort": "岳敏君",
-            "displayname": "岳敏君"
+            "displayName": "岳敏君",
+            "alphasort": "岳敏君"
         }
     },
     "type": "Individual",
@@ -18,11 +16,50 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Yue Minjun (born 1962, Daqing) graduated from Heibei Normal University in 1989. He is a major figure of the Cynical Realism movement, known for his iconic ‘laughing man’. This image illustrates the irony and boredom of Chinese society during the rise of consumerism and economic reform in the early 1990s. Yue lives and works in Beijing.",
-        "zh-hant": "岳敏君（1962年生於大慶，現於北京生活及工作），1989年畢業於河北師範大學。憑著「笑臉人」這個文化符號，他成為了「玩世現實主義」運動的主要藝術家，表達了90年代初消費主義興起及經濟改革期間，中國社會普遍的無聊感及對其的諷刺。"
+        "en": "Chinese, born 1962",
+        "zh-hant": "中國籍，生於1962年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Daqing"
+    },
+    "deathCity": null,
     "beginDate": 1962,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Yue Minjun (born 1962, Daqing) graduated from Heibei Normal University in 1989. He is a major figure of the Cynical Realism movement, known for his iconic ‘laughing man’. This image illustrates the irony and boredom of Chinese society during the rise of consumerism and economic reform in the early 1990s. Yue lives and works in Beijing."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "岳敏君（1962年生於大慶，現於北京生活及工作），1989年畢業於河北師範大學。憑著「笑臉人」這個文化符號，他成為了「玩世現實主義」運動的主要藝術家，表達了90年代初消費主義興起及經濟改革期間，中國社會普遍的無聊感及對其的諷刺。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 565
 }

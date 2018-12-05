@@ -2,14 +2,12 @@
     "constituentID": 525,
     "name": {
         "en": {
-            "id": "517",
-            "alphasort": "Yang, Jiechang",
-            "displayname": "Yang Jiechang"
+            "displayName": "Yang Jiechang",
+            "alphasort": "Yang, Jiechang"
         },
         "zh-hant": {
-            "id": "1530",
-            "alphasort": "楊詰蒼",
-            "displayname": "楊詰蒼"
+            "displayName": "楊詰蒼",
+            "alphasort": "楊詰蒼"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1956",
+        "zh-hant": "中國籍，生於1956年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Paris"
+    },
+    "birthCity": {
+        "en": "Foshan"
+    },
+    "deathCity": null,
     "beginDate": 1956,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 525
 }

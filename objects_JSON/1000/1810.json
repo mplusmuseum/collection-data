@@ -1,7 +1,8 @@
 {
     "objectID": 1810,
+    "onView": false,
     "objectNumber": "2013.441",
-    "sortNumber": 2013.441,
+    "sortNumber": "2013   441",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,134 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            44,
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "David Diao",
     "title": {
         "en": "Da Hen Li cycle — I Lived There Until I Was 6 (Chinese version)",
-        "zh-hant": "大亨里：我六歲以前住在那裡",
-        "zh-hans": "大亨里：我六岁以前住在那里"
+        "zh-hant": "大亨里：我六歲以前住在那裡"
     },
-    "displayDate": "2008",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": "2008"
+    },
     "beginDate": 2008,
     "endDate": 2008,
     "dimension": {
         "en": "overall: 46 × 71 × 3 cm",
-        "zh-hant": "整體: 46 × 71 × 3 厘米",
-        "zh-hans": "46 × 71 × 3 厘米"
+        "zh-hant": "整體: 46 × 71 × 3 厘米"
     },
     "medium": {
         "en": "acrylic on canvas",
-        "zh-hant": "塑膠彩布本",
-        "zh-hans": "水墨及塑膠彩布本"
+        "zh-hant": "塑膠彩布本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Acrylic on canvas depicting black Chinese calligraphy in a thirteen-by-seven grid delineated by thin red lines. A title above the grid reads: 'Da Hen Li', the house where the artist lived as a boy.",
+            "AltTextTC": "塑膠彩布本作品，以幼細的紅色直線勾勒出13乘7網格，裏面以黑色寫上一段中國書法文字。段落上以「大亨里」為題，即藝術家兒時舊居的名字。",
+            "src": "001501_002000/001810_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© David Diao",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 1810
 }

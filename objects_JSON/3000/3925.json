@@ -1,7 +1,8 @@
 {
     "objectID": 3925,
+    "onView": false,
     "objectNumber": "2015.96",
-    "sortNumber": 2015.96,
+    "sortNumber": "2015    96",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,28 +32,135 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Haegue Yang",
     "title": {
         "en": "Hardware Store Collage – Bauhaus Hammers and Mallets #1",
-        "zh-hant": "五金店拼貼-Bauhaus錘子和槌子 #1",
-        "zh-hans": "五金店拼贴-Bauhaus锤子和槌子 #1"
+        "zh-hant": "五金店拼貼-Bauhaus錘子和槌子 #1"
     },
-    "displayDate": "2013",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2013",
+        "zh-hant": "2013"
+    },
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
-        "en": "sheet (sight): 49.2 × 69.1 cm\r\r\nartist frame: 51 × 71 × 4 cm",
-        "zh-hant": "50 × 70 厘米",
-        "zh-hans": "50 × 70 厘米"
+        "en": "artist frame: 51 × 71 × 4 cm\r\r\nsheet (sight): 49.2 × 69.1 cm",
+        "zh-hant": "原框: 51 × 71 × 4 厘米\r\n紙本 (目測量度): 49.2 × 69.1 厘米"
     },
     "medium": {
         "en": "hardware store catalogues and Chromolux paper",
-        "zh-hant": "五金店圖錄、玻璃硬紙片",
-        "zh-hans": "五金店图录、玻璃硬纸片"
+        "zh-hant": "五金店圖錄、玻璃硬紙片"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Gallery label on verso LC\r\r\nLabel on verso LR, signed in ink"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Collage of a variety of photos of hammers taken from hardware store catalogues placed in a spherical pattern emanating from a single center point. The sphere of hammers is placed slightly off center and closer to the bottom of the paper.",
+            "AltTextTC": "拼貼作品中，一系列取自五金店圖錄的錘子照片，組成一個球形放射圖案。這個由錘子照片組成的球形圖案，位於紙片的中央偏下位置。",
+            "src": "003501_004000/003925_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Studio Haegue Yang",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3925
 }

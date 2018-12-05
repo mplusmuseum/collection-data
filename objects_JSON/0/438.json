@@ -1,7 +1,8 @@
 {
     "objectID": 438,
+    "onView": false,
     "objectNumber": "2013.47",
-    "sortNumber": 2013.47,
+    "sortNumber": "2013    47",
     "classification": {
         "area": {
             "rank": 2,
@@ -31,28 +32,177 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            55,
+            95,
+            103
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "This is one segment of a five-part film that alludes to the Chinese legend ‘Seven Sages of the Bamboo Grove’. The story refers to seven young poets and writers from the Wei and Jin Dynasty who escape to the idealised world of a bamboo forest. Yang casts young urbanites and places them in a lush forest landscape where they are caught between the fantasy and the reality of their existence."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "This is one segment of a five-part film that alludes to the Chinese legend ‘Seven Sages of the Bamboo Grove’. The story refers to seven young poets and writers from the Wei and Jin dynasties who escape to the idealised world of a bamboo forest. Yang places young urbanites in a lush forest landscape where they are caught between the fantasy and the reality of their existence."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "此為以傳統中國故事「竹林七賢」為主題的五部曲錄像的其中一部。該作品重構了魏晉時期七位年輕名士從俗世逃離到竹林中理想世界的故事。楊福東鏡頭下的都市青年置身於一片茂密的叢林風景中，在理想與現實的夾縫間遊走。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "此為以傳統中國故事「竹林七賢」為主題的五部曲錄像的其中一部。該作品重構了魏晉時期七位年輕名士從俗世逃離到竹林中理想世界的故事。楊福東鏡頭下的都市青年置身於一片茂密的叢林風景中，在理想與現實的夾縫間遊走。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        16
+    ],
+    "relatedConceptIds": [
+        9,
+        17
+    ],
+    "allORC": "Yang Fudong",
     "title": {
         "en": "Seven Intellectuals in a Bamboo Forest",
-        "zh-hant": "竹林七賢",
-        "zh-hans": "竹林七贤"
+        "zh-hant": "竹林七賢"
     },
-    "displayDate": "2003–2007",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2003–2007",
+        "zh-hant": "2003–2007"
+    },
     "beginDate": 2003,
     "endDate": 2007,
     "dimension": {
         "en": "duration: 290 min.",
-        "zh-hant": "影片長度: 290 分",
-        "zh-hans": "影片长度: 290 分"
+        "zh-hant": "影片長度: 290 分"
     },
     "medium": {
         "en": "five-channel video installation, 35mm film transferred to DVD (black and white, sound)",
-        "zh-hant": "五頻道錄像裝置，35毫米菲林轉載於DVD（黑白、有聲）",
-        "zh-hans": "5频道录像装置，35毫米转载于黑白数码录像"
+        "zh-hant": "五頻道錄像裝置，35毫米菲林轉載於DVD（黑白、有聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {
+        "en": "multi-channel video installation"
+    },
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Monochrome still from a video installation. Five men in suits and two stylish women gather on a cobblestone trail in a forest park, as if posing for a fashion photographer.",
+            "AltTextTC": "擷取自錄像裝置的黑白畫面中，五個穿着西裝的男人和兩個打扮時尚的女人，聚集在森林公園的鵝卵石小徑上，彷彿正在擺姿勢拍攝時裝照。",
+            "src": "000001_000500/000438_001.jpg",
+            "rank": "1",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "*pending clarification*",
+        "copyright": "© Yang Fudong",
+        "concatRights": "M+/WKCDA exhibition/[pending research]; M+/WKCDA website/[pending research]; M+/WKCDA internal use/[pending research]; M+/WKCDA publications/[pending research]; M+/WKCDA press/publicity/[pending research]; M+/WKCDA press packs/[pending research]; M+/WKCDA advertising/[pending research]; M+/WKCDA learning team activities/[pending research]; 3rd-party exhibition (LOANS)/[pending research]; 3rd-party non-commercial research/academic/[pending research]; 3rd-party non-commercial educational/[pending research]; 3rd-party non-commercial publication/[pending research]; other 3rd-party non-commercial use/[pending research]; social media/[pending research]; commercial advertising/[pending research]; commercial merchandise/[pending research]; commercial publishing/[pending research]; Current status/Permission request sent to Rights-Holder",
+        "concatRemark": "2017-11-09,via Marian Goodman Gallery, NY and directly via email and FedEx.",
+        "currentStatus": "Permission request sent to Rights-Holder",
+        "rights": [
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "[pending research]",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "[pending research]",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "[pending research]",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "[pending research]",
+                "group": "social media"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "[pending research]",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 438
 }

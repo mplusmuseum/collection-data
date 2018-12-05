@@ -2,14 +2,12 @@
     "constituentID": 217,
     "name": {
         "en": {
-            "id": "209",
-            "alphasort": "Hou, Bo",
-            "displayname": "Hou Bo"
+            "displayName": "Hou Bo",
+            "alphasort": "Hou, Bo"
         },
         "zh-hant": {
-            "id": "1273",
-            "alphasort": "候, 波",
-            "displayname": "候波"
+            "displayName": "候波",
+            "alphasort": "候, 波"
         }
     },
     "type": "Individual",
@@ -17,9 +15,26 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "Chinese, 1924–2017",
+        "zh-hant": "中國籍，1924–2017年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1924,
-    "deathyear": 2017,
+    "endDate": 2017,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 217
 }

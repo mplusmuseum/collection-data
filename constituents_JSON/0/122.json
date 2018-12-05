@@ -2,9 +2,12 @@
     "constituentID": 122,
     "name": {
         "en": {
-            "id": "114",
-            "alphasort": "Chao, Ziwei",
-            "displayname": "Chao Ziwei"
+            "displayName": "Chao Ziwei",
+            "alphasort": "Chao, Ziwei"
+        },
+        "zh-hant": {
+            "displayName": "鈔子偉",
+            "alphasort": "鈔, 子偉"
         }
     },
     "type": "Individual",
@@ -12,9 +15,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1970",
+        "zh-hant": "中國籍，生於1970年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1970,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 122
 }

@@ -2,9 +2,8 @@
     "constituentID": 814,
     "name": {
         "en": {
-            "id": "1721",
-            "alphasort": "Fitch, Alan",
-            "displayname": "Alan Fitch"
+            "displayName": "Alan Fitch",
+            "alphasort": "Fitch, Alan"
         }
     },
     "type": "Individual",
@@ -12,9 +11,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "British",
+    "displayBio": {
+        "en": "British, 1921–1986",
+        "zh-hant": "生於英國，1921–1986年"
+    },
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1921,
-    "deathyear": 1986,
+    "endDate": 1986,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 814
 }

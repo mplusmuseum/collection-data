@@ -2,9 +2,8 @@
     "constituentID": 1393,
     "name": {
         "en": {
-            "id": "2989",
-            "alphasort": "Zenghelis, Zoe",
-            "displayname": "Zoe Zenghelis"
+            "displayName": "Zoe Zenghelis",
+            "alphasort": "Zenghelis, Zoe"
         }
     },
     "type": "Individual",
@@ -12,9 +11,28 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "British",
+    "displayBio": {
+        "en": "British, born Greece, 1937",
+        "zh-hant": "英國籍，1937年生於希臘"
+    },
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Athens"
+    },
+    "deathCity": null,
     "beginDate": 1937,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1393
 }

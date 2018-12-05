@@ -1,7 +1,8 @@
 {
     "objectID": 2251,
+    "onView": false,
     "objectNumber": "2012.799",
-    "sortNumber": 2012.799,
+    "sortNumber": "2012   799",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,54 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            95
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "This painting belongs to a series of the same title, which Qi Zhilong started in 1995. It depicts an anonymous Chinese fashion model or actress in the new society, dressed in a Mao suit and posed in a manner that’s reminiscent of the Communist ideal of uniformity. The heroic scale of the artwork recalls Mao Zedong’s portraits and propaganda paintings during the Cultural Revolution. This work represents a key characteristic of Political Pop and offers rich visual references to elucidate the contradictions of Communism, consumerism, and popular culture in Chinese society in the 1990s."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "祈志龍在1995年開始創作《中國姑娘》系列，當中包括這幅油畫。畫中描繪新社會中一位不知名的中國模特兒或演員，她身穿毛裝（毛澤東時期服裝），舉止姿態正符合共產主義理想中的整齊劃一。作品尺寸龐大，令人聯想到文革期間的毛澤東肖像和政治宣傳畫。此作呈現了政治波普運動的主要特色，並就著1990年代中國社會在共產主義、消費主義和流行文化之間的矛盾，作出豐富的視覺闡釋。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        12
+    ],
+    "allORC": "Qi Zhilong",
     "title": {
         "en": "Chinese Woman",
         "zh-hant": "中國女孩"
     },
-    "displayDate": "1998",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1998",
+        "zh-hant": "1998"
+    },
     "beginDate": 1998,
     "endDate": 1998,
     "dimension": {
@@ -49,6 +93,99 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Oil painting on canvas of a young woman. Looking directly at us, the subject wears a brown work shirt, brown cap, and mismatched red and blue bands in her braided pigtails.",
+            "AltTextTC": "油彩布本作品上，一個年輕女人直視我們。她穿着棕色工作服、棕色帽子，頭髪編了兩條辮子，並分別以紅色和藍色布帶紮起。",
+            "src": "002001_002500/002251_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Qi Zhilong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2251
 }

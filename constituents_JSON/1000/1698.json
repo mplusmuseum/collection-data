@@ -2,18 +2,36 @@
     "constituentID": 1698,
     "name": {
         "en": {
-            "id": "3524",
-            "alphasort": "ISSEY MIYAKE INC.",
-            "displayname": "ISSEY MIYAKE INC."
+            "displayName": "ISSEY MIYAKE INC.",
+            "alphasort": "ISSEY MIYAKE INC."
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "established Tokyo, 1970",
+        "zh-hant": "1970年於東京成立"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Tokyo"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1970,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1698
 }

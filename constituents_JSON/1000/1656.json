@@ -2,14 +2,12 @@
     "constituentID": 1656,
     "name": {
         "en": {
-            "id": "3405",
-            "alphasort": "Bao, Peizhong",
-            "displayname": "Bao Peizhong"
+            "displayName": "Bao Peizhong",
+            "alphasort": "Bao, Peizhong"
         },
         "zh-hant": {
-            "id": "3407",
-            "alphasort": "鮑培忠",
-            "displayname": "鮑培忠"
+            "displayName": "鮑培忠",
+            "alphasort": "鮑培忠"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1929",
+        "zh-hant": "中國籍，生於1929年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shanghai"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1929,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1656
 }

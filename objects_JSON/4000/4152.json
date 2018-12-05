@@ -1,7 +1,8 @@
 {
     "objectID": 4152,
+    "onView": false,
     "objectNumber": "2015.287",
-    "sortNumber": 2015.287,
+    "sortNumber": "2015   287",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,25 +27,35 @@
                 "en": "Architectural Firm"
             },
             "names": {
-                "en": "WOHA"
-            }
-        },
-        {
-            "id": 869,
-            "rank": 1,
-            "roles": {
-                "en": "Donor"
-            },
-            "names": {
-                "en": "WOHA"
+                "en": "WOHA",
+                "zh-hant": "WOHA建築事務所"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            92
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": [
+        28
+    ],
+    "relatedConceptIds": null,
+    "allORC": "WOHA",
     "title": {
-        "en": "Vertical Cities Asia",
+        "en": "Permeable Lattice City",
         "zh-hant": "可滲透格子城市"
     },
-    "displayDate": "2011",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": "2011"
+    },
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
@@ -53,13 +64,103 @@
     },
     "medium": {
         "en": "digital print on paper",
-        "zh-hant": "數碼印刷紙本",
-        "zh-hans": "数码印刷纸本"
+        "zh-hant": "數碼印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of WOHA, 2014",
-        "zh-hant": "M+，香港，WOHA捐贈，2013年",
-        "zh-hans": "香港M+，WOHA捐赠，2013年"
+        "zh-hant": "M+，香港，WOHA捐贈，2013年"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Digital print depicting an extremely tall high rise building complex next to a blue body of water. The building complex is completely covered in rich, bright green vegetation. Multiple tiers in the building complex are covered in fields and forests, and multiple wind turbines can also be seen.",
+            "AltTextTC": "數碼印刷品上，出現高聳的大廈建築群，旁邊是湛藍的海水。翠綠茂盛的植物覆蓋於建築群的表面。建築群的多個樓層佈滿農田和森林，畫面中還可見多座風力發電機。",
+            "src": "004001_004500/004152_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© WOHA",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4152
 }

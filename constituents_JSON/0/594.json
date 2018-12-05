@@ -2,14 +2,12 @@
     "constituentID": 594,
     "name": {
         "en": {
-            "id": "586",
-            "alphasort": "Zhao, Bandi",
-            "displayname": "Zhao Bandi"
+            "displayName": "Zhao Bandi",
+            "alphasort": "Zhao, Bandi"
         },
         "zh-hant": {
-            "id": "1587",
-            "alphasort": "趙, 半狄",
-            "displayname": "趙半狄"
+            "displayName": "趙半狄",
+            "alphasort": "趙, 半狄"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1966",
+        "zh-hant": "中國籍，生於1966年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1966,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 594
 }

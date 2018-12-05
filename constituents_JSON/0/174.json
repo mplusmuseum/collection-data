@@ -2,14 +2,12 @@
     "constituentID": 174,
     "name": {
         "en": {
-            "id": "166",
-            "alphasort": "Feng, Jianguo",
-            "displayname": "Feng Jianguo"
+            "displayName": "Feng Jianguo",
+            "alphasort": "Feng, Jianguo"
         },
         "zh-hant": {
-            "id": "1240",
-            "alphasort": "馮, 建國",
-            "displayname": "馮建國"
+            "displayName": "馮建國",
+            "alphasort": "馮, 建國"
         }
     },
     "type": "Individual",
@@ -17,9 +15,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "Chinese, born 1962",
+        "zh-hant": "中國籍，生於1962年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1962,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 174
 }

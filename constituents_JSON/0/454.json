@@ -2,14 +2,12 @@
     "constituentID": 454,
     "name": {
         "en": {
-            "id": "446",
-            "alphasort": "Wang, Ningde",
-            "displayname": "Wang Ningde"
+            "displayName": "Wang Ningde",
+            "alphasort": "Wang, Ningde"
         },
         "zh-hant": {
-            "id": "1466",
-            "alphasort": "王, 寧德",
-            "displayname": "王寧德"
+            "displayName": "王寧德",
+            "alphasort": "王, 寧德"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1972",
+        "zh-hant": "中國籍，生於1972年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shenzhen"
+    },
+    "birthCity": {
+        "en": "Liaoning Province"
+    },
+    "deathCity": null,
     "beginDate": 1972,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 454
 }

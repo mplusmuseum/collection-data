@@ -2,24 +2,39 @@
     "constituentID": 502,
     "name": {
         "en": {
-            "id": "494",
-            "alphasort": "Xu, Hong",
-            "displayname": "Xu Hong"
+            "displayName": "Xu Hong",
+            "alphasort": "Xu, Hong"
         },
         "zh-hant": {
-            "id": "1509",
-            "alphasort": "徐, 虹",
-            "displayname": "徐虹"
+            "displayName": "徐弘",
+            "alphasort": "徐, 弘"
         }
     },
     "type": "Individual",
     "gender": {
-        "en": "Female",
-        "zh-hant": "女性"
+        "en": "Male",
+        "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "Chinese, born 1957",
+        "zh-hant": "中國籍，生於1957年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1957,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 502
 }

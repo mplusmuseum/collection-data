@@ -1,7 +1,8 @@
 {
     "objectID": 9809,
+    "onView": false,
     "objectNumber": "2018.277",
-    "sortNumber": 2018.277,
+    "sortNumber": "2018   277",
     "classification": {
         "area": {
             "rank": 1,
@@ -28,33 +29,55 @@
             "names": {
                 "en": "Bas Princen"
             }
-        },
-        {
-            "id": 3006,
-            "rank": 1,
-            "roles": {
-                "en": "Seller"
-            },
-            "names": {
-                "en": "Bas Princen"
-            }
-        },
-        {
-            "id": 3006,
-            "rank": 1,
-            "roles": {
-                "en": "Former Owner"
-            },
-            "names": {
-                "en": "Bas Princen"
-            }
         }
     ],
+    "exhibition": {
+        "ids": [
+            92
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "In Search of Southeast Asia Through the M+ Collections"
+                ],
+                "labels": [
+                    {
+                        "purpose": "In Search of Southeast Asia Through the M+ Collections",
+                        "text": "Trained in design and architecture, Bas Princen uses photography to depict ‘non-places’—forms of architecture in a liminal state between appearance and disappearance—around the world. Straits (Oil Cavern) is one such visually enigmatic and ambiguous documentation of a landscape, which subtly reveals socio-economic forces shaping the built environment. It captures the Jurong Rock Caverns a year before they opened. The caverns were Southeast Asia’s first underground commercial storage, constructed 130 metres beneath the seabed to hold fifty Olympic-sized pools of crude oil. Developed by the Jurong Town Corporation and freeing up sixty hectares of land above ground, the caverns’ success reflects Singapore’s state entrepreneurship to become an energy infrastructural hub. The view of the cavern presented in Princen’s photograph alludes to the city-state’s strategies for survival based on a technologically and economically oriented urban model that defies physical limits."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "In Search of Southeast Asia Through the M+ Collections"
+                ],
+                "labels": [
+                    {
+                        "purpose": "In Search of Southeast Asia Through the M+ Collections",
+                        "text": "曾受設計與建築教育的 Bas Princen，利用攝影捕 捉世界各地的「 非地方」─ ─ 一種介乎存在與消失 形態之間的建築，而《 海峽（ 石油洞穴）》 正 是其 中一個視覺上神秘迷人又曖昧難辨的地景紀錄。 照片捕捉了新加坡裕廊岩洞啟用前一年的狀況， 巧妙地揭示當地社會經濟結構及建造環境的過 程。這些洞穴是東南亞首個商用的地下儲藏庫， 建於海床以下 130 米深處，儲存了相當於 50 個奧 林匹克標準泳池容量的原油。岩洞由裕廊集團開 發，建成後釋出 60 公頃地面土地。裕廊岩洞的成 果反映新加坡銳意成為能源基建的經營樞紐。 Princen 攝影作品中的洞穴景觀，暗示新加坡的生 存策略是以科技與經濟主導的都市模式為基礎， 不再受自然環境限制。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        28
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Bas Princen",
     "title": {
-        "en": "Hinterland: Straits (Oil Cavern)",
+        "en": "Straits (Oil Cavern), Hinterland Series",
         "zh-hant": "腹地：海峽（石油洞穴）"
     },
-    "displayDate": "2013",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2013",
+        "zh-hant": "2013"
+    },
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
@@ -62,12 +85,104 @@
         "zh-hant": "紙本: 182.8 × 342  厘米\r\r\n圖像: 180.5 × 225 厘米"
     },
     "medium": {
-        "en": "chromgenic print",
+        "en": "chromogenic print",
         "zh-hant": "人工樹脂"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "No inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "009501_010000/009809_001.tiff",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Bas Princen",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 9809
 }

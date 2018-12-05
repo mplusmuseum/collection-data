@@ -2,14 +2,12 @@
     "constituentID": 390,
     "name": {
         "en": {
-            "id": "382",
-            "alphasort": "Sakakura, Junzo",
-            "displayname": "Sakakura Junzo"
+            "displayName": "Sakakura Junzo",
+            "alphasort": "Sakakura, Junzo"
         },
         "zh-hant": {
-            "id": "2914",
-            "alphasort": "坂倉準三",
-            "displayname": "坂倉準三"
+            "displayName": "坂倉準三",
+            "alphasort": "坂倉準三"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "Japanese, 1901–1969",
+        "zh-hant": "日本籍，1901–1969年"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Gifu Prefecture"
+    },
+    "deathCity": null,
     "beginDate": 1901,
-    "deathyear": 1969,
+    "endDate": 1969,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 390
 }

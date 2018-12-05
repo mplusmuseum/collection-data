@@ -2,14 +2,12 @@
     "constituentID": 218,
     "name": {
         "en": {
-            "id": "210",
-            "alphasort": "Hsieh, Tehching",
-            "displayname": "Tehching Hsieh"
+            "displayName": "Tehching Hsieh",
+            "alphasort": "Hsieh, Tehching"
         },
         "zh-hant": {
-            "id": "1274",
-            "alphasort": "謝, 德慶",
-            "displayname": "謝德慶"
+            "displayName": "謝德慶",
+            "alphasort": "謝, 德慶"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "American, born Taiwan, 1950",
+        "zh-hant": "美國籍，1950年生於台灣"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "Americas",
+        "zh-hant": "美洲"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Nanzhou"
+    },
+    "deathCity": null,
     "beginDate": 1950,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 218
 }

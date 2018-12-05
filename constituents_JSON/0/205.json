@@ -2,14 +2,12 @@
     "constituentID": 205,
     "name": {
         "en": {
-            "id": "197",
-            "alphasort": "He, Jie",
-            "displayname": "He Jie"
+            "displayName": "He Jie",
+            "alphasort": "He, Jie"
         },
         "zh-hant": {
-            "id": "1261",
-            "alphasort": "何, 杰",
-            "displayname": "何杰"
+            "displayName": "何杰",
+            "alphasort": "何, 杰"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1977",
+        "zh-hant": "中國籍，生於1977年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Changde"
+    },
+    "deathCity": null,
     "beginDate": 1977,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 205
 }

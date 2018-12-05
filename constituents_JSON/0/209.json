@@ -2,14 +2,12 @@
     "constituentID": 209,
     "name": {
         "en": {
-            "id": "201",
-            "alphasort": "He, Yunchang",
-            "displayname": "He Yunchang"
+            "displayName": "He Yunchang",
+            "alphasort": "He, Yunchang"
         },
         "zh-hant": {
-            "id": "1265",
-            "alphasort": "何, 雲昌",
-            "displayname": "何雲昌"
+            "displayName": "何雲昌",
+            "alphasort": "何, 雲昌"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1967",
+        "zh-hant": "中國籍，生於1967年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Lianghe"
+    },
+    "deathCity": null,
     "beginDate": 1967,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 209
 }

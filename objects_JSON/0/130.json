@@ -1,7 +1,8 @@
 {
     "objectID": 130,
+    "onView": false,
     "objectNumber": "2012.1928",
-    "sortNumber": 2012.1928,
+    "sortNumber": "2012  1928",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,15 +27,31 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Xue Zijiang"
+                "en": "Xue Zijiang",
+                "zh-hant": "薛子江"
             }
         }
     ],
+    "exhibition": {
+        "ids": null,
+        "sections": null,
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Xue Zijiang",
     "title": {
         "en": "Tide",
         "zh-hant": "潮"
     },
-    "displayDate": "1941",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1941",
+        "zh-hant": "1941"
+    },
     "beginDate": 1941,
     "endDate": 1941,
     "dimension": {
@@ -48,6 +65,95 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "000001_000500/000130_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "© expired",
+        "concatRights": "M+/WKCDA exhibition/© expired = OK; M+/WKCDA website/© expired = OK; M+/WKCDA internal use/© expired = OK; M+/WKCDA publications/© expired = OK; M+/WKCDA press/publicity/© expired = OK; M+/WKCDA press packs/© expired = OK; M+/WKCDA advertising/© expired = OK; M+/WKCDA learning team activities/© expired = OK; 3rd-party exhibition (LOANS)/© expired = OK; 3rd-party non-commercial research/academic/© expired = OK; 3rd-party non-commercial educational/© expired = OK; 3rd-party non-commercial publication/© expired = OK; other 3rd-party non-commercial use/© expired = OK; social media/© expired = OK; commercial advertising/© expired = OK; commercial merchandise/© expired = OK; commercial publishing/© expired = OK; Current status/© expired",
+        "concatRemark": "",
+        "currentStatus": "© expired",
+        "rights": [
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "social media"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "© expired = OK",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 130
 }

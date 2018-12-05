@@ -2,14 +2,12 @@
     "constituentID": 128,
     "name": {
         "en": {
-            "id": "120",
-            "alphasort": "Chen, Guangwu",
-            "displayname": "Chen Guangwu"
+            "displayName": "Chen Guangwu",
+            "alphasort": "Chen, Guangwu"
         },
         "zh-hant": {
-            "id": "1199",
-            "alphasort": "陳, 光武",
-            "displayname": "陳光武"
+            "displayName": "陳光武",
+            "alphasort": "陳, 光武"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1967",
+        "zh-hant": "中國籍，生於1967年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Liuzhou"
+    },
+    "deathCity": null,
     "beginDate": 1967,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 128
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 2322,
+    "onView": false,
     "objectNumber": "2012.30",
-    "sortNumber": 2012.3,
+    "sortNumber": "2012    30",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,15 +32,72 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            16,
+            55,
+            65,
+            95,
+            106
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "The Mao Zedong portrait in this painting references the propaganda images popular during the Cultural Revolution. The superimposed red grid is a symbol for rationality and an allusion to a common method for reproducing and enlarging images. The painting caused major controversy when it first appeared because the presentation was a vast contrast to the traditional portrayal of political figures. Wang Guangyi belongs to the generation of artists who actively participated in the new wave movement during the 1980s; his worldview changed in response to a series of social changes beginning in 1989. His later paintings, which fuse American consumer brands and Chinese propaganda images, were the foundation for Political Pop during the 1990s."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "The portrait of Mao Zedong in this painting references the propaganda images popular during the Cultural Revolution. The superimposed red grid is a symbol of rationality and an allusion to a common method for reproducing and enlarging images. The painting caused major controversy when it first appeared because the presentation was a sharp contrast with the traditional portrayal of political figures. Wang Guangyi belongs to the generation of artists who actively participated in the new wave movement during the 1980s; his worldview changed in response to a series of social changes beginning in 1989. His later paintings, which fuse American consumer brands and Chinese propaganda images, were the foundation for the Political Pop movement during the 1990s."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "畫中的毛澤東肖像圖式來自於文革時期流行的政治宣傳畫。蓋於肖像之上的紅色網格除了象徵理性，也是複製及放大圖像的普遍方式。由於作品顛覆了一貫政治人物的肖像形式，因此首度面世時也引起過極大爭議。王廣義等一代藝術家積極投入到80年代的新潮運動中，但在80年代末到90年代初發生一系列的社會政治事件後使他的思想發生了變化。他的後期作品結合美國消費品牌與中國政治宣傳畫元素，為90年代的「政治波普」運動奠下基礎。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "畫中的毛澤東肖像圖式來自於文革時期流行的政治宣傳畫。蓋於肖像之上的紅色網格除了象徵理性，也暗指複製及放大圖像的普遍方式。由於作品顛覆了政治人物肖像的傳統樣式，因此首度面世時也引起過極大爭議。王廣義等一代藝術家積極投入到八十年代的新潮運動中，但在1989年一系列的社會政治事件後，他的思想發生了變化。他後期的作品結合美國消費品牌與中國政治宣傳畫元素，為九十年代的「政治波普」運動奠下基礎。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        26
+    ],
+    "allORC": "Wang Guangyi",
     "title": {
         "en": "Mao Zedong: Red Grid No. 2",
         "zh-hant": "毛澤東: 紅色方格2號"
     },
-    "displayDate": "1988",
-    "beginDate": 1988,
-    "endDate": 1988,
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1989",
+        "zh-hant": "1988"
+    },
+    "beginDate": 1989,
+    "endDate": 1989,
     "dimension": {
-        "en": "image (sight) : 147 × 117 cm",
+        "en": "overall: 147.2 × 117.5 cm",
         "zh-hant": "圖像 (目測量度) : 147 × 117 厘米"
     },
     "medium": {
@@ -49,6 +107,99 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
         "zh-hant": "M+ 希克藏品，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Oil painting on canvas depicting Mao Zedong in black and white. A grid of thick red lines covers the portrait and features an uppercase letter A in our upper left and lower right, and an uppercase O in our upper right and lower left.",
+            "AltTextTC": "油彩布本作品上，以黑白兩色繪上毛澤東肖像，肖像上有粗闊的紅色網格覆蓋。畫面左上角和右下角繪上大楷英文字母A，右上角和左下角則繪上大楷英文字母O。",
+            "src": "002001_002500/002322_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Wang Guangyi",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2322
 }

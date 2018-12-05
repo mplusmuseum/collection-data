@@ -2,14 +2,12 @@
     "constituentID": 211,
     "name": {
         "en": {
-            "id": "203",
-            "alphasort": "Ho, Sin Tung",
-            "displayname": "Ho Sin Tung"
+            "displayName": "Ho Sin Tung",
+            "alphasort": "Ho, Sin Tung"
         },
         "zh-hant": {
-            "id": "1267",
-            "alphasort": "何倩彤",
-            "displayname": "何倩彤"
+            "displayName": "何倩彤",
+            "alphasort": "何倩彤"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1986",
+        "zh-hant": "香港，生於1986年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1986,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 211
 }

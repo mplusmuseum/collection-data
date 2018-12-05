@@ -2,14 +2,12 @@
     "constituentID": 343,
     "name": {
         "en": {
-            "id": "335",
-            "alphasort": "Meng, Jin",
-            "displayname": "Meng Jin"
+            "displayName": "Meng Jin",
+            "alphasort": "Meng, Jin"
         },
         "zh-hant": {
-            "id": "1380",
-            "alphasort": "孟, 瑾",
-            "displayname": "孟瑾"
+            "displayName": "孟瑾",
+            "alphasort": "孟, 瑾"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1973",
+        "zh-hant": "中國籍，生於1973年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Chongqing"
+    },
+    "deathCity": null,
     "beginDate": 1973,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 343
 }

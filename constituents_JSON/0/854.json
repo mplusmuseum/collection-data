@@ -2,9 +2,12 @@
     "constituentID": 854,
     "name": {
         "en": {
-            "id": "1761",
-            "alphasort": "Koon, Wai Bong",
-            "displayname": "Koon Wai Bong"
+            "displayName": "Koon Wai Bong",
+            "alphasort": "Koon, Wai Bong"
+        },
+        "zh-hant": {
+            "displayName": "管偉邦",
+            "alphasort": "管偉邦"
         }
     },
     "type": "Individual",
@@ -12,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "Hong Kong, born 1974",
+        "zh-hant": "香港，生於1974年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1974,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 854
 }

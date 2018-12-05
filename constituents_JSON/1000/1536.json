@@ -2,22 +2,38 @@
     "constituentID": 1536,
     "name": {
         "en": {
-            "id": "3223",
-            "alphasort": "Music Impact Ltd.",
-            "displayname": "Music Impact Ltd."
+            "displayName": "Music Impact Ltd.",
+            "alphasort": "Music Impact Ltd."
         },
         "zh-hant": {
-            "id": "3224",
-            "displayname": "藝能動音有限公司"
+            "displayName": "藝能動音有限公司",
+            "alphasort": "藝能動音有限公司"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Hong Kong, 1992–2009",
+        "zh-hant": "成立於香港，1990–2009年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1992,
-    "deathyear": 2009,
+    "endDate": 2009,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1536
 }

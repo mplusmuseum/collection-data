@@ -2,18 +2,36 @@
     "constituentID": 1169,
     "name": {
         "en": {
-            "id": "2221",
-            "alphasort": "Memphis S.r.l.",
-            "displayname": "Memphis S.r.l."
+            "displayName": "Memphis S.r.l.",
+            "alphasort": "Memphis S.r.l."
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Milan, 1981",
+        "zh-hant": "1981年成立於米蘭"
+    },
+    "nationality": {
+        "en": "Italian",
+        "zh-hant": "意大利籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": {
+        "en": "Milan"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1981,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1169
 }

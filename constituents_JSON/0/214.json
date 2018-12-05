@@ -2,14 +2,12 @@
     "constituentID": 214,
     "name": {
         "en": {
-            "id": "206",
-            "alphasort": "Hong, Hao",
-            "displayname": "Hong Hao"
+            "displayName": "Hong Hao",
+            "alphasort": "Hong, Hao"
         },
         "zh-hant": {
-            "id": "1270",
-            "alphasort": "洪, 浩",
-            "displayname": "洪浩"
+            "displayName": "洪浩",
+            "alphasort": "洪, 浩"
         }
     },
     "type": "Individual",
@@ -17,9 +15,32 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1965",
+        "zh-hant": "中國籍，生於1965年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Beijing",
+        "zh-hant": "Beijing"
+    },
+    "deathCity": null,
     "beginDate": 1965,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 214
 }

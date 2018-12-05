@@ -2,14 +2,12 @@
     "constituentID": 434,
     "name": {
         "en": {
-            "id": "426",
-            "alphasort": "Tse, Shirley",
-            "displayname": "Shirley Tse"
+            "displayName": "Shirley Tse",
+            "alphasort": "Tse, Shirley"
         },
         "zh-hant": {
-            "id": "1449",
-            "alphasort": "謝淑妮",
-            "displayname": "謝淑妮"
+            "displayName": "謝淑妮",
+            "alphasort": "謝淑妮"
         }
     },
     "type": "Individual",
@@ -17,9 +15,29 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "American, born Hong Kong, 1968",
+        "zh-hant": "美國籍，1968年生於香港"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Hong Kong",
+        "zh-hant": "Hong Kong"
+    },
+    "deathCity": null,
     "beginDate": 1968,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 434
 }

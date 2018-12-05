@@ -2,18 +2,40 @@
     "constituentID": 184,
     "name": {
         "en": {
-            "id": "176",
-            "alphasort": "Gao, Brothers",
-            "displayname": "Brothers Gao"
+            "displayName": "Brothers Gao",
+            "alphasort": "Gao, Brothers"
+        },
+        "zh-hant": {
+            "displayName": "高氏兄弟",
+            "alphasort": "高氏兄弟"
         }
     },
     "type": "Artist Collaborative",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese",
+        "zh-hant": "1982年於中國成立"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Jinan"
+    },
+    "deathCity": null,
     "beginDate": 1956,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 184
 }

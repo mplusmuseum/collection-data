@@ -2,14 +2,12 @@
     "constituentID": 118,
     "name": {
         "en": {
-            "id": "110",
-            "alphasort": "Chang, Patty",
-            "displayname": "Patty Chang"
+            "displayName": "Patty Chang",
+            "alphasort": "Chang, Patty"
         },
         "zh-hant": {
-            "id": "1191",
-            "alphasort": "張, 怡",
-            "displayname": "張怡"
+            "displayName": "張怡",
+            "alphasort": "張, 怡"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "American, born 1972",
+        "zh-hant": "美國籍，生於1972年"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "Americas",
+        "zh-hant": "美洲"
+    },
+    "activeCity": {
+        "en": "New York City"
+    },
+    "birthCity": {
+        "en": "San Francisco"
+    },
+    "deathCity": null,
     "beginDate": 1972,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 118
 }

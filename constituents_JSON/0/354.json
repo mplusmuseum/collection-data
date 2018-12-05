@@ -2,14 +2,12 @@
     "constituentID": 354,
     "name": {
         "en": {
-            "id": "346",
-            "alphasort": "Ni, Youyu",
-            "displayname": "Ni Youyu"
+            "displayName": "Ni Youyu",
+            "alphasort": "Ni, Youyu"
         },
         "zh-hant": {
-            "id": "1387",
-            "alphasort": "倪, 有魚",
-            "displayname": "倪有魚"
+            "displayName": "倪有魚",
+            "alphasort": "倪, 有魚"
         }
     },
     "type": "Individual",
@@ -18,11 +16,49 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Ni Youyu (born 1984, Ganzhou, Jiangxi Province) graduated from the Fine Arts College of Shanghai University in 2007. His paintings, sculptures, and installations explore the ontology of artistic language. He focuses on immediate, daily details and materiality, and embraces scholarly philosophy and sensibilities, through which he bridges traditional and contemporary contexts. In 2014, he was named Best Young Artist by the Chinese Contemporary Art Award (CCAA). Ni lives and works in Shanghai.",
-        "zh-hant": "倪有魚（1984年生於江西省贛州市）在2007年畢業於上海大學美術學院，其繪畫、雕塑和裝置從本體論角度探索藝術語言。他集中鑽研俯拾皆是的日常細節和物料，並採納具學術性的哲學題材和美學元素，從而為傳統和當代語境築起橋樑。倪氏在2014年獲中國當代藝術獎頒授「最佳年輕藝術家獎」，現於上海生活及工作。"
+        "en": "Chinese, born 1984",
+        "zh-hant": "中國籍，生於1984年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shanghai"
+    },
+    "birthCity": {
+        "en": "Ganzhou"
+    },
+    "deathCity": null,
     "beginDate": 1984,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Ni Youyu (born 1984, Ganzhou, Jiangxi Province) graduated from the Fine Arts College of Shanghai University in 2007. His paintings, sculptures, and installations explore the ontology of artistic language. He focuses on immediate, daily details and materiality, and embraces scholarly philosophy and sensibilities, through which he bridges traditional and contemporary contexts. In 2014, he was named Best Young Artist by the Chinese Contemporary Art Award (CCAA). Ni lives and works in Shanghai."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "倪有魚（1984年生於江西省贛州市）在2007年畢業於上海大學美術學院，其繪畫、雕塑和裝置從本體論角度探索藝術語言。他集中鑽研俯拾皆是的日常細節和物料，並採納具學術性的哲學題材和美學元素，從而為傳統和當代語境築起橋樑。倪氏在2014年獲中國當代藝術獎頒授「最佳年輕藝術家獎」，現於上海生活及工作。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 354
 }

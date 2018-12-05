@@ -2,14 +2,12 @@
     "constituentID": 456,
     "name": {
         "en": {
-            "id": "448",
-            "alphasort": "Wang, Qiang",
-            "displayname": "Wang Qiang"
+            "displayName": "Wang Qiang",
+            "alphasort": "Wang, Qiang"
         },
         "zh-hant": {
-            "id": "1468",
-            "alphasort": "王, 強",
-            "displayname": "王強"
+            "displayName": "王強",
+            "alphasort": "王, 強"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Heilongjiang Province"
+    },
+    "deathCity": null,
     "beginDate": 1963,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 456
 }

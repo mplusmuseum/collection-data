@@ -1,7 +1,8 @@
 {
     "objectID": 3472,
+    "onView": false,
     "objectNumber": "2012.45",
-    "sortNumber": 2012.45,
+    "sortNumber": "2012    45",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,66 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            55,
+            95,
+            106
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "This small landscape work documents the scene outside the window of Zhang Wei’s apartment in central Beijing, where the pioneering No Name Group’s first exhibition took place in 1975. The perspective suggests that the artist was looking from a dark interior onto an open street outside, alluding to the underground status of the collective during that period. Zhang’s early works from the 1970s reflect the lack of artistic freedom during the Cultural Revolution, when art was mainly made for propaganda and political purposes."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "This small landscape work documents the scene outside the window of Zhang Wei’s apartment in central Beijing, where the pioneering No Name Group’s first exhibition took place in 1975. The perspective suggests that the artist was looking from a dark interior onto an open street outside, alluding to the underground status of the collective during the period. Zhang’s early works from the 1970s reflect the lack of artistic freedom during the Cultural Revolution, when art was mainly made for propaganda and political purposes."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "這幅小型風景畫，紀錄了張偉位於北京市中心的住所窗外景色；前衛藝術團體「無名畫會」於1975年的首場展覽，也是在北京舉辦的。從畫中的透視角度可知，畫家處於室內黑暗一隅，向外探視開揚的街景，暗示「無名畫會」當時作為地下團體的角色。張偉於70年代的早期作品，往往與「文化大革命」時期，藝術為政治服務的普遍狀態形成對比。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "這幅小型風景畫，記錄了張偉位於北京市中心的住所窗外景色；前衛藝術團體「無名畫會」於1975年的首場展覽正是在他的住所中舉辦。從畫中的透視角度可知，畫家處於室內黑暗一隅，向外探視開揚的街景，暗示「無名畫會」當時作為地下團體的狀態。張偉七十年代的早期作品反映文化大革命時期藝術自由的缺乏，當時藝術主要是宣傳工具和為政治服務。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        20
+    ],
+    "allORC": "Zhang Wei",
     "title": {
         "en": "Fusuijing Building",
         "zh-hant": "福綏境公寓"
     },
-    "displayDate": "1975",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1975",
+        "zh-hant": "1975"
+    },
     "beginDate": 1975,
     "endDate": 1975,
     "dimension": {
@@ -49,6 +105,101 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
         "zh-hant": "M+ 希克藏品，香港"
+    },
+    "inscription": {
+        "en": "No visible inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Oil painting on paper, rendered in quick brushstrokes, depicting an off-white apartment building with a muted green park in the distance from the point of view of another building’s balcony.",
+            "AltTextTC": "這幅油彩紙本作品筆觸明快，呈現一幢米白色的住宅大廈，以及遠方呈淡綠色的公園。這些景物從另一幢建築物露台的角度繪畫。",
+            "src": "003001_003500/003472_001.tif",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Zhang Wei",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3472
 }

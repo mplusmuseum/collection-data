@@ -2,14 +2,12 @@
     "constituentID": 575,
     "name": {
         "en": {
-            "id": "567",
-            "alphasort": "Zhang, Fazhi",
-            "displayname": "Zhang Fazhi"
+            "displayName": "Zhang Fazhi",
+            "alphasort": "Zhang, Fazhi"
         },
         "zh-hant": {
-            "id": "1571",
-            "alphasort": "張, 發志",
-            "displayname": "張發志"
+            "displayName": "張發志",
+            "alphasort": "張, 發志"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1976",
+        "zh-hant": "中國籍，生於1976年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Chengdu"
+    },
+    "deathCity": null,
     "beginDate": 1976,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 575
 }

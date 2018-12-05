@@ -2,24 +2,43 @@
     "constituentID": 524,
     "name": {
         "en": {
-            "id": "516",
-            "alphasort": "Yang, Haegue",
-            "displayname": "Haegue Yang"
+            "displayName": "Haegue Yang",
+            "alphasort": "Yang, Haegue"
         },
         "zh-hant": {
-            "id": "1529",
-            "alphasort": "梁慧圭",
-            "displayname": "梁慧圭"
+            "displayName": "梁慧圭",
+            "alphasort": "梁慧圭"
         }
     },
     "type": "Individual",
     "gender": {
-        "en": "Female",
-        "zh-hant": "女性"
+        "en": "Male",
+        "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Korean",
+    "displayBio": {
+        "en": "Korean, born 1971",
+        "zh-hant": "韓國籍，生於1971年"
+    },
+    "nationality": {
+        "en": "South Korean",
+        "zh-hant": "南韓籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": {
+        "en": "Seoul"
+    },
+    "birthCity": {
+        "en": "Seoul"
+    },
+    "deathCity": null,
     "beginDate": 1971,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 524
 }

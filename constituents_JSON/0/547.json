@@ -2,14 +2,12 @@
     "constituentID": 547,
     "name": {
         "en": {
-            "id": "539",
-            "alphasort": "Yin, Zhaoyang",
-            "displayname": "Yin Zhaoyang"
+            "displayName": "Yin Zhaoyang",
+            "alphasort": "Yin, Zhaoyang"
         },
         "zh-hant": {
-            "id": "1549",
-            "alphasort": "尹, 朝陽",
-            "displayname": "尹朝陽"
+            "displayName": "尹朝陽",
+            "alphasort": "尹, 朝陽"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1970",
+        "zh-hant": "中國籍，生於1970年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Nanyang"
+    },
+    "deathCity": null,
     "beginDate": 1970,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 547
 }

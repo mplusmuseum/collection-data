@@ -2,14 +2,12 @@
     "constituentID": 904,
     "name": {
         "en": {
-            "id": "1816",
-            "alphasort": "Ishimoto, Yasuhiro",
-            "displayname": "Ishimoto Yasuhiro"
+            "displayName": "Ishimoto Yasuhiro",
+            "alphasort": "Ishimoto, Yasuhiro"
         },
         "zh-hant": {
-            "id": "1904",
-            "alphasort": "石元泰博",
-            "displayname": "石元泰博"
+            "displayName": "石元泰博",
+            "alphasort": "石元泰博"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "Japanese, born United States. 1921–2012",
+        "zh-hant": "美國籍，生於美國，1921–2012年"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "Americas",
+        "zh-hant": "美洲"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "San Francisco"
+    },
+    "deathCity": {
+        "en": "Tokyo"
+    },
     "beginDate": 1921,
-    "deathyear": 2012,
+    "endDate": 2012,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 904
 }

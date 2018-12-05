@@ -2,14 +2,12 @@
     "constituentID": 172,
     "name": {
         "en": {
-            "id": "164",
-            "alphasort": "Fang, Lijun",
-            "displayname": "Fang Lijun"
+            "displayName": "Fang Lijun",
+            "alphasort": "Fang, Lijun"
         },
         "zh-hant": {
-            "id": "1239",
-            "alphasort": "方, 力鈞",
-            "displayname": "方力鈞"
+            "displayName": "方力鈞",
+            "alphasort": "方, 力鈞"
         }
     },
     "type": "Individual",
@@ -18,11 +16,50 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Fang Lijun (born 1963, Handan) graduated from the Print Department of the Central Academy of Fine Arts, Beijing, in 1989. He is a representative artist of Cynical Realism, a major art movement in China post-1989. His works capture the disillusionment of a generation after the Tiananmen Square incident and reflect the helpless mentality of Chinese society in the early 1990s. Fang lives and works in Beijing.",
-        "zh-hant": "方力鈞 (1963年生於邯鄲，現工作及生活於北京)，1989年畢業於北京中央美術學院版畫系，其後成為「玩世現實主義」的代表藝術家。他的作品展現了天安門事件後一代人的覺醒，也反映了90年代初期中國社會的空虛感。"
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Handan"
+    },
+    "deathCity": null,
     "beginDate": 1963,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Fang Lijun (born 1963, Handan) graduated from the Print Department of the Central Academy of Fine Arts, Beijing, in 1989. He is a representative artist of Cynical Realism, a major art movement in China post-1989. His works capture the disillusionment of a generation after the Tiananmen Square incident and reflect the helpless mentality of Chinese society in the early 1990s. Fang lives and works in Beijing."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "方力鈞 (1963年生於邯鄲，現工作及生活於北京)，1989年畢業於北京中央美術學院版畫系，其後成為「玩世現實主義」的代表藝術家。他的作品展現了天安門事件後一代人的覺醒，也反映了90年代初期中國社會的空虛感。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 172
 }

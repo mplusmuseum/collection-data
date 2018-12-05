@@ -2,14 +2,12 @@
     "constituentID": 169,
     "name": {
         "en": {
-            "id": "161",
-            "alphasort": "Du, Xiuxian",
-            "displayname": "Du Xiuxian"
+            "displayName": "Du Xiuxian",
+            "alphasort": "Du, Xiuxian"
         },
         "zh-hant": {
-            "id": "1236",
-            "alphasort": "杜, 修賢",
-            "displayname": "杜修賢"
+            "displayName": "杜修賢",
+            "alphasort": "杜, 修賢"
         }
     },
     "type": "Individual",
@@ -17,9 +15,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "Chinese, 1926–2014",
+        "zh-hant": "中國籍，1926–2014年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1926,
-    "deathyear": 2014,
+    "endDate": 2014,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 169
 }

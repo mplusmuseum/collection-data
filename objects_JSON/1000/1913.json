@@ -1,7 +1,8 @@
 {
     "objectID": 1913,
+    "onView": false,
     "objectNumber": "2013.308",
-    "sortNumber": 2013.308,
+    "sortNumber": "2013   308",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,23 +32,146 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82,
+            105
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Tseng Yuho",
     "title": {
         "en": "Song of the Roots",
         "zh-hant": "樹根之歌"
     },
-    "displayDate": "1962",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1962",
+        "zh-hant": "1962"
+    },
     "beginDate": 1962,
     "endDate": 1962,
     "dimension": {
-        "en": "artist frame: 181.4 × 92 × 3.8 cm\r\r\noverall: 177.5 × 88.2 cm"
+        "en": "artist frame: 181.4 × 92 × 3.8 cm\r\r\noverall: 177.5 × 88.2 cm",
+        "zh-hant": "原框: 181.4 × 92 × 3.8 厘米\r\r\n整體: 177.5 × 88.2 厘米"
     },
     "medium": {
         "en": "acrylic, Samoan tapa cloth, and gauze on paper",
-        "zh-hant": "塑膠彩、樹皮布及紗布紙本"
+        "zh-hant": "塑膠彩、樹皮布、紗布紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "001501_002000/001913_003.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "001501_002000/001913_001.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "001501_002000/001913_002.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Rights Holder RESERVES ALL RIGHTS",
+        "copyright": "© Dr. Yun Zeng, niece of Tseng Yuho",
+        "concatRights": "M+/WKCDA exhibition/ALLOWED - NO RESTRICTIONS; M+/WKCDA website/DENIED; M+/WKCDA internal use/DENIED; M+/WKCDA publications/DENIED; M+/WKCDA press/publicity/DENIED; M+/WKCDA press packs/DENIED; M+/WKCDA advertising/DENIED; M+/WKCDA learning team activities/DENIED; 3rd-party exhibition (LOANS)/ALLOWED - NO RESTRICTIONS; 3rd-party non-commercial research/academic/DENIED; 3rd-party non-commercial educational/DENIED; 3rd-party non-commercial publication/DENIED; other 3rd-party non-commercial use/DENIED; social media/DENIED; commercial advertising/DENIED; commercial merchandise/DENIED; commercial publishing/DENIED; Current status/Permission request sent to Rights-Holder",
+        "concatRemark": "",
+        "currentStatus": "Permission request sent to Rights-Holder",
+        "rights": [
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "DENIED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "DENIED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "DENIED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "DENIED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "DENIED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "DENIED",
+                "group": "social media"
+            },
+            {
+                "title": "DENIED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "DENIED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "DENIED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 1913
 }

@@ -1,7 +1,8 @@
 {
     "objectID": 3678,
+    "onView": false,
     "objectNumber": "2014.108",
-    "sortNumber": 2014.108,
+    "sortNumber": "2014   108",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,15 +27,58 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Koon Wai Bong"
+                "en": "Koon Wai Bong",
+                "zh-hant": "管偉邦"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "In Dancing in Shadows, Koon Wai Bong tackles a subject rarely dealt with in Chinese painting—shadows. The famous verse by the Northern Song poet Su Shi (1037–1101), referenced inKoon’stitle, ‘dancingwithmyshadows underthe moonlight’,describesa solitary yet delightful moment for the poet. In the painting, layers of splashed black and dark blue ink over pine needles depicted with fine brushwork convey the movements of the dancing figure and his shadow. Flashes of moonlight,in slivers of white, peer through the darkness and suggest a view point from the thick of a forest."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "管偉邦的《起舞弄清影》探討一個中國繪畫鮮有觸及的主題—影子。題名取自北宋文人蘇軾傳世詞作《水調歌頭》的名句，描述詞人孤獨而豁達的瞬間。畫家在以細筆描繪的松針上，潑上層層黑與深藍的墨，展現舞者及其影子的動態；絲絲留白，形如黑暗中透出那若隱若現的月光，似是有人自松林深處向上張望。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Koon Wai Bong",
     "title": {
         "en": "Dancing in Shadows",
         "zh-hant": "起舞弄清影"
     },
-    "displayDate": "2014",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2014",
+        "zh-hant": "2014"
+    },
     "beginDate": 2014,
     "endDate": 2014,
     "dimension": {
@@ -48,6 +92,130 @@
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "1 UL; 1 middle R; 1 LR\r\r\nUL: 自強不息\r\r\nMiddle R: 管偉邦\r\r\nLR: 舉目堂"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "003501_004000/003678_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "AltText": "Ink on portrait-oriented paper with layers of black and blue paint in the bottom half. The upper part is covered with delicate drawings of leaves and pine branches in black and, underneath these, patches of light blue and the paper’s unmarked white surface peek through.",
+            "AltTextTC": "直幅紙面中下部分塗滿層層黑色及藍色墨跡，頂部以黑墨繪畫了精細的松樹枝葉，隱約透現背後的淡藍痕跡和白色紙面。",
+            "src": "003501_004000/003678_002.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003678_003.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003678_004.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003678_005.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003501_004000/003678_006.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Koon Wai Bong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3678
 }

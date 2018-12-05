@@ -2,14 +2,12 @@
     "constituentID": 308,
     "name": {
         "en": {
-            "id": "300",
-            "alphasort": "Liu, QianyYi",
-            "displayname": "Liu Qianyi"
+            "displayName": "Liu Qianyi",
+            "alphasort": "Liu, QianyYi"
         },
         "zh-hant": {
-            "id": "1348",
-            "alphasort": "劉, 茜懿",
-            "displayname": "劉茜懿"
+            "displayName": "劉茜懿",
+            "alphasort": "劉, 茜懿"
         }
     },
     "type": "Individual",
@@ -17,9 +15,26 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1987",
+        "zh-hant": "中國籍，生於1987年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1987,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 308
 }

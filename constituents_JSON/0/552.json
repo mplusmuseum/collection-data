@@ -2,9 +2,12 @@
     "constituentID": 552,
     "name": {
         "en": {
-            "id": "544",
-            "alphasort": "Young, Michael",
-            "displayname": "Michael Young"
+            "displayName": "Michael Young",
+            "alphasort": "Young, Michael"
+        },
+        "zh-hant": {
+            "displayName": "邁克爾‧揚",
+            "alphasort": "邁克爾‧揚"
         }
     },
     "type": "Individual",
@@ -12,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "British",
+    "displayBio": {
+        "en": "British, born 1966",
+        "zh-hant": "英國籍，生於1966年"
+    },
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    },
+    "region": {
+        "en": "Europe",
+        "zh-hant": "歐洲"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": {
+        "en": "Sunderland"
+    },
+    "deathCity": null,
     "beginDate": 1966,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 552
 }

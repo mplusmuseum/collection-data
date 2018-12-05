@@ -2,23 +2,41 @@
     "constituentID": 1519,
     "name": {
         "en": {
-            "id": "3198",
-            "alphasort": "Kowloon Rattan Ware Co.",
-            "displayname": "Kowloon Rattan Ware Co."
+            "displayName": "Kowloon Rattan Ware Co.",
+            "alphasort": "Kowloon Rattan Ware Co."
         },
         "zh-hant": {
-            "id": "3199",
-            "alphasort": "九龍籐器公司",
-            "displayname": "九龍籐器公司"
+            "displayName": "九龍籐器公司",
+            "alphasort": "九龍籐器公司"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": null,
+    "displayBio": {
+        "en": "established Hong Kong, 1925–2003",
+        "zh-hant": "成立於香港，1925至2003年"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1925,
-    "deathyear": 2003,
+    "endDate": 2003,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1519
 }

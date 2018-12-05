@@ -1,7 +1,8 @@
 {
     "objectID": 437,
+    "onView": false,
     "objectNumber": "2012.1971",
-    "sortNumber": 2012.1971,
+    "sortNumber": "2012  1971",
     "classification": {
         "area": {
             "rank": 2,
@@ -31,28 +32,149 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Yan Xing",
     "title": {
         "en": "Daddy Project",
-        "zh-hant": "爸爸計劃",
-        "zh-hans": "爸爸计划"
+        "zh-hant": "爸爸計劃"
     },
-    "displayDate": "2011",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": "2011"
+    },
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
         "en": "duration: 2 min. 30 sec.",
-        "zh-hant": "影片長度：2 分 30 秒",
-        "zh-hans": "影片长度：2 分 30 秒"
+        "zh-hant": "影片長度: 2 分 30 秒"
     },
     "medium": {
         "en": "single-channel HD video (colour, sound)",
-        "zh-hant": "單頻道高清錄像（彩色、有聲）",
-        "zh-hans": "单频道高清录像（黑白、无声）"
+        "zh-hant": "單頻道高清錄像（彩色、有聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "2012.1971.1: Titled, dated, edition and signed in marker on label, MC: DADDY PROJECT(2011) / 1/4 (signature)"
+    },
+    "archiveDescription": {},
+    "objectName": {
+        "en": "single-channel video"
+    },
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "000001_000500/000437_001.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "AltText": "Installation and video artwork of a man standing with both hands in his pockets facing a white brick wall. A microphone stand is propped up in the small space between the man and the wall. A digital video camera films the man from behind. A video screen fixed to an adjoining wall displays the video camera's feed.",
+            "AltTextTC": "裝置及錄像藝術品中，一個男人雙手插着褲袋，面向一道白色磚牆站立。一個咪高峰架設置於男人和牆壁之間的狹小空間，一部數碼錄像機從後拍攝那個男人。一個屏幕固定在旁邊那道牆上，播放着錄像機正拍攝的片段。",
+            "src": "000001_000500/000437_002.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        },
+        {
+            "src": "000001_000500/000437_003.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "M+ is the copyright owner",
+        "copyright": "© M+, Hong Kong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/PERMISSION GRANTED; commercial merchandise/PERMISSION GRANTED; commercial publishing/PERMISSION GRANTED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 437
 }

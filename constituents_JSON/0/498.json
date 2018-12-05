@@ -2,14 +2,12 @@
     "constituentID": 498,
     "name": {
         "en": {
-            "id": "490",
-            "alphasort": "Xie, Qi",
-            "displayname": "Xie Qi"
+            "displayName": "Xie Qi",
+            "alphasort": "Xie, Qi"
         },
         "zh-hant": {
-            "id": "1505",
-            "alphasort": "謝, 其",
-            "displayname": "謝其"
+            "displayName": "謝其",
+            "alphasort": "謝, 其"
         }
     },
     "type": "Individual",
@@ -17,9 +15,28 @@
         "en": "Female",
         "zh-hant": "女性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1974",
+        "zh-hant": "中國籍，生於1974年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Chongqing"
+    },
+    "deathCity": null,
     "beginDate": 1974,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 498
 }

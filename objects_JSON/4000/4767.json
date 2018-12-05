@@ -1,7 +1,8 @@
 {
     "objectID": 4767,
+    "onView": false,
     "objectNumber": "2015.86",
-    "sortNumber": 2015.86,
+    "sortNumber": "2015    86",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,32 +27,164 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Park Seo-Bo"
+                "en": "Park Seo-Bo",
+                "zh-hant": "朴栖甫"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82,
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "Park Seo-Bo and Lee Ufan are key artists of Dansaekhwa—literally meaning ‘monochrome painting’—one of the most important postwar abstract painting movements. Dansaekhwa-associated works often require viewers to look closely at the interaction of materials, as well as consider the paintings’ relationship to themselves and the viewing space. Park’s monumental Écriture No. 10–72, part of a series that began in the late 1960s, also concerns materiality, yet it focuses on the tension between two primarily Western media: pencil and oil paint. Park inscribes pencil marks systematically along horizontal rows—as though writing a cursive Roman script—onto still-wet canvas, pushing and indenting the paint while obscuring the individual lines."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "朴栖甫與李禹煥均是戰後重要抽象畫運動「單色畫」的代表畫家。「單色畫」作品要求觀者注意材質間的交融，並思考畫作與觀者自身及展覽空間的關係。\r\r\n朴栖甫的大型畫作《描法10–72號》乃六十年代後期起創作的一系列作品。同於李禹煥的作品，此作探討繪畫物質性的議題，卻聚焦於探索鉛筆與油彩這兩大西洋媒材間的張力。朴栖甫用鉛筆在油彩未乾的畫布上，有序地橫向刻畫形如草體羅馬文字的線條，油彩隨之形成紋路，筆跡亦變得朦朧難辨。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Park Seo-Bo",
     "title": {
         "en": "Écriture No. 10-72",
-        "zh-hant": "描法  No. 10-72",
-        "zh-hans": "描法  No. 10-72"
+        "zh-hant": "描法  No. 10-72"
     },
-    "displayDate": "1972",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1972",
+        "zh-hant": "1972"
+    },
     "beginDate": 1972,
     "endDate": 1972,
     "dimension": {
         "en": "overall: 194 × 259.8 × 3.5 cm",
-        "zh-hant": "整體: 194 × 259.8 × 3.5 厘米",
-        "zh-hans": "整体: 194 × 259.8 × 3.5 厘米"
+        "zh-hant": "整體: 194 × 259.8 × 3.5 厘米"
     },
     "medium": {
         "en": "oil and pencil on canvas",
-        "zh-hant": "油彩及鉛筆布本",
-        "zh-hans": "铅笔及油彩布本"
+        "zh-hant": "油彩和鉛筆布本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Canvas coated in thick white oil paint. On top of the paint layer are rows of pencil marks, with each row forming a rotating pattern. The adjacent parallel rows fill the canvas.",
+            "AltTextTC": "橫幅長方畫布上塗滿厚重的白色油彩。油彩上有十多行以鉛筆橫向繪畫的圈線，每行上下緊接，填滿整幅畫面。",
+            "src": "004501_005000/004767_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Park Seo-Bo",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4767
 }

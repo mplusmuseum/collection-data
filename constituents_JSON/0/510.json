@@ -2,9 +2,12 @@
     "constituentID": 510,
     "name": {
         "en": {
-            "id": "502",
-            "alphasort": "Xu, Tan",
-            "displayname": "Xu Tan"
+            "displayName": "Xu Tan",
+            "alphasort": "Xu, Tan"
+        },
+        "zh-hant": {
+            "displayName": "徐坦",
+            "alphasort": "徐坦"
         }
     },
     "type": "Individual",
@@ -12,9 +15,29 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1957",
+        "zh-hant": "中國籍，生於1957年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Wuhan",
+        "zh-hant": "Wuhan"
+    },
+    "deathCity": null,
     "beginDate": 1957,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 510
 }

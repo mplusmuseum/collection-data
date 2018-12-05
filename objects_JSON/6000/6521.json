@@ -1,7 +1,8 @@
 {
     "objectID": 6521,
+    "onView": false,
     "objectNumber": "2016.812",
-    "sortNumber": 2016.812,
+    "sortNumber": "2016   812",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,54 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82,
+            105
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "Lui Shou-kwan is considered the founder of Hong Kong’s New Ink Movement. He had a profound knowledge of classical Chinese painting theory and philosophy and also integrated modern Western abstraction to develop his characteristic ink painting, exercising an indelible influence on the development of art in Hong Kong. The monumental-sized ‘Zen paintings’ are most representative of his abstract painting.\r\r\nThis one sees layers of black ink extend from the centre, with red, yellow and blue vaguely emerge from underneath. The untouched space at the bottom of the painting brings out the flash of light in the upper left corner, creating contrasts between black and white, thick and thin, void and solid, and lightness and weight and superbly illustrating Lui’s extraordinary skills and his deep understanding of Zen."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "呂壽琨是香港新水墨運動的發起人。他深研中國繪畫理論與哲學思想，並融合西方現代抽象風格，發展出獨樹一格的水墨畫，影響香港藝術發展甚巨。他的抽象畫尤以大型直幅的「禪畫」最具代表性。這幅《禪》，層層暈染黑墨由中延伸至兩側，底層的紅、黃、藍隱隱透現。底部的留白襯托左上角的靈光乍現，營造黑白、濃淡、虛實、輕重之對比，充分表現呂壽琨精湛的技巧和對禪意深切的體會。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Lui Shou-kwan",
     "title": {
         "en": "Zen",
         "zh-hant": "禪"
     },
-    "displayDate": "1970",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1970",
+        "zh-hant": "1970"
+    },
     "beginDate": 1970,
     "endDate": 1970,
     "dimension": {
@@ -43,12 +87,116 @@
         "zh-hant": "框架: 306.5 × 144 厘米\r\n紙本: 284 × 122 厘米"
     },
     "medium": {
-        "en": "ink and colour on paper",
-        "zh-hant": "水墨設色紙本"
+        "en": "ink and colour on paper, hanging scroll",
+        "zh-hant": "水墨設色紙本立軸"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Ink painting on paper of a vertical shape of black, grey, and red brushstrokes bursting forward from a background of white, grey, and light blue. A beam of light seems to emanate from the top of the shape.",
+            "AltTextTC": "紙本水墨作品，在白、灰、淺藍色的背景中，黑、灰、紅色的筆觸形成垂直的圖形，看似有一道光從頂部透射而出。",
+            "src": "006501_007000/006521_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006521_002.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "006501_007000/006521_003.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Helen C. Ting",
+        "concatRights": "M+/WKCDA exhibition/ALLOWED - NO RESTRICTIONS; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/ALLOWED - NO RESTRICTIONS; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "ALLOWED - NO RESTRICTIONS",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 6521
 }

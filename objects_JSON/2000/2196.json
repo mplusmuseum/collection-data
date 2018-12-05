@@ -1,7 +1,8 @@
 {
     "objectID": 2196,
+    "onView": false,
     "objectNumber": "2012.1355",
-    "sortNumber": 2012.1355,
+    "sortNumber": "2012  1355",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,16 +32,73 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            36,
+            55,
+            81,
+            95,
+            106
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "For this series of photographs, three calligraphers took turns writing on Zhang Huan’s face from morning until night. The text began with the inscription on his forehead, which reads ‘Yu Gong Yi Shan’, a reference to the Chinese legend Yu Gong who had the mental power to move mountains. As the words accumulated—bearing stories and names of people he knew—ink obscured the artist’s skin and his face became unrecognisable. The work, combining calligraphy with the human body, can be read as the impact of personal and family stories upon an individual. Zhang is known for his performance works created in China during the 1990s. As a member of the Beijing East Village, he often documented his performances through photographs; these two mediums were central to the short-lived artist collective."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "For this series of photographs, three calligraphers took turns writing on Zhang Huan’s face from morning until night. The text began with the inscription on his forehead, which reads ‘Yu Gong Yi Shan’, a reference to the Chinese legend of Yu Gong, who removed mountains through perseverance. As the words accumulated—recording stories and the names of people Zhang knows—ink obscured his skin and his face became unrecognisable. The work, combining calligraphy with the human body, can be read as the impact of personal and family stories upon an individual. Zhang is known for his performance works in the 1990s. As a member of the Beijing East Village group of artists, he often documented his performances through photographs—these two mediums were central to the short-lived collective."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "拍攝這個系列期間，三位書法家由早到晚輪流在張洹的臉上寫字。他們首先從額頭開始，寫上「愚公移山」，其後字句在臉上堆積起來，都是張洹認識的人名和故事——皮膚沾上的墨水越來越多，他的面目亦越來越難以辨認。作品結合人體和書法，可解讀成個人及家族故事對一個人的影響。張洹是「北京東村」的一分子，於90年代在中國創作了不少行為藝術作品，並以照片形式紀錄。行為藝術和攝影，都是這個短暫的藝術團體的主要創作媒介。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "拍攝這個系列期間，三位書法家由早到晚輪流在張洹的臉上寫字。他們首先從額頭開始，寫上「愚公移山」，意指中國古代的同名寓言故事。其後字句在臉上堆積起來，都是張洹認識的人名和故事──皮膚沾上的墨水愈來愈多，他的面目亦愈來愈難以辨認。作品結合人體和書法，可解讀成個人及家族故事對一個人的影響。張洹是「北京東村」的一分子，於九十年代在中國創作了不少行為藝術作品，並以照片形式記錄。行為藝術和攝影都是這個曇花一現的藝術團體所使用的主要創作媒介。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        27
+    ],
+    "allORC": "Zhang Huan",
     "title": {
         "en": "Family Tree",
         "zh-hant": "家譜"
     },
-    "displayDate": "2000",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2000",
+        "zh-hant": "2000"
+    },
     "beginDate": 2000,
     "endDate": 2000,
     "dimension": {
         "en": "frame (each): 131.3 × 105 × 4 cm",
-        "zh-hant": "127 × 102 厘米 (每張)"
+        "zh-hant": "框架 (各): 131.3 × 105 × 4 厘米"
     },
     "medium": {
         "en": "chromogenic colour prints",
@@ -49,6 +107,157 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "No visible inscription"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "src": "002001_002500/002196_002.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002196_003.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Chromogenic colour prints. A man with a shaved head stares at us with names and stories written on his face in black ink. In subsequent photos additional writing is added until his face is entirely black.",
+            "AltTextTC": "彩色照片上，一個剃光頭的男人直視我們，臉上以黑色墨水寫上不同的名字和故事。隨後幾張照片裏，男人臉上的字愈來愈多，直至整塊臉烏黑一片。",
+            "src": "002001_002500/002196_004.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002196_005.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002196_006.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002196_007.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002196_008.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002196_009.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "002001_002500/002196_001.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "MediaUse": "Sigg Online",
+            "Copyright": "photo: M+",
+            "src": "002001_002500/002196_010.tif",
+            "rank": "1",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Zhang Huan",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2196
 }

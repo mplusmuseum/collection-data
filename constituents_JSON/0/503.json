@@ -2,14 +2,12 @@
     "constituentID": 503,
     "name": {
         "en": {
-            "id": "495",
-            "alphasort": "Xu, Hongming",
-            "displayname": "Xu Hongming"
+            "displayName": "Xu Hongming",
+            "alphasort": "Xu, Hongming"
         },
         "zh-hant": {
-            "id": "1510",
-            "alphasort": "徐, 紅明",
-            "displayname": "徐紅明"
+            "displayName": "徐紅明",
+            "alphasort": "徐, 紅明"
         }
     },
     "type": "Individual",
@@ -17,9 +15,26 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1971",
+        "zh-hant": "中國籍，生於1971年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1971,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 503
 }

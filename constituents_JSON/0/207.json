@@ -2,14 +2,12 @@
     "constituentID": 207,
     "name": {
         "en": {
-            "id": "199",
-            "alphasort": "He, Sen",
-            "displayname": "He Sen"
+            "displayName": "He Sen",
+            "alphasort": "He, Sen"
         },
         "zh-hant": {
-            "id": "1263",
-            "alphasort": "何, 森",
-            "displayname": "何森"
+            "displayName": "何森",
+            "alphasort": "何, 森"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Beijing",
+        "zh-hant": "北京"
+    },
+    "birthCity": {
+        "en": "Yunnan Province"
+    },
+    "deathCity": null,
     "beginDate": 1968,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 207
 }

@@ -2,23 +2,40 @@
     "constituentID": 1708,
     "name": {
         "en": {
-            "id": "3540",
-            "alphasort": "Shenzhen AEKU Electronics Co., Ltd.",
-            "displayname": "Shenzhen AEKU Electronics Co., Ltd."
+            "displayName": "Shenzhen AEKU Electronics Co., Ltd.",
+            "alphasort": "Shenzhen AEKU Electronics Co., Ltd."
         },
         "zh-hant": {
-            "id": "4891",
-            "alphasort": "深圳艾爾酷電子有限公司",
-            "displayname": "深圳艾爾酷電子有限公司"
+            "displayName": "深圳艾爾酷電子有限公司",
+            "alphasort": "深圳艾爾酷電子有限公司"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "established Shenzhen, 2008",
+        "zh-hant": "2008年成立於深圳"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shenzhen"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 2008,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1708
 }

@@ -2,14 +2,12 @@
     "constituentID": 188,
     "name": {
         "en": {
-            "id": "180",
-            "alphasort": "Gong, Jian",
-            "displayname": "Gong Jian"
+            "displayName": "Gong Jian",
+            "alphasort": "Gong, Jian"
         },
         "zh-hant": {
-            "id": "1249",
-            "alphasort": "龔, 劍",
-            "displayname": "龔劍"
+            "displayName": "龔劍",
+            "alphasort": "龔, 劍"
         }
     },
     "type": "Individual",
@@ -17,9 +15,31 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1978",
+        "zh-hant": "中國籍，生於1978年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Wuhan",
+        "zh-hant": "武漢"
+    },
+    "birthCity": {
+        "en": "Jingzhou"
+    },
+    "deathCity": null,
     "beginDate": 1978,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 188
 }

@@ -2,14 +2,12 @@
     "constituentID": 538,
     "name": {
         "en": {
-            "id": "530",
-            "alphasort": "Yang, Zhenzhong",
-            "displayname": "Yang Zhenzhong"
+            "displayName": "Yang Zhenzhong",
+            "alphasort": "Yang, Zhenzhong"
         },
         "zh-hant": {
-            "id": "1542",
-            "alphasort": "楊, 振中",
-            "displayname": "楊振中"
+            "displayName": "楊振中",
+            "alphasort": "楊, 振中"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shanghai"
+    },
+    "birthCity": {
+        "en": "Hangzhou"
+    },
+    "deathCity": null,
     "beginDate": 1968,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 538
 }

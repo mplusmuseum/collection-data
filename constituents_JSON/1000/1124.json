@@ -2,9 +2,8 @@
     "constituentID": 1124,
     "name": {
         "en": {
-            "id": "2130",
-            "alphasort": "Holl, Steven",
-            "displayname": "Steven Holl"
+            "displayName": "Steven Holl",
+            "alphasort": "Holl, Steven"
         }
     },
     "type": "Individual",
@@ -12,9 +11,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "American, born 1947",
+        "zh-hant": "美國籍，生於1947年"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "Americas",
+        "zh-hant": "美洲"
+    },
+    "activeCity": {
+        "en": "New York City"
+    },
+    "birthCity": {
+        "en": "Bremerton"
+    },
+    "deathCity": null,
     "beginDate": 1947,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1124
 }

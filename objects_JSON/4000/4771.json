@@ -1,7 +1,8 @@
 {
     "objectID": 4771,
+    "onView": false,
     "objectNumber": "2015.89",
-    "sortNumber": 2015.89,
+    "sortNumber": "2015    89",
     "classification": {
         "area": {
             "rank": 1,
@@ -26,32 +27,153 @@
                 "en": "Artist"
             },
             "names": {
-                "en": "Ha Chong-Hyun"
+                "en": "Ha Chong-Hyun",
+                "zh-hant": "河鍾賢"
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            103,
+            105
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {}
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": null,
+    "allORC": "Ha Chong-Hyun",
     "title": {
         "en": "Conjunction 78-7",
-        "zh-hant": "連接 78-7",
-        "zh-hans": "连接 78-7"
+        "zh-hant": "連接 78-7"
     },
-    "displayDate": "1978",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1978",
+        "zh-hant": "1978"
+    },
     "beginDate": 1978,
     "endDate": 1978,
     "dimension": {
         "en": "frame: 181.3 × 121.5 cm\r\r\nimage: 179.8 × 120.5 cm",
-        "zh-hant": "框架: 181.3 × 121.5 厘米\r\r\n圖像: 179.8 × 120.5 厘米",
-        "zh-hans": "框架: 181.3 × 121.5 厘米\r\r\n圖像: 179.8 × 120.5 厘米"
+        "zh-hant": "框架: 181.3 × 121.5 厘米\r\r\n圖像: 179.8 × 120.5 厘米"
     },
     "medium": {
         "en": "oil on hemp canvas",
-        "zh-hant": "油彩麻布本",
-        "zh-hans": "油彩亚麻布本"
+        "zh-hant": "油彩麻布本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Oil painting on hemp canvas consisting of three rectangular swatches of color. An olive green swatch covers half of the painting, with the remaining half split between a pale brown and lighter brown color.",
+            "AltTextTC": "油彩亞麻布本畫作由三個長方形色塊組成。橄欖綠色塊覆蓋了畫面一半，其餘一半分成兩種深淺略有不同的淡棕色調。",
+            "src": "004501_005000/004771_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "004501_005000/004771_002.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "Copyright": "photo: M+",
+            "src": "004501_005000/004771_003.tif",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Ha Chong-Hyun",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 4771
 }

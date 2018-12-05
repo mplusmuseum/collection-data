@@ -1,7 +1,8 @@
 {
     "objectID": 2247,
+    "onView": false,
     "objectNumber": "2012.322",
-    "sortNumber": 2012.322,
+    "sortNumber": "2012   322",
     "classification": {
         "area": {
             "rank": 1,
@@ -31,11 +32,67 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            16,
+            55,
+            95,
+            106
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "In this self-portrait, the central figure in the foreground is gazing upon his distant past, represented by men of an older generation. Fang Lijun employs water to depict a carefree environment where there is no pressure; the repeated shaved heads are freedom from both individuality and social collectivism. For over two decades, these motifs defined his artistic practice, conveying the helplessness felt by the Chinese during the 1990s. They became a major facet of Chinese contemporary art. Fang is regarded as the pioneer of the Cynical Realism movement in early 1990s; he resorted to humour and cynicism to respond to the tumultuous social changes in China."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "In this self-portrait, the central figure in the foreground is gazing upon his distant past, represented by men of an older generation. Fang Lijun employs water to depict a carefree environment where there is no pressure; the shaved heads stand for freedom from both individuality and social collectivism. For over two decades, these motifs defined Fang’s artistic practice, conveying the helplessness felt by the Chinese during the 1990s. They became a major facet of Chinese contemporary art. Fang is regarded as a pioneer of the cynical realism movement in the early 1990s; he used humour and cynicism to respond to the tumultuous social changes in China."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "在這幅自畫像中，站在前景的主角凝望著遠方幾位老人，代表著遙遠的過去。方力鈞以大海營造自由自在、無拘無束的環境；而重覆出現的光頭人像，則象徵不受個人主義及社會集體主義制度所束縛的狀態。廿多年來，這個光頭形象已成為方力鈞最具代表性的圖像標誌，抒發中國人在90年代所感受的無助感，亦是中國當代藝術的主要面貌。方力鈞被譽為90年代初「玩世現實主義」的先鋒人物；他經歷過劇烈的社會變化，其後以幽默和諷刺手法表達其個人觀點。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "在這幅自畫像中，站在前景的主角凝望着遠方幾位老人所代表的遙遠過去。方力鈞以大海營造自由自在、無拘無束的環境；而重複出現的光頭人像，則象徵不受個人主義及社會集體主義制度束縛的狀態。二十多年來，這個光頭形象已成為方力鈞最具代表性的圖像標誌，抒發中國人在九十年代所感受的無助感，亦是中國當代藝術的主要面貌。方力鈞被譽為九十年代初「玩世現實主義」的先鋒人物；他經歷過劇烈的社會變化，其後以幽默和諷刺手法表達其個人觀點。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        13
+    ],
+    "allORC": "Fang Lijun",
     "title": {
         "en": "Untitled",
         "zh-hant": "無題"
     },
-    "displayDate": "1995",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1995",
+        "zh-hant": "1995"
+    },
     "beginDate": 1995,
     "endDate": 1995,
     "dimension": {
@@ -49,6 +106,99 @@
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {},
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Oil painting on canvas depicting a man whose sloped shoulders and broad back covers the bottom third of the image. Wearing a pink shirt and rendered with orange skin, the bald figure faces three older men and a backdrop of blue mountains.",
+            "AltTextTC": "油彩布本作品裏，有一個男人的背影。其傾斜的肩膀和寬闊的背部，佔據了作品下方的三分之一。這個禿頭的男人擁有橙色的皮膚，穿着一件粉紅色T恤，面向背景中三個老年男人和藍色山脈。",
+            "src": "002001_002500/002247_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Fang Lijun",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 2247
 }

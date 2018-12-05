@@ -2,14 +2,12 @@
     "constituentID": 537,
     "name": {
         "en": {
-            "id": "529",
-            "alphasort": "Yang, Yongliang",
-            "displayname": "Yang Yongliang"
+            "displayName": "Yang Yongliang",
+            "alphasort": "Yang, Yongliang"
         },
         "zh-hant": {
-            "id": "1541",
-            "alphasort": "楊, 泳梁",
-            "displayname": "楊泳梁"
+            "displayName": "楊泳梁",
+            "alphasort": "楊, 泳梁"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Chinese",
+    "displayBio": {
+        "en": "Chinese, born 1980",
+        "zh-hant": "中國籍，生於1980年"
+    },
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Shanghai"
+    },
+    "birthCity": {
+        "en": "Shanghai"
+    },
+    "deathCity": null,
     "beginDate": 1980,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 537
 }

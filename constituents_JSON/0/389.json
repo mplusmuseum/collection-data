@@ -2,9 +2,8 @@
     "constituentID": 389,
     "name": {
         "en": {
-            "id": "381",
-            "alphasort": "Rudolph, Paul",
-            "displayname": "Paul Rudolph"
+            "displayName": "Paul Rudolph",
+            "alphasort": "Rudolph, Paul"
         }
     },
     "type": "Individual",
@@ -12,9 +11,28 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "American, 1918–1997",
+        "zh-hant": "生於美國，1918–1997年"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "Americas",
+        "zh-hant": "美洲"
+    },
+    "activeCity": null,
+    "birthCity": {
+        "en": "Elkton"
+    },
+    "deathCity": null,
     "beginDate": 1918,
-    "deathyear": 1997,
+    "endDate": 1997,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 389
 }

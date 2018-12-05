@@ -2,23 +2,41 @@
     "constituentID": 31,
     "name": {
         "en": {
-            "id": "23",
-            "alphasort": "Dennis Lau & Ng Chun Man Architects & Engineers (HK) Ltd.",
-            "displayname": "Dennis Lau & Ng Chun Man Architects & Engineers (HK) Ltd."
+            "displayName": "Dennis Lau & Ng Chun Man Architects & Engineers (HK) Ltd.",
+            "alphasort": "Dennis Lau & Ng Chun Man Architects & Engineers (HK) Ltd."
         },
         "zh-hant": {
-            "id": "2764",
-            "alphasort": "劉榮廣伍振民建築師事務所（香港）有限公司",
-            "displayname": "劉榮廣伍振民建築師事務所（香港）有限公司"
+            "displayName": "劉榮廣伍振民建築師事務所（香港）有限公司",
+            "alphasort": "劉榮廣伍振民建築師事務所（香港）有限公司"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": "Hong Kong",
+    "displayBio": {
+        "en": "established Hong Kong, 1972",
+        "zh-hant": "1972年於香港成立"
+    },
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "region": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "activeCity": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1972,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 31
 }

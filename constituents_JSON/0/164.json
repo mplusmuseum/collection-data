@@ -2,14 +2,12 @@
     "constituentID": 164,
     "name": {
         "en": {
-            "id": "156",
-            "alphasort": "Diao, David",
-            "displayname": "David Diao"
+            "displayName": "David Diao",
+            "alphasort": "Diao, David"
         },
         "zh-hant": {
-            "id": "1231",
-            "alphasort": "刁, 德謙",
-            "displayname": "刁德謙"
+            "displayName": "刁德謙",
+            "alphasort": "刁, 德謙"
         }
     },
     "type": "Individual",
@@ -17,9 +15,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "American",
+    "displayBio": {
+        "en": "American, born China, 1943",
+        "zh-hant": "美國籍，1943年生於中國"
+    },
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    },
+    "region": {
+        "en": "Americas",
+        "zh-hant": "美洲"
+    },
+    "activeCity": {
+        "en": "New York City"
+    },
+    "birthCity": {
+        "en": "Chengdu"
+    },
+    "deathCity": null,
     "beginDate": 1943,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 164
 }

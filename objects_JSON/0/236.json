@@ -1,7 +1,8 @@
 {
     "objectID": 236,
+    "onView": false,
     "objectNumber": "2013.275",
-    "sortNumber": 2013.275,
+    "sortNumber": "2013   275",
     "classification": {
         "area": {
             "rank": 1,
@@ -29,41 +30,175 @@
                 "en": "Wucius Wong",
                 "zh-hant": "王無邪"
             }
-        },
-        {
-            "id": 478,
-            "rank": 1,
-            "roles": {
-                "en": "Seller"
-            },
-            "names": {
-                "en": "Wucius Wong",
-                "zh-hant": "王無邪"
-            }
         }
     ],
+    "exhibition": {
+        "ids": [
+            82,
+            103
+        ],
+        "sections": "[]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "Distant Thoughts No. 19 is a painting of the Englewood Cliffs in the Palisades along the Hudson River, painted while Wucius Wong lived in New Jersey. Wong heightens the drama of the cliffs, seen from above, by creating an S-shaped course for the river, alluding to the Tai Chi symbol of energy flow. The painting shows an eclectic blend of influences and adaptations: Rembrandt’s treatment of light and contrast, Turner’s romantic landscapes, and the Northern Song style of monumental landscape. Most importantly, a crisscrossed structure and a set of parallel lines, imported from Wong’s training in modern design theory, underlie the landscape formations."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "The Weight of Lightness"
+                ],
+                "labels": [
+                    {
+                        "purpose": "The Weight of Lightness",
+                        "text": "《遠懷十九》是王無邪居於美國新澤西州時的作品，畫中所繪是哈德遜河畔的恩格爾伍德絕壁。從空中俯瞰，蜿蜒的河道猶如太極圖中區分陰陽兩儀的曲線，更顯山勢磅礴。作品兼採迥異的美學風格，包括林布蘭對光線和明暗對比的處理，透納的浪漫主義風景畫，以及北宋的壯闊山水。而王無邪所學的現代設計理論則構成了畫中最重要的元素：奠定其山水構圖基礎的十字交叉結構和平行線。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": [
+        22
+    ],
+    "relatedConceptIds": null,
+    "allORC": "Wucius Wong",
     "title": {
         "en": "Distant Thoughts #19",
-        "zh-hant": "遠懷之十九",
-        "zh-hans": "远怀之十九"
+        "zh-hant": "遠懷之十九"
     },
-    "displayDate": "1990",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "1990",
+        "zh-hant": "1990"
+    },
     "beginDate": 1990,
     "endDate": 1990,
     "dimension": {
         "en": "sheet: 156.6 × 109.8 cm\r\r\nimage: 135 × 91.8 cm",
-        "zh-hant": "135 × 91.8 厘米",
-        "zh-hans": "135 × 91.8 厘米"
+        "zh-hant": "紙本: 156.6 × 109.8 厘米\r\n圖像: 135 × 91.8 厘米"
     },
     "medium": {
         "en": "ink and colour on paper",
-        "zh-hant": "水墨設色紙本",
-        "zh-hans": "水墨设色纸本"
+        "zh-hant": "水墨設色紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": "M+，香港",
-        "zh-hans": "香港M+"
+        "zh-hant": "M+，香港"
+    },
+    "inscription": {
+        "en": "Inscribed in pencil, verso, LL: 9019 遠怀十九 Distant Thoughts"
+    },
+    "archiveDescription": {},
+    "objectName": {},
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "AltText": "Ink and colour painting on paper depicting a bright stream winding through a rocky, dark landscape. Presented in adjacent, indistinct vertical panels.",
+            "AltTextTC": "水墨設色紙本作品裏，一條光亮的河流沿着山石嶙峋的昏暗地勢蜿蜒而下，作品隱約分佈在四個並列的直條之中。",
+            "src": "000001_000500/000236_003.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        },
+        {
+            "src": "000001_000500/000236_001.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "000001_000500/000236_002.jpg",
+            "rank": "1",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "M+ is the copyright owner",
+        "copyright": "© M+, Hong Kong",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/PERMISSION GRANTED; commercial merchandise/PERMISSION GRANTED; commercial publishing/PERMISSION GRANTED; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 236
 }

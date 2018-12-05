@@ -1,7 +1,8 @@
 {
     "objectID": 3089,
+    "onView": false,
     "objectNumber": "2012.527",
-    "sortNumber": 2012.527,
+    "sortNumber": "2012   527",
     "classification": {
         "area": {
             "rank": 2,
@@ -31,28 +32,206 @@
             }
         }
     ],
+    "exhibition": {
+        "ids": [
+            7,
+            55,
+            95,
+            103
+        ],
+        "sections": "[{\"95\":\"Featured Work\"}]",
+        "exhibitionLabelText": {
+            "en": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "Kan Xuan’s sparse video explores the relationship between images and words. The voiceover narration describes common everyday objects captured on black and white film. Her video offers new perspectives on the familiar by creating a disconnect between what the viewer sees and hears."
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "Kan Xuan’s sparse video explores the relationship between images and words. The voiceover narration describes the everyday objects captured on black-and-white film. Her video offers new perspectives on the familiar by creating a disconnect between what the viewer sees and hears."
+                    }
+                ]
+            },
+            "zh-hant": {
+                "purposes": [
+                    "M+ Sigg Collection",
+                    "Sigg Online"
+                ],
+                "labels": [
+                    {
+                        "purpose": "M+ Sigg Collection",
+                        "text": "闞萱的這段黑白錄像，旨在探索影像與語言之間的關係。錄像中的畫外音敘述著黑白影像中的日常物件。她通過分離觀者的所見與所聽，以新的視角探討人們熟知的生活。"
+                    },
+                    {
+                        "purpose": "Sigg Online",
+                        "text": "闞萱的這段黑白錄像，旨在探索影像與語言之間的關係。錄像中的畫外音敘述黑白影像中的日常物件。她通過分離觀者的所見與所聽，以新的視角探討人們所熟知的生活。"
+                    }
+                ]
+            }
+        }
+    },
+    "relatedEventIds": null,
+    "relatedConceptIds": [
+        17
+    ],
+    "allORC": "Kan Xuan",
     "title": {
         "en": "Objects",
-        "zh-hant": "物體",
-        "zh-hans": "物体"
+        "zh-hant": "物體"
     },
-    "displayDate": "2003",
+    "objectStatus": {
+        "en": "Accessioned Object",
+        "zh-hant": "已登錄藏品"
+    },
+    "displayDate": {
+        "en": "2003",
+        "zh-hant": "2003"
+    },
     "beginDate": 2003,
     "endDate": 2003,
     "dimension": {
         "en": "duration: 6 min. 25 sec.",
-        "zh-hant": "影片長度: 6 分 25 秒",
-        "zh-hans": "影片长度: 6 分 25 秒"
+        "zh-hant": "影片長度: 6 分 25 秒"
     },
     "medium": {
         "en": "single-channel video (black and white, sound)",
-        "zh-hant": "單頻道錄像（黑白、有聲）",
-        "zh-hans": "单频道录像"
+        "zh-hant": "單頻道錄像（黑白、有聲）"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港",
-        "zh-hans": "香港M+ 希克藏品（捐赠）"
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "inscription": {
+        "en": "2012.527.1: Inscribed in ink: OBJECT / 4#7"
+    },
+    "archiveDescription": {},
+    "objectName": {
+        "en": "single-channel video"
+    },
+    "scopeNContent": {},
+    "baselineDescription": {},
+    "images": [
+        {
+            "MediaUse": "Sigg Online",
+            "AltText": "Monochrome still from a single-channel video. A flat white pill floats in an open space that resembles a cloud of stars.",
+            "AltTextTC": "擷取自單頻道錄像的黑白畫面上，一顆扁平的白色藥丸在空氣中飄浮，周遭環境恍如一團星塵。",
+            "src": "003001_003500/003089_001.jpg",
+            "rank": "0",
+            "primaryDisplay": true,
+            "publicAccess": true
+        },
+        {
+            "src": "003001_003500/003089_002.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003089_003.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003089_004.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003089_005.jpg",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        },
+        {
+            "src": "003001_003500/003089_006.tif",
+            "rank": "0",
+            "primaryDisplay": false,
+            "publicAccess": false
+        }
+    ],
+    "objectRights": {
+        "type": "Licensed, as detailed below",
+        "copyright": "© Kan Xuan",
+        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
+        "concatRemark": "",
+        "currentStatus": "Rights-Holder negotiations completed",
+        "rights": [
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA exhibition"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA website"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA internal use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA publications"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press/publicity"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA press packs"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA advertising"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "M+/WKCDA learning team activities"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party exhibition (LOANS)"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial research/academic"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial educational"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "3rd-party non-commercial publication"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "other 3rd-party non-commercial use"
+            },
+            {
+                "title": "PERMISSION GRANTED",
+                "group": "social media"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial advertising"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial merchandise"
+            },
+            {
+                "title": "CONTACT the RIGHTS HOLDER",
+                "group": "commercial publishing"
+            }
+        ]
     },
     "id": 3089
 }

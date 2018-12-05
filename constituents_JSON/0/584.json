@@ -2,14 +2,12 @@
     "constituentID": 584,
     "name": {
         "en": {
-            "id": "576",
-            "alphasort": "Zhang, Peili",
-            "displayname": "Zhang Peili"
+            "displayName": "Zhang Peili",
+            "alphasort": "Zhang, Peili"
         },
         "zh-hant": {
-            "id": "1577",
-            "alphasort": "張, 培力",
-            "displayname": "張培力"
+            "displayName": "張培力",
+            "alphasort": "張, 培力"
         }
     },
     "type": "Individual",
@@ -18,11 +16,49 @@
         "zh-hant": "男性"
     },
     "displayBio": {
-        "en": "Zhang Peili (born 1957, Hangzhou) graduated from the Zhejiang Academy of Fine Arts, Hangzhou, in 1984 with a degree in oil painting, and previously served as Dean of the New Media Department at the same institution, later renamed China Academy of Art. He was a founding member of the Pond Society and a prominent figure of the avant-garde movement in Hangzhou in the 1980s. Primarily working in video, photography, and new media, his work acts as a form of protest to reveal the forces that shape Chinese society and the lives of its citizens. Zhang lives and works in Hangzhou.",
-        "zh-hant": "張培力 (1965年生於杭州，現工作及生活於杭州)，1984年杭州浙江美術學院畢業，主修油畫，並曾擔任該學院新媒體系主任；學院後來更名為中國美術學院。他是「池社」創辦成員，同時是80年代杭州前衛美術運動的重要人物。其主要創作媒介涵蓋錄像、攝影和新媒體等，作品以反抗形式來展示操縱中國社會和人民生活的力量。"
+        "en": "Chinese, born 1957",
+        "zh-hant": "中國籍，生於1957年"
     },
-    "nationality": "Chinese",
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    },
+    "region": {
+        "en": "Mainland China",
+        "zh-hant": "中國內地"
+    },
+    "activeCity": {
+        "en": "Hangzhou"
+    },
+    "birthCity": {
+        "en": "Hangzhou"
+    },
+    "deathCity": null,
     "beginDate": 1957,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": {
+            "en": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "Zhang Peili (born 1957, Hangzhou) graduated from the Zhejiang Academy of Fine Arts, Hangzhou, in 1984 with a degree in oil painting, and previously served as Dean of the New Media Department at the same institution, later renamed China Academy of Art. He was a founding member of the Pond Society and a prominent figure of the avant-garde movement in Hangzhou in the 1980s. Primarily working in video, photography, and new media, his work acts as a form of protest to reveal the forces that shape Chinese society and the lives of its citizens. Zhang lives and works in Hangzhou."
+                }
+            ],
+            "zh-hant": [
+                {
+                    "purpose": "Sigg Online",
+                    "text": "張培力 (1965年生於杭州，現工作及生活於杭州)，1984年杭州浙江美術學院畢業，主修油畫，並曾擔任該學院新媒體系主任；學院後來更名為中國美術學院。他是「池社」創辦成員，同時是80年代杭州前衛美術運動的重要人物。其主要創作媒介涵蓋錄像、攝影和新媒體等，作品以反抗形式來展示操縱中國社會和人民生活的力量。"
+                }
+            ]
+        },
+        "purpose": {
+            "en": [
+                "Sigg Online"
+            ],
+            "zh-hant": [
+                "Sigg Online"
+            ]
+        }
+    },
     "id": 584
 }

@@ -2,9 +2,8 @@
     "constituentID": 1364,
     "name": {
         "en": {
-            "id": "2705",
-            "alphasort": "Yeang, Ken",
-            "displayname": "Ken Yeang"
+            "displayName": "Ken Yeang",
+            "alphasort": "Yeang, Ken"
         }
     },
     "type": "Individual",
@@ -12,9 +11,30 @@
         "en": "Male",
         "zh-hant": "男性"
     },
-    "displayBio": {},
-    "nationality": "Malaysian",
+    "displayBio": {
+        "en": "Malaysian, born 1948",
+        "zh-hant": "馬來西亞籍，生於1948年"
+    },
+    "nationality": {
+        "en": "Malaysian",
+        "zh-hant": "馬來西亞籍"
+    },
+    "region": {
+        "en": "Southeast Asia",
+        "zh-hant": "東南亞"
+    },
+    "activeCity": {
+        "en": "Kuala Lumpur"
+    },
+    "birthCity": {
+        "en": "Penang"
+    },
+    "deathCity": null,
     "beginDate": 1948,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1364
 }

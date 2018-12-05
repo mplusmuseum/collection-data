@@ -2,23 +2,38 @@
     "constituentID": 1440,
     "name": {
         "en": {
-            "id": "3077",
-            "alphasort": "Takashimaya Co., Ltd.",
-            "displayname": "Takashimaya Co., Ltd."
+            "displayName": "Takashimaya Co., Ltd.",
+            "alphasort": "Takashimaya Co., Ltd."
         },
         "zh-hant": {
-            "id": "4902",
-            "alphasort": "株式會社髙島屋",
-            "displayname": "株式會社髙島屋"
+            "displayName": "株式會社髙島屋",
+            "alphasort": "株式會社髙島屋"
         }
     },
     "type": "Organization",
     "gender": {
-        "zh-hant": null
+        "en": "Not Applicable"
     },
-    "displayBio": {},
-    "nationality": "Japanese",
+    "displayBio": {
+        "en": "established Kyoto, 1831",
+        "zh-hant": "1831年成立於京都"
+    },
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    },
+    "region": {
+        "en": "East Asia",
+        "zh-hant": "東亞"
+    },
+    "activeCity": null,
+    "birthCity": null,
+    "deathCity": null,
     "beginDate": 1831,
-    "deathyear": null,
+    "endDate": null,
+    "exhibitions": {
+        "biographies": null,
+        "purpose": null
+    },
     "id": 1440
 }
