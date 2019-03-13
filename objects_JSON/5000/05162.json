@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.283",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled",
-    "titleOther": "無題",
-    "displayDate": "1964–66",
-    "displayDateOther": null,
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "1964–66",
+        "zh-hant": null
+    },
     "beginDate": 1964,
     "endDate": 1966,
-    "dimension": "frame: 211 × 177.5 × 4.5 cm\r\r\noverall: 209.5 × 175.5 × 4 cm",
-    "medium": "ink and acrylic on cotton canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 211 × 177.5 × 4.5 cm\r\r\noverall: 209.5 × 175.5 × 4 cm",
+        "zh-hant": "連框: 211 × 177.5 × 4.5 厘米  整體: 209.5 × 175.5 × 4 厘米"
+    },
+    "medium": {
+        "en": "ink and acrylic on cotton canvas",
+        "zh-hant": "墨水塑膠彩棉布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 425,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [],

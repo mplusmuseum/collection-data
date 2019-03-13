@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.104",
     "classification": {
-        "area": "Visual Art",
-        "category": "Collage",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Collage",
+            "zh-hant": "拼貼"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled (Collagebook5_02)",
-    "titleOther": "無題（拼貼簿5_02）",
-    "displayDate": "1969",
-    "displayDateOther": null,
+    "title": {
+        "en": "無題（拼貼簿5_02）",
+        "zh-hant": "Untitled (Collagebook5_02)"
+    },
+    "displayDate": {
+        "en": "1969",
+        "zh-hant": null
+    },
     "beginDate": 1969,
     "endDate": 1969,
-    "dimension": "sheet: 35 × 27 cm",
-    "medium": "ink, marker, collage on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 35 × 27 cm",
+        "zh-hant": "紙本: 35 × 27 厘米"
+    },
+    "medium": {
+        "en": "ink, marker, collage on paper",
+        "zh-hant": "墨水、箱頭筆、拼貼紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1031,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

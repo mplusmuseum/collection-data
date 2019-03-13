@@ -4,35 +4,69 @@
     "publicAccess": true,
     "objectNumber": "2016.772",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Sony AIBO entertainment robot, model ERS-110",
-    "titleOther": "AIBO ERS-110型機械犬",
-    "displayDate": "1999",
-    "displayDateOther": null,
+    "title": {
+        "en": "AIBO ERS-110型機械犬",
+        "zh-hant": "Sony AIBO entertainment robot, model ERS-110"
+    },
+    "displayDate": {
+        "en": "1999",
+        "zh-hant": null
+    },
     "beginDate": 1999,
     "endDate": 1999,
-    "dimension": "overall (approx.): 25 × 17 × 43 cm",
-    "medium": "plastic, electronic parts, and LED lights",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (approx.): 25 × 17 × 43 cm",
+        "zh-hant": "整體 （約）: 25 × 17 × 43 厘米"
+    },
+    "medium": {
+        "en": "plastic, electronic parts, and LED lights",
+        "zh-hant": "塑膠、電子零件、LED 燈"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1601,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
             "id": 1643,
-            "role": "Producer"
+            "role": {
+                "en": "Producer",
+                "zh-hant": "製作人"
+            }
         },
         {
             "id": 3029,
-            "role": "Engineer"
+            "role": {
+                "en": "Engineer",
+                "zh-hant": "工程師"
+            }
         },
         {
             "id": 1600,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

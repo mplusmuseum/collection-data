@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA2/1/8",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "File"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "File",
+            "zh-hant": "案卷"
+        }
     },
-    "title": "Floor plans, international competition for the Bastille Opera House, Paris, France",
-    "titleOther": "法國巴黎巴士底歌劇院國際建築比賽參賽作品樓層平面圖",
-    "displayDate": "[1983]",
-    "displayDateOther": null,
+    "title": {
+        "en": "法國巴黎巴士底歌劇院國際建築比賽參賽作品樓層平面圖",
+        "zh-hant": "Floor plans, international competition for the Bastille Opera House, Paris, France"
+    },
+    "displayDate": {
+        "en": "[1983]",
+        "zh-hant": null
+    },
     "beginDate": 1983,
     "endDate": 1983,
-    "dimension": "8 items",
-    "medium": "photocopy and ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+    "dimension": {
+        "en": "8 items",
+        "zh-hant": "8 items"
+    },
+    "medium": {
+        "en": "photocopy and ink on paper",
+        "zh-hant": "photocopy and ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+        "zh-hant": "M+，香港，許李嚴建築師事務所捐贈，2013年"
+    },
     "constituents": [
         {
             "id": 543,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         },
         {
             "id": 60,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [

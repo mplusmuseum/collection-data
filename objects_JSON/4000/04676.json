@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.211",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Kishio Suga, Trends in Contemporary Art, The National Museum of Modern Art, Kyoto, July 6, 1970",
     "titleOther": "菅木志雄，1970年7月6日京都國立近代美術館｢現代美術的動向」",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1970,
     "endDate": 1970,
-    "dimension": "overall (mounted): 12 × 16.5 cm\r\r\nimage: 7.8 × 11.5 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (mounted): 12 × 16.5 cm\r\r\nimage: 7.8 × 11.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Monochrome photograph of a man crouching on a staircase in a stairwell, viewed from above. He is holding a piece of wood in one hand. The staircase below him is covered in mud."

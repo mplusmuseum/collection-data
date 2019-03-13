@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.812",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Zen",
-    "titleOther": "禪",
-    "displayDate": "1970",
-    "displayDateOther": null,
+    "title": {
+        "en": "禪",
+        "zh-hant": "Zen"
+    },
+    "displayDate": {
+        "en": "1970",
+        "zh-hant": null
+    },
     "beginDate": 1970,
     "endDate": 1970,
-    "dimension": "frame: 306.5 × 144 cm\r\r\nsheet: 284 × 122 cm",
-    "medium": "ink and colour on paper, hanging scroll",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 306.5 × 144 cm\r\r\nsheet: 284 × 122 cm",
+        "zh-hant": "框架: 306.5 × 144 厘米\r\n紙本: 284 × 122 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on paper, hanging scroll",
+        "zh-hant": "水墨設色紙本立軸"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 327,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

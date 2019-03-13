@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.4",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Kowloon Walled City—Tung Tau Tsuen Road facade",
-    "titleOther": "九龍城寨──東頭村道建築外牆",
-    "displayDate": "1986",
-    "displayDateOther": "1987年，重印於2015年",
+    "title": {
+        "en": "九龍城寨──東頭村道建築外牆",
+        "zh-hant": "Kowloon Walled City—Tung Tau Tsuen Road facade"
+    },
+    "displayDate": {
+        "en": "1987年，重印於2015年",
+        "zh-hant": "1986"
+    },
     "beginDate": 1987,
     "endDate": 2015,
-    "dimension": "frame: 79 × 59 × 3.3 cm\r\nimage: 40.2 × 59.9 cm",
-    "medium": "archival digital print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "frame: 79 × 59 × 3.3 cm\r\nimage: 40.2 × 59.9 cm",
+        "zh-hant": "連框： 79 × 59 × 3.3 厘米\r\n圖像： 40.2 × 59.9 厘米"
+    },
+    "medium": {
+        "en": "archival digital print",
+        "zh-hant": "收藏級數碼打印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

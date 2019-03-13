@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2014.78",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Japanese child wearing striped cloth with mask and spectacles",
     "titleOther": "裹著一塊條紋布及戴上面罩和眼鏡的日本小孩",
@@ -14,10 +23,19 @@
     "displayDateOther": "1949年拍攝，約1962年代印刷",
     "beginDate": 1949,
     "endDate": 1962,
-    "dimension": "sheet: 35.7 × 27.8 cm\r\r\nimage: 23.6 × 26.9 cm\r\r\nother (matt board): 50.6 × 40.6 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 35.7 × 27.8 cm\r\r\nimage: 23.6 × 26.9 cm\r\r\nother (matt board): 50.6 × 40.6 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": null,

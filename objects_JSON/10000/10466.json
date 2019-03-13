@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA22/2/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Book/Periodical",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Book/Periodical",
+            "zh-hant": "書藉/期刊"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Brocure, everbest atelier: muster 1",
-    "titleOther": "Everbest Atelier小冊子：紙品集一",
-    "displayDate": "1967",
-    "displayDateOther": null,
+    "title": {
+        "en": "Everbest Atelier小冊子：紙品集一",
+        "zh-hant": "Brocure, everbest atelier: muster 1"
+    },
+    "displayDate": {
+        "en": "1967",
+        "zh-hant": null
+    },
     "beginDate": 1967,
     "endDate": 1967,
-    "dimension": "overall: 22.9 x 22.8 cm\r\n39 pages",
-    "medium": "printing ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Kan Tai Keung, 2017",
+    "dimension": {
+        "en": "overall: 22.9 x 22.8 cm\r\n39 pages",
+        "zh-hant": "overall: 22.9 x 22.8 cm\r\n39 pages"
+    },
+    "medium": {
+        "en": "printing ink on paper",
+        "zh-hant": "printing ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Kan Tai Keung, 2017",
+        "zh-hant": "M+，香港，靳埭強捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 1710,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [],

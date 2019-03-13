@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/17",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Letter with musical notes, Hu Pinqing (胡品清) to Wang Dahong",
-    "titleOther": "胡品清致王大閎的信件，附樂譜標註",
-    "displayDate": "[1970s–1990s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "胡品清致王大閎的信件，附樂譜標註",
+        "zh-hant": "Letter with musical notes, Hu Pinqing (胡品清) to Wang Dahong"
+    },
+    "displayDate": {
+        "en": "[1970s–1990s]",
+        "zh-hant": null
+    },
     "beginDate": 1971,
     "endDate": 1999,
-    "dimension": "sheet: 36.3 x 25.7 cm",
-    "medium": "photocopy and ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 36.3 x 25.7 cm",
+        "zh-hant": "sheet: 36.3 x 25.7 cm"
+    },
+    "medium": {
+        "en": "photocopy and ink on paper",
+        "zh-hant": "photocopy and ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": null,

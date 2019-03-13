@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1261",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Growth Rings 2",
     "titleOther": "年輪 2",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2009,
     "endDate": 2009,
-    "dimension": "overall: 385.5 × 22.5 × 4.5 cm",
-    "medium": "wood board",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 385.5 × 22.5 × 4.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "wood board",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 535,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

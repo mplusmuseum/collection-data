@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA35/1/5",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Book/Periodical",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Book/Periodical",
+            "zh-hant": "書藉/期刊"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Reprint, Revista Informes de la Construcción, published by the Instituto Eduardo Torroja de la Construcción y del Cement, relating to City Hall (1956–1962), Hong Kong",
-    "titleOther": "香港大會堂（1956至1962年）相關文章重印本，載於《建築報告》，由Instituto Eduardo Torroja de la Construcción y del Cement出版",
-    "displayDate": "November 1963",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港大會堂（1956至1962年）相關文章重印本，載於《建築報告》，由Instituto Eduardo Torroja de la Construcción y del Cement出版",
+        "zh-hant": "Reprint, Revista Informes de la Construcción, published by the Instituto Eduardo Torroja de la Construcción y del Cement, relating to City Hall (1956–1962), Hong Kong"
+    },
+    "displayDate": {
+        "en": "November 1963",
+        "zh-hant": null
+    },
     "beginDate": 1963,
     "endDate": 1963,
-    "dimension": "10 pp",
-    "medium": "printing ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+    "dimension": {
+        "en": "10 pp",
+        "zh-hant": "10 pp"
+    },
+    "medium": {
+        "en": "printing ink on paper",
+        "zh-hant": "printing ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+        "zh-hant": "M+，香港，Alan Fitch家族捐赠，2014年"
+    },
     "constituents": [
         {
             "id": 814,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
     "images": null,

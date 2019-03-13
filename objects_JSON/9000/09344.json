@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA35/2/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Site plan, Statue Square (1965–1966), Hong Kong",
-    "titleOther": "香港皇后像廣場（1956至1966年）工地平面圖",
-    "displayDate": "1966",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港皇后像廣場（1956至1966年）工地平面圖",
+        "zh-hant": "Site plan, Statue Square (1965–1966), Hong Kong"
+    },
+    "displayDate": {
+        "en": "1966",
+        "zh-hant": null
+    },
     "beginDate": 1966,
     "endDate": 1966,
-    "dimension": "sheet: 21.1 x 30.2 cm",
-    "medium": "ink on paperboard",
-    "creditLine": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+    "dimension": {
+        "en": "sheet: 21.1 x 30.2 cm",
+        "zh-hant": "圖像: 21.1 × 30.4 厘米"
+    },
+    "medium": {
+        "en": "ink on paperboard",
+        "zh-hant": "ink on paperboard"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+        "zh-hant": "M+，香港，Alan Fitch家族捐赠，2014年"
+    },
     "constituents": [
         {
             "id": 814,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         },
         {
             "id": 1348,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [

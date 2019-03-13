@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.801",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Blue and Red",
-    "titleOther": "藍與紅",
-    "displayDate": "2014",
-    "displayDateOther": null,
+    "title": {
+        "en": "藍與紅",
+        "zh-hant": "Blue and Red"
+    },
+    "displayDate": {
+        "en": "2014",
+        "zh-hant": null
+    },
     "beginDate": 2014,
     "endDate": 2014,
-    "dimension": "duration: 24 min. 25 sec.",
-    "medium": "HD video (colour, stereo sound)",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "duration: 24 min. 25 sec.",
+        "zh-hant": "影片長度: 24 分 25 秒"
+    },
+    "medium": {
+        "en": "HD video (colour, stereo sound)",
+        "zh-hant": "高清錄像（彩色、有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 607,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

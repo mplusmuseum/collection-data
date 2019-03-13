@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.737",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Every Room is Illuminated",
     "titleOther": "每個房間都被點亮",
@@ -14,13 +23,25 @@
     "displayDateOther": "2008",
     "beginDate": 2009,
     "endDate": 2009,
-    "dimension": "sheet: 113.3 × 139.7 cm\r\r\nimage: 91.9 × 120.1 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet: 113.3 × 139.7 cm\r\r\nimage: 91.9 × 120.1 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 343,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

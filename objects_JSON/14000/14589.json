@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/2/11/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Book/Periodical",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Book/Periodical",
+            "zh-hant": "書藉/期刊"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Clipping from Times of Vietnam, Pavilion Restaurant, Taiwan Golf and Country Club (circa 1963), Tan-shui (Tamsui), Taiwan",
-    "titleOther": "台灣淡水高爾夫球俱樂部（約1963年）會館餐廳剪報，取自《越南時報》",
-    "displayDate": "19 February 1963",
-    "displayDateOther": null,
+    "title": {
+        "en": "台灣淡水高爾夫球俱樂部（約1963年）會館餐廳剪報，取自《越南時報》",
+        "zh-hant": "Clipping from Times of Vietnam, Pavilion Restaurant, Taiwan Golf and Country Club (circa 1963), Tan-shui (Tamsui), Taiwan"
+    },
+    "displayDate": {
+        "en": "19 February 1963",
+        "zh-hant": null
+    },
     "beginDate": 1963,
     "endDate": 1963,
-    "dimension": "sheet: 26.9 x 19.5 cm",
-    "medium": "printing ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 26.9 x 19.5 cm",
+        "zh-hant": "sheet: 26.9 x 19.5 cm"
+    },
+    "medium": {
+        "en": "printing ink on paper",
+        "zh-hant": "printing ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": [

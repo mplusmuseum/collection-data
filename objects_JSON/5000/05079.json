@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.553",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "14-17",
-    "titleOther": "一四之十七",
-    "displayDate": "2014",
-    "displayDateOther": null,
+    "title": {
+        "en": "一四之十七",
+        "zh-hant": "14-17"
+    },
+    "displayDate": {
+        "en": "2014",
+        "zh-hant": null
+    },
     "beginDate": 2014,
     "endDate": 2014,
-    "dimension": "sheet: 136 × 179 cm\r\r\nimage: 122.5 × 165.8 cm",
-    "medium": "acrylic and paper collage on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 136 × 179 cm\r\r\nimage: 122.5 × 165.8 cm",
+        "zh-hant": "紙本: 136 × 179 厘米  圖像: 122.5 × 165.8 厘米"
+    },
+    "medium": {
+        "en": "acrylic and paper collage on canvas",
+        "zh-hant": "塑膠彩及紙拼貼布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1077,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

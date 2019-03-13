@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA2/4",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Series"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Series",
+            "zh-hant": "系列"
+        }
     },
-    "title": "Drawings, Graduate House (1994–1998), The University of Hong Kong, Hong Kong",
-    "titleOther": "香港大學研究生堂（1994至1998年）繪圖",
-    "displayDate": "[1994–1997]",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港大學研究生堂（1994至1998年）繪圖",
+        "zh-hant": "Drawings, Graduate House (1994–1998), The University of Hong Kong, Hong Kong"
+    },
+    "displayDate": {
+        "en": "[1994–1997]",
+        "zh-hant": null
+    },
     "beginDate": 1994,
     "endDate": 1997,
-    "dimension": "7 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+    "dimension": {
+        "en": "7 items",
+        "zh-hant": "7 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+        "zh-hant": "M+，香港，許李嚴建築師事務所捐贈，2013年"
+    },
     "constituents": [
         {
             "id": 543,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.50",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Double Magnet",
     "titleOther": "一對磁鐵",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1973,
     "endDate": 1973,
-    "dimension": "overall: 22 × 13.6 × 9.8 cm",
-    "medium": "magnet",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 22 × 13.6 × 9.8 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "magnet",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 359,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

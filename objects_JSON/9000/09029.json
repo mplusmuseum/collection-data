@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA40/2/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Wasmuth Portfolio: exterior perspective, Darwin Martin House (1903–1907), Buffalo, New York, USA",
-    "titleOther": "《Wasmuth Portfolio》：美國紐約布法羅馬丁別墅（1903至1907年）外部透視圖",
-    "displayDate": "1910",
-    "displayDateOther": null,
+    "title": {
+        "en": "《Wasmuth Portfolio》：美國紐約布法羅馬丁別墅（1903至1907年）外部透視圖",
+        "zh-hant": "Wasmuth Portfolio: exterior perspective, Darwin Martin House (1903–1907), Buffalo, New York, USA"
+    },
+    "displayDate": {
+        "en": "1910",
+        "zh-hant": null
+    },
     "beginDate": 1910,
     "endDate": 1910,
-    "dimension": "sheet: 44.1 × 63.3 cm",
-    "medium": "lithograph on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 44.1 × 63.3 cm",
+        "zh-hant": "sheet: 44.1 × 63.3 cm"
+    },
+    "medium": {
+        "en": "lithograph on paper",
+        "zh-hant": "石印紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 479,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
     "images": [

@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.905",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "We The People (detail)",
-    "titleOther": "我們人民（局部）",
-    "displayDate": "2011–2016",
-    "displayDateOther": null,
+    "title": {
+        "en": "我們人民（局部）",
+        "zh-hant": "We The People (detail)"
+    },
+    "displayDate": {
+        "en": "2011–2016",
+        "zh-hant": null
+    },
     "beginDate": 2011,
     "endDate": 2016,
-    "dimension": "dimensions variable",
-    "medium": "copper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": "尺寸不一"
+    },
+    "medium": {
+        "en": "copper",
+        "zh-hant": "銅"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

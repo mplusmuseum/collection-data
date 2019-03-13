@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.950",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "One or All (Ash column)",
     "titleOther": "一個或所有",
@@ -14,17 +23,32 @@
     "displayDateOther": null,
     "beginDate": 2007,
     "endDate": 2007,
-    "dimension": "overall (approx.): 163 × 76 × 76 cm",
-    "medium": "human-ash column and video",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall (approx.): 163 × 76 × 76 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "human-ash column and video",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 424,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         },
         {
             "id": 368,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

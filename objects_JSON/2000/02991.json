@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1176",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Loose",
     "titleOther": "鬆了",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1995,
     "endDate": 1995,
-    "dimension": "dimensions variable",
-    "medium": "video installation",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "video installation",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 510,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

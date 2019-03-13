@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1489",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Two Red Flags. No. 4",
     "titleOther": "兩面紅旗 第 4號",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "frame: 244 × 184 cm\r\r\nimage: 199.8 × 159.5 cm",
-    "medium": "ink and colour on paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
-    "constituents": null,
+    "dimension": {
+        "en": "frame: 244 × 184 cm\r\r\nimage: 199.8 × 159.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

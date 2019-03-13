@@ -1,24 +1,80 @@
 {
     "id": 493,
-    "sortNumber": null,
+    "sortNumber": "2013   460",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1987,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2013.460",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Drawing",
+            "zh-hant": "繪圖"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "圓明園草圖 7",
+        "zh-hant": "Yuanmingyuan No. 7"
+    },
+    "displayDate": {
+        "en": "1979",
+        "zh-hant": null
+    },
+    "beginDate": 1979,
+    "endDate": 1979,
+    "dimension": {
+        "en": "sheet (sight): 26.3 × 38.6 cm",
+        "zh-hant": "紙本 (目測量度): 26.3 × 38.6 厘米"
+    },
+    "medium": {
+        "en": "sketch on paper",
+        "zh-hant": "草圖紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [
+        {
+            "id": 228,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Pencil drawing on paper in shades of grey of untidily sketched lines forming five wobbly columns rising up from a horizontal line. On the three middle columns, multiple lines overlap and oval shapes are sketched on top. Translucent grey paint is smeared over the right column."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#BAB3A6",
+                "value": 64
+            },
+            {
+                "color": "#8F887C",
+                "value": 28.8
+            },
+            {
+                "color": "#CACAC7",
+                "value": 5.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 98.3
+                }
+            ]
         }
     }
 }

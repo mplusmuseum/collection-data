@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.782",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Model",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Model",
+            "zh-hant": "建築模型"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Model, House with Stairs project",
-    "titleOther": "有樓梯的住宅項目模型",
-    "displayDate": "1997",
-    "displayDateOther": null,
+    "title": {
+        "en": "有樓梯的住宅項目模型",
+        "zh-hant": "Model, House with Stairs project"
+    },
+    "displayDate": {
+        "en": "1997",
+        "zh-hant": null
+    },
     "beginDate": 1976,
     "endDate": 1976,
-    "dimension": "overall: 80.6 × 33.3 × 78 cm",
-    "medium": "wood",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 80.6 × 33.3 × 78 cm",
+        "zh-hant": "整體: 80.6 × 33.3 × 78 厘米"
+    },
+    "medium": {
+        "en": "wood",
+        "zh-hant": "木"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 252,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
     "images": [

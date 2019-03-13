@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.81",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Nirvana",
-    "titleOther": "涅槃",
-    "displayDate": "1981",
-    "displayDateOther": null,
+    "title": {
+        "en": "涅槃",
+        "zh-hant": "Nirvana"
+    },
+    "displayDate": {
+        "en": "1981",
+        "zh-hant": null
+    },
     "beginDate": 1981,
     "endDate": 1981,
-    "dimension": "overall: 67 × 84 × 70 cm",
-    "medium": "enameled steel and brass-plated steel",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 67 × 84 × 70 cm",
+        "zh-hant": "整體: 67 × 84 × 70 厘米"
+    },
+    "medium": {
+        "en": "enameled steel and brass-plated steel",
+        "zh-hant": "著漆鋼料、鍍銅鋼料"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1485,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

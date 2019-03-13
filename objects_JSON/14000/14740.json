@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/2/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Photography",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Photograph, Wang Dahong and his Voisin car (Avions Voisin C25) in Paris, 1937",
-    "titleOther": "王大閎與其座駕Avions Voisin C25攝於1937年巴黎的照片",
-    "displayDate": "1937",
-    "displayDateOther": null,
+    "title": {
+        "en": "王大閎與其座駕Avions Voisin C25攝於1937年巴黎的照片",
+        "zh-hant": "Photograph, Wang Dahong and his Voisin car (Avions Voisin C25) in Paris, 1937"
+    },
+    "displayDate": {
+        "en": "1937",
+        "zh-hant": null
+    },
     "beginDate": 1937,
     "endDate": 1937,
-    "dimension": "sheet: 21 x 27.8 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 21 x 27.8 cm",
+        "zh-hant": "sheet: 21 x 27.8 cm"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "gelatin silver print"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": [

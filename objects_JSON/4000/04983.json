@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.32",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hong Kong (LON156472)",
-    "titleOther": "香港（LON156472）",
-    "displayDate": "2013",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港（LON156472）",
+        "zh-hant": "Hong Kong (LON156472)"
+    },
+    "displayDate": {
+        "en": "2013",
+        "zh-hant": null
+    },
     "beginDate": 2013,
     "endDate": 2013,
-    "dimension": "Image Size: 50.8 × 76.2 cm",
-    "medium": "pigment print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "Image Size: 50.8 × 76.2 cm",
+        "zh-hant": "圖像： 50.8 × 76.2 厘米"
+    },
+    "medium": {
+        "en": "pigment print",
+        "zh-hant": "噴墨打印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

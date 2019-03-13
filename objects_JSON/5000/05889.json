@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.108",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Design Object",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Design Object",
+            "zh-hant": "設計物件"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Red A jelly moulds, no. 314",
-    "titleOther": "紅A牌啫喱杯，型號314",
-    "displayDate": "1960s–1980s",
-    "displayDateOther": "1960至1980年代",
+    "title": {
+        "en": "紅A牌啫喱杯，型號314",
+        "zh-hant": "Red A jelly moulds, no. 314"
+    },
+    "displayDate": {
+        "en": "1960至1980年代",
+        "zh-hant": "1960s–1980s"
+    },
     "beginDate": 1960,
     "endDate": 1989,
-    "dimension": "overall (each): 4.5 × 7.5 x 7.5cm",
-    "medium": "polystyrene",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (each): 4.5 × 7.5 x 7.5cm",
+        "zh-hant": "整體 (各): 4.5 × 7.5 x 7.5 厘米"
+    },
+    "medium": {
+        "en": "polystyrene",
+        "zh-hant": "聚苯乙烯"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 68,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.212",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Static No. 23 (Revolve)",
-    "titleOther": "靜力23號（迴轉）",
-    "displayDate": "2017",
-    "displayDateOther": null,
+    "title": {
+        "en": "靜力23號（迴轉）",
+        "zh-hant": "Static No. 23 (Revolve)"
+    },
+    "displayDate": {
+        "en": "2017",
+        "zh-hant": null
+    },
     "beginDate": 2017,
     "endDate": 2017,
-    "dimension": "duration: 5 min. 45 sec.",
-    "medium": "single-channel video (colour, sound)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 5 min. 45 sec.",
+        "zh-hant": "影片長度：5分45秒"
+    },
+    "medium": {
+        "en": "single-channel video (colour, sound)",
+        "zh-hant": "單頻道錄像（ 彩色，有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

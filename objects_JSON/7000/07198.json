@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.160",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Textile",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Textile",
+            "zh-hant": "紡織品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Climatology_Respired Wooden Skin",
-    "titleOther": null,
-    "displayDate": "2013",
-    "displayDateOther": null,
+    "title": {
+        "en": "Climatology_Respired Wooden Skin",
+        "zh-hant": null
+    },
+    "displayDate": {
+        "en": "2013",
+        "zh-hant": null
+    },
     "beginDate": 2013,
     "endDate": 2013,
-    "dimension": "overall (each, approx. ): 20 × 15 × 5 cm",
-    "medium": "wood veneer, light reflective material, glass bead, reactive pigment, resin, and textiles",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (each, approx. ): 20 × 15 × 5 cm",
+        "zh-hant": "整體約 (各): 20 × 15 × 5 厘米"
+    },
+    "medium": {
+        "en": "wood veneer, light reflective material, glass bead, reactive pigment, resin, and textiles",
+        "zh-hant": "薄木片、反光物料、玻璃珠、反應性染料、樹脂、紡織品"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1744,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

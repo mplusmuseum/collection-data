@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2014.104",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Design Object",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Design Object",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Lamp (Oba-Q)",
     "titleOther": "燈（Oba-Q）",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1972,
     "endDate": 1972,
-    "dimension": "overall: 55 × 64 × 63 cm\r\r\nother (cord): 175 cm",
-    "medium": "tinted acrylic and painted metal",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 55 × 64 × 63 cm\r\r\nother (cord): 175 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "tinted acrylic and painted metal",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 252,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

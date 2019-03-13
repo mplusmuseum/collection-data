@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.411",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The End of the Road — The squatters. Settlement of poor Chinese refugees outside Hong Kong.",
-    "titleOther": "路的盡頭──寮屋居民。位於香港以外的貧困中國難民營。",
-    "displayDate": "1952",
-    "displayDateOther": null,
+    "title": {
+        "en": "路的盡頭──寮屋居民。位於香港以外的貧困中國難民營。",
+        "zh-hant": "The End of the Road — The squatters. Settlement of poor Chinese refugees outside Hong Kong."
+    },
+    "displayDate": {
+        "en": "1952",
+        "zh-hant": null
+    },
     "beginDate": 1952,
     "endDate": 1952,
-    "dimension": "sheet: 25.3 × 20.4 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 25.3 × 20.4 cm",
+        "zh-hant": "紙本: 25.3 × 20.4 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 964,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.10",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Man and Woman #18",
-    "titleOther": "男人與女人，作品18",
-    "displayDate": "photographed 1959, printed 1960s",
-    "displayDateOther": "1959年拍攝，1960年代印刷",
+    "title": {
+        "en": "男人與女人，作品18",
+        "zh-hant": "Man and Woman #18"
+    },
+    "displayDate": {
+        "en": "1959年拍攝，1960年代印刷",
+        "zh-hant": "photographed 1959, printed 1960s"
+    },
     "beginDate": 1959,
     "endDate": 1969,
-    "dimension": "sheet: 31 × 25.4 cm\r\r\nimage: 30.3 × 19.6 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 31 × 25.4 cm\r\r\nimage: 30.3 × 19.6 cm",
+        "zh-hant": "紙本: 31 × 25.4 厘米  圖像: 30.3 × 19.6 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 2821,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

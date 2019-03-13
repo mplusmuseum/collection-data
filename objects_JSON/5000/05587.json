@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2016.312",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Getsuen prototype",
-    "titleOther": "月苑（原型）",
-    "displayDate": "1989",
-    "displayDateOther": null,
+    "title": {
+        "en": "月苑（原型）",
+        "zh-hant": "Getsuen prototype"
+    },
+    "displayDate": {
+        "en": "1989",
+        "zh-hant": null
+    },
     "beginDate": 1989,
     "endDate": 1989,
-    "dimension": "overall: 81 × 106 × 85 cm",
-    "medium": "velvet, steel, wood, plastic, and polyurethane foam",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 81 × 106 × 85 cm",
+        "zh-hant": "整體: 81 × 106 × 85 厘米"
+    },
+    "medium": {
+        "en": "velvet, steel, wood, plastic, and polyurethane foam",
+        "zh-hant": "絲絨、鋼、木、塑膠、聚氨酯泡沫塑料"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1162,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
             "id": 1172,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/41",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Transcription of the poem 'The Plot against the Giant', by Wallace Stevens",
-    "titleOther": "華萊士·史蒂文斯詩作〈The Plot against the Giant〉抄本",
-    "displayDate": "[1950s–2000s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "華萊士·史蒂文斯詩作〈The Plot against the Giant〉抄本",
+        "zh-hant": "Transcription of the poem 'The Plot against the Giant', by Wallace Stevens"
+    },
+    "displayDate": {
+        "en": "[1950s–2000s]",
+        "zh-hant": null
+    },
     "beginDate": 1951,
     "endDate": 2009,
-    "dimension": "sheet: 27 x 19 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 27 x 19 cm",
+        "zh-hant": "sheet: 27 x 19 cm"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

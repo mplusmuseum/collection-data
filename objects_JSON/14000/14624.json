@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/2/22/4",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Copy cadastral map, Chen's house (circa 1979), Tianmu, Taipei, Taiwan",
-    "titleOther": "台灣台北市天母陳重義住宅（約1979年）地籍圖複本",
-    "displayDate": "9 September 1993",
-    "displayDateOther": null,
+    "title": {
+        "en": "台灣台北市天母陳重義住宅（約1979年）地籍圖複本",
+        "zh-hant": "Copy cadastral map, Chen's house (circa 1979), Tianmu, Taipei, Taiwan"
+    },
+    "displayDate": {
+        "en": "9 September 1993",
+        "zh-hant": null
+    },
     "beginDate": 1993,
     "endDate": 1993,
-    "dimension": "sheet: 29.8 x 42 cm",
-    "medium": "photocopy, graphite, and marker on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 29.8 x 42 cm",
+        "zh-hant": "sheet: 29.8 x 42 cm"
+    },
+    "medium": {
+        "en": "photocopy, graphite, and marker on paper",
+        "zh-hant": "photocopy, graphite, and marker on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": [

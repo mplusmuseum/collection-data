@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.315",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "How to Relax on the Plateau—Biography of Changyao",
     "titleOther": "高原生活指南：一個詩人——耀昌",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "overall: 139.9 × 179.9 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 139.9 × 179.9 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 171,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

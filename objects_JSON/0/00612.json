@@ -1,24 +1,84 @@
 {
     "id": 612,
-    "sortNumber": null,
+    "sortNumber": "2012  2050",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1960,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.2050",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "1080年，桂林，出售盆景和假山。",
+        "zh-hant": "China After Mao. 1980 Guilin, Selling miniature trees and rockeries"
+    },
+    "displayDate": {
+        "en": "1980",
+        "zh-hant": null
+    },
+    "beginDate": 1980,
+    "endDate": 1980,
+    "dimension": {
+        "en": "overall: 89 × 61 × 2.2 cm\r\r\nimage: 78 × 51 cm",
+        "zh-hant": "整體: 89 × 61 × 2.2 厘米\r\r\n圖像: 78 × 51 厘米"
+    },
+    "medium": {
+        "en": "photographic mount on plastic",
+        "zh-hant": "照片裱於膠版"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Liu Heung-Shing, 2012",
+        "zh-hant": "M+，香港，劉香成捐贈，2012年"
+    },
+    "constituents": [
+        {
+            "id": 303,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D9D9D9",
+                "value": 66.7
+            },
+            {
+                "color": "#828282",
+                "value": 17.8
+            },
+            {
+                "color": "#292929",
+                "value": 15.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 17.8
+                },
+                {
+                    "color": "white",
+                    "value": 66.7
+                },
+                {
+                    "color": "black",
+                    "value": 15.5
+                }
+            ]
         }
     }
 }

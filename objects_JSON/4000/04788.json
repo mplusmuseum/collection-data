@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.437",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "The Years Between— A Beaton in Fukien province: Cecil Beaton recalls that as one of the most impressive human faces he has ever encountered",
     "titleOther": "那些年間──福建省的比頓先生：塞西爾．比頓憶述，那是一張教他印象難忘的臉",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1944,
     "endDate": 1944,
-    "dimension": "sheet: 30 × 25.7 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 30 × 25.7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

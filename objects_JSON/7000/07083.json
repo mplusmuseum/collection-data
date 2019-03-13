@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2017.57",
     "classification": {
-        "area": "Visual Art",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Spreading out New Clothes at a Bumper Harvest Market, poster",
-    "titleOther": "《豐收場上披新衣》海報",
-    "displayDate": "early 1970s",
-    "displayDateOther": "1970年代初",
+    "title": {
+        "en": "《豐收場上披新衣》海報",
+        "zh-hant": "Spreading out New Clothes at a Bumper Harvest Market, poster"
+    },
+    "displayDate": {
+        "en": "1970年代初",
+        "zh-hant": "early 1970s"
+    },
     "beginDate": 1970,
     "endDate": 1973,
-    "dimension": "sheet: 52.9 × 76.9 cm",
-    "medium": "offset lithograph",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 52.9 × 76.9 cm",
+        "zh-hant": "紙本: 52.9 × 76.9 厘米"
+    },
+    "medium": {
+        "en": "offset lithograph",
+        "zh-hant": "柯式石印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1530,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         },
         {
             "id": 1671,
-            "role": "Publisher"
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
         }
     ],
     "images": [],

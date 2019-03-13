@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.18",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "The Key Crux",
     "titleOther": "關鍵",
@@ -14,13 +23,25 @@
     "displayDateOther": "1979年，2005年印刷",
     "beginDate": 1979,
     "endDate": 2005,
-    "dimension": "sheet (sight): 50.7 × 39.5 cm\r\nimage (sight): 45 × 33.7 cm",
-    "medium": "woodcut",
-    "creditLine": "M+ Sigg Collection, Hong Kong",
+    "dimension": {
+        "en": "sheet (sight): 50.7 × 39.5 cm\r\nimage (sight): 45 × 33.7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "woodcut",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 333,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "I AM A MONUMENT—CCTV Wardrobe",
-    "titleOther": "我是一座紀念碑──CCTV衣櫃",
-    "displayDate": "2012, made 2016",
-    "displayDateOther": "2012年，2016年製造",
+    "title": {
+        "en": "我是一座紀念碑──CCTV衣櫃",
+        "zh-hant": "I AM A MONUMENT—CCTV Wardrobe"
+    },
+    "displayDate": {
+        "en": "2012年，2016年製造",
+        "zh-hant": "2012, made 2016"
+    },
     "beginDate": 2012,
     "endDate": 2016,
-    "dimension": "overall (closed): 221 × 150 × 150 cm",
-    "medium": "bubinga, stainless steel, and mirror",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (closed): 221 × 150 × 150 cm",
+        "zh-hant": "整體 (合上): 221 × 150 × 150 厘米"
+    },
+    "medium": {
+        "en": "bubinga, stainless steel, and mirror",
+        "zh-hant": "非洲玫瑰木、不鏽鋼、鏡片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1650,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

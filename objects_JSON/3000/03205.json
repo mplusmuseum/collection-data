@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1373",
     "classification": {
-        "area": "Visual Art",
-        "category": "Performance",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Performance",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Moo-cow!",
     "titleOther": "牛哞啦!",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2002,
     "endDate": 2002,
-    "dimension": "duration: 5 min. 28 sec.",
-    "medium": "video (colour, sound)",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 5 min. 28 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "video (colour, sound)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

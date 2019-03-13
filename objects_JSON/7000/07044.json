@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.802",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Clear Conclusion of Clearness",
-    "titleOther": "澄者自澄",
-    "displayDate": "1965",
-    "displayDateOther": null,
+    "title": {
+        "en": "澄者自澄",
+        "zh-hant": "Clear Conclusion of Clearness"
+    },
+    "displayDate": {
+        "en": "1965",
+        "zh-hant": null
+    },
     "beginDate": 1965,
     "endDate": 1965,
-    "dimension": "frame: 89.1 × 119 × 5.1 cm\r\r\nimage: 61.6 × 91.1 cm",
-    "medium": "ink and colour on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 89.1 × 119 × 5.1 cm\r\r\nimage: 61.6 × 91.1 cm",
+        "zh-hant": "連框: 89.1 × 119 × 5.1 厘米  圖像: 61.6 × 91.1 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": "水墨設色紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1633,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

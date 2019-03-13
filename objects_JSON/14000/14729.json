@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/40",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Transcription of poem, 'Le papillon et la fleur', by Victor Hugo",
-    "titleOther": "雨果詩作〈蝴蝶與花〉抄本",
-    "displayDate": "[1990s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "雨果詩作〈蝴蝶與花〉抄本",
+        "zh-hant": "Transcription of poem, 'Le papillon et la fleur', by Victor Hugo"
+    },
+    "displayDate": {
+        "en": "[1990s]",
+        "zh-hant": null
+    },
     "beginDate": 1990,
     "endDate": 1999,
-    "dimension": "sheet: 30.4 x 20.7 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 30.4 x 20.7 cm",
+        "zh-hant": "sheet: 30.4 x 20.7 cm"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

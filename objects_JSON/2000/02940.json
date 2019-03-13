@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1479",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Large Wallet",
     "titleOther": "大錢包",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2006,
     "endDate": 2006,
-    "dimension": "duration: 12 min. 40 sec.",
-    "medium": "leather and video installation",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "duration: 12 min. 40 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "leather and video installation",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 609,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

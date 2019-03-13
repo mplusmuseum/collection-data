@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2016.90",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Rainbow Moon",
     "titleOther": "彩虹月",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1987,
     "endDate": 1987,
-    "dimension": "74.9 × 52.7 cm",
-    "medium": "pencil, coloured pencil, and gold leaf on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "74.9 × 52.7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "pencil, coloured pencil, and gold leaf on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

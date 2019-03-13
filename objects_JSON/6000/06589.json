@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.788",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Black & White Mustard Seed Garden (Tale of the 11th Day Series)",
-    "titleOther": "白描芥子園 (十一日談系列)",
-    "displayDate": "2009–2014",
-    "displayDateOther": null,
+    "title": {
+        "en": "白描芥子園 (十一日談系列)",
+        "zh-hant": "Black & White Mustard Seed Garden (Tale of the 11th Day Series)"
+    },
+    "displayDate": {
+        "en": "2009–2014",
+        "zh-hant": null
+    },
     "beginDate": 2009,
     "endDate": 2014,
-    "dimension": "overall (approx.): 275.5 × 1160 × 5 cm",
-    "medium": "ink and mineral colours on silk, mounted on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (approx.): 275.5 × 1160 × 5 cm",
+        "zh-hant": "整體 （約）: 275.5 × 1160 × 5 厘米"
+    },
+    "medium": {
+        "en": "ink and mineral colours on silk, mounted on canvas",
+        "zh-hant": "水墨礦彩絹本裱於畫布"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 525,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

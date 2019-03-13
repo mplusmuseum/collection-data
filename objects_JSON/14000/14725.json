@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/36",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Notes of hors d'oeuvres and definitions of some English idioms",
-    "titleOther": "英文筆記，內容包括前菜名字和一些英文俚語的定義",
-    "displayDate": "[1990s–2000s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "英文筆記，內容包括前菜名字和一些英文俚語的定義",
+        "zh-hant": "Notes of hors d'oeuvres and definitions of some English idioms"
+    },
+    "displayDate": {
+        "en": "[1990s–2000s]",
+        "zh-hant": null
+    },
     "beginDate": 1990,
     "endDate": 2009,
-    "dimension": "sheet: 27.5 x 21 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 27.5 x 21 cm",
+        "zh-hant": "sheet: 27.5 x 21 cm"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

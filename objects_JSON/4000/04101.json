@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.15",
     "classification": {
-        "area": "Moving Image",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "4th l̶i̶g̶h̶t̶",
     "titleOther": "第四道光",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2006,
     "endDate": 2006,
-    "dimension": "duration: 14 min.",
-    "medium": "digital video (colour, silent)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 14 min.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "digital video (colour, silent)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

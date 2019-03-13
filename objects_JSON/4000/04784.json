@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2016.264",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Maiden",
     "titleOther": "少女",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1951,
     "endDate": 1951,
-    "dimension": "sheet: 17.9 × 24.1 cm",
-    "medium": "photo collage",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 17.9 × 24.1 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "photo collage",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.311",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "How to Relax on the Plateau—The Story of an Art Lover No. 4",
     "titleOther": "高原生活指南：一個美術愛好者的故事第4號",
@@ -14,13 +23,25 @@
     "displayDateOther": "2008",
     "beginDate": 2007,
     "endDate": 2007,
-    "dimension": "overall: 50 × 60 × 4 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 50 × 60 × 4 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 171,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

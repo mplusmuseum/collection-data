@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA7",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Fonds"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Fonds",
+            "zh-hant": "全宗"
+        }
     },
-    "title": "Zhu Pei Drawings",
-    "titleOther": "朱錇作品繪圖",
-    "displayDate": "2001–2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "朱錇作品繪圖",
+        "zh-hant": "Zhu Pei Drawings"
+    },
+    "displayDate": {
+        "en": "2001–2008",
+        "zh-hant": null
+    },
     "beginDate": 2001,
     "endDate": 2008,
-    "dimension": "9 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong. Gift of Studio Pei-Zhu, 2013",
+    "dimension": {
+        "en": "9 items",
+        "zh-hant": "9 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Studio Pei-Zhu, 2013",
+        "zh-hant": "M+, Hong Kong. Gift of Studio Pei-Zhu, 2013"
+    },
     "constituents": [
         {
             "id": 70,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

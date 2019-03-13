@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.947",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Civilization Pillar",
     "titleOther": "文明柱",
@@ -14,17 +23,32 @@
     "displayDateOther": null,
     "beginDate": 2001,
     "endDate": 2001,
-    "dimension": "overall (approx.): 447 × 100 × 100 cm",
-    "medium": "human fat, wax, and metal",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall (approx.): 447 × 100 × 100 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "human fat, wax, and metal",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 424,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         },
         {
             "id": 368,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [],

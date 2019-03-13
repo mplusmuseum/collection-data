@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.949",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Old People's Home",
     "titleOther": "老人院",
@@ -14,17 +23,32 @@
     "displayDateOther": null,
     "beginDate": 2007,
     "endDate": 2007,
-    "dimension": "dimensions variable",
-    "medium": "mobile installation of 13 lifesize sculptures seated in 13 dynamo-electric wheelchairs",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "mobile installation of 13 lifesize sculptures seated in 13 dynamo-electric wheelchairs",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 424,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         },
         {
             "id": 368,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

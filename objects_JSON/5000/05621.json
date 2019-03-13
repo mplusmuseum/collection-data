@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.8",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Money",
-    "titleOther": "錢",
-    "displayDate": "1975",
-    "displayDateOther": null,
+    "title": {
+        "en": "錢",
+        "zh-hant": "Money"
+    },
+    "displayDate": {
+        "en": "1975",
+        "zh-hant": null
+    },
     "beginDate": 1975,
     "endDate": 1975,
-    "dimension": "overall: 18.9 × 39.2 × 36.6 cm",
-    "medium": "paper and cord",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 18.9 × 39.2 × 36.6 cm",
+        "zh-hant": "整體： 18.9 × 39.2 × 36.6 厘米"
+    },
+    "medium": {
+        "en": "paper and cord",
+        "zh-hant": "紙、繩"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.44",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Meeting room of the Standing Committee of the National People's Congress",
-    "titleOther": "全國人民代表大會常務委員會會議廳",
-    "displayDate": "1964",
-    "displayDateOther": null,
+    "title": {
+        "en": "全國人民代表大會常務委員會會議廳",
+        "zh-hant": "Meeting room of the Standing Committee of the National People's Congress"
+    },
+    "displayDate": {
+        "en": "1964",
+        "zh-hant": null
+    },
     "beginDate": 1959,
     "endDate": 1959,
-    "dimension": "overall (mount board): 37.2 × 52.5 cm\r\nsheet: 24.6 × 39.6 cm",
-    "medium": "hand-painted colour photograph",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (mount board): 37.2 × 52.5 cm\r\nsheet: 24.6 × 39.6 cm",
+        "zh-hant": "整體 （連板）: 37.2 × 52.5 厘米 紙本: 24.6 × 39.6 厘米"
+    },
+    "medium": {
+        "en": "hand-painted colour photograph",
+        "zh-hant": "手工上色照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1675,
-            "role": "Publisher"
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
         }
     ],
     "images": [

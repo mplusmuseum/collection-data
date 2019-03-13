@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CL.2015.1.15",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Book/Periodical",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Book/Periodical",
+            "zh-hant": "書藉/期刊"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "PEDDERZINE No. 16 \"The Secret Diary of Jayne Min\" Spring/Summer 2015",
-    "titleOther": "PEDDERZINE第16期：Jayne Min 的秘密日記",
-    "displayDate": "2015",
-    "displayDateOther": null,
+    "title": {
+        "en": "PEDDERZINE第16期：Jayne Min 的秘密日記",
+        "zh-hant": "PEDDERZINE No. 16 \"The Secret Diary of Jayne Min\" Spring/Summer 2015"
+    },
+    "displayDate": {
+        "en": "2015",
+        "zh-hant": null
+    },
     "beginDate": 2015,
     "endDate": 2015,
-    "dimension": "overall (closed): 0.6 × 22 × 30.4 cm\r\r\noverall (open): 40.8 × 30.4 cm",
-    "medium": "offset print on paper",
-    "creditLine": "M+, Hong Kong. Gift of WORK, 2014",
+    "dimension": {
+        "en": "overall (closed): 0.6 × 22 × 30.4 cm\r\r\noverall (open): 40.8 × 30.4 cm",
+        "zh-hant": "整體 （合上）: 0.6 × 22 × 30.4 厘米  整體 (打開): 40.8 × 30.4 厘米"
+    },
+    "medium": {
+        "en": "offset print on paper",
+        "zh-hant": "柯式印刷紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of WORK, 2014",
+        "zh-hant": "M+，香港，WORK捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 846,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         },
         {
             "id": 1302,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

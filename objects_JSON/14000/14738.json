@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/49",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Draft organisational outline, 'Outlines of \"Bauhaus\" organization in free China'",
-    "titleOther": "〈Outlines of \"Bauhaus\" organization in free China〉，機構概述草稿",
-    "displayDate": "May 1961",
-    "displayDateOther": null,
+    "title": {
+        "en": "〈Outlines of \"Bauhaus\" organization in free China〉，機構概述草稿",
+        "zh-hant": "Draft organisational outline, 'Outlines of \"Bauhaus\" organization in free China'"
+    },
+    "displayDate": {
+        "en": "May 1961",
+        "zh-hant": null
+    },
     "beginDate": 1961,
     "endDate": 1961,
-    "dimension": "sheet: 27.8 x 20.9 cm",
-    "medium": "carbon  copy and graphite on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 27.8 x 20.9 cm",
+        "zh-hant": "sheet: 27.8 x 20.9 cm"
+    },
+    "medium": {
+        "en": "carbon  copy and graphite on paper",
+        "zh-hant": "carbon  copy and graphite on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

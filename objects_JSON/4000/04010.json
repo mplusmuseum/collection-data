@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2014.117",
     "classification": {
-        "area": "Visual Art",
-        "category": "Collage",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Collage",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Accumulation No.14a",
     "titleOther": "積累 No.14a",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1962,
     "endDate": 1962,
-    "dimension": "frame: 68 × 82.7 × 4.5 cm\r\r\nsheet (sight): 50 × 65 cm",
-    "medium": "airmail stickers on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "frame: 68 × 82.7 × 4.5 cm\r\r\nsheet (sight): 50 × 65 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "airmail stickers on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

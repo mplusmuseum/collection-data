@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2016.15",
     "classification": {
-        "area": "Visual Art",
-        "category": "Collage",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Collage",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Time Memory 13",
     "titleOther": "時憶13",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2012,
     "endDate": 2012,
-    "dimension": "overall: 297.3 × 210 × 11 cm",
-    "medium": "oil, oil stain, colourant, watercolour, poster colour, ink, ink-jet, glue, printed matter, sand, wood, cheesecloth, billboard paper, Japanese paper, wrapping paper, rice paper, foil paper, and canvas on wooden panel",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 297.3 × 210 × 11 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil, oil stain, colourant, watercolour, poster colour, ink, ink-jet, glue, printed matter, sand, wood, cheesecloth, billboard paper, Japanese paper, wrapping paper, rice paper, foil paper, and canvas on wooden panel",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

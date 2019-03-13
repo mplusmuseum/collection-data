@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.246",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Asian Circumscription–8.1 Square Meters No.20101021",
     "titleOther": "亞洲地境-8.1平方米 No.20101021",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "overall: 180 × 451.5 × 6 cm",
-    "medium": "acrylic on canvas",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 180 × 451.5 × 6 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "acrylic on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 144,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

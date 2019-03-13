@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.330",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Into the City",
     "titleOther": "進城",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2004,
     "endDate": 2004,
-    "dimension": null,
-    "medium": "mixed media",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": null,
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "mixed media",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 175,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

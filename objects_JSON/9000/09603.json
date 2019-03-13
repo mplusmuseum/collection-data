@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.350",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video Installation",
+            "zh-hant": "錄像裝置"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "She Said Why Me",
-    "titleOther": "為何是她",
-    "displayDate": "2016",
-    "displayDateOther": null,
+    "title": {
+        "en": "為何是她",
+        "zh-hant": "She Said Why Me"
+    },
+    "displayDate": {
+        "en": "2016",
+        "zh-hant": null
+    },
     "beginDate": 2016,
     "endDate": 2016,
-    "dimension": "duration: 9 min.",
-    "medium": "HDV transferred to digital (colour, stereo sound)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 9 min.",
+        "zh-hant": "影片長度：9分"
+    },
+    "medium": {
+        "en": "HDV transferred to digital (colour, stereo sound)",
+        "zh-hant": "HDV轉載於數碼錄像（彩色，有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

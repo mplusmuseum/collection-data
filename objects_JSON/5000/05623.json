@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.12",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Paper Tree",
-    "titleOther": "紙樹",
-    "displayDate": "1970s",
-    "displayDateOther": "1970年代",
+    "title": {
+        "en": "紙樹",
+        "zh-hant": "Paper Tree"
+    },
+    "displayDate": {
+        "en": "1970年代",
+        "zh-hant": "1970s"
+    },
     "beginDate": 1970,
     "endDate": 1979,
-    "dimension": "dimensions variable",
-    "medium": "paper and branches",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": "尺寸不一"
+    },
+    "medium": {
+        "en": "paper and branches",
+        "zh-hant": "紙、樹枝"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

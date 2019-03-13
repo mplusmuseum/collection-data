@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1148",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Urban Fiction. Image 17",
     "titleOther": "都市演繹 （圖十七）",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2006,
     "endDate": 2006,
-    "dimension": "overall: 159.5 × 217 × 1.3 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 159.5 × 217 × 1.3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 500,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.241",
     "classification": {
-        "area": "Visual Art",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled",
-    "titleOther": "無題",
-    "displayDate": "early 1970s",
-    "displayDateOther": "1970年代初",
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "1970年代初",
+        "zh-hant": "early 1970s"
+    },
     "beginDate": 1973,
     "endDate": 1973,
-    "dimension": "sheet: 25.3 × 30.7 cm\r\r\nimage: 19.8 × 29.1 cm",
-    "medium": "print on baryta paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 25.3 × 30.7 cm\r\r\nimage: 19.8 × 29.1 cm",
+        "zh-hant": "紙本: 25.3 × 30.7 厘米  圖像: 19.8 × 29.1 厘米"
+    },
+    "medium": {
+        "en": "print on baryta paper",
+        "zh-hant": "鋇地紙基照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1156,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

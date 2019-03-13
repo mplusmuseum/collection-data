@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.315",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Entangled",
-    "titleOther": "迷亂",
-    "displayDate": "1968",
-    "displayDateOther": null,
+    "title": {
+        "en": "迷亂",
+        "zh-hant": "Entangled"
+    },
+    "displayDate": {
+        "en": "1968",
+        "zh-hant": null
+    },
     "beginDate": 1968,
     "endDate": 1968,
-    "dimension": "overall: 104 × 70.5 cm\r\r\nimage: 96 × 61 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 104 × 70.5 cm\r\r\nimage: 96 × 61 cm",
+        "zh-hant": "整體: 104 × 70.5 厘米\r\r\n圖像: 96 × 61 厘米"
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": "油彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1098,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

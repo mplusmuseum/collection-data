@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA22/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Ephemera",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Ephemera",
+            "zh-hant": "Ephemera"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Letterhead, Electric Aktiengesellschaft",
-    "titleOther": "Electric Aktiengesellschaft電力公司信頭",
-    "displayDate": "[1965 or 1966]",
-    "displayDateOther": null,
+    "title": {
+        "en": "Electric Aktiengesellschaft電力公司信頭",
+        "zh-hant": "Letterhead, Electric Aktiengesellschaft"
+    },
+    "displayDate": {
+        "en": "[1965 or 1966]",
+        "zh-hant": null
+    },
     "beginDate": 1965,
     "endDate": 1966,
-    "dimension": "sheet: 30.2 x 21.3 cm",
-    "medium": "printing ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Kan Tai Keung, 2017",
+    "dimension": {
+        "en": "sheet: 30.2 x 21.3 cm",
+        "zh-hant": "sheet: 30.2 x 21.3 cm"
+    },
+    "medium": {
+        "en": "printing ink on paper",
+        "zh-hant": "printing ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Kan Tai Keung, 2017",
+        "zh-hant": "M+，香港，靳埭強捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 1710,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [],

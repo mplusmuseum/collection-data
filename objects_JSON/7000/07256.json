@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.606",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Gakken Keisan dial toy",
-    "titleOther": "學研計算轉盤玩具",
-    "displayDate": "1959",
-    "displayDateOther": null,
+    "title": {
+        "en": "學研計算轉盤玩具",
+        "zh-hant": "Gakken Keisan dial toy"
+    },
+    "displayDate": {
+        "en": "1959",
+        "zh-hant": null
+    },
     "beginDate": 1965,
     "endDate": 1965,
-    "dimension": "overall: 2.1 × 22.2 × 10.8 cm",
-    "medium": "plastic",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 2.1 × 22.2 × 10.8 cm",
+        "zh-hant": "整體： 2.1 × 22.2 × 10.8 厘米"
+    },
+    "medium": {
+        "en": "plastic",
+        "zh-hant": "塑膠"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

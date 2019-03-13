@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/34",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Fragment of a draft essay, 'Tempus flugit'",
-    "titleOther": "題為〈Tempus flugit〉的文章草稿，取自文章某部分",
-    "displayDate": "[1950s–1980s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "題為〈Tempus flugit〉的文章草稿，取自文章某部分",
+        "zh-hant": "Fragment of a draft essay, 'Tempus flugit'"
+    },
+    "displayDate": {
+        "en": "[1950s–1980s]",
+        "zh-hant": null
+    },
     "beginDate": 1950,
     "endDate": 1989,
-    "dimension": "sheet: 29.9 x 21 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 29.9 x 21 cm",
+        "zh-hant": "sheet: 29.9 x 21 cm"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

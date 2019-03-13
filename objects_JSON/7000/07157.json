@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.45",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": "版畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Album cover, Tat Ming Pair: Tat Ming Pair",
-    "titleOther": "《達明一派》同名歌曲專輯封套",
-    "displayDate": "1982",
-    "displayDateOther": null,
+    "title": {
+        "en": "《達明一派》同名歌曲專輯封套",
+        "zh-hant": "Album cover, Tat Ming Pair: Tat Ming Pair"
+    },
+    "displayDate": {
+        "en": "1982",
+        "zh-hant": null
+    },
     "beginDate": 1986,
     "endDate": 1986,
-    "dimension": "overall: 31.2 × 31.3 × 0.3 cm",
-    "medium": "lithograph ink on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 31.2 × 31.3 × 0.3 cm",
+        "zh-hant": "整體： 31.2 × 31.3 × 0.3 厘米"
+    },
+    "medium": {
+        "en": "lithograph ink on paper",
+        "zh-hant": "平板印墨紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

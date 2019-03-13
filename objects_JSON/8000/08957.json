@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.309",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Ngau Tam Mei",
-    "titleOther": "牛潭尾",
-    "displayDate": "1959",
-    "displayDateOther": null,
+    "title": {
+        "en": "牛潭尾",
+        "zh-hant": "Ngau Tam Mei"
+    },
+    "displayDate": {
+        "en": "1959",
+        "zh-hant": null
+    },
     "beginDate": 1959,
     "endDate": 1959,
-    "dimension": "overall: 20 × 53.1 cm",
-    "medium": "oil on board",
-    "creditLine": "M+, Hong Kong. Gift of the artist, 2017",
+    "dimension": {
+        "en": "overall: 20 × 53.1 cm",
+        "zh-hant": "整體: 20 × 53.1 厘米"
+    },
+    "medium": {
+        "en": "oil on board",
+        "zh-hant": "油彩、木板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of the artist, 2017",
+        "zh-hant": "M+，香港，藝術家捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 1507,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

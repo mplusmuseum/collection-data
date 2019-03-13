@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA35",
     "classification": {
-        "area": null,
-        "category": "Architectural Drawing",
-        "archivalLevel": "Fonds"
+        "area": {
+            "en": null,
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Fonds",
+            "zh-hant": "全宗"
+        }
     },
-    "title": "Alan Fitch Archive",
-    "titleOther": "艾倫‧菲奇作品檔案",
-    "displayDate": "1962–1970",
-    "displayDateOther": null,
+    "title": {
+        "en": "艾倫‧菲奇作品檔案",
+        "zh-hant": "Alan Fitch Archive"
+    },
+    "displayDate": {
+        "en": "1962–1970",
+        "zh-hant": null
+    },
     "beginDate": 1962,
     "endDate": 1970,
-    "dimension": "28 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+    "dimension": {
+        "en": "28 items",
+        "zh-hant": "28 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+        "zh-hant": "M+，香港，Alan Fitch家族捐赠，2014年"
+    },
     "constituents": [
         {
             "id": 814,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

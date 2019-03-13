@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/2/6",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Photography",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Negative, [Certificate of award of Master in Architecture] at Harvard University",
-    "titleOther": "哈佛大學[建築碩士學位證書]負片",
-    "displayDate": "[circa 1942]",
-    "displayDateOther": null,
+    "title": {
+        "en": "哈佛大學[建築碩士學位證書]負片",
+        "zh-hant": "Negative, [Certificate of award of Master in Architecture] at Harvard University"
+    },
+    "displayDate": {
+        "en": "[circa 1942]",
+        "zh-hant": null
+    },
     "beginDate": 1939,
     "endDate": 1944,
-    "dimension": "sheet: 8.1 x 10.2 cm",
-    "medium": "black-and-white negative",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 8.1 x 10.2 cm",
+        "zh-hant": "sheet: 8.1 x 10.2 cm"
+    },
+    "medium": {
+        "en": "black-and-white negative",
+        "zh-hant": "black-and-white negative"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": null,
     "color": {
         "predominant": null,

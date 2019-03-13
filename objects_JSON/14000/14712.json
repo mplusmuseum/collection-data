@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/23",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Draft essay, 'Domus (a study in the philosophy of living)'",
-    "titleOther": "題為〈Domus （a study in the philosophy of living）〉的文章草稿",
-    "displayDate": "[1947–1949]",
-    "displayDateOther": null,
+    "title": {
+        "en": "題為〈Domus （a study in the philosophy of living）〉的文章草稿",
+        "zh-hant": "Draft essay, 'Domus (a study in the philosophy of living)'"
+    },
+    "displayDate": {
+        "en": "[1947–1949]",
+        "zh-hant": null
+    },
     "beginDate": 1947,
     "endDate": 1949,
-    "dimension": "sheet: 27 x 19.1 cm",
-    "medium": "typewriter ink and ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 27 x 19.1 cm",
+        "zh-hant": "sheet: 27 x 19.1 cm"
+    },
+    "medium": {
+        "en": "typewriter ink and ink on paper",
+        "zh-hant": "typewriter ink and ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1367",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Penis",
     "titleOther": "屌",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2007,
     "endDate": 2007,
-    "dimension": "overall: 61 × 20 × 26 cm",
-    "medium": "coins",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 61 × 20 × 26 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "coins",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 582,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

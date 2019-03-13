@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.845",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Al Jaar Qabla Al Daar (The Neighbor Before the House)",
-    "titleOther": "屋前鄰居",
-    "displayDate": "2009–2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "屋前鄰居",
+        "zh-hant": "Al Jaar Qabla Al Daar (The Neighbor Before the House)"
+    },
+    "displayDate": {
+        "en": "2009–2011",
+        "zh-hant": null
+    },
     "beginDate": 2009,
     "endDate": 2011,
-    "dimension": "duration: 60 min.",
-    "medium": "CCTV video transferred to single-channel video (colour, sound)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 60 min.",
+        "zh-hant": "影片長度：60分"
+    },
+    "medium": {
+        "en": "CCTV video transferred to single-channel video (colour, sound)",
+        "zh-hant": "閉路電視錄像轉載於單頻道錄像（彩色，有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

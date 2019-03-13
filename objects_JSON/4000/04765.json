@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.85",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Burnt Umber & Ultramarine Blue",
     "titleOther": "焦赭與群青藍",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1988,
     "endDate": 1991,
-    "dimension": "overall: 145 × 227 × 3.6 cm",
-    "medium": "oil on linen",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 145 × 227 × 3.6 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on linen",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

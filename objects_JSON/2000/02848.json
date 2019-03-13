@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.22",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Young Lady II",
     "titleOther": "侍女（二）",
@@ -14,13 +23,25 @@
     "displayDateOther": "1980年，2005年重印",
     "beginDate": 1980,
     "endDate": 1980,
-    "dimension": "sheet (sight): 33.7 × 45.7 cm\r\nimage (sight): 28 × 39.7 cm",
-    "medium": "woodcut",
-    "creditLine": "M+ Sigg Collection, Hong Kong",
+    "dimension": {
+        "en": "sheet (sight): 33.7 × 45.7 cm\r\nimage (sight): 28 × 39.7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "woodcut",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 333,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

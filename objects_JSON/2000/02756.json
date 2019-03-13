@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1074",
     "classification": {
-        "area": "Visual Art",
-        "category": "Textile",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Textile",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Hot Scene",
     "titleOther": "熱風景",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2003,
     "endDate": 2003,
-    "dimension": "overall (approx.): 146.6 × 229.9 cm",
-    "medium": "oil on electric blanket",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall (approx.): 146.6 × 229.9 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on electric blanket",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 464,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

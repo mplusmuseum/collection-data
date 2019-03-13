@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.2",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The dancer Anjali Hora, Bombay 1951",
-    "titleOther": "孟買舞者Anjali Hora，1951年",
-    "displayDate": "photographed 1951, printed 1970s",
-    "displayDateOther": "1951年拍攝，1970年代印刷",
+    "title": {
+        "en": "孟買舞者Anjali Hora，1951年",
+        "zh-hant": "The dancer Anjali Hora, Bombay 1951"
+    },
+    "displayDate": {
+        "en": "1951年拍攝，1970年代印刷",
+        "zh-hant": "photographed 1951, printed 1970s"
+    },
     "beginDate": 1951,
     "endDate": 1979,
-    "dimension": "sheet: 24.5 × 19.1 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 24.5 × 19.1 cm",
+        "zh-hant": "紙本: 24.5 × 19.1 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 964,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

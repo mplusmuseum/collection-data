@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.449",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Lounge Chair for Sumi Memorial Hall",
-    "titleOther": "墨會館靠背椅",
-    "displayDate": "1990/2015",
-    "displayDateOther": "1957年設計",
+    "title": {
+        "en": "墨會館靠背椅",
+        "zh-hant": "Lounge Chair for Sumi Memorial Hall"
+    },
+    "displayDate": {
+        "en": "1957年設計",
+        "zh-hant": "1990/2015"
+    },
     "beginDate": 1957,
     "endDate": 1957,
-    "dimension": "overall: 75 × 78.3 × 70 cm",
-    "medium": "bent laminated birch and fabric",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 75 × 78.3 × 70 cm",
+        "zh-hant": "整體： 75 × 78.3 × 70 厘米"
+    },
+    "medium": {
+        "en": "bent laminated birch and fabric",
+        "zh-hant": "成形樺木合板、布料"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1033,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

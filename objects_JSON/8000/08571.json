@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.329",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hu Yuanli au Bain, Paris, 1992",
-    "titleOther": "浴缸中的胡源莉，巴黎，一九九二年",
-    "displayDate": "1992",
-    "displayDateOther": null,
+    "title": {
+        "en": "浴缸中的胡源莉，巴黎，一九九二年",
+        "zh-hant": "Hu Yuanli au Bain, Paris, 1992"
+    },
+    "displayDate": {
+        "en": "1992",
+        "zh-hant": null
+    },
     "beginDate": 1992,
     "endDate": 1992,
-    "dimension": "sheet (sight): 59.3 × 40.4 cm\r\r\nimage (Sight): 57.2 × 38.4 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet (sight): 59.3 × 40.4 cm\r\r\nimage (Sight): 57.2 × 38.4 cm",
+        "zh-hant": "紙本 (目測量度): 59.3 × 40.4 厘米\r\r\n圖像 (目測量度): 57.2 × 38.4 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 2789,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

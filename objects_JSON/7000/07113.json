@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.48",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Cellular phones, model K2",
-    "titleOther": "K2型手提電話",
-    "displayDate": "2014–2016",
-    "displayDateOther": null,
+    "title": {
+        "en": "K2型手提電話",
+        "zh-hant": "Cellular phones, model K2"
+    },
+    "displayDate": {
+        "en": "2014–2016",
+        "zh-hant": null
+    },
     "beginDate": 2014,
     "endDate": 2016,
-    "dimension": "overall (black phone): 1.5 × 11.5 × 5.5 cm\r\r\noverall (red Phone): 1.5 × 11.5 × 5.5 cm",
-    "medium": "plastic, electronic parts, and LED",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (black phone): 1.5 × 11.5 × 5.5 cm\r\r\noverall (red Phone): 1.5 × 11.5 × 5.5 cm",
+        "zh-hant": "整體 (黑色電話): 1.5 × 11.5 × 5.5 厘米\r\r\n整體 (紅色電話): 1.5 × 11.5 × 5.5 厘米"
+    },
+    "medium": {
+        "en": "plastic, electronic parts, and LED",
+        "zh-hant": "塑膠、電子零件、LED 燈"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1530,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

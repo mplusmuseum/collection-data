@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.70",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Contemporary miracle: chair rising out of the bottle",
-    "titleOther": "走出瓶子",
-    "displayDate": "circa 1986",
-    "displayDateOther": "約1986年",
+    "title": {
+        "en": "走出瓶子",
+        "zh-hant": "Contemporary miracle: chair rising out of the bottle"
+    },
+    "displayDate": {
+        "en": "約1986年",
+        "zh-hant": "circa 1986"
+    },
     "beginDate": 1984,
     "endDate": 1988,
-    "dimension": "sheet: 34 × 21.4 cm",
-    "medium": "felt tip pen on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 34 × 21.4 cm",
+        "zh-hant": "紙本: 34 × 21.4 厘米"
+    },
+    "medium": {
+        "en": "felt tip pen on paper",
+        "zh-hant": "氈頭筆紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1242,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

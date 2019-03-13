@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.87",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Untitled",
     "titleOther": "無題",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1967,
     "endDate": 1967,
-    "dimension": "overall: 162 × 112.2 cm\r\r\nframe: 165 × 115.1 × 4 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 162 × 112.2 cm\r\r\nframe: 165 × 115.1 × 4 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

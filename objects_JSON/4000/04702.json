@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.237",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Kishio Suga, Gallery 16, Kyoto, July 14, 1974,",
     "titleOther": "菅木志雄，1974年7月14日京都16畫廊",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1974,
     "endDate": 1974,
-    "dimension": "sheet: 14.8 × 25.4 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 14.8 × 25.4 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Multiple monochrome photographs showing different iterations of the same sequence, in which a person stands next to a tower of baskets in a corner and wraps and unwraps themselves in a large paper bag."

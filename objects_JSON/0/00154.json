@@ -1,24 +1,88 @@
 {
     "id": 154,
-    "sortNumber": null,
+    "sortNumber": "2012  1952",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1924,
-    "endDate": 2011,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.1952",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "春耕之前",
+        "zh-hant": "Spring Ploughing"
+    },
+    "displayDate": {
+        "en": "1957",
+        "zh-hant": null
+    },
+    "beginDate": 1957,
+    "endDate": 1957,
+    "dimension": {
+        "en": "sheet: 35.6 × 50.8 cm",
+        "zh-hant": "紙本: 35.6 × 50.8 厘米"
+    },
+    "medium": {
+        "en": "black and white print",
+        "zh-hant": "黑白沖印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#7E7974",
+                "value": 30.5
+            },
+            {
+                "color": "#CEC8C2",
+                "value": 30.4
+            },
+            {
+                "color": "#3B3834",
+                "value": 21.5
+            },
+            {
+                "color": "#DFDEE3",
+                "value": 11.2
+            },
+            {
+                "color": "#E4E0E3",
+                "value": 1.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 60.8
+                },
+                {
+                    "color": "white",
+                    "value": 13
+                },
+                {
+                    "color": "black",
+                    "value": 21.5
+                }
+            ]
         }
     }
 }

@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.858",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Checkpoint Charlie, Berlin, Germany, 1986",
-    "titleOther": "1986年，德國柏林，查理檢查哨",
-    "displayDate": "photographed 1986, printed 2017",
-    "displayDateOther": "1986年拍攝，2017年印刷",
+    "title": {
+        "en": "1986年，德國柏林，查理檢查哨",
+        "zh-hant": "Checkpoint Charlie, Berlin, Germany, 1986"
+    },
+    "displayDate": {
+        "en": "1986年拍攝，2017年印刷",
+        "zh-hant": "photographed 1986, printed 2017"
+    },
     "beginDate": 1986,
     "endDate": 2017,
-    "dimension": "sheet: 50.9 × 40.7 cm\r\r\nimage: 38.3 × 38 cm",
-    "medium": "silver gelatin selenium toned prints",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 50.9 × 40.7 cm\r\r\nimage: 38.3 × 38 cm",
+        "zh-hant": "紙本: 50.9 × 40.7 厘米  圖像: 38.3 × 38 厘米"
+    },
+    "medium": {
+        "en": "silver gelatin selenium toned prints",
+        "zh-hant": "銀鹽硒調染照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

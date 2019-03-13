@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.372",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Design Object",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Design Object",
+            "zh-hant": "設計物件"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Red A artistic plastic lamp, no. 113/113A",
-    "titleOther": "紅A牌藝術塑膠燈具，型號113／113A",
-    "displayDate": "1960s–1980s",
-    "displayDateOther": "1960至1980年代",
+    "title": {
+        "en": "紅A牌藝術塑膠燈具，型號113／113A",
+        "zh-hant": "Red A artistic plastic lamp, no. 113/113A"
+    },
+    "displayDate": {
+        "en": "1960至1980年代",
+        "zh-hant": "1960s–1980s"
+    },
     "beginDate": 1960,
     "endDate": 1989,
-    "dimension": "overall: 35 × 18 × 18 cm\r\r\noverall (without legs): 28 × 18 × 18 cm",
-    "medium": "polystyrene and polyethylene",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 35 × 18 × 18 cm\r\r\noverall (without legs): 28 × 18 × 18 cm",
+        "zh-hant": "整體: 35 × 18 × 18 厘米\r\r\n整體: (不包括燈腳): 28 × 18 × 18 厘米"
+    },
+    "medium": {
+        "en": "polystyrene and polyethylene",
+        "zh-hant": "聚苯乙烯、聚乙烯"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 68,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

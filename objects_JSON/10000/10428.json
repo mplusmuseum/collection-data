@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA10/3/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Ephemera",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Ephemera",
+            "zh-hant": "Ephemera"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Greeting card, Fitch and Chung Architects",
-    "titleOther": "Fitch & Chung建築事務所賀卡",
-    "displayDate": "1973",
-    "displayDateOther": null,
+    "title": {
+        "en": "Fitch & Chung建築事務所賀卡",
+        "zh-hant": "Greeting card, Fitch and Chung Architects"
+    },
+    "displayDate": {
+        "en": "1973",
+        "zh-hant": null
+    },
     "beginDate": 1973,
     "endDate": 1973,
-    "dimension": "sheet: 20.5 × 7.6 cm",
-    "medium": "printing ink on paperboard",
-    "creditLine": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2013",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 20.5 × 7.6 cm",
+        "zh-hant": "sheet: 20.5 × 7.6 cm"
+    },
+    "medium": {
+        "en": "printing ink on paperboard",
+        "zh-hant": "printing ink on paperboard"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2013",
+        "zh-hant": "M+，香港，鍾華楠建築師有限公司捐贈，2013年"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

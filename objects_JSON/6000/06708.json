@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.876",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Room 305",
-    "titleOther": "三樓五號",
-    "displayDate": "1974",
-    "displayDateOther": null,
+    "title": {
+        "en": "三樓五號",
+        "zh-hant": "Room 305"
+    },
+    "displayDate": {
+        "en": "1974",
+        "zh-hant": null
+    },
     "beginDate": 1974,
     "endDate": 1974,
-    "dimension": "image: 27.2 × 19.5 cm",
-    "medium": "oil on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image: 27.2 × 19.5 cm",
+        "zh-hant": "圖像: 27.2 × 19.5 厘米"
+    },
+    "medium": {
+        "en": "oil on paper",
+        "zh-hant": "油彩紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1495,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

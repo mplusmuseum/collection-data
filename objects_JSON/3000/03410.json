@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.907",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Time is Money",
     "titleOther": "時間就是金錢",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2006,
     "endDate": 2006,
-    "dimension": "sheet: 134.5 × 229.5 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet: 134.5 × 229.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 405,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

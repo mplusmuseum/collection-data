@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.580",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Mobile telephone, model TZ-803",
-    "titleOther": "手提電話，TZ-803型",
-    "displayDate": "2014",
-    "displayDateOther": null,
+    "title": {
+        "en": "手提電話，TZ-803型",
+        "zh-hant": "Mobile telephone, model TZ-803"
+    },
+    "displayDate": {
+        "en": "2014",
+        "zh-hant": null
+    },
     "beginDate": 1989,
     "endDate": 1989,
-    "dimension": "overall: 17.8 × 8.8 × 4.2 cm",
-    "medium": "plastic and electronic parts",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 17.8 × 8.8 × 4.2 cm",
+        "zh-hant": "整體： 17.8 × 8.8 × 4.2 厘米"
+    },
+    "medium": {
+        "en": "plastic and electronic parts",
+        "zh-hant": "塑膠、電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

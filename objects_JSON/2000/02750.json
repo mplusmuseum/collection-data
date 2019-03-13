@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.323",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "SARS",
     "titleOther": "非典",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2003,
     "endDate": 2003,
-    "dimension": "overall (approx.): 404.1 × 850.2 cm",
-    "medium": "woodcut",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall (approx.): 404.1 × 850.2 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "woodcut",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 172,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

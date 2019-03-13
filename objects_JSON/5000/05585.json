@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2016.321",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Prototype, Soshun",
-    "titleOther": "早春原型",
-    "displayDate": "2012",
-    "displayDateOther": null,
+    "title": {
+        "en": "早春原型",
+        "zh-hant": "Prototype, Soshun"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": null
+    },
     "beginDate": 1989,
     "endDate": 1989,
-    "dimension": "overall: 92.5 × 45.2 × 43.8 cm",
-    "medium": "steel pipe, melamine painted finish, polyurethane foam, fabrics, and rubber tube",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 92.5 × 45.2 × 43.8 cm",
+        "zh-hant": "整體： 92.5 × 45.2 × 43.8厘米"
+    },
+    "medium": {
+        "en": "steel pipe, melamine painted finish, polyurethane foam, fabrics, and rubber tube",
+        "zh-hant": "鋼管、三聚氰胺塗料、聚氨酯"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1162,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
             "id": 1172,
-            "role": "Commissioned by"
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
+            }
         }
     ],
     "images": [

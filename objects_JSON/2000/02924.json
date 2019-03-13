@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1312",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Richard Hamilton - What is it...",
     "titleOther": "理查 漢密爾頓：這是什麽？",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2000,
     "endDate": 2000,
-    "dimension": "frame: 83.4 × 68.5 cm\r\r\nsheet: 51 × 48 cm\r\r\nimage: 44.5 × 44 cm",
-    "medium": "photo collage",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "frame: 83.4 × 68.5 cm\r\r\nsheet: 51 × 48 cm\r\r\nimage: 44.5 × 44 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "photo collage",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 559,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

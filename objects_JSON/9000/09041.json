@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA2/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Series"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Series",
+            "zh-hant": "系列"
+        }
     },
-    "title": "Drawings, international competition for the Japan National Theatre, Tokyo, Japan",
-    "titleOther": "日本東京國立劇場國際建築比賽參賽作品繪圖",
-    "displayDate": "1986",
-    "displayDateOther": null,
+    "title": {
+        "en": "日本東京國立劇場國際建築比賽參賽作品繪圖",
+        "zh-hant": "Drawings, international competition for the Japan National Theatre, Tokyo, Japan"
+    },
+    "displayDate": {
+        "en": "1986",
+        "zh-hant": null
+    },
     "beginDate": 1986,
     "endDate": 1986,
-    "dimension": "7 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+    "dimension": {
+        "en": "7 items",
+        "zh-hant": "7 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+        "zh-hant": "M+，香港，許李嚴建築師事務所捐贈，2013年"
+    },
     "constituents": [
         {
             "id": 543,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

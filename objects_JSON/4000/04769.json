@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.539",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Work 73-1-9",
     "titleOther": "作品73-1-9",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1973,
     "endDate": 1973,
-    "dimension": "162 × 130 x 3 cm",
-    "medium": "acrylic on canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "162 × 130 x 3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "acrylic on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

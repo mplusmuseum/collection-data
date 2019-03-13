@@ -1,24 +1,112 @@
 {
     "id": 1671,
-    "sortNumber": null,
+    "sortNumber": "2012  1973",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1952,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.1973",
+    "classification": {
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "黑社會同貓仔",
+        "zh-hant": "Haak She Wuih Tuhng Mau Jai"
+    },
+    "displayDate": {
+        "en": "2007",
+        "zh-hant": null
+    },
+    "beginDate": 2007,
+    "endDate": 2007,
+    "dimension": {
+        "en": "duration: 3 min. 20 sec.",
+        "zh-hant": "影片長度: 3 分 20 秒"
+    },
+    "medium": {
+        "en": "single-channel video",
+        "zh-hant": "單頻道錄像"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#240F05",
+                "value": 27.7
+            },
+            {
+                "color": "#140D03",
+                "value": 18.5
+            },
+            {
+                "color": "#20120B",
+                "value": 18
+            },
+            {
+                "color": "#1B1409",
+                "value": 11.6
+            },
+            {
+                "color": "#694D27",
+                "value": 5.7
+            },
+            {
+                "color": "#020201",
+                "value": 3.2
+            },
+            {
+                "color": "#734828",
+                "value": 3.1
+            },
+            {
+                "color": "#702B11",
+                "value": 3
+            },
+            {
+                "color": "#D59460",
+                "value": 2.8
+            },
+            {
+                "color": "#EEC78E",
+                "value": 1.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 30.7
+                },
+                {
+                    "color": "orange",
+                    "value": 4.3
+                },
+                {
+                    "color": "black",
+                    "value": 51.3
+                },
+                {
+                    "color": "brown",
+                    "value": 8.7
+                }
+            ]
         }
     }
 }

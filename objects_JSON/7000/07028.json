@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.355",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Model",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Model",
+            "zh-hant": "建築模型"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Model, Nehru Pavilion (1971–1972), New Delhi, India",
-    "titleOther": "印度新德里尼赫鲁紀念館（1971至1972年）模型",
-    "displayDate": "1985",
-    "displayDateOther": null,
+    "title": {
+        "en": "印度新德里尼赫鲁紀念館（1971至1972年）模型",
+        "zh-hant": "Model, Nehru Pavilion (1971–1972), New Delhi, India"
+    },
+    "displayDate": {
+        "en": "1985",
+        "zh-hant": null
+    },
     "beginDate": 1971,
     "endDate": 1971,
-    "dimension": "overall: 12 × 88 × 88.5 cm",
-    "medium": "wood",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 12 × 88 × 88.5 cm",
+        "zh-hant": "整體: 12 × 88 × 88.5 厘米"
+    },
+    "medium": {
+        "en": "wood",
+        "zh-hant": "木"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

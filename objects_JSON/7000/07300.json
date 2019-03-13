@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.593",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "ROBO voice recorder, model 03",
-    "titleOther": "ROBO錄音機，03型",
-    "displayDate": "1990",
-    "displayDateOther": null,
+    "title": {
+        "en": "ROBO錄音機，03型",
+        "zh-hant": "ROBO voice recorder, model 03"
+    },
+    "displayDate": {
+        "en": "1990",
+        "zh-hant": null
+    },
     "beginDate": 1988,
     "endDate": 1988,
-    "dimension": "overall: 12.6 × 11.2 × 12.8 cm",
-    "medium": "plastic and electronic parts",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 12.6 × 11.2 × 12.8 cm",
+        "zh-hant": "整體： 12.6 × 11.2 × 12.8 厘米"
+    },
+    "medium": {
+        "en": "plastic and electronic parts",
+        "zh-hant": "塑膠、電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

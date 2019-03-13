@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.452",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Murai Stool",
-    "titleOther": "村井凳",
-    "displayDate": "1990/2015",
-    "displayDateOther": "1961年設計， 1970年代製造",
+    "title": {
+        "en": "村井凳",
+        "zh-hant": "Murai Stool"
+    },
+    "displayDate": {
+        "en": "1961年設計， 1970年代製造",
+        "zh-hant": "1990/2015"
+    },
     "beginDate": 1961,
     "endDate": 1979,
-    "dimension": "overall: 46.2 × 43 × 43 cm",
-    "medium": "teak-laminated plywood",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 46.2 × 43 × 43 cm",
+        "zh-hant": "整體： 46.2 × 43 × 43 厘米"
+    },
+    "medium": {
+        "en": "teak-laminated plywood",
+        "zh-hant": "柚木合板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1033,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

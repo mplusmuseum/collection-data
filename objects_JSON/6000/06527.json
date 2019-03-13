@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CL.2016.1.2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Book/Periodical",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Book/Periodical",
+            "zh-hant": "書藉/期刊"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Le Corbusier; Léger, Fernand; Perriand, Charlotte: Proposal for a Synthesis of the Arts, Paris 1955",
-    "titleOther": "綜合藝術的建議，巴黎1955年：勒科比西耶 、費爾南·萊熱 、夏洛特·佩里安",
-    "displayDate": "1991, reprinted 2015",
-    "displayDateOther": "1991年，2015年重印",
+    "title": {
+        "en": "綜合藝術的建議，巴黎1955年：勒科比西耶 、費爾南·萊熱 、夏洛特·佩里安",
+        "zh-hant": "Le Corbusier; Léger, Fernand; Perriand, Charlotte: Proposal for a Synthesis of the Arts, Paris 1955"
+    },
+    "displayDate": {
+        "en": "1991年，2015年重印",
+        "zh-hant": "1991, reprinted 2015"
+    },
     "beginDate": 1955,
     "endDate": 1955,
-    "dimension": "24.3 × 25.7 cm",
-    "medium": "book",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "24.3 × 25.7 cm",
+        "zh-hant": "24.3 × 25.7 厘米"
+    },
+    "medium": {
+        "en": "book",
+        "zh-hant": "書"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 821,
-            "role": "Author"
+            "role": {
+                "en": "Author",
+                "zh-hant": "作者"
+            }
         },
         {
             "id": 1440,
-            "role": "Publisher"
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
         }
     ],
     "images": [],

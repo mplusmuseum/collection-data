@@ -1,24 +1,88 @@
 {
     "id": 107,
-    "sortNumber": null,
+    "sortNumber": "2012  1905",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1965,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.1905",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "漁船",
+        "zh-hant": "Junk Boat"
+    },
+    "displayDate": {
+        "en": "1951",
+        "zh-hant": null
+    },
+    "beginDate": 1951,
+    "endDate": 1951,
+    "dimension": {
+        "en": "sheet: 38.7 × 48.9 cm",
+        "zh-hant": "紙本: 38.7 × 48.9 厘米"
+    },
+    "medium": {
+        "en": "black and white print",
+        "zh-hant": "黑白沖印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#86817D",
+                "value": 47.1
+            },
+            {
+                "color": "#3B3734",
+                "value": 30.5
+            },
+            {
+                "color": "#BFBAB7",
+                "value": 6.9
+            },
+            {
+                "color": "#9B9B96",
+                "value": 4.9
+            },
+            {
+                "color": "#B9B9B5",
+                "value": 4
+            },
+            {
+                "color": "#211817",
+                "value": 1.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 62.9
+                },
+                {
+                    "color": "black",
+                    "value": 32.4
+                }
+            ]
         }
     }
 }

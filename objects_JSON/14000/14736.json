@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/47",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "File"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "File",
+            "zh-hant": "案卷"
+        }
     },
-    "title": "Notes of contact details",
-    "titleOther": "聯絡人資料",
-    "displayDate": "[1950s–2000s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "聯絡人資料",
+        "zh-hant": "Notes of contact details"
+    },
+    "displayDate": {
+        "en": "[1950s–2000s]",
+        "zh-hant": null
+    },
     "beginDate": 1950,
     "endDate": 2009,
-    "dimension": "5 items",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "5 items",
+        "zh-hant": "5 items"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

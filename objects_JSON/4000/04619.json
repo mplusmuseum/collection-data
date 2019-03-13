@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.154",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Katsuro Yoshida, August 1970--Aspects of New Japanese Art, The National Museum of Modern Art, Tokyo, August, 1970",
     "titleOther": "吉田克朗，1970年8月東京國立近代美術館「1970年8月：現代藝術面面觀」",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1970,
     "endDate": 1970,
-    "dimension": "overall (mounted): 23.4 × 29.5 cm\r\r\nimage: 18 × 26.5 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (mounted): 23.4 × 29.5 cm\r\r\nimage: 18 × 26.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Monochrome photograph of a gallery space where a shirtless man is standing and handling some materials. A sheet of reflective material is on the floor in the foreground, and the man's reflection can be seen in it. A can of spray paint sits next to the sheet and a cord hangs from the ceiling near the man."

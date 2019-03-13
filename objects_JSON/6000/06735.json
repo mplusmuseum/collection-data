@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.387",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Police rattan shield",
-    "titleOther": "警用藤牌",
-    "displayDate": "1989",
-    "displayDateOther": "1960年代–1970年代製造",
+    "title": {
+        "en": "警用藤牌",
+        "zh-hant": "Police rattan shield"
+    },
+    "displayDate": {
+        "en": "1960年代–1970年代製造",
+        "zh-hant": "1989"
+    },
     "beginDate": 1960,
     "endDate": 1979,
-    "dimension": "overall: 8.5 × 58 × 51 cm",
-    "medium": "rattan and bamboo",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 8.5 × 58 × 51 cm",
+        "zh-hant": "整體： 8.5 × 58 x 51 厘米"
+    },
+    "medium": {
+        "en": "rattan and bamboo",
+        "zh-hant": "藤、竹"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1529,
-            "role": "Maker"
+            "role": {
+                "en": "Maker",
+                "zh-hant": "創作者"
+            }
         }
     ],
     "images": [

@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/4/15",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Sketch plan, unidentified architectural project",
-    "titleOther": "一建築項目平面草圖，項目名稱不詳",
-    "displayDate": "[1950s–1990s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "一建築項目平面草圖，項目名稱不詳",
+        "zh-hant": "Sketch plan, unidentified architectural project"
+    },
+    "displayDate": {
+        "en": "[1950s–1990s]",
+        "zh-hant": null
+    },
     "beginDate": 1951,
     "endDate": 2009,
-    "dimension": "sheet: 28.5 x 31.4 cm",
-    "medium": "graphite, marker, and ink on transparent paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 28.5 x 31.4 cm",
+        "zh-hant": "sheet: 28.5 x 31.4 cm"
+    },
+    "medium": {
+        "en": "graphite, marker, and ink on transparent paper",
+        "zh-hant": "graphite, marker, and ink on transparent paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": [

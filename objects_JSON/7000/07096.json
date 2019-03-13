@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.419",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": "版畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Fission",
-    "titleOther": "裂變",
-    "displayDate": "1987",
-    "displayDateOther": null,
+    "title": {
+        "en": "裂變",
+        "zh-hant": "Fission"
+    },
+    "displayDate": {
+        "en": "1987",
+        "zh-hant": null
+    },
     "beginDate": 1987,
     "endDate": 1987,
-    "dimension": "sheet: 200 × 400 cm",
-    "medium": "monotype on rice paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 200 × 400 cm",
+        "zh-hant": "紙本: 200 × 400  厘米"
+    },
+    "medium": {
+        "en": "monotype on rice paper",
+        "zh-hant": "宣紙拓印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1681,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.387",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Beijing, China, 1957",
-    "titleOther": "1957年中國北京",
-    "displayDate": "1957",
-    "displayDateOther": null,
+    "title": {
+        "en": "1957年中國北京",
+        "zh-hant": "Beijing, China, 1957"
+    },
+    "displayDate": {
+        "en": "1957",
+        "zh-hant": null
+    },
     "beginDate": 1957,
     "endDate": 1957,
-    "dimension": "sheet: 16.1 × 24.6 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 16.1 × 24.6 cm",
+        "zh-hant": "紙本: 16.1 × 24.6 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 966,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

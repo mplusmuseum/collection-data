@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1478",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Channels of Socket Live",
     "titleOther": "穴居頻道",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2003,
     "endDate": 2003,
-    "dimension": "duration: 5 min.",
-    "medium": "DVD pal video",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "duration: 5 min.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "DVD pal video",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 609,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

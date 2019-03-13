@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "CL.2014.1.10",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Book/Periodical",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Book/Periodical",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "WERK No. 11/GUERRILLAZINE No.2: Bastardized In Collaboration With Comme Des Garçons Guerrilla Stores",
     "titleOther": "WERK第11期 ／ GUERRILLAZINE第2期：混雜化",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2005,
     "endDate": 2005,
-    "dimension": "overall (closed): 1.4 × 22.8 × 31.7 cm",
-    "medium": "offset print on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (closed): 1.4 × 22.8 × 31.7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "offset print on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.34",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Poster, Hong Kong Tourist Association: Fabulous Hong Kong",
-    "titleOther": "香港旅遊協會海報──「美妙香港」",
-    "displayDate": "1948",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港旅遊協會海報──「美妙香港」",
+        "zh-hant": "Poster, Hong Kong Tourist Association: Fabulous Hong Kong"
+    },
+    "displayDate": {
+        "en": "1948",
+        "zh-hant": null
+    },
     "beginDate": 1965,
     "endDate": 1968,
-    "dimension": "overall: 85.7 × 58.4 cm",
-    "medium": "offset printing on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 85.7 × 58.4 cm",
+        "zh-hant": "整體： 85.7 × 58.4 厘米"
+    },
+    "medium": {
+        "en": "offset printing on paper",
+        "zh-hant": "柯式印刷紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

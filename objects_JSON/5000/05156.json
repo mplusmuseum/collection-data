@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.411",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Office desk, Chandigarh, India",
-    "titleOther": "辦公桌（印度昌迪加爾）",
-    "displayDate": "circa 1958",
-    "displayDateOther": "約1958年",
+    "title": {
+        "en": "辦公桌（印度昌迪加爾）",
+        "zh-hant": "Office desk, Chandigarh, India"
+    },
+    "displayDate": {
+        "en": "約1958年",
+        "zh-hant": "circa 1958"
+    },
     "beginDate": 1956,
     "endDate": 1960,
-    "dimension": "overall: 71 × 121 × 83.5 cm",
-    "medium": "teak and imitation leather",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 71 × 121 × 83.5 cm",
+        "zh-hant": "整體: 71 × 121 × 83.5 厘米"
+    },
+    "medium": {
+        "en": "teak and imitation leather",
+        "zh-hant": "柚木、仿皮"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1112,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

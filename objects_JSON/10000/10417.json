@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA10/2/15",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Slide, Hong Kong Polytechnic University, Hung Hom, Kowloon",
-    "titleOther": "九龍紅磡香港理工大學幻燈片",
-    "displayDate": "[circa 1990]",
-    "displayDateOther": null,
+    "title": {
+        "en": "九龍紅磡香港理工大學幻燈片",
+        "zh-hant": "Slide, Hong Kong Polytechnic University, Hung Hom, Kowloon"
+    },
+    "displayDate": {
+        "en": "[circa 1990]",
+        "zh-hant": null
+    },
     "beginDate": 1989,
     "endDate": 1995,
-    "dimension": "sheet: 5 x 5 cm",
-    "medium": "colour slide",
-    "creditLine": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2014",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 5 x 5 cm",
+        "zh-hant": "sheet: 5 x 5 cm"
+    },
+    "medium": {
+        "en": "colour slide",
+        "zh-hant": "colour slide"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2014",
+        "zh-hant": "M+，香港，鍾華楠建築師有限公司捐贈，2014年"
+    },
+    "constituents": [],
     "images": null,
     "color": {
         "predominant": null,

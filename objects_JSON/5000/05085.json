@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.604",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Painting 6807",
-    "titleOther": "繪畫六八〇七",
-    "displayDate": "1968",
-    "displayDateOther": null,
+    "title": {
+        "en": "繪畫六八〇七",
+        "zh-hant": "Painting 6807"
+    },
+    "displayDate": {
+        "en": "1968",
+        "zh-hant": null
+    },
     "beginDate": 1968,
     "endDate": 1968,
-    "dimension": "overall: 80.5 × 105.2 cm",
-    "medium": "oil and sand on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 80.5 × 105.2 cm",
+        "zh-hant": "整體: 80.5 × 105.2 厘米"
+    },
+    "medium": {
+        "en": "oil and sand on canvas",
+        "zh-hant": "油彩、沙、畫布"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1094,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.969",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Imitated Terrazo",
     "titleOther": "仿水磨石",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2006,
     "endDate": 2006,
-    "dimension": "overall: 116.5 × 117 × 3 cm",
-    "medium": "oil and newspaper on concrete",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 116.5 × 117 × 3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil and newspaper on concrete",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 444,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

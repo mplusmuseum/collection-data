@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.643",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Light Years",
     "titleOther": "光年",
@@ -14,13 +23,25 @@
     "displayDateOther": "2006",
     "beginDate": 2005,
     "endDate": 2005,
-    "dimension": "sheet: 164 × 899.5 cm\r\r\nimage: 145.5 × 869.5 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet: 164 × 899.5 cm\r\r\nimage: 145.5 × 869.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 311,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [],

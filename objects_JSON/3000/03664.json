@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2014.81",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Stone bridge of Amanohashidate",
     "titleOther": "天的橋立之石橋",
@@ -14,10 +23,19 @@
     "displayDateOther": "1949年拍攝，約1962年代印刷",
     "beginDate": 1948,
     "endDate": 1948,
-    "dimension": "sheet: 35.7 × 28 cm\r\r\nimage: 19 × 23.9 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 35.7 × 28 cm\r\r\nimage: 19 × 23.9 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.532",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Peaceful Village",
-    "titleOther": "和平的村莊",
-    "displayDate": "2015",
-    "displayDateOther": null,
+    "title": {
+        "en": "和平的村莊",
+        "zh-hant": "Peaceful Village"
+    },
+    "displayDate": {
+        "en": "2015",
+        "zh-hant": null
+    },
     "beginDate": 2015,
     "endDate": 2015,
-    "dimension": "overall: 201 × 290 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 201 × 290 cm",
+        "zh-hant": "整體: 201 × 290 厘米"
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": "油彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1191,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

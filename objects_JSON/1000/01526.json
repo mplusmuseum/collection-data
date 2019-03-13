@@ -1,24 +1,112 @@
 {
     "id": 1526,
-    "sortNumber": null,
+    "sortNumber": "2013    18",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1961,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2013.18",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Collage",
+            "zh-hant": "拼貼"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "八公返學",
+        "zh-hant": "Eight Modern China Political Leaders in School"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": null
+    },
+    "beginDate": 2012,
+    "endDate": 2012,
+    "dimension": {
+        "en": "each: 220 × 75 cm",
+        "zh-hant": "各: 220 × 75 厘米"
+    },
+    "medium": {
+        "en": "coloured pencil, crayon and collage on paper",
+        "zh-hant": "彩色鉛筆、蠟筆及拼貼紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [
+        {
+            "id": 411,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#F9FAF5",
+                "value": 45.5
+            },
+            {
+                "color": "#E5DED8",
+                "value": 13.9
+            },
+            {
+                "color": "#3C3F3F",
+                "value": 11.8
+            },
+            {
+                "color": "#41403D",
+                "value": 8.5
+            },
+            {
+                "color": "#77736F",
+                "value": 4.5
+            },
+            {
+                "color": "#E9EFE8",
+                "value": 4
+            },
+            {
+                "color": "#777773",
+                "value": 3.8
+            },
+            {
+                "color": "#3B3C3E",
+                "value": 1.7
+            },
+            {
+                "color": "#6D6F6D",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 9.7
+                },
+                {
+                    "color": "white",
+                    "value": 63.4
+                },
+                {
+                    "color": "black",
+                    "value": 22.1
+                }
+            ]
         }
     }
 }

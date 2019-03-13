@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.7",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Portrait in the Fog",
-    "titleOther": "霧中肖像",
-    "displayDate": "1965",
-    "displayDateOther": null,
+    "title": {
+        "en": "霧中肖像",
+        "zh-hant": "Portrait in the Fog"
+    },
+    "displayDate": {
+        "en": "1965",
+        "zh-hant": null
+    },
     "beginDate": 1965,
     "endDate": 1965,
-    "dimension": "130.2 × 210 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "130.2 × 210 cm",
+        "zh-hant": "130.2 × 210 厘米"
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": "油彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.685",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hong Kong at Night",
-    "titleOther": "香港夜",
-    "displayDate": "1961",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港夜",
+        "zh-hant": "Hong Kong at Night"
+    },
+    "displayDate": {
+        "en": "1961",
+        "zh-hant": null
+    },
     "beginDate": 1961,
     "endDate": 1961,
-    "dimension": "frame: 61.2 × 122.1 cm\r\r\nsheet (sight): 42.4 × 94.8 cm",
-    "medium": "ink and colour on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 61.2 × 122.1 cm\r\r\nsheet (sight): 42.4 × 94.8 cm",
+        "zh-hant": "框架: 61.2 × 122.1 厘米\r\n紙本 (目測量度): 42.4 × 94.8 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": "水墨設色紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 327,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

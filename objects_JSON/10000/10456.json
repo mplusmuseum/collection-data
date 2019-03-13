@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA23/1/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Subseries"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Subseries",
+            "zh-hant": "副系列"
+        }
     },
-    "title": "Drawings, Wind and Water Bar (wNw Bar) (2008), Binhduong, Vietnam",
-    "titleOther": "越南平陽省風與水酒吧（2008年）繪圖",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "越南平陽省風與水酒吧（2008年）繪圖",
+        "zh-hant": "Drawings, Wind and Water Bar (wNw Bar) (2008), Binhduong, Vietnam"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "4 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "4 items",
+        "zh-hant": "4 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 868,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

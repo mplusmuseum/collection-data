@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.504",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Abstract Calligraphy",
-    "titleOther": "抽象書法",
-    "displayDate": "1979",
-    "displayDateOther": null,
+    "title": {
+        "en": "抽象書法",
+        "zh-hant": "Abstract Calligraphy"
+    },
+    "displayDate": {
+        "en": "1979",
+        "zh-hant": null
+    },
     "beginDate": 1979,
     "endDate": 1979,
-    "dimension": "image size: 62.8 × 131.8 cm\r\r\noverall: 68.2 × 136.9 × 2.4 cm",
-    "medium": "ink on xuan paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image size: 62.8 × 131.8 cm\r\r\noverall: 68.2 × 136.9 × 2.4 cm",
+        "zh-hant": "圖像： 62.8 × 131.8 厘米\r\n整體： 68.2 × 136.9 × 24 厘米"
+    },
+    "medium": {
+        "en": "ink on xuan paper",
+        "zh-hant": "水墨宣紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 927,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

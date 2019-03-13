@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.517",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Dream 2007 No.1",
     "titleOther": "夢 2007 第1號",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2007,
     "endDate": 2007,
-    "dimension": "overall: 200 × 300 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 200 × 300 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 241,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

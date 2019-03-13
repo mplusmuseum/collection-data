@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.509",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Head in Arms",
-    "titleOther": "頭在臂彎",
-    "displayDate": "2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "頭在臂彎",
+        "zh-hant": "Head in Arms"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "overall (approx.): 69 × 72 × 39 cm",
-    "medium": "rattan and burlap",
-    "creditLine": "M+, Hong Kong. Gift of Hallam Chow, 2016",
+    "dimension": {
+        "en": "overall (approx.): 69 × 72 × 39 cm",
+        "zh-hant": "整體 （約）： 69 × 72 × 39 厘米"
+    },
+    "medium": {
+        "en": "rattan and burlap",
+        "zh-hant": "藤、粗麻布"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Hallam Chow, 2016",
+        "zh-hant": "M+，香港，仇浩然捐贈，2016年"
+    },
     "constituents": [
         {
             "id": 849,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

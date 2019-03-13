@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.1",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Water Painting",
-    "titleOther": "水畫",
-    "displayDate": "1986",
-    "displayDateOther": null,
+    "title": {
+        "en": "水畫",
+        "zh-hant": "Water Painting"
+    },
+    "displayDate": {
+        "en": "1986",
+        "zh-hant": null
+    },
     "beginDate": 1986,
     "endDate": 1986,
-    "dimension": "overall: 950 x 960 cm\r\r\n8 panels: 950 x 120 cm each",
-    "medium": "acrylic on black cloth and wooden bar",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 950 x 960 cm\r\r\n8 panels: 950 x 120 cm each",
+        "zh-hant": "整體： 950 x 960 厘米\r\n8 panels： 950 x 120 厘米 各"
+    },
+    "medium": {
+        "en": "acrylic on black cloth and wooden bar",
+        "zh-hant": "亞加力黑布本、木棒"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

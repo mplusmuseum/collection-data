@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.517",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": "裝置藝術"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Born as a Box",
-    "titleOther": "天生是盒子",
-    "displayDate": "2007",
-    "displayDateOther": null,
+    "title": {
+        "en": "天生是盒子",
+        "zh-hant": "Born as a Box"
+    },
+    "displayDate": {
+        "en": "2007",
+        "zh-hant": null
+    },
     "beginDate": 2007,
     "endDate": 2007,
-    "dimension": "overall: 25 × 36 × 41 cm",
-    "medium": "cardboard and audio playback machine",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 25 × 36 × 41 cm",
+        "zh-hant": "25 × 36 × 41 厘米"
+    },
+    "medium": {
+        "en": "cardboard and audio playback machine",
+        "zh-hant": "舊紙箱、錄音播放器"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

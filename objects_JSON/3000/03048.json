@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.433",
     "classification": {
-        "area": "Visual Art",
-        "category": "Performance",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Performance",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Beyond Tianshan (Mountains of Sky)",
     "titleOther": "天山外",
@@ -14,13 +23,25 @@
     "displayDateOther": "2002",
     "beginDate": 2004,
     "endDate": 2004,
-    "dimension": "overall (each): 55.3 × 104.9 cm\r\r\nimage (each): 49.9 × 99.8 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall (each): 55.3 × 104.9 cm\r\r\nimage (each): 49.9 × 99.8 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 209,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

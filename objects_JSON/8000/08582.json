@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.335",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The Forbidden City, Beijing, 1987",
-    "titleOther": "紫禁城，北京，一九八七年",
-    "displayDate": "1987",
-    "displayDateOther": null,
+    "title": {
+        "en": "紫禁城，北京，一九八七年",
+        "zh-hant": "The Forbidden City, Beijing, 1987"
+    },
+    "displayDate": {
+        "en": "1987",
+        "zh-hant": null
+    },
     "beginDate": 1987,
     "endDate": 1987,
-    "dimension": "sheet: 60.5 × 50.5 cm\r\r\nimage: 59.4 × 39.8 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 60.5 × 50.5 cm\r\r\nimage: 59.4 × 39.8 cm",
+        "zh-hant": "紙本: 60.5 × 50.5  厘米\r\r\n圖像: 59.4 × 39.8 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 2789,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

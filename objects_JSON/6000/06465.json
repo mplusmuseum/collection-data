@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.392",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Painting to Let the Evening Light Go Through",
-    "titleOther": "讓暮光穿透的畫作",
-    "displayDate": "1961/1966/1988",
-    "displayDateOther": null,
+    "title": {
+        "en": "讓暮光穿透的畫作",
+        "zh-hant": "Painting to Let the Evening Light Go Through"
+    },
+    "displayDate": {
+        "en": "1961/1966/1988",
+        "zh-hant": null
+    },
     "beginDate": 1961,
     "endDate": 1988,
-    "dimension": "overall: 83.8 × 68.6 × 2 cm",
-    "medium": "bronze with patina",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 83.8 × 68.6 × 2 cm",
+        "zh-hant": "整體： 83.8 × 68.6 × 2 厘米"
+    },
+    "medium": {
+        "en": "bronze with patina",
+        "zh-hant": "青銅、銅鏽"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": null,

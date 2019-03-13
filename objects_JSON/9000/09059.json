@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA2/1/7",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Composite floor plan, international competition for the Bastille Opera House, Paris, France",
-    "titleOther": "法國巴黎巴士底歌劇院國際建築比賽參賽作品樓層綜合平面圖",
-    "displayDate": "[1983]",
-    "displayDateOther": null,
+    "title": {
+        "en": "法國巴黎巴士底歌劇院國際建築比賽參賽作品樓層綜合平面圖",
+        "zh-hant": "Composite floor plan, international competition for the Bastille Opera House, Paris, France"
+    },
+    "displayDate": {
+        "en": "[1983]",
+        "zh-hant": null
+    },
     "beginDate": 1983,
     "endDate": 1983,
-    "dimension": "sheet: 42 x 29.7 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+    "dimension": {
+        "en": "sheet: 42 x 29.7 cm",
+        "zh-hant": "sheet: 42 x 29.7 cm"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "gelatin silver print"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+        "zh-hant": "M+，香港，許李嚴建築師事務所捐贈，2013年"
+    },
     "constituents": [
         {
             "id": 543,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         },
         {
             "id": 60,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": null,

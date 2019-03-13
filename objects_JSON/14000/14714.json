@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/25",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Draft essay, 'Architecture as a political tool'",
-    "titleOther": "題為〈Architecture as a political tool〉的文章草稿",
-    "displayDate": "[1950s–1970s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "題為〈Architecture as a political tool〉的文章草稿",
+        "zh-hant": "Draft essay, 'Architecture as a political tool'"
+    },
+    "displayDate": {
+        "en": "[1950s–1970s]",
+        "zh-hant": null
+    },
     "beginDate": 1950,
     "endDate": 1979,
-    "dimension": "sheet: 28 x 21.7 cm",
-    "medium": "typewriter ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 28 x 21.7 cm",
+        "zh-hant": "sheet: 28 x 21.7 cm"
+    },
+    "medium": {
+        "en": "typewriter ink on paper",
+        "zh-hant": "typewriter ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": [

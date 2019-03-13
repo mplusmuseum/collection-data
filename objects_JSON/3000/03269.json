@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.765",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Waiting for a Friend (without Appointment)",
     "titleOther": "等一個朋友",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2006,
     "endDate": 2007,
-    "dimension": "dimensions variable",
-    "medium": "photographic installation",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
-    "constituents": null,
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "photographic installation",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Photographic installation documenting a performance. One group of photos shows an apartment building in various stages of darkness. Other photos show people waiting at an underground station in Kowloon. Beside the time marker 16:38, a snapshot shows artist Pak Sheung Chuen posing with a smiling man."

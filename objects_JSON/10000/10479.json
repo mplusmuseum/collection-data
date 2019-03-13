@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA19/3",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Series"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Series",
+            "zh-hant": "系列"
+        }
     },
-    "title": "Printed material, Wunderkind project, Paris",
-    "titleOther": "巴黎Wunderkind項目印刷資料",
-    "displayDate": "[2009–2010]",
-    "displayDateOther": null,
+    "title": {
+        "en": "巴黎Wunderkind項目印刷資料",
+        "zh-hant": "Printed material, Wunderkind project, Paris"
+    },
+    "displayDate": {
+        "en": "[2009–2010]",
+        "zh-hant": null
+    },
     "beginDate": 2009,
     "endDate": 2010,
-    "dimension": "2 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong. Gift of WORK, 2014",
+    "dimension": {
+        "en": "2 items",
+        "zh-hant": "2 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of WORK, 2014",
+        "zh-hant": "M+，香港，WORK捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 846,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         },
         {
             "id": 1302,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

@@ -1,24 +1,96 @@
 {
     "id": 152,
-    "sortNumber": null,
+    "sortNumber": "2012  1950",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1981,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.1950",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "江上運輸隊",
+        "zh-hant": "River Transport"
+    },
+    "displayDate": {
+        "en": "1957",
+        "zh-hant": null
+    },
+    "beginDate": 1957,
+    "endDate": 1957,
+    "dimension": {
+        "en": "sheet: 48.9 × 38.1 cm",
+        "zh-hant": "紙本: 48.9 × 38.1 厘米"
+    },
+    "medium": {
+        "en": "black and white print",
+        "zh-hant": "黑白沖印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
+    "images": [],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C8C1B7",
+                "value": 44.2
+            },
+            {
+                "color": "#8E8780",
+                "value": 22
+            },
+            {
+                "color": "#DBDAE2",
+                "value": 14
+            },
+            {
+                "color": "#2A2824",
+                "value": 7.3
+            },
+            {
+                "color": "#E7E2E6",
+                "value": 4.6
+            },
+            {
+                "color": "#1B1512",
+                "value": 1.4
+            },
+            {
+                "color": "#1F1B14",
+                "value": 1.3
+            },
+            {
+                "color": "#949193",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 67.2
+                },
+                {
+                    "color": "white",
+                    "value": 18.6
+                },
+                {
+                    "color": "black",
+                    "value": 10
+                }
+            ]
         }
     }
 }

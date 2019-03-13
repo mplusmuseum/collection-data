@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.385",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "China, 1965",
-    "titleOther": "1965年中國",
-    "displayDate": "1965",
-    "displayDateOther": null,
+    "title": {
+        "en": "1965年中國",
+        "zh-hant": "China, 1965"
+    },
+    "displayDate": {
+        "en": "1965",
+        "zh-hant": null
+    },
     "beginDate": 1965,
     "endDate": 1965,
-    "dimension": "sheet: 20.1 × 29.8 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 20.1 × 29.8 cm",
+        "zh-hant": "紙本: 20.1 × 29.8 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 966,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

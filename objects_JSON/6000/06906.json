@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.510",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Colonial Sisters",
-    "titleOther": "殖民姊妹",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "殖民姊妹",
+        "zh-hant": "Colonial Sisters"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "160 × 60 × 52 cm",
-    "medium": "rosewood",
-    "creditLine": "M+, Hong Kong. Gift of Hallam Chow, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "160 × 60 × 52 cm",
+        "zh-hant": "160 × 60 × 52 厘米"
+    },
+    "medium": {
+        "en": "rosewood",
+        "zh-hant": "玫瑰木"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Hallam Chow, 2016",
+        "zh-hant": "M+，香港，仇浩然捐贈，2016年"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

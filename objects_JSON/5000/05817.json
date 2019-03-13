@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.421",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The End of the Road — A woman fanning her child at Renne's Mills. Her house has been burnt down in a fire, she is without house or home and the future holds little promise of improvement.",
-    "titleOther": "路的盡頭──一名居住調景嶺的婦人為其孩子扇風。她的房子在火警中燒毀，由於失去家園，今後生活前景渺茫。",
-    "displayDate": "1952",
-    "displayDateOther": null,
+    "title": {
+        "en": "路的盡頭──一名居住調景嶺的婦人為其孩子扇風。她的房子在火警中燒毀，由於失去家園，今後生活前景渺茫。",
+        "zh-hant": "The End of the Road — A woman fanning her child at Renne's Mills. Her house has been burnt down in a fire, she is without house or home and the future holds little promise of improvement."
+    },
+    "displayDate": {
+        "en": "1952",
+        "zh-hant": null
+    },
     "beginDate": 1952,
     "endDate": 1952,
-    "dimension": "Image Size: 25 × 17.5 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "Image Size: 25 × 17.5 cm",
+        "zh-hant": "圖像： 25 × 17.5 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 964,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

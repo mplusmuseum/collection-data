@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.564",
     "classification": {
-        "area": "Visual Art",
-        "category": "Film",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Film",
+            "zh-hant": "電影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Motorcycle Driver",
-    "titleOther": "摩托車伕",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "摩托車伕",
+        "zh-hant": "Motorcycle Driver"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "duration: 27 min. 30 sec.",
-    "medium": "HDV (colour, stereo sound)",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "duration: 27 min. 30 sec.",
+        "zh-hant": "影片長度: 28 分"
+    },
+    "medium": {
+        "en": "HDV (colour, stereo sound)",
+        "zh-hant": "高清錄像（彩色、有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 982,
-            "role": "Filmmaker"
+            "role": {
+                "en": "Filmmaker",
+                "zh-hant": "導演"
+            }
         }
     ],
     "images": [

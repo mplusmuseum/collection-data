@@ -4,31 +4,62 @@
     "publicAccess": true,
     "objectNumber": "2017.58",
     "classification": {
-        "area": "Visual Art",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Do Good Socialist Commercial Work in the Spirit of the Revolution, poster",
-    "titleOther": "《以革命的精神做好社會主義商業工作》海報",
-    "displayDate": "1965",
-    "displayDateOther": null,
+    "title": {
+        "en": "《以革命的精神做好社會主義商業工作》海報",
+        "zh-hant": "Do Good Socialist Commercial Work in the Spirit of the Revolution, poster"
+    },
+    "displayDate": {
+        "en": "1965",
+        "zh-hant": null
+    },
     "beginDate": 1965,
     "endDate": 1965,
-    "dimension": "sheet: 76.5 × 52.3 cm",
-    "medium": "offset lithograph",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 76.5 × 52.3 cm",
+        "zh-hant": "紙本: 76.5 × 52.3 厘米"
+    },
+    "medium": {
+        "en": "offset lithograph",
+        "zh-hant": "柯式石印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1656,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         },
         {
             "id": 1655,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         },
         {
             "id": 1671,
-            "role": "Publisher"
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
         }
     ],
     "images": [],

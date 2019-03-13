@@ -1,24 +1,156 @@
 {
     "id": 1697,
-    "sortNumber": null,
+    "sortNumber": "2013   299",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1918,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2013.299",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": "裝置藝術"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "國際通道",
+        "zh-hant": "International Channel"
+    },
+    "displayDate": {
+        "en": "2001",
+        "zh-hant": null
+    },
+    "beginDate": 2001,
+    "endDate": 2001,
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": "尺寸不一"
+    },
+    "medium": {
+        "en": "fabric and wooden structure",
+        "zh-hant": "布、木結構"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Guan Yi, 2013",
+        "zh-hant": "M+，香港，管藝捐贈，2013年"
+    },
+    "constituents": [
+        {
+            "id": 180,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E6C892",
+                "value": 15.7
+            },
+            {
+                "color": "#383E29",
+                "value": 13.1
+            },
+            {
+                "color": "#B2D0C3",
+                "value": 12.2
+            },
+            {
+                "color": "#6A7E6A",
+                "value": 7.4
+            },
+            {
+                "color": "#E4E6CB",
+                "value": 6.7
+            },
+            {
+                "color": "#BBDBDC",
+                "value": 6.4
+            },
+            {
+                "color": "#EADDBF",
+                "value": 6.1
+            },
+            {
+                "color": "#3E3B28",
+                "value": 5.1
+            },
+            {
+                "color": "#566E4E",
+                "value": 4.4
+            },
+            {
+                "color": "#36442F",
+                "value": 3.4
+            },
+            {
+                "color": "#747961",
+                "value": 3.3
+            },
+            {
+                "color": "#8A7D5C",
+                "value": 3.1
+            },
+            {
+                "color": "#D7CF90",
+                "value": 2.4
+            },
+            {
+                "color": "#5A6647",
+                "value": 2.4
+            },
+            {
+                "color": "#3C3E31",
+                "value": 2.2
+            },
+            {
+                "color": "#7B7753",
+                "value": 1.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 15.7
+                },
+                {
+                    "color": "green",
+                    "value": 15.3
+                },
+                {
+                    "color": "white",
+                    "value": 6.4
+                },
+                {
+                    "color": "yellow",
+                    "value": 15.1
+                },
+                {
+                    "color": "black",
+                    "value": 2.2
+                },
+                {
+                    "color": "teal",
+                    "value": 12.2
+                },
+                {
+                    "color": "brown",
+                    "value": 28.4
+                }
+            ]
         }
     }
 }

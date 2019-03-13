@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.190",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Susumu Koshimizu, The 5th Exhibition of Contemporary Japanese Sculpture, Ube, October 2, 1973",
     "titleOther": "小清水漸，1973年10月2日宇部市「1971年第五屆現代日本雕塑展」",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1973,
     "endDate": 1973,
-    "dimension": "overall (mounted): 25 × 13.7 cm\r\r\nimage: 17.2 × 13.7 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (mounted): 25 × 13.7 cm\r\r\nimage: 17.2 × 13.7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Monochrome photograph of large rocks painted with stripes, dots, lines, and animal patterns sitting outside in a grassy field, backed by a row of trees."

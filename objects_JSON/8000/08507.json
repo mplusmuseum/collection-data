@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.32",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Main Auditorium of the Great Hall of the People II",
-    "titleOther": "人民大會堂大禮堂二",
-    "displayDate": "1983",
-    "displayDateOther": null,
+    "title": {
+        "en": "人民大會堂大禮堂二",
+        "zh-hant": "Main Auditorium of the Great Hall of the People II"
+    },
+    "displayDate": {
+        "en": "1983",
+        "zh-hant": null
+    },
     "beginDate": 1959,
     "endDate": 1959,
-    "dimension": "overall (mount board): 52.5 × 37.2 cm\r\nsheet: 42.3 × 29.4 cm",
-    "medium": "hand-painted colour photograph",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (mount board): 52.5 × 37.2 cm\r\nsheet: 42.3 × 29.4 cm",
+        "zh-hant": "整體 （連板）: 52.5 × 37.2 厘米 紙本: 42.3 × 29.4 厘米"
+    },
+    "medium": {
+        "en": "hand-painted colour photograph",
+        "zh-hant": "手工上色照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1675,
-            "role": "Publisher"
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
         }
     ],
     "images": [

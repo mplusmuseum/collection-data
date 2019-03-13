@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2016.438",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Haze and Fog",
     "titleOther": "霾",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2013,
     "endDate": 2013,
-    "dimension": "duration: 46 min. 30 sec.",
-    "medium": "HD video (colour, stereo sound)",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "duration: 46 min. 30 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "HD video (colour, stereo sound)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 110,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

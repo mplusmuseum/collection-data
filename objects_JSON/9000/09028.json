@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA40/3",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Series"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Series",
+            "zh-hant": "系列"
+        }
     },
-    "title": "Drawings, Imperial Hotel (circa 1916–1923), Tokyo, Japan",
-    "titleOther": "日本東京帝國酒店（約1916至1923年）繪圖",
-    "displayDate": "[circa 1918]",
-    "displayDateOther": null,
+    "title": {
+        "en": "日本東京帝國酒店（約1916至1923年）繪圖",
+        "zh-hant": "Drawings, Imperial Hotel (circa 1916–1923), Tokyo, Japan"
+    },
+    "displayDate": {
+        "en": "[circa 1918]",
+        "zh-hant": null
+    },
     "beginDate": 1916,
     "endDate": 1920,
-    "dimension": "6 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "6 items",
+        "zh-hant": "6 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 479,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
     "images": null,

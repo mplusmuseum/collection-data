@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.63",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Four Swimmers",
-    "titleOther": "四泳式",
-    "displayDate": "2004",
-    "displayDateOther": null,
+    "title": {
+        "en": "四泳式",
+        "zh-hant": "Four Swimmers"
+    },
+    "displayDate": {
+        "en": "2004",
+        "zh-hant": null
+    },
     "beginDate": 2004,
     "endDate": 2004,
-    "dimension": "frame (each): 65.8 × 46.3 × 2 cm\r\r\nimage (each, sight): 49.5 × 29.9 cm",
-    "medium": "ink and colour on silk",
-    "creditLine": "M+, Hong Kong. Gift of Yiqingzhai Foundation Limited, 2014",
+    "dimension": {
+        "en": "frame (each): 65.8 × 46.3 × 2 cm\r\r\nimage (each, sight): 49.5 × 29.9 cm",
+        "zh-hant": "框架: 65.7 × 46.1 厘米\r\r\n圖像 (目測量度): 49.3 × 29.9 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on silk",
+        "zh-hant": "水墨設色絹本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Yiqingzhai Foundation Limited, 2014",
+        "zh-hant": "M+，香港，怡情齋慈善基金有限公司捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 411,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

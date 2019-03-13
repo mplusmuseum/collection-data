@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/2/7",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Photography",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Photograph, a table designed by [Wang Dahong?] at Allied Architects",
-    "titleOther": "一張桌子的照片，桌子由[王大閎?]在五聯建築師事務所時設計",
-    "displayDate": "[1945–1951]",
-    "displayDateOther": null,
+    "title": {
+        "en": "一張桌子的照片，桌子由[王大閎?]在五聯建築師事務所時設計",
+        "zh-hant": "Photograph, a table designed by [Wang Dahong?] at Allied Architects"
+    },
+    "displayDate": {
+        "en": "[1945–1951]",
+        "zh-hant": null
+    },
     "beginDate": 1945,
     "endDate": 1951,
-    "dimension": "sheet: 8.7 x 12.7 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 8.7 x 12.7 cm",
+        "zh-hant": "sheet: 8.7 x 12.7 cm"
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": "chromogenic colour print"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

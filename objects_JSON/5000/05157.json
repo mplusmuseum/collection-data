@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.412",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Easy chair, Chandigarh, India",
-    "titleOther": "安樂椅（印度昌迪加爾）",
-    "displayDate": "circa 1955–1956",
-    "displayDateOther": "約1955至1956年",
+    "title": {
+        "en": "安樂椅（印度昌迪加爾）",
+        "zh-hant": "Easy chair, Chandigarh, India"
+    },
+    "displayDate": {
+        "en": "約1955至1956年",
+        "zh-hant": "circa 1955–1956"
+    },
     "beginDate": 1953,
     "endDate": 1957,
-    "dimension": "overall: 71 × 52.6 × 71 cm",
-    "medium": "teak and caning",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 71 × 52.6 × 71 cm",
+        "zh-hant": "整體: 71 × 52.6 × 71 厘米"
+    },
+    "medium": {
+        "en": "teak and caning",
+        "zh-hant": "柚木、藤"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1112,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

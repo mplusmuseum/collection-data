@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/28",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Notes on definitions of various English words and idioms",
-    "titleOther": "寫有不同英語單詞及俚語定義的筆記",
-    "displayDate": "[1950s–2000s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "寫有不同英語單詞及俚語定義的筆記",
+        "zh-hant": "Notes on definitions of various English words and idioms"
+    },
+    "displayDate": {
+        "en": "[1950s–2000s]",
+        "zh-hant": null
+    },
     "beginDate": 1950,
     "endDate": 2009,
-    "dimension": "sheet: 19.6 x 21 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 19.6 x 21 cm",
+        "zh-hant": "sheet: 19.6 x 21 cm"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

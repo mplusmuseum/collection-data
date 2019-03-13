@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.54",
     "classification": {
-        "area": "Moving Image",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": "裝置藝術"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The Sky of Brooklyn—digging a hole in Beijing",
-    "titleOther": "布魯克林的天空—在北京打井",
-    "displayDate": "1995",
-    "displayDateOther": null,
+    "title": {
+        "en": "布魯克林的天空—在北京打井",
+        "zh-hant": "The Sky of Brooklyn—digging a hole in Beijing"
+    },
+    "displayDate": {
+        "en": "1995",
+        "zh-hant": null
+    },
     "beginDate": 1995,
     "endDate": 1995,
-    "dimension": "sheet (color print): 35 × 50 cm\r\r\nsheet (sketch): 30 × 40 cm\r\r\nduration: 3 min.",
-    "medium": "chromogenic colour prints, sketch, and video (colour, mono sound)",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet (color print): 35 × 50 cm\r\r\nsheet (sketch): 30 × 40 cm\r\r\nduration: 3 min.",
+        "zh-hant": "彩色照片四張（50 x 35厘米， 無框）；手繪草圖（40×30厘米，無框）；錄像（3分鐘）"
+    },
+    "medium": {
+        "en": "chromogenic colour prints, sketch, and video (colour, mono sound)",
+        "zh-hant": "彩色照片、手繪草圖、錄像"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 443,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

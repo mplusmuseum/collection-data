@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.481",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Red Door",
-    "titleOther": "紅門",
-    "displayDate": "2004",
-    "displayDateOther": null,
+    "title": {
+        "en": "紅門",
+        "zh-hant": "Red Door"
+    },
+    "displayDate": {
+        "en": "2004",
+        "zh-hant": null
+    },
     "beginDate": 2004,
     "endDate": 2004,
-    "dimension": "frame: 43.4 × 60.9 × 0.8 cm\r\r\nimage: 40 × 52 cm",
-    "medium": "inkjet print",
-    "creditLine": "M+, Hong Kong. Gift of Chiu Wai-Yee, 2016",
+    "dimension": {
+        "en": "frame: 43.4 × 60.9 × 0.8 cm\r\r\nimage: 40 × 52 cm",
+        "zh-hant": "框架: 43.4 × 60.9 × 0.8 厘米\r\r\n圖像: 40 × 52 厘米"
+    },
+    "medium": {
+        "en": "inkjet print",
+        "zh-hant": "噴墨打印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Chiu Wai-Yee, 2016",
+        "zh-hant": "M+，香港，趙慧儀捐贈，2016年"
+    },
     "constituents": [
         {
             "id": 1537,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

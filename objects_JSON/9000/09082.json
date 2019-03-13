@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA2/9/3",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Sketch exterior perspective, Guangdong Museum (2004–2010), Guangzhou, China",
-    "titleOther": "中國廣州廣東省博物館（2004至2010年）外部透視草圖",
-    "displayDate": "[2004]",
-    "displayDateOther": null,
+    "title": {
+        "en": "中國廣州廣東省博物館（2004至2010年）外部透視草圖",
+        "zh-hant": "Sketch exterior perspective, Guangdong Museum (2004–2010), Guangzhou, China"
+    },
+    "displayDate": {
+        "en": "[2004]",
+        "zh-hant": null
+    },
     "beginDate": 2004,
     "endDate": 2004,
-    "dimension": "sheet: 29.7 x 21 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+    "dimension": {
+        "en": "sheet: 29.7 x 21 cm",
+        "zh-hant": "sheet: 29.7 x 21 cm"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+        "zh-hant": "M+，香港，許李嚴建築師事務所捐贈，2013年"
+    },
     "constituents": [
         {
             "id": 543,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         },
         {
             "id": 60,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [],

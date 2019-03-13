@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.784",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hong Kong",
-    "titleOther": "香港",
-    "displayDate": "1990",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港",
+        "zh-hant": "Hong Kong"
+    },
+    "displayDate": {
+        "en": "1990",
+        "zh-hant": null
+    },
     "beginDate": 1990,
     "endDate": 1990,
-    "dimension": "152.4 x 152.4 x 15.25 cm",
-    "medium": "lighbox and colour transparency",
-    "creditLine": "M+, Hong Kong. Gift of the Artist in honour of Dr. Lars Nittve, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "152.4 x 152.4 x 15.25 cm",
+        "zh-hant": "152.4 x 152.4 x 15.25厘米"
+    },
+    "medium": {
+        "en": "lighbox and colour transparency",
+        "zh-hant": "燈箱、有色透明膠片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of the Artist in honour of Dr. Lars Nittve, 2016",
+        "zh-hant": "M+，香港，藝術家向李立偉博士致意的捐贈，2016年"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

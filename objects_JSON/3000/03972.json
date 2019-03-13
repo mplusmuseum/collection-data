@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2016.651",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Kazuo Shiraga, Painting with his feet",
     "titleOther": "白髮一雄，用腳繪畫",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1956,
     "endDate": 1956,
-    "dimension": "sheet (2016.651.1, .3, .6-.9, approx.): 35.5 × 27.7 cm\r\r\nimage (2016.651.1, .3, .6-.9, approx.): 30.4 × 20.7 cm\r\r\nsheet (2016.651.2, .4-.5, approx.): 27.8 × 35.6 cm\r\r\nimage (2016.651.2, .4-.5, approx.): 20.7 × 31.5 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet (2016.651.1, .3, .6-.9, approx.): 35.5 × 27.7 cm\r\r\nimage (2016.651.1, .3, .6-.9, approx.): 30.4 × 20.7 cm\r\r\nsheet (2016.651.2, .4-.5, approx.): 27.8 × 35.6 cm\r\r\nimage (2016.651.2, .4-.5, approx.): 20.7 × 31.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

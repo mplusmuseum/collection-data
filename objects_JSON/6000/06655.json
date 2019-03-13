@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.863",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Kamakura, Japan, 1988",
-    "titleOther": "1988年，日本鎌倉",
-    "displayDate": "photographed 1988, printed 2017",
-    "displayDateOther": "1998年拍攝，2017年印刷",
+    "title": {
+        "en": "1988年，日本鎌倉",
+        "zh-hant": "Kamakura, Japan, 1988"
+    },
+    "displayDate": {
+        "en": "1998年拍攝，2017年印刷",
+        "zh-hant": "photographed 1988, printed 2017"
+    },
     "beginDate": 1988,
     "endDate": 2017,
-    "dimension": "sheet: 51 × 40.7 cm\r\r\nimage: 38.2 × 38.1 cm",
-    "medium": "silver gelatin selenium toned prints",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 51 × 40.7 cm\r\r\nimage: 38.2 × 38.1 cm",
+        "zh-hant": "紙本: 51 × 40.7 厘米  圖像: 38.2 × 38.1 厘米"
+    },
+    "medium": {
+        "en": "silver gelatin selenium toned prints",
+        "zh-hant": "銀鹽硒調染照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

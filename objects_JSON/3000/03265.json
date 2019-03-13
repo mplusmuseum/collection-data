@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.754",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Shedding Lake",
     "titleOther": "脫落的湖",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2009,
     "endDate": 2009,
-    "dimension": "overall: 219.7 × 149.4 cm",
-    "medium": "mixed media on canvas",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 219.7 × 149.4 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "mixed media on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 354,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

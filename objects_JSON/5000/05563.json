@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.320",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Prototype, Medusa",
-    "titleOther": "美杜莎原型",
-    "displayDate": "2012",
-    "displayDateOther": null,
+    "title": {
+        "en": "美杜莎原型",
+        "zh-hant": "Prototype, Medusa"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": null
+    },
     "beginDate": 1982,
     "endDate": 1982,
-    "dimension": "overall: 71.3 × 84 cm\r\nother (original info): 45 kg",
-    "medium": "metal and glass",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 71.3 × 84 cm\r\nother (original info): 45 kg",
+        "zh-hant": "整體： 71.3 × 84 厘米"
+    },
+    "medium": {
+        "en": "metal and glass",
+        "zh-hant": "金屬、玻璃"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1162,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

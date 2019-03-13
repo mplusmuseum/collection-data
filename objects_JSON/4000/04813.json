@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.307",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Water Bird Series",
     "titleOther": "水鳥系列",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1986,
     "endDate": 1986,
-    "dimension": "image: 99 × 66 cm",
-    "medium": "ink and acrylic on rice paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "image: 99 × 66 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink and acrylic on rice paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

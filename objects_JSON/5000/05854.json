@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.76",
     "classification": {
-        "area": "Visual Art",
-        "category": "Film",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Film",
+            "zh-hant": "電影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Ten Thousand Waves",
-    "titleOther": "萬重浪",
-    "displayDate": "2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "萬重浪",
+        "zh-hant": "Ten Thousand Waves"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "duration: 49 min. 41 sec.",
-    "medium": "35mm film transferred to digital (colour, surround sound)",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "duration: 49 min. 41 sec.",
+        "zh-hant": "影片長度: 49 分 41 秒"
+    },
+    "medium": {
+        "en": "35mm film transferred to digital (colour, surround sound)",
+        "zh-hant": "35毫米菲林轉載於錄像"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 980,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

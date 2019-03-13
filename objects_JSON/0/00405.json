@@ -1,24 +1,195 @@
 {
     "id": 405,
-    "sortNumber": null,
+    "sortNumber": "2012  2061",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1964,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.2061",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "粵劇名伶肖像—陳咏儀",
+        "zh-hant": "Portraits of Cantonese Opera—Chan Wing-yi"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": null
+    },
+    "beginDate": 2012,
+    "endDate": 2012,
+    "dimension": {
+        "en": "sheet: 35.5 × 27.8 cm\r\r\nimage: 34.2 × 22.9 cm",
+        "zh-hant": "紙本: 35.5 × 27.8 厘米  圖像: 34.2 × 22.9 厘米"
+    },
+    "medium": {
+        "en": "UV colour inkjet print on Duratrans",
+        "zh-hant": "UV彩色噴墨打印燈箱片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Michael Wolf, 2012",
+        "zh-hant": "M+，香港，吳爾夫捐贈，2012年"
+    },
+    "constituents": [
+        {
+            "id": 474,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        },
+        {
+            "id": 11,
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Photograph of a Cantonese opera performer posing on a city street wearing an embroidered red robe, an ornate headdress, and white and fuchsia makeup."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#82082B",
+                "value": 14.7
+            },
+            {
+                "color": "#2B2A2F",
+                "value": 9.8
+            },
+            {
+                "color": "#89827B",
+                "value": 8.9
+            },
+            {
+                "color": "#989892",
+                "value": 7.9
+            },
+            {
+                "color": "#322E2B",
+                "value": 7.1
+            },
+            {
+                "color": "#73747D",
+                "value": 5
+            },
+            {
+                "color": "#34221F",
+                "value": 4.6
+            },
+            {
+                "color": "#7A6848",
+                "value": 4
+            },
+            {
+                "color": "#373022",
+                "value": 3.8
+            },
+            {
+                "color": "#B7B7AD",
+                "value": 3.7
+            },
+            {
+                "color": "#B91F4A",
+                "value": 3.5
+            },
+            {
+                "color": "#C1B5AB",
+                "value": 2.8
+            },
+            {
+                "color": "#7E434E",
+                "value": 2.7
+            },
+            {
+                "color": "#1A1C2C",
+                "value": 2.4
+            },
+            {
+                "color": "#42060F",
+                "value": 2.2
+            },
+            {
+                "color": "#7C8C86",
+                "value": 2
+            },
+            {
+                "color": "#745442",
+                "value": 2
+            },
+            {
+                "color": "#3B3F67",
+                "value": 1.6
+            },
+            {
+                "color": "#303534",
+                "value": 1.3
+            },
+            {
+                "color": "#B5B9C5",
+                "value": 1.2
+            },
+            {
+                "color": "#CC5776",
+                "value": 1
+            },
+            {
+                "color": "#7A8184",
+                "value": 1
+            },
+            {
+                "color": "#837880",
+                "value": 0.8
+            },
+            {
+                "color": "#C2C9CD",
+                "value": 0.7
+            },
+            {
+                "color": "#2A1925",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 23
+                },
+                {
+                    "color": "pink",
+                    "value": 1
+                },
+                {
+                    "color": "gray",
+                    "value": 33.9
+                },
+                {
+                    "color": "blue",
+                    "value": 1.6
+                },
+                {
+                    "color": "black",
+                    "value": 29.6
+                },
+                {
+                    "color": "brown",
+                    "value": 6
+                }
+            ]
         }
     }
 }

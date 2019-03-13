@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1274",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Horse Goat Monkey Rooster Pig Dog No. 5",
     "titleOther": "馬羊猴雞豬狗 第5號",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "overall (open): 318 × 148 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall (open): 318 × 148 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 96,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

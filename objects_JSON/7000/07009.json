@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.255",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Work 26",
-    "titleOther": "作品26",
-    "displayDate": "1956",
-    "displayDateOther": null,
+    "title": {
+        "en": "作品26",
+        "zh-hant": "Work 26"
+    },
+    "displayDate": {
+        "en": "1956",
+        "zh-hant": null
+    },
     "beginDate": 1956,
     "endDate": 1956,
-    "dimension": "image: 90.5 × 72 cm\r\r\nframe: 93 × 74 × 3.5 cm",
-    "medium": "ink on lacquer-coated fiberboard",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image: 90.5 × 72 cm\r\r\nframe: 93 × 74 × 3.5 cm",
+        "zh-hant": "圖像： 90.5 × 72 厘米\r\n連框： 93 × 74 × 3.5 厘米"
+    },
+    "medium": {
+        "en": "ink on lacquer-coated fiberboard",
+        "zh-hant": "墨水、塗漆纖維板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1638,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

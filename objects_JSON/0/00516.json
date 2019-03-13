@@ -1,24 +1,84 @@
 {
     "id": 516,
-    "sortNumber": null,
+    "sortNumber": "2012  1546",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1973,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.1546",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "向毛敬禮",
+        "zh-hant": "Salute to Mao Zhedong"
+    },
+    "displayDate": {
+        "en": "1968",
+        "zh-hant": null
+    },
+    "beginDate": 1968,
+    "endDate": 1968,
+    "dimension": {
+        "en": "frame: 74.2 × 77 × 4.6 cm\r\r\noverall: 71 × 73.6 cm\r\r\nimage: 60 × 62.6 cm",
+        "zh-hant": "框架: 74.2 × 77 × 4.6 厘米\r\n整體: 71 × 73.6 厘米\r\n圖像: 60 × 62.6 厘米"
+    },
+    "medium": {
+        "en": "photograph mounted on aluminium",
+        "zh-hant": "照片裱於鋁板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Liu Heung-Shing, 2012",
+        "zh-hant": "M+，香港，劉香成捐贈，2012年"
+    },
+    "constituents": [
+        {
+            "id": 281,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#7B7B7B",
+                "value": 47.3
+            },
+            {
+                "color": "#D2D2D2",
+                "value": 27.3
+            },
+            {
+                "color": "#303030",
+                "value": 25.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 47.3
+                },
+                {
+                    "color": "white",
+                    "value": 27.3
+                },
+                {
+                    "color": "black",
+                    "value": 25.4
+                }
+            ]
         }
     }
 }

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.875",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled",
-    "titleOther": "無題",
-    "displayDate": "1970s",
-    "displayDateOther": "1970年代",
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "1970年代",
+        "zh-hant": "1970s"
+    },
     "beginDate": 1970,
     "endDate": 1979,
-    "dimension": "image: 17.5 × 24.8 cm",
-    "medium": "oil on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image: 17.5 × 24.8 cm",
+        "zh-hant": "圖像: 17.5 × 24.8 厘米"
+    },
+    "medium": {
+        "en": "oil on paper",
+        "zh-hant": "油彩紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1495,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1278",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Waterfall",
     "titleOther": "瀑布",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2003,
     "endDate": 2003,
-    "dimension": "overall: 210 × 140 × 140 cm, 480 kg",
-    "medium": "wax, calligraphy, and metal armature",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 210 × 140 × 140 cm, 480 kg",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "wax, calligraphy, and metal armature",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 96,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

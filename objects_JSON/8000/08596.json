@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.285",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Not Wanting to Say Anything About Marcel. Lithograph B",
-    "titleOther": "不想談論任何有關馬塞爾的事──平印版畫B",
-    "displayDate": "1969",
-    "displayDateOther": null,
+    "title": {
+        "en": "不想談論任何有關馬塞爾的事──平印版畫B",
+        "zh-hant": "Not Wanting to Say Anything About Marcel. Lithograph B"
+    },
+    "displayDate": {
+        "en": "1969",
+        "zh-hant": null
+    },
     "beginDate": 1969,
     "endDate": 1969,
-    "dimension": "image: 71.1 × 101.6 cm",
-    "medium": "colour lithograph on Montval Paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "image: 71.1 × 101.6 cm",
+        "zh-hant": "圖像：71.1 × 101.6厘米"
+    },
+    "medium": {
+        "en": "colour lithograph on Montval Paper",
+        "zh-hant": "彩色平版印刷、Montval 紙"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.766",
     "classification": {
-        "area": "Visual Art",
-        "category": "Drawing",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Drawing",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Sunset Drawing Exercise",
     "titleOther": "關於日落的習作",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2009,
     "endDate": 2009,
-    "dimension": "overall (canvas): 194.5 × 130 × 5 cm\r\r\nframe: 21 × 17 × 7 cm",
-    "medium": "various materials",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (canvas): 194.5 × 130 × 5 cm\r\r\nframe: 21 × 17 × 7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "various materials",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/2/3",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Photography",
-        "archivalLevel": "File"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": "File",
+            "zh-hant": "案卷"
+        }
     },
-    "title": "Negatives, Wang Dahong's badge at University of Cambridge",
-    "titleOther": "王大閎於劍橋大學校所獲獎章負片",
-    "displayDate": "[circa 1937]",
-    "displayDateOther": null,
+    "title": {
+        "en": "王大閎於劍橋大學校所獲獎章負片",
+        "zh-hant": "Negatives, Wang Dahong's badge at University of Cambridge"
+    },
+    "displayDate": {
+        "en": "[circa 1937]",
+        "zh-hant": null
+    },
     "beginDate": 1935,
     "endDate": 1939,
-    "dimension": "2 items",
-    "medium": "black-and-white negative",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "2 items",
+        "zh-hant": "2 items"
+    },
+    "medium": {
+        "en": "black-and-white negative",
+        "zh-hant": "black-and-white negative"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": null,
     "color": {
         "predominant": null,

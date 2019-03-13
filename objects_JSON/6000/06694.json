@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.877",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Lugang Building",
-    "titleOther": "綠崗樓",
-    "displayDate": "1980",
-    "displayDateOther": null,
+    "title": {
+        "en": "綠崗樓",
+        "zh-hant": "Lugang Building"
+    },
+    "displayDate": {
+        "en": "1980",
+        "zh-hant": null
+    },
     "beginDate": 1980,
     "endDate": 1980,
-    "dimension": "image: 26.7 × 26.2 cm",
-    "medium": "oil on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image: 26.7 × 26.2 cm",
+        "zh-hant": "圖像: 26.7 × 26.2 厘米"
+    },
+    "medium": {
+        "en": "oil on paper",
+        "zh-hant": "油彩紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1495,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

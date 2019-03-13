@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2016.314",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Parana, prototype",
-    "titleOther": "巴拉那，原型",
-    "displayDate": "1983",
-    "displayDateOther": null,
+    "title": {
+        "en": "巴拉那，原型",
+        "zh-hant": "Parana, prototype"
+    },
+    "displayDate": {
+        "en": "1983",
+        "zh-hant": null
+    },
     "beginDate": 1983,
     "endDate": 1983,
-    "dimension": "overall: 8.4 × 41.3 × 37.5 cm",
-    "medium": "ceramic",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 8.4 × 41.3 × 37.5 cm",
+        "zh-hant": "整體: 8.4 × 41.3 × 37.5 厘米"
+    },
+    "medium": {
+        "en": "ceramic",
+        "zh-hant": "陶"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1162,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
             "id": 1169,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

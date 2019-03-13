@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA33/9",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Ephemera",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Ephemera",
+            "zh-hant": "Ephemera"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "WoDeCo 8, bulletin, World Design Conference in Japan, Tokyo, Japan",
-    "titleOther": "日本東京世界設計大會新聞簡報《WoDeCo 8》",
-    "displayDate": "1960",
-    "displayDateOther": null,
+    "title": {
+        "en": "日本東京世界設計大會新聞簡報《WoDeCo 8》",
+        "zh-hant": "WoDeCo 8, bulletin, World Design Conference in Japan, Tokyo, Japan"
+    },
+    "displayDate": {
+        "en": "1960",
+        "zh-hant": null
+    },
     "beginDate": 1960,
     "endDate": 1960,
-    "dimension": "overall: 51.4 × 36.4 cm, 2 pp",
-    "medium": "printing ink on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 51.4 × 36.4 cm, 2 pp",
+        "zh-hant": "overall: 51.4 × 36.4 cm, 2 pp"
+    },
+    "medium": {
+        "en": "printing ink on paper",
+        "zh-hant": "printing ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": [

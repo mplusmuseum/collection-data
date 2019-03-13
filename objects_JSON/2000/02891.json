@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.568",
     "classification": {
-        "area": "Visual Art",
-        "category": "Drawing",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Drawing",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Having a Rest",
     "titleOther": "休息",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2005,
     "endDate": 2005,
-    "dimension": "frame: 70.4 × 112.2 cm\r\r\nsheet (sight): 67.1 × 109.3 cm",
-    "medium": "coloured chalk on paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "frame: 70.4 × 112.2 cm\r\r\nsheet (sight): 67.1 × 109.3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "coloured chalk on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 278,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

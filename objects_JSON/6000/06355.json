@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.228",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "City at the End of Time",
-    "titleOther": "在時間盡頭的城市",
-    "displayDate": "1992",
-    "displayDateOther": null,
+    "title": {
+        "en": "在時間盡頭的城市",
+        "zh-hant": "City at the End of Time"
+    },
+    "displayDate": {
+        "en": "1992",
+        "zh-hant": null
+    },
     "beginDate": 1992,
     "endDate": 1992,
-    "dimension": "artist frame: 149.5 × 107.5 × 5 cm\r\r\nsheet: 143 × 101.5 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "artist frame: 149.5 × 107.5 × 5 cm\r\r\nsheet: 143 × 101.5 cm",
+        "zh-hant": "原框: 149.5 × 107.5 × 5 厘米\r\r\n紙本: 143 × 101.5 厘米"
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": "彩色照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1360,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

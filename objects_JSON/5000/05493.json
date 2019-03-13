@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.376",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Theatre of Love #1e",
-    "titleOther": "愛的劇場 #1e",
-    "displayDate": "1965",
-    "displayDateOther": null,
+    "title": {
+        "en": "愛的劇場 #1e",
+        "zh-hant": "Theatre of Love #1e"
+    },
+    "displayDate": {
+        "en": "1965",
+        "zh-hant": null
+    },
     "beginDate": 1965,
     "endDate": 1965,
-    "dimension": "sheet: 12.2 × 16.8 cm\r\r\nimage: 10.2 × 15.4 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 12.2 × 16.8 cm\r\r\nimage: 10.2 × 15.4 cm",
+        "zh-hant": "紙本: 12.2 × 16.8 厘米  圖像: 10.2 × 15.4 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1151,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

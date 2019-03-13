@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.803",
     "classification": {
-        "area": "Visual Art",
-        "category": "Drawing",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Drawing",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Pen No 2",
     "titleOther": "筆 第二號",
@@ -14,13 +23,25 @@
     "displayDateOther": "約2004年",
     "beginDate": 2004,
     "endDate": 2004,
-    "dimension": "overall: 49.3 × 75.6 cm",
-    "medium": "coloured pencil on paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 49.3 × 75.6 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "coloured pencil on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 374,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

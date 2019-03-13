@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.410",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Is the World Before Us True ?",
     "titleOther": "眼前的這個世界真實嗎？",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "overall (each): 18 × 14.3 × 2.8 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall (each): 18 × 14.3 × 2.8 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 206,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2015.558",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "A Requiem: Theater of Creativity/Self-Portrait as Marcel Duchamp (Based on the Photo by Julian Wasser）",
-    "titleOther": "安魂曲：創意劇場／扮成馬塞爾．杜尚的自畫像（由朱利安．瓦塞爾的攝影片品改製而成）",
-    "displayDate": "2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "安魂曲：創意劇場／扮成馬塞爾．杜尚的自畫像（由朱利安．瓦塞爾的攝影片品改製而成）",
+        "zh-hant": "A Requiem: Theater of Creativity/Self-Portrait as Marcel Duchamp (Based on the Photo by Julian Wasser）"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "sheet (sight): 148 × 187.5 cm\r\r\nframe: 164.5 × 202.4 × 6.1 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet (sight): 148 × 187.5 cm\r\r\nframe: 164.5 × 202.4 × 6.1 cm",
+        "zh-hant": "紙本 （目測量度）: 148 × 187.5 厘米  連框: 164.5 × 202.4 × 6.1 厘米"
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": "彩色照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

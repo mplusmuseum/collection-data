@@ -1,24 +1,84 @@
 {
     "id": 125,
-    "sortNumber": null,
+    "sortNumber": "2012  1923",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1983,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.1923",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "灕江鑼鼓灘",
+        "zh-hant": "River Li, Guangxi"
+    },
+    "displayDate": {
+        "en": "1954",
+        "zh-hant": null
+    },
+    "beginDate": 1954,
+    "endDate": 1954,
+    "dimension": {
+        "en": "sheet: 38.7 × 48.9 cm",
+        "zh-hant": "紙本: 38.7 × 48.9 厘米"
+    },
+    "medium": {
+        "en": "black and white print",
+        "zh-hant": "黑白沖印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D4D3D2",
+                "value": 52.8
+            },
+            {
+                "color": "#DEDEDB",
+                "value": 17.9
+            },
+            {
+                "color": "#969494",
+                "value": 17.7
+            },
+            {
+                "color": "#949193",
+                "value": 5.2
+            },
+            {
+                "color": "#D2D0D1",
+                "value": 2.3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 22.9
+                },
+                {
+                    "color": "white",
+                    "value": 73
+                }
+            ]
         }
     }
 }

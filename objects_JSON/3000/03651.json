@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2014.74",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Untitled",
     "titleOther": "無題",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1964,
     "endDate": 1964,
-    "dimension": "overall: 48.5 × 127.3 cm\r\r\nimage: 30.3 × 94.1 cm",
-    "medium": "ink and colour on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 48.5 × 127.3 cm\r\r\nimage: 30.3 × 94.1 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 327,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

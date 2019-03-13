@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA15/3/4",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Annotated sketch, masterplan for competition submission, Hong Kong University of Science and Technology (1987–1993), Hong Kong",
-    "titleOther": "香港科技大學（1987至1993年）校園設計比賽參賽作品總平面圖草圖連標註",
-    "displayDate": "1987",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港科技大學（1987至1993年）校園設計比賽參賽作品總平面圖草圖連標註",
+        "zh-hant": "Annotated sketch, masterplan for competition submission, Hong Kong University of Science and Technology (1987–1993), Hong Kong"
+    },
+    "displayDate": {
+        "en": "1987",
+        "zh-hant": null
+    },
     "beginDate": 1987,
     "endDate": 1987,
-    "dimension": "sheet: 38 x 75.2 cm",
-    "medium": "ink on transparent paper",
-    "creditLine": "M+, Hong Kong. Gift of Simon Kwan & Associates Limited, 2014",
+    "dimension": {
+        "en": "sheet: 38 x 75.2 cm",
+        "zh-hant": "sheet: 38 x 75.2 cm"
+    },
+    "medium": {
+        "en": "ink on transparent paper",
+        "zh-hant": "ink on transparent paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Simon Kwan & Associates Limited, 2014",
+        "zh-hant": "M+，香港，關善明建築師事務所捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 63,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [

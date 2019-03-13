@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.796",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The Six Principles of Chinese Painting - Transmission IV (with Hung Hoi)",
-    "titleOther": "繪畫六法—傳移摹寫之四（熊海合作）",
-    "displayDate": "2015",
-    "displayDateOther": null,
+    "title": {
+        "en": "繪畫六法—傳移摹寫之四（熊海合作）",
+        "zh-hant": "The Six Principles of Chinese Painting - Transmission IV (with Hung Hoi)"
+    },
+    "displayDate": {
+        "en": "2015",
+        "zh-hant": null
+    },
     "beginDate": 2015,
     "endDate": 2015,
-    "dimension": "overall (approx.): 178.9 × 484.5 cm\r\r\nsight (each): 177.8 × 95.3 cm",
-    "medium": "ink and colour on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (approx.): 178.9 × 484.5 cm\r\r\nsight (each): 177.8 × 95.3 cm",
+        "zh-hant": "整體約: 178.9 × 484.5 厘米\r\n目測量度 (各): 177.8 × 95.3 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": "水墨設色紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 921,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

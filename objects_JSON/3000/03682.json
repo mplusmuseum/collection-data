@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2016.69",
     "classification": {
-        "area": "Moving Image",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Tickled in a dream…maybe? (Fishing)",
     "titleOther": "夢中被搔癢……也許吧？（釣魚）",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2014,
     "endDate": 2014,
-    "dimension": "dimensions variable\r\r\n\r\nduration (channel 1): 26 min. 6 sec. \r\r\nduration (channel 2): 30 min. 19 sec.",
-    "medium": "wood, iron; two-channel video (colour, sound)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "dimensions variable\r\r\n\r\nduration (channel 1): 26 min. 6 sec. \r\r\nduration (channel 2): 30 min. 19 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "wood, iron; two-channel video (colour, sound)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

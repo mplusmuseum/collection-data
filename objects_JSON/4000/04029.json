@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2016.367",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Circus",
     "titleOther": "馬戲團",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2014,
     "endDate": 2014,
-    "dimension": "image: 259.5 × 366 × 5.5 cm",
-    "medium": "mixed media on canvas",
-    "creditLine": "M+, Hong Kong. Purchased with partial gift from Honus Tandijono, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "image: 259.5 × 366 × 5.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "mixed media on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Purchased with partial gift from Honus Tandijono, 2016",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.114",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Angkor Quartet",
-    "titleOther": "吳哥大樂隊",
-    "displayDate": "2004",
-    "displayDateOther": null,
+    "title": {
+        "en": "吳哥大樂隊",
+        "zh-hant": "Angkor Quartet"
+    },
+    "displayDate": {
+        "en": "2004",
+        "zh-hant": null
+    },
     "beginDate": 2004,
     "endDate": 2004,
-    "dimension": "sheet (2015.114.1): 45.1 × 44.7 cm\r\r\nsheet (2015.114.2): 47.6 × 47.5 cm\r\r\nsheet (2015.114.3): 45.1 × 45 cm",
-    "medium": "ink and colour on silk",
-    "creditLine": "M+, Hong Kong. Gift of Yiqingzhai Foundation Limited, 2014",
+    "dimension": {
+        "en": "sheet (2015.114.1): 45.1 × 44.7 cm\r\r\nsheet (2015.114.2): 47.6 × 47.5 cm\r\r\nsheet (2015.114.3): 45.1 × 45 cm",
+        "zh-hant": "紙本 (2015.114.1): 45.1 × 44.7 厘米  紙本 (2015.114.2): 47.6 × 47.5 厘米  紙本 (2015.114.3): 45.1 × 45 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on silk",
+        "zh-hant": "水墨設色絹本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Yiqingzhai Foundation Limited, 2014",
+        "zh-hant": "M+，香港，怡情齋慈善基金有限公司捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 411,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

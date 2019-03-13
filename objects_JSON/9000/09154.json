@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA9/1/4",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Section, Bell House (1962–1970), Nathan Road, Hong Kong",
-    "titleOther": "香港彌敦道寶寧大廈（1962至1970年）剖面圖",
-    "displayDate": "10 November 1962, revised 2 September 1964",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港彌敦道寶寧大廈（1962至1970年）剖面圖",
+        "zh-hant": "Section, Bell House (1962–1970), Nathan Road, Hong Kong"
+    },
+    "displayDate": {
+        "en": "10 November 1962, revised 2 September 1964",
+        "zh-hant": null
+    },
     "beginDate": 1962,
     "endDate": 1964,
-    "dimension": "sheet: 83 x 103 cm",
-    "medium": "carbon and graphite on transparent paper",
-    "creditLine": "M+, Hong Kong. Gift of Andrew Lee King Fun & Associates Architects Limited, 2013",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 83 x 103 cm",
+        "zh-hant": "sheet: 83 x 103 cm"
+    },
+    "medium": {
+        "en": "carbon and graphite on transparent paper",
+        "zh-hant": "carbon and graphite on transparent paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Andrew Lee King Fun & Associates Architects Limited, 2013",
+        "zh-hant": "M+，香港，李景勳、雷煥庭建築師事務所捐贈，2013年"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

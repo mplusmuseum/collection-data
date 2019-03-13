@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA9/3/8",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Sections C-C and D-D, Jing An Hilton Hotel (1984), Shanghai, China",
-    "titleOther": "中國上海靜安希爾頓酒店（1984年）剖面圖C-C 、D-D",
-    "displayDate": "November 1984",
-    "displayDateOther": null,
+    "title": {
+        "en": "中國上海靜安希爾頓酒店（1984年）剖面圖C-C 、D-D",
+        "zh-hant": "Sections C-C and D-D, Jing An Hilton Hotel (1984), Shanghai, China"
+    },
+    "displayDate": {
+        "en": "November 1984",
+        "zh-hant": null
+    },
     "beginDate": 1984,
     "endDate": 1984,
-    "dimension": "sheet: 99 x 71 cm",
-    "medium": "diazotype (copy) on tracing vellum",
-    "creditLine": "M+, Hong Kong. Gift of Andrew Lee King Fun & Associates Architects Limited, 2013",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 99 x 71 cm",
+        "zh-hant": "sheet: 99 x 71 cm"
+    },
+    "medium": {
+        "en": "diazotype (copy) on tracing vellum",
+        "zh-hant": "diazotype (copy) on tracing vellum"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Andrew Lee King Fun & Associates Architects Limited, 2013",
+        "zh-hant": "M+，香港，李景勳、雷煥庭建築師事務所捐贈，2013年"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

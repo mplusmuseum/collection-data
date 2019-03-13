@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.528",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Mountain (Shangri-La)",
     "titleOther": "山（香格里拉）",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2005,
     "endDate": 2005,
-    "dimension": "274.3 × 243.8 cm",
-    "medium": "wood, metal, mirror, and motor",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "274.3 × 243.8 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "wood, metal, mirror, and motor",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 118,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

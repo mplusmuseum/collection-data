@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.506",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": "裝置藝術"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Third Realm –Venice Series",
-    "titleOther": "第三領域──威尼斯系列",
-    "displayDate": "2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "第三領域──威尼斯系列",
+        "zh-hant": "Third Realm –Venice Series"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": null
+    },
     "beginDate": 2011,
     "endDate": 2011,
-    "dimension": "overall (approx.): 244 x 244 x 250 cm",
-    "medium": "electronics, drums, marching band boots and hats, speakers, and megaphone",
-    "creditLine": "M+, Hong Kong. Gift of Hallam Chow, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (approx.): 244 x 244 x 250 cm",
+        "zh-hant": "整體 （約）：244 x 244 x 250 厘米"
+    },
+    "medium": {
+        "en": "electronics, drums, marching band boots and hats, speakers, and megaphone",
+        "zh-hant": "電子器材、鼓、步操樂隊靴子和帽子、擴音器、揚聲器"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Hallam Chow, 2016",
+        "zh-hant": "M+，香港，仇浩然捐贈，2016年"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

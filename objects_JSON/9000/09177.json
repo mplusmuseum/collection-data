@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA9/4/3",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Fifth to fifteenth floor plan, Pacific Trade Centre (1988), Kwun Tong, Hong Kong",
-    "titleOther": "香港觀塘太平洋貿易中心（1988年）五至十五樓平面圖",
-    "displayDate": "17 September 1988, revised 1989",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港觀塘太平洋貿易中心（1988年）五至十五樓平面圖",
+        "zh-hant": "Fifth to fifteenth floor plan, Pacific Trade Centre (1988), Kwun Tong, Hong Kong"
+    },
+    "displayDate": {
+        "en": "17 September 1988, revised 1989",
+        "zh-hant": null
+    },
     "beginDate": 1988,
     "endDate": 1989,
-    "dimension": "sheet: 59.5 x 84 cm",
-    "medium": "carbon and graphite on transparent paper",
-    "creditLine": "M+, Hong Kong. Gift of Andrew Lee King Fun & Associates Architects Limited, 2013",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 59.5 x 84 cm",
+        "zh-hant": "sheet: 59.5 x 84 cm"
+    },
+    "medium": {
+        "en": "carbon and graphite on transparent paper",
+        "zh-hant": "carbon and graphite on transparent paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Andrew Lee King Fun & Associates Architects Limited, 2013",
+        "zh-hant": "M+，香港，李景勳、雷煥庭建築師事務所捐贈，2013年"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.361",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Arizona",
-    "titleOther": "亞利桑那州",
-    "displayDate": "1964–1965",
-    "displayDateOther": null,
+    "title": {
+        "en": "亞利桑那州",
+        "zh-hant": "Arizona"
+    },
+    "displayDate": {
+        "en": "1964–1965",
+        "zh-hant": null
+    },
     "beginDate": 1964,
     "endDate": 1965,
-    "dimension": "image: 86.1 × 76.2 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "image: 86.1 × 76.2 cm",
+        "zh-hant": "圖像: 86.1 × 76.2 厘米"
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": "油彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

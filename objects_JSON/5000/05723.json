@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.85",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Round Table-Side by Side",
-    "titleOther": "雙圓桌",
-    "displayDate": "1997",
-    "displayDateOther": null,
+    "title": {
+        "en": "雙圓桌",
+        "zh-hant": "Round Table-Side by Side"
+    },
+    "displayDate": {
+        "en": "1997",
+        "zh-hant": null
+    },
     "beginDate": 1997,
     "endDate": 1997,
-    "dimension": "180 × 630 × 450 cm",
-    "medium": "wood, metal, and chairs",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "180 × 630 × 450 cm",
+        "zh-hant": "180 × 630 × 450 厘米"
+    },
+    "medium": {
+        "en": "wood, metal, and chairs",
+        "zh-hant": "木、金屬、椅子"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

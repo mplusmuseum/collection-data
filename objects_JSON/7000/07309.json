@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.598",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "ROBO room light, model NL1",
-    "titleOther": "ROBO房間照明器，NL1型",
-    "displayDate": "1988",
-    "displayDateOther": null,
+    "title": {
+        "en": "ROBO房間照明器，NL1型",
+        "zh-hant": "ROBO room light, model NL1"
+    },
+    "displayDate": {
+        "en": "1988",
+        "zh-hant": null
+    },
     "beginDate": 1988,
     "endDate": 1988,
-    "dimension": "overall: 10.6 × 11.9 × 12 cm",
-    "medium": "plastic and electronic parts",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 10.6 × 11.9 × 12 cm",
+        "zh-hant": "整體： 10.6 × 11.9 × 12 厘米"
+    },
+    "medium": {
+        "en": "plastic and electronic parts",
+        "zh-hant": "塑膠、電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

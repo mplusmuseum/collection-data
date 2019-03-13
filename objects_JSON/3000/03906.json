@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.256",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Chapter 1, The Return of Dr. N",
     "titleOther": "單元一，N博士的回歸",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2013,
     "endDate": 2013,
-    "dimension": "overall: 152.2 × 245 × 4 cm",
-    "medium": "acrylic on cotton",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 152.2 × 245 × 4 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "acrylic on cotton",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 358,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

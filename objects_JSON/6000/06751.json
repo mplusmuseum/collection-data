@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.149",
     "classification": {
-        "area": "Visual Art",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "hong kong building 03 / redwhiteblue",
-    "titleOther": "香港建築 03 / 紅白藍",
-    "displayDate": "2002",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港建築 03 / 紅白藍",
+        "zh-hant": "hong kong building 03 / redwhiteblue"
+    },
+    "displayDate": {
+        "en": "2002",
+        "zh-hant": null
+    },
     "beginDate": 2002,
     "endDate": 2002,
-    "dimension": "dimensions variable",
-    "medium": "screenprint on red-white-blue canvas",
-    "creditLine": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2017",
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": "尺寸不一"
+    },
+    "medium": {
+        "en": "screenprint on red-white-blue canvas",
+        "zh-hant": "絲網印刷、紅白藍帆布"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2017",
+        "zh-hant": "M+，香港，又一山人（黃炳培）捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 17,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

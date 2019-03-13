@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CL.2015.1.1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Book/Periodical",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Book/Periodical",
+            "zh-hant": "書藉/期刊"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "WERK No. 22 Dover Street Market Beautiful Chaos",
-    "titleOther": "WERK第22期：Dover Street Market 美麗的混亂",
-    "displayDate": "2014",
-    "displayDateOther": null,
+    "title": {
+        "en": "WERK第22期：Dover Street Market 美麗的混亂",
+        "zh-hant": "WERK No. 22 Dover Street Market Beautiful Chaos"
+    },
+    "displayDate": {
+        "en": "2014",
+        "zh-hant": null
+    },
     "beginDate": 2014,
     "endDate": 2014,
-    "dimension": "overall: 1.9 × 22.3 × 33.5 cm",
-    "medium": "offset print on paper",
-    "creditLine": "M+, Hong Kong. Gift of WORK, 2014",
+    "dimension": {
+        "en": "overall: 1.9 × 22.3 × 33.5 cm",
+        "zh-hant": "整體: 1.9 × 22.3 × 33.5 厘米"
+    },
+    "medium": {
+        "en": "offset print on paper",
+        "zh-hant": "柯式印刷紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of WORK, 2014",
+        "zh-hant": "M+，香港，WORK捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 846,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         },
         {
             "id": 1302,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.598",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "The hair that can predict the past, the present, and the future",
     "titleOther": "那根可預測過去、現在、未來的髮絲",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2013,
     "endDate": 2013,
-    "dimension": "99.5 × 99.5 cm",
-    "medium": "screen print, metal foil, horse hair, and STPI handmade abaca paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "99.5 × 99.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "screen print, metal foil, horse hair, and STPI handmade abaca paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 432,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

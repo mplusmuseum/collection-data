@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1232",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Aus der Serie ZOO",
     "titleOther": "夜間動物園",
@@ -14,13 +23,25 @@
     "displayDateOther": "2005",
     "beginDate": 2002,
     "endDate": 2002,
-    "dimension": "sheet: 50.6 × 50.6 cm\r\r\nimage: 48 × 47.9 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet: 50.6 × 50.6 cm\r\r\nimage: 48 × 47.9 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 522,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

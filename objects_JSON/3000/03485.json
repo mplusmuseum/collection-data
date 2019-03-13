@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1095",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Award Ceremony",
     "titleOther": "頒獎典禮",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2001,
     "endDate": 2001,
-    "dimension": "duration: 2 min. 40 sec.",
-    "medium": "video",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "duration: 2 min. 40 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "video",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 473,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

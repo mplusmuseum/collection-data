@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.332",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Mutsugoro",
-    "titleOther": "鯥五郎",
-    "displayDate": "2012",
-    "displayDateOther": null,
+    "title": {
+        "en": "鯥五郎",
+        "zh-hant": "Mutsugoro"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": null
+    },
     "beginDate": 1984,
     "endDate": 1984,
-    "dimension": "dimensionss variable",
-    "medium": "ceramics",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "dimensionss variable",
+        "zh-hant": "尺寸不一"
+    },
+    "medium": {
+        "en": "ceramics",
+        "zh-hant": "陶瓷"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1162,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

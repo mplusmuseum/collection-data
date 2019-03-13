@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA39/2/10/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Book/Periodical",
-        "archivalLevel": "File"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Book/Periodical",
+            "zh-hant": "書藉/期刊"
+        },
+        "archivalLevel": {
+            "en": "File",
+            "zh-hant": "案卷"
+        }
     },
-    "title": "Project file, Temple Beth El (1950–1968), Springfield, Massachusetts, USA",
-    "titleOther": "美國麻省斯普林菲爾德貝絲厄勒神殿（1950至1968年）項目文件",
-    "displayDate": "[1953–1968]",
-    "displayDateOther": null,
+    "title": {
+        "en": "美國麻省斯普林菲爾德貝絲厄勒神殿（1950至1968年）項目文件",
+        "zh-hant": "Project file, Temple Beth El (1950–1968), Springfield, Massachusetts, USA"
+    },
+    "displayDate": {
+        "en": "[1953–1968]",
+        "zh-hant": null
+    },
     "beginDate": 1953,
     "endDate": 1968,
-    "dimension": "35 items",
-    "medium": "printout on paper, printing ink on paper; gelatin silver print, digital print",
-    "creditLine": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
-    "constituents": null,
+    "dimension": {
+        "en": "35 items",
+        "zh-hant": "35 items"
+    },
+    "medium": {
+        "en": "printout on paper, printing ink on paper; gelatin silver print, digital print",
+        "zh-hant": "printout on paper, printing ink on paper; gelatin silver print, digital print"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
+        "zh-hant": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

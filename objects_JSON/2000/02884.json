@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.753",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Mirage",
     "titleOther": "海市蜃楼",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2004,
     "endDate": 2004,
-    "dimension": "sheet: 559.5 × 126.7 cm\r\r\nimage: 528.7 × 120 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet: 559.5 × 126.7 cm\r\r\nimage: 528.7 × 120 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 345,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

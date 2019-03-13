@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.51",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "AIEK card phone, model Mini M5",
-    "titleOther": "AIEK Mini M5型卡片手機",
-    "displayDate": "2015",
-    "displayDateOther": null,
+    "title": {
+        "en": "AIEK Mini M5型卡片手機",
+        "zh-hant": "AIEK card phone, model Mini M5"
+    },
+    "displayDate": {
+        "en": "2015",
+        "zh-hant": null
+    },
     "beginDate": 2015,
     "endDate": 2015,
-    "dimension": "overall (phone): 0.5 × 8.6 × 5.8 cm",
-    "medium": "plastic, electronic parts, and LED",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (phone): 0.5 × 8.6 × 5.8 cm",
+        "zh-hant": "整體 (電話): 0.5 × 8.6 × 5.8 厘米"
+    },
+    "medium": {
+        "en": "plastic, electronic parts, and LED",
+        "zh-hant": "塑膠、電子零件、LED 燈"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1706,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [],

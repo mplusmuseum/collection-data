@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.455",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Sculpture",
-    "titleOther": "雕塑",
-    "displayDate": "1978",
-    "displayDateOther": null,
+    "title": {
+        "en": "雕塑",
+        "zh-hant": "Sculpture"
+    },
+    "displayDate": {
+        "en": "1978",
+        "zh-hant": null
+    },
     "beginDate": 1978,
     "endDate": 1978,
-    "dimension": "overall (approx.): 15 × 13 × 13 cm",
-    "medium": "wood",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (approx.): 15 × 13 × 13 cm",
+        "zh-hant": "整體約: 15 × 13 × 13 厘米"
+    },
+    "medium": {
+        "en": "wood",
+        "zh-hant": "木"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1537,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

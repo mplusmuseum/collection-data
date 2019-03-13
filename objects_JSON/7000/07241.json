@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.587",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Tower Ashtray",
-    "titleOther": "堆疊式煙灰缸",
-    "displayDate": "1959",
-    "displayDateOther": null,
+    "title": {
+        "en": "堆疊式煙灰缸",
+        "zh-hant": "Tower Ashtray"
+    },
+    "displayDate": {
+        "en": "1959",
+        "zh-hant": null
+    },
     "beginDate": 1964,
     "endDate": 1964,
-    "dimension": "each: 3.2 × 7.3 cm\r\noverall (orginal box): 4.1 × 24.7 × 8.8 cm",
-    "medium": "plastic",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "each: 3.2 × 7.3 cm\r\noverall (orginal box): 4.1 × 24.7 × 8.8 cm",
+        "zh-hant": "各： 3.2 × 7.3 厘米\r\n整體 （orginal box）： 4.1 × 24.7 × 8.8 厘米"
+    },
+    "medium": {
+        "en": "plastic",
+        "zh-hant": "塑膠"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

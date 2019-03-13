@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/19",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Book/Periodical",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Book/Periodical",
+            "zh-hant": "書藉/期刊"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Extract, collection of translated French poems",
-    "titleOther": "一詩集法語譯本摘錄",
-    "displayDate": "[1960s–1990s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "一詩集法語譯本摘錄",
+        "zh-hant": "Extract, collection of translated French poems"
+    },
+    "displayDate": {
+        "en": "[1960s–1990s]",
+        "zh-hant": null
+    },
     "beginDate": 1964,
     "endDate": 1999,
-    "dimension": "sheet: 21.7 x 14.4 cm",
-    "medium": "printing ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+    "dimension": {
+        "en": "sheet: 21.7 x 14.4 cm",
+        "zh-hant": "sheet: 21.7 x 14.4 cm"
+    },
+    "medium": {
+        "en": "printing ink on paper",
+        "zh-hant": "printing ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
     "constituents": [
         {
             "id": 1534,
-            "role": "Publisher"
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
         }
     ],
     "images": [],

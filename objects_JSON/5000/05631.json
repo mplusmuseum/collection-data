@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.3",
     "classification": {
-        "area": "Visual Art",
-        "category": "Drawing",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Drawing",
+            "zh-hant": "繪圖"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Drawing",
-    "titleOther": "繪圖",
-    "displayDate": "1965",
-    "displayDateOther": null,
+    "title": {
+        "en": "繪圖",
+        "zh-hant": "Drawing"
+    },
+    "displayDate": {
+        "en": "1965",
+        "zh-hant": null
+    },
     "beginDate": 1965,
     "endDate": 1965,
-    "dimension": "sheet: 38.7 × 53.6 cm",
-    "medium": "pen and pencil on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 38.7 × 53.6 cm",
+        "zh-hant": "紙本: 38.7 × 53.6 厘米"
+    },
+    "medium": {
+        "en": "pen and pencil on paper",
+        "zh-hant": "原子筆鉛筆紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

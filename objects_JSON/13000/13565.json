@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA8/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Drawing",
+            "zh-hant": "繪圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Exterior perspective rendering, proposal for a hotel, Singapore",
-    "titleOther": "新加坡一酒店設計方案外部示意圖",
-    "displayDate": "1979",
-    "displayDateOther": null,
+    "title": {
+        "en": "新加坡一酒店設計方案外部示意圖",
+        "zh-hant": "Exterior perspective rendering, proposal for a hotel, Singapore"
+    },
+    "displayDate": {
+        "en": "1979",
+        "zh-hant": null
+    },
     "beginDate": 1979,
     "endDate": 1979,
-    "dimension": "sheet: 31.1 x 20.6 cm",
-    "medium": "graphite and coloured pencil on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 31.1 x 20.6 cm",
+        "zh-hant": "sheet: 31.1 x 20.6 cm"
+    },
+    "medium": {
+        "en": "graphite and coloured pencil on paper",
+        "zh-hant": "graphite and coloured pencil on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 389,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
     "images": [],

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.891",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Dress Vehicle - Yin Yang",
-    "titleOther": "移動裙──陰陽",
-    "displayDate": "2012",
-    "displayDateOther": null,
+    "title": {
+        "en": "移動裙──陰陽",
+        "zh-hant": "Dress Vehicle - Yin Yang"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": null
+    },
     "beginDate": 2012,
     "endDate": 2012,
-    "dimension": "318 × 310 cm",
-    "medium": "aluminium, powder-coated aluminium, magnets, metal, plastic, rubber",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "318 × 310 cm",
+        "zh-hant": "318 × 310厘米"
+    },
+    "medium": {
+        "en": "aluminium, powder-coated aluminium, magnets, metal, plastic, rubber",
+        "zh-hant": "鋁、粉末塗裝鋁件、磁鐵、金屬、塑膠、橡膠"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 524,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

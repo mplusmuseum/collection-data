@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.317",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Beyond Form",
     "titleOther": "象外",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1969,
     "endDate": 1969,
-    "dimension": "image: 135.9 × 80.7 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image: 135.9 × 80.7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 262,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

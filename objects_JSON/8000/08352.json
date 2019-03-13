@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Kowloon Walled City—Alley View #2",
-    "titleOther": "九龍城寨──小巷景觀#2",
-    "displayDate": "1986",
-    "displayDateOther": "1990年，重印於2015年",
+    "title": {
+        "en": "九龍城寨──小巷景觀#2",
+        "zh-hant": "Kowloon Walled City—Alley View #2"
+    },
+    "displayDate": {
+        "en": "1990年，重印於2015年",
+        "zh-hant": "1986"
+    },
     "beginDate": 1990,
     "endDate": 2015,
-    "dimension": "frame: 79 × 58.8 × 3.2 cm\r\nimage (sight): 60.1 × 39.9 cm",
-    "medium": "archival digital print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "frame: 79 × 58.8 × 3.2 cm\r\nimage (sight): 60.1 × 39.9 cm",
+        "zh-hant": "連框： 79 × 58.8 × 3.2 厘米\r\n圖像 （目測量度）： 60.1 × 39.9 厘米"
+    },
+    "medium": {
+        "en": "archival digital print",
+        "zh-hant": "收藏級數碼打印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.603",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled",
-    "titleOther": "無題",
-    "displayDate": "circa 1965",
-    "displayDateOther": "約1965年",
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "約1965年",
+        "zh-hant": "circa 1965"
+    },
     "beginDate": 1963,
     "endDate": 1967,
-    "dimension": "overall: 85 × 122.5 cm",
-    "medium": "oil and sand on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 85 × 122.5 cm",
+        "zh-hant": "整體: 85 × 122.5 厘米"
+    },
+    "medium": {
+        "en": "oil and sand on canvas",
+        "zh-hant": "油彩、沙、畫布"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1094,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

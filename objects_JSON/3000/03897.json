@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2016.52",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Empire's Borders I",
     "titleOther": "帝國邊界 I",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2008,
     "endDate": 2009,
-    "dimension": "duration: 26 min. 52 sec.",
-    "medium": "35mm film transferred to DVD (colour + black and white, sound)",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "duration: 26 min. 52 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "35mm film transferred to DVD (colour + black and white, sound)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 124,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

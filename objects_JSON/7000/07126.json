@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.358",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Digital",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Digital",
+            "zh-hant": "數碼"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The Book of Chances, Third Edition",
-    "titleOther": "偶然之書（第三版）",
-    "displayDate": "2016",
-    "displayDateOther": null,
+    "title": {
+        "en": "偶然之書（第三版）",
+        "zh-hant": "The Book of Chances, Third Edition"
+    },
+    "displayDate": {
+        "en": "2016",
+        "zh-hant": null
+    },
     "beginDate": 2016,
     "endDate": 2016,
-    "dimension": "dimensions variable",
-    "medium": "digital files (colour)",
-    "creditLine": "M+, Hong Kong. Gift of Sulki & Min, 2017",
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": "尺寸不一"
+    },
+    "medium": {
+        "en": "digital files (colour)",
+        "zh-hant": "單頻道投影"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Sulki & Min, 2017",
+        "zh-hant": "M+，香港，Sulki & Min捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 1711,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

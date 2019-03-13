@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.333",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hu Yanli by the Windon, Guangzhou, 1989",
-    "titleOther": "窗邊的胡源莉，廣州，一九八九年",
-    "displayDate": "1989",
-    "displayDateOther": null,
+    "title": {
+        "en": "窗邊的胡源莉，廣州，一九八九年",
+        "zh-hant": "Hu Yanli by the Windon, Guangzhou, 1989"
+    },
+    "displayDate": {
+        "en": "1989",
+        "zh-hant": null
+    },
     "beginDate": 1989,
     "endDate": 1989,
-    "dimension": "sheet: 60.9 × 50.4 cm\r\r\nimage: 57.2 × 38.6 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 60.9 × 50.4 cm\r\r\nimage: 57.2 × 38.6 cm",
+        "zh-hant": "紙本: 60.9 × 50.4 厘米\r\r\n圖像: 57.2 × 38.6 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 2789,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

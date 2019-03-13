@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2013.85",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Model",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Architectural Model",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Superstar: A Mobile China Town",
     "titleOther": "超級明星—移動中國城",
@@ -14,17 +23,32 @@
     "displayDateOther": null,
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "55 × 55 × 60 cm",
-    "medium": "mixed media",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "55 × 55 × 60 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "mixed media",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 48,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": null
+            }
         },
         {
             "id": 337,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

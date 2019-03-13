@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.79",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Horse Riding Horse (after Eadweard Muybridge)",
-    "titleOther": "馬騎馬（仿效埃德沃德．邁布里奇）",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "馬騎馬（仿效埃德沃德．邁布里奇）",
+        "zh-hant": "Horse Riding Horse (after Eadweard Muybridge)"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "duration: 24 sec.",
-    "medium": "video (black and white, silent)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 24 sec.",
+        "zh-hant": "影片長度： 24 秒"
+    },
+    "medium": {
+        "en": "video (black and white, silent)",
+        "zh-hant": "單頻道錄像"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

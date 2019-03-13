@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.464",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "On the Way Home",
-    "titleOther": "關於回家的路上",
-    "displayDate": "1987–1989",
-    "displayDateOther": null,
+    "title": {
+        "en": "關於回家的路上",
+        "zh-hant": "On the Way Home"
+    },
+    "displayDate": {
+        "en": "1987–1989",
+        "zh-hant": null
+    },
     "beginDate": 1987,
     "endDate": 1989,
-    "dimension": "duration: 13 min. 29 sec.",
-    "medium": "Super-VHS transferred to video (colour, stereo sound)",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "duration: 13 min. 29 sec.",
+        "zh-hant": "影片長度: 15 分"
+    },
+    "medium": {
+        "en": "Super-VHS transferred to video (colour, stereo sound)",
+        "zh-hant": "單頻道錄像（彩色、有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 983,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

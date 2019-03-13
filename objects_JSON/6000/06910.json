@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.887",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "By the Mountain, By the Water",
-    "titleOther": "依山傍水",
-    "displayDate": "circa 1990",
-    "displayDateOther": "約1990年",
+    "title": {
+        "en": "依山傍水",
+        "zh-hant": "By the Mountain, By the Water"
+    },
+    "displayDate": {
+        "en": "約1990年",
+        "zh-hant": "circa 1990"
+    },
     "beginDate": 1988,
     "endDate": 1992,
-    "dimension": "image (each): 96 × 178.5 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image (each): 96 × 178.5 cm",
+        "zh-hant": "圖像 (各): 96 × 178.5 厘米"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "水墨紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1599,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [],

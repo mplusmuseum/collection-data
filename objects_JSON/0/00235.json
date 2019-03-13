@@ -1,24 +1,116 @@
 {
     "id": 235,
-    "sortNumber": null,
+    "sortNumber": "2013   274",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1959,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2013.274",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "渺思之7",
+        "zh-hant": "Infinite Thoughts #7"
+    },
+    "displayDate": {
+        "en": "1991",
+        "zh-hant": null
+    },
+    "beginDate": 1991,
+    "endDate": 1991,
+    "dimension": {
+        "en": "sheet: 117.4 × 117.2 cm\r\r\nimage: 92.4 × 93 cm",
+        "zh-hant": "紙本: 117.4 × 117.2 厘米  圖像: 92.4 × 93 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": "水墨設色紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [
+        {
+            "id": 478,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Ink and colour painting on paper depicting four vertical slices of a dark, mountainous landscape obscured by blue-grey clouds."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#282825",
+                "value": 47.6
+            },
+            {
+                "color": "#2C302E",
+                "value": 14.8
+            },
+            {
+                "color": "#7B7C76",
+                "value": 7.3
+            },
+            {
+                "color": "#7D827E",
+                "value": 5.6
+            },
+            {
+                "color": "#1E1D1E",
+                "value": 5.6
+            },
+            {
+                "color": "#7E7A75",
+                "value": 4.1
+            },
+            {
+                "color": "#C8C9C0",
+                "value": 3.7
+            },
+            {
+                "color": "#14130E",
+                "value": 2.2
+            },
+            {
+                "color": "#6C7375",
+                "value": 1.7
+            },
+            {
+                "color": "#CCC7BE",
+                "value": 1.5
+            },
+            {
+                "color": "#110C0B",
+                "value": 1.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 23.9
+                },
+                {
+                    "color": "black",
+                    "value": 71.7
+                }
+            ]
         }
     }
 }

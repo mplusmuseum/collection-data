@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/38",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Draft translation of the poem 'Song', by T.S. Eliot",
-    "titleOther": "〈Song〉，艾略特詩作中譯本草稿",
-    "displayDate": "[1980s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "〈Song〉，艾略特詩作中譯本草稿",
+        "zh-hant": "Draft translation of the poem 'Song', by T.S. Eliot"
+    },
+    "displayDate": {
+        "en": "[1980s]",
+        "zh-hant": null
+    },
     "beginDate": 1980,
     "endDate": 1989,
-    "dimension": "sheet: 27.8 x 21.7 cm",
-    "medium": "typewriter and ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 27.8 x 21.7 cm",
+        "zh-hant": "sheet: 27.8 x 21.7 cm"
+    },
+    "medium": {
+        "en": "typewriter and ink on paper",
+        "zh-hant": "typewriter and ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

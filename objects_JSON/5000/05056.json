@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.301",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Mr Fountain",
-    "titleOther": "泉先生",
-    "displayDate": "2014",
-    "displayDateOther": null,
+    "title": {
+        "en": "泉先生",
+        "zh-hant": "Mr Fountain"
+    },
+    "displayDate": {
+        "en": "2014",
+        "zh-hant": null
+    },
     "beginDate": 2014,
     "endDate": 2014,
-    "dimension": "overall (approx.): 27 × 39 × 37.5 cm",
-    "medium": "barnacle, marble, glycerol, pump, bronze container, tube, and cushion",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (approx.): 27 × 39 × 37.5 cm",
+        "zh-hant": "整體 （約）: 27 × 39 × 37.5 厘米"
+    },
+    "medium": {
+        "en": "barnacle, marble, glycerol, pump, bronze container, tube, and cushion",
+        "zh-hant": "藤壺、大理石、甘油、水泵、黃銅容器、膠管、 墊子"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1044,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

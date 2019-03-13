@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.428",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled",
-    "titleOther": "無題",
-    "displayDate": "circa 1980s",
-    "displayDateOther": "約1980年代",
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "約1980年代",
+        "zh-hant": "circa 1980s"
+    },
     "beginDate": 1980,
     "endDate": 1989,
-    "dimension": "overall: 98.3 × 49.6 × 37 cm",
-    "medium": "wire",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 98.3 × 49.6 × 37 cm",
+        "zh-hant": "整體: 98.3 × 49.6 × 37 厘米"
+    },
+    "medium": {
+        "en": "wire",
+        "zh-hant": "鐵線"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

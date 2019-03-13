@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.117",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Portrait",
     "titleOther": "像",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2006,
     "endDate": 2006,
-    "dimension": "sheet: 140 × 72.9 cm\r\r\nimage: 119 × 63.7 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet: 140 × 72.9 cm\r\r\nimage: 119 × 63.7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 127,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

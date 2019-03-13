@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.66",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "XXXX_SOFA",
-    "titleOther": "XXXX_沙發椅",
-    "displayDate": "1990, reprinted 2015",
-    "displayDateOther": "1990年，2015年重印",
+    "title": {
+        "en": "XXXX_沙發椅",
+        "zh-hant": "XXXX_SOFA"
+    },
+    "displayDate": {
+        "en": "1990年，2015年重印",
+        "zh-hant": "1990, reprinted 2015"
+    },
     "beginDate": 2011,
     "endDate": 2011,
-    "dimension": "closed: 96.5 × 76.5 × 40.6 cm\r\nfully exended: 75.1 × 184.5 × 97.7 cm",
-    "medium": "polyamide plastic",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "closed: 96.5 × 76.5 × 40.6 cm\r\nfully exended: 75.1 × 184.5 × 97.7 cm",
+        "zh-hant": "合上： 96.5 × 76.5 × 40.6 厘米\r\n打開： 75.1 × 184.5 × 97.7 厘米"
+    },
+    "medium": {
+        "en": "polyamide plastic",
+        "zh-hant": "聚醯胺塑膠"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

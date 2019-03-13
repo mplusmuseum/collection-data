@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA12/2/7",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "File"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "File",
+            "zh-hant": "案卷"
+        }
     },
-    "title": "Perspective sketches, interior of the lobby, Exchange Square III (1983–1988), Hong Kong",
-    "titleOther": "香港交易廣場第三期（1983至1988年）大堂內部透視草圖",
-    "displayDate": "1988",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港交易廣場第三期（1983至1988年）大堂內部透視草圖",
+        "zh-hant": "Perspective sketches, interior of the lobby, Exchange Square III (1983–1988), Hong Kong"
+    },
+    "displayDate": {
+        "en": "1988",
+        "zh-hant": null
+    },
     "beginDate": 1988,
     "endDate": 1988,
-    "dimension": "2 items",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Remo Riva, 2013",
+    "dimension": {
+        "en": "2 items",
+        "zh-hant": "2 items"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Remo Riva, 2013",
+        "zh-hant": "M+，香港，Remo Riva捐贈，2013年"
+    },
     "constituents": [
         {
             "id": 54,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [

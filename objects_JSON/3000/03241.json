@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1026",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "84-Photo-12",
     "titleOther": "84行爲照片 12",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1984,
     "endDate": 1984,
-    "dimension": "sheet (sight): 58.7 × 39.3 cm\r\r\nimage (sight): 54.4 × 43.3 cm\r\r\nframe: 77 × 61.6 × 4.2 cm",
-    "medium": "gelatin silver print on fiber-based paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet (sight): 58.7 × 39.3 cm\r\r\nimage (sight): 54.4 × 43.3 cm\r\r\nframe: 77 × 61.6 × 4.2 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print on fiber-based paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 455,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

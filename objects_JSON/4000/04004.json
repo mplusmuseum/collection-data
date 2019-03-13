@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2016.432",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Mixed-Media Photo Composition For “Apn” Page In Asahi Graph, Oct. 7, 1953 Issue",
     "titleOther": "為《朝日畫報》1953年10月7日號「Apn」專欄設計的複合媒體攝影作品",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1953,
     "endDate": 1953,
-    "dimension": "sheet: 19.4 × 13.3 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 19.4 × 13.3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.535",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Terminus",
-    "titleOther": "末端",
-    "displayDate": "1960",
-    "displayDateOther": null,
+    "title": {
+        "en": "末端",
+        "zh-hant": "Terminus"
+    },
+    "displayDate": {
+        "en": "1960",
+        "zh-hant": null
+    },
     "beginDate": 1960,
     "endDate": 1960,
-    "dimension": "frame: 161 × 105 × 5 cm\r\r\nimage: 155 × 99 × 2 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 161 × 105 × 5 cm\r\r\nimage: 155 × 99 × 2 cm",
+        "zh-hant": "框架: 161 × 105 × 5 厘米\r\r\n圖像: 155 × 99 × 2 厘米"
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": "油彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1097,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

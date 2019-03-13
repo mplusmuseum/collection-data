@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.664",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "67-4",
-    "titleOther": "丁未之四",
-    "displayDate": "1967",
-    "displayDateOther": null,
+    "title": {
+        "en": "丁未之四",
+        "zh-hant": "67-4"
+    },
+    "displayDate": {
+        "en": "1967",
+        "zh-hant": null
+    },
     "beginDate": 1967,
     "endDate": 1967,
-    "dimension": "overall: 159.5 × 180.6 × 3.3 cm",
-    "medium": "ink and colour on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 159.5 × 180.6 × 3.3 cm",
+        "zh-hant": "整體: 159.5 × 180.6 × 3.3 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": "水墨設色紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1077,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

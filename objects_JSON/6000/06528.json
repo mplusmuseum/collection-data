@@ -4,31 +4,62 @@
     "publicAccess": true,
     "objectNumber": "2016.448",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Bamboo Chair",
-    "titleOther": "竹椅",
-    "displayDate": "1937",
-    "displayDateOther": "1937年",
+    "title": {
+        "en": "竹椅",
+        "zh-hant": "Bamboo Chair"
+    },
+    "displayDate": {
+        "en": "1937年",
+        "zh-hant": "1937"
+    },
     "beginDate": 1937,
     "endDate": 1937,
-    "dimension": "overall: 77.9 × 57.1 × 74 cm",
-    "medium": "bamboo (plant)",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 77.9 × 57.1 × 74 cm",
+        "zh-hant": "整體: 77.9 × 57.1 × 74 厘米"
+    },
+    "medium": {
+        "en": "bamboo (plant)",
+        "zh-hant": "竹"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1101,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
             "id": 1424,
-            "role": "Commissioned by"
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
+            }
         },
         {
             "id": 1425,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

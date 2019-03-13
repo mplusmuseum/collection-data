@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.393",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Apple",
-    "titleOther": "蘋果",
-    "displayDate": "1966/1988",
-    "displayDateOther": null,
+    "title": {
+        "en": "蘋果",
+        "zh-hant": "Apple"
+    },
+    "displayDate": {
+        "en": "1966/1988",
+        "zh-hant": null
+    },
     "beginDate": 1966,
     "endDate": 1988,
-    "dimension": "8 × 8 × 6.5 cm",
-    "medium": "bronze",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "8 × 8 × 6.5 cm",
+        "zh-hant": "8 × 8 × 6.5 厘米"
+    },
+    "medium": {
+        "en": "bronze",
+        "zh-hant": "青銅"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": null,

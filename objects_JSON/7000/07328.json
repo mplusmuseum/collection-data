@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.579",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Tamagotchi 4U portable game device",
-    "titleOther": "Tamagotchi 4U掌上遊戲機",
-    "displayDate": "1988",
-    "displayDateOther": null,
+    "title": {
+        "en": "Tamagotchi 4U掌上遊戲機",
+        "zh-hant": "Tamagotchi 4U portable game device"
+    },
+    "displayDate": {
+        "en": "1988",
+        "zh-hant": null
+    },
     "beginDate": 2014,
     "endDate": 2014,
-    "dimension": "overall: 6.7 × 5.1 × 3.2 cm\r\noverall: 11.6 × 8.1 × 5.4 cm",
-    "medium": "plastic and electronic parts",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 6.7 × 5.1 × 3.2 cm\r\noverall: 11.6 × 8.1 × 5.4 cm",
+        "zh-hant": "整體: 6.7 × 5.1 × 3.2 厘米 整體: 11.6 × 8.1 × 5.4 厘米"
+    },
+    "medium": {
+        "en": "plastic and electronic parts",
+        "zh-hant": "塑膠、電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

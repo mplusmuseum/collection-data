@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.66",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "The Flame of Wandering – The 2nd day,  April 25th, 1998,  Upper East Side, Manhattan.",
     "titleOther": "游離之火──第二天，1998年4月25日，曼哈頓上東區",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1998,
     "endDate": 1998,
-    "dimension": "sheet (sight): 26.7 × 34.5 cm\r\r\nframe: 38.1 × 46 × 2.4 cm",
-    "medium": "menstrual blood on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet (sight): 26.7 × 34.5 cm\r\r\nframe: 38.1 × 46 × 2.4 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "menstrual blood on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

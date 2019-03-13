@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.267",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Dengta 'Literature and Art Are to Serve the Workers, Farmers, and Soldiers' mug",
-    "titleOther": "燈塔牌「文藝為工農兵服務」口杯",
-    "displayDate": "1972",
-    "displayDateOther": null,
+    "title": {
+        "en": "燈塔牌「文藝為工農兵服務」口杯",
+        "zh-hant": "Dengta 'Literature and Art Are to Serve the Workers, Farmers, and Soldiers' mug"
+    },
+    "displayDate": {
+        "en": "1972",
+        "zh-hant": null
+    },
     "beginDate": 1972,
     "endDate": 1972,
-    "dimension": "overall: 12.3 × 12.7 × 16.2 cm",
-    "medium": "steel and porcelain enamel",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 12.3 × 12.7 × 16.2 cm",
+        "zh-hant": "整體: 12.3 × 12.7 × 16.2 厘米"
+    },
+    "medium": {
+        "en": "steel and porcelain enamel",
+        "zh-hant": "鋼、玻璃瓷釉"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1749,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

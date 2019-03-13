@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.525",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "National television, model T14-R1S",
-    "titleOther": "樂聲牌電視機，T14-R1S型",
-    "displayDate": "1965/2017",
-    "displayDateOther": "約1950年",
+    "title": {
+        "en": "樂聲牌電視機，T14-R1S型",
+        "zh-hant": "National television, model T14-R1S"
+    },
+    "displayDate": {
+        "en": "約1950年",
+        "zh-hant": "1965/2017"
+    },
     "beginDate": 1948,
     "endDate": 1952,
-    "dimension": "overall: 44.2 × 43.5 × 46.3 cm",
-    "medium": "plastic, steel, fibreboard, and electronic parts",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 44.2 × 43.5 × 46.3 cm",
+        "zh-hant": "整體： 44.2 × 43.5 × 46.3 厘米"
+    },
+    "medium": {
+        "en": "plastic, steel, fibreboard, and electronic parts",
+        "zh-hant": "塑膠、鋼、纖維板、電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1697,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

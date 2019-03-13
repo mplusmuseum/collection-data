@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.273",
     "classification": {
-        "area": "Visual Art",
-        "category": "Textile",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Textile",
+            "zh-hant": "紡織品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hand-painted Cloth",
-    "titleOther": "手繪布",
-    "displayDate": "2006–2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "手繪布",
+        "zh-hant": "Hand-painted Cloth"
+    },
+    "displayDate": {
+        "en": "2006–2008",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2008,
-    "dimension": "overall: 116.8 × 133.5 cm",
-    "medium": "acrylic on fabric and safety pin",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 116.8 × 133.5 cm",
+        "zh-hant": "整體: 116.8 × 133.5 厘米"
+    },
+    "medium": {
+        "en": "acrylic on fabric and safety pin",
+        "zh-hant": "塑膠彩、布、安全別針"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 249,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

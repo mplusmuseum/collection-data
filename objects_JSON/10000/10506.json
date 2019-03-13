@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.359",
     "classification": {
-        "area": "Visual Art",
-        "category": "Drawing",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Drawing",
+            "zh-hant": "繪圖"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Based On Hexagon",
-    "titleOther": "基於六邊形",
-    "displayDate": "2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "基於六邊形",
+        "zh-hant": "Based On Hexagon"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": null
+    },
     "beginDate": 2011,
     "endDate": 2011,
-    "dimension": "100.3 × 71.1 cm",
-    "medium": "Indian ink and felt-tip pen on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "100.3 × 71.1 cm",
+        "zh-hant": "100.3 × 71.1厘米"
+    },
+    "medium": {
+        "en": "Indian ink and felt-tip pen on paper",
+        "zh-hant": "製圖墨水氈頭筆紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

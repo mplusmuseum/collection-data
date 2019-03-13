@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2016.485",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Three Cities",
     "titleOther": "三城記",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1984,
     "endDate": 1984,
-    "dimension": "overall: 103 × 261.5 × 4 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+, Hong Kong. Gift of an anonymous donor, 2015",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 103 × 261.5 × 4 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of an anonymous donor, 2015",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

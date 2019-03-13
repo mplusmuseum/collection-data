@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.600",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "The time travelers calendar B, negative present",
     "titleOther": "時空旅人的日曆B──負向現在",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2013,
     "endDate": 2013,
-    "dimension": "114.5 × 114.5 × 3 cm",
-    "medium": "embossing, screen print, thermochromatic ink, handmade extra thick cotton paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "114.5 × 114.5 × 3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "embossing, screen print, thermochromatic ink, handmade extra thick cotton paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 432,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.787",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Mustard Seed Garden II",
-    "titleOther": "芥子園二號",
-    "displayDate": "2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "芥子園二號",
+        "zh-hant": "Mustard Seed Garden II"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "frame: 99.5 × 125 × 4.3 cm\r\r\nimage: 96 × 121.5 cm",
-    "medium": "ink and mineral colours on silk, mounted on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 99.5 × 125 × 4.3 cm\r\r\nimage: 96 × 121.5 cm",
+        "zh-hant": "連框: 99.5 × 125 × 4.3 厘米  圖像: 96 × 121.5 厘米"
+    },
+    "medium": {
+        "en": "ink and mineral colours on silk, mounted on canvas",
+        "zh-hant": "水墨礦彩絹本裱於畫布"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 525,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

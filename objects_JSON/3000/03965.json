@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2016.68",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Two Stains",
     "titleOther": "兩處污點",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1972,
     "endDate": 1972,
-    "dimension": "overall: 145.9 × 175 cm",
-    "medium": "silkscreen on felt and canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 145.9 × 175 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "silkscreen on felt and canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

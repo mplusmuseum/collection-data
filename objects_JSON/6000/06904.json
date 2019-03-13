@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.508",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": "裝置藝術"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled",
-    "titleOther": "無題",
-    "displayDate": "2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "dimensions variable",
-    "medium": "paste-up installation",
-    "creditLine": "M+, Hong Kong. Gift of Hallam Chow, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": "尺寸不一"
+    },
+    "medium": {
+        "en": "paste-up installation",
+        "zh-hant": "黏貼裝置"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Hallam Chow, 2016",
+        "zh-hant": "M+，香港，仇浩然捐贈，2016年"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Black and white illustration of a person in a spacesuit standing on a planet. The spacesuit is unusual in many ways: the torso looks like a naked, hairy chest, one of the feet is shaped like a two-toed hoof and the other like a metal shoe, one of the person’s hands has three fingers and the other looks like a pair of scissors, and two smoking pillars stick out of the round helmet. A large variety of fantastic creatures float around in the space around the person, including a octopus-like creature with three eyes and a three-legged robot with human eyes peering out of a narrow box and a long neck."

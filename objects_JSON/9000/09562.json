@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA15",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Fonds"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Fonds",
+            "zh-hant": "全宗"
+        }
     },
-    "title": "Simon Kwan Project Archives",
-    "titleOther": "關善明項目檔案",
-    "displayDate": "[circa 1970]–1989",
-    "displayDateOther": null,
+    "title": {
+        "en": "關善明項目檔案",
+        "zh-hant": "Simon Kwan Project Archives"
+    },
+    "displayDate": {
+        "en": "[circa 1970]–1989",
+        "zh-hant": null
+    },
     "beginDate": 1970,
     "endDate": 1989,
-    "dimension": "27 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong. Gift of Simon Kwan & Associates Limited, 2014",
+    "dimension": {
+        "en": "27 items",
+        "zh-hant": "27 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Simon Kwan & Associates Limited, 2014",
+        "zh-hant": "M+，香港，關善明建築師事務所捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 63,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

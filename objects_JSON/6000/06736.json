@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.383",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Camel Pion baby feeder",
-    "titleOther": "駱駝牌「哺兒安」熱水壺",
-    "displayDate": "1989",
-    "displayDateOther": "1951年設計，1950年代–1960年代 製造",
+    "title": {
+        "en": "駱駝牌「哺兒安」熱水壺",
+        "zh-hant": "Camel Pion baby feeder"
+    },
+    "displayDate": {
+        "en": "1951年設計，1950年代–1960年代 製造",
+        "zh-hant": "1989"
+    },
     "beginDate": 1950,
     "endDate": 1969,
-    "dimension": "overall: 23 × 7.5 cm",
-    "medium": "metal and glass",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 23 × 7.5 cm",
+        "zh-hant": "整體： 23 × 7.5 厘米"
+    },
+    "medium": {
+        "en": "metal and glass",
+        "zh-hant": "金屬、玻璃"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

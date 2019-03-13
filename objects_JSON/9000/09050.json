@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA2/11",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Series"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Series",
+            "zh-hant": "系列"
+        }
     },
-    "title": "Drawings, Hong Kong Special Administrative Region (HKSAR) Government Headquarters (2007–2011), Hong Kong",
-    "titleOther": "香港特別行政區政府總部（2007至2011年）繪圖",
-    "displayDate": "[2007–2008]",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港特別行政區政府總部（2007至2011年）繪圖",
+        "zh-hant": "Drawings, Hong Kong Special Administrative Region (HKSAR) Government Headquarters (2007–2011), Hong Kong"
+    },
+    "displayDate": {
+        "en": "[2007–2008]",
+        "zh-hant": null
+    },
     "beginDate": 2007,
     "endDate": 2008,
-    "dimension": "10 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+    "dimension": {
+        "en": "10 items",
+        "zh-hant": "10 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+        "zh-hant": "M+，香港，許李嚴建築師事務所捐贈，2013年"
+    },
     "constituents": [
         {
             "id": 543,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

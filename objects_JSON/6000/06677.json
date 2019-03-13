@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.767",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Tenderly",
-    "titleOther": "柔",
-    "displayDate": "designed 1985, made 1986",
-    "displayDateOther": "1985年設計，1987年製造",
+    "title": {
+        "en": "柔",
+        "zh-hant": "Tenderly"
+    },
+    "displayDate": {
+        "en": "1985年設計，1987年製造",
+        "zh-hant": "designed 1985, made 1986"
+    },
     "beginDate": 1985,
     "endDate": 1986,
-    "dimension": "overall: 177 × 55 × 50 cm\r\r\nother: (minimum height): 140 cm",
-    "medium": "steel, aluminium with melamine coating, and electric cord",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 177 × 55 × 50 cm\r\r\nother: (minimum height): 140 cm",
+        "zh-hant": "整體: 177 × 55 × 50 厘米\r\r\n其他 (最低高度): 140 厘米"
+    },
+    "medium": {
+        "en": "steel, aluminium with melamine coating, and electric cord",
+        "zh-hant": "鋼、三聚氰胺塗層鋁件、電線"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1485,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1200",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Rainbow",
     "titleOther": "彩虹",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1998,
     "endDate": 1998,
-    "dimension": "duration: 3 min. 13 sec.",
-    "medium": "video (colour, sound)",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "duration: 3 min. 13 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "video (colour, sound)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 514,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

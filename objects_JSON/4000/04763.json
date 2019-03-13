@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.84",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Return 77-N",
     "titleOther": "歸 77-N",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1977,
     "endDate": 1977,
-    "dimension": "overall: 196.9 × 109.9 × 3 cm",
-    "medium": "mixed media and paper on canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 196.9 × 109.9 × 3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "mixed media and paper on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

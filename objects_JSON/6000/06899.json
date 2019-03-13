@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.159",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Incident at Waverly Lane",
-    "titleOther": "曾譯為威弗利巷事件",
-    "displayDate": "1992",
-    "displayDateOther": null,
+    "title": {
+        "en": "曾譯為威弗利巷事件",
+        "zh-hant": "Incident at Waverly Lane"
+    },
+    "displayDate": {
+        "en": "1992",
+        "zh-hant": null
+    },
     "beginDate": 1992,
     "endDate": 1992,
-    "dimension": "overall: 243.5 × 107 × 3.2 cm",
-    "medium": "acrylic on canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 243.5 × 107 × 3.2 cm",
+        "zh-hant": "整體： 243.5 × 107 × 3.2 厘米"
+    },
+    "medium": {
+        "en": "acrylic on canvas",
+        "zh-hant": "塑膠彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

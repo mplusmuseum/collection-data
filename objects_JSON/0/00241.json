@@ -1,24 +1,92 @@
 {
     "id": 241,
-    "sortNumber": null,
+    "sortNumber": "2013   256",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1965,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2013.256",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "重岩",
+        "zh-hant": "Cliffs Beyond"
+    },
+    "displayDate": {
+        "en": "1977",
+        "zh-hant": null
+    },
+    "beginDate": 1977,
+    "endDate": 1977,
+    "dimension": {
+        "en": "sheet: 101 × 101 cm\r\r\nimage: 90.4 × 90.1 cm",
+        "zh-hant": "紙本: 101 × 101 厘米  圖像: 90.4 × 90.1 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": "水墨設色紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [
+        {
+            "id": 245,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Ink and colour painting on paper depicting two identical yonic cloud shapes in light blues and greys, nestled together somewhat like the symbol for yin and yang."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#5A5E67",
+                "value": 51.1
+            },
+            {
+                "color": "#46474C",
+                "value": 15.2
+            },
+            {
+                "color": "#485866",
+                "value": 14.7
+            },
+            {
+                "color": "#4C5A6A",
+                "value": 11.1
+            },
+            {
+                "color": "#505C66",
+                "value": 4.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 81.6
+                },
+                {
+                    "color": "black",
+                    "value": 15.2
+                }
+            ]
         }
     }
 }

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.343",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Untitled",
     "titleOther": "無題",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1997,
     "endDate": 1997,
-    "dimension": "frame: 99.5 × 81.5 × 4 cm\r\r\nimage (sight): 89 × 71 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "frame: 99.5 × 81.5 × 4 cm\r\r\nimage (sight): 89 × 71 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 178,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

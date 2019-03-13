@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.87",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled",
-    "titleOther": "無題",
-    "displayDate": "1999",
-    "displayDateOther": null,
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "1999",
+        "zh-hant": null
+    },
     "beginDate": 1999,
     "endDate": 1999,
-    "dimension": "sheet: 186 × 78 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Yiqingzhai Foundation Limited, 2015",
+    "dimension": {
+        "en": "sheet: 186 × 78 cm",
+        "zh-hant": "紙本: 186 × 78 厘米"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "水墨紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Yiqingzhai Foundation Limited, 2015",
+        "zh-hant": "M+，香港，怡情齋慈善基金有限公司捐贈，2015年"
+    },
     "constituents": [
         {
             "id": 1159,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

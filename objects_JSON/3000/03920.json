@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.599",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "The time travelers calendar A, positive future",
     "titleOther": "時空旅人的日曆A──正向未來",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2013,
     "endDate": 2013,
-    "dimension": "overall: 115.1 × 114.8 cm\r\r\nframe: 116.3 × 116.3 × 4.5 cm",
-    "medium": "embossing, handmade extra thick cotton paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 115.1 × 114.8 cm\r\r\nframe: 116.3 × 116.3 × 4.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "embossing, handmade extra thick cotton paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 432,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

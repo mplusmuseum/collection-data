@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.489",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": "版畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Neither Stone Nor Metal",
-    "titleOther": "非石非金",
-    "displayDate": "1970s",
-    "displayDateOther": "1970年代",
+    "title": {
+        "en": "非石非金",
+        "zh-hant": "Neither Stone Nor Metal"
+    },
+    "displayDate": {
+        "en": "1970年代",
+        "zh-hant": "1970s"
+    },
     "beginDate": 1970,
     "endDate": 1979,
-    "dimension": "90.7 × 90.6 × 0.9 cm",
-    "medium": "woodblock print",
-    "creditLine": "M+, Hong Kong. Gift of Chiu Wai-Yee, 2016",
+    "dimension": {
+        "en": "90.7 × 90.6 × 0.9 cm",
+        "zh-hant": "90.7 × 90.6 × 0.9 厘米"
+    },
+    "medium": {
+        "en": "woodblock print",
+        "zh-hant": "木刻版畫"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Chiu Wai-Yee, 2016",
+        "zh-hant": "M+，香港，趙慧儀捐贈，2016年"
+    },
     "constituents": [
         {
             "id": 1537,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

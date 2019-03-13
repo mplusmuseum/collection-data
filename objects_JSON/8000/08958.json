@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.304",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Aberdeen",
-    "titleOther": "香港仔",
-    "displayDate": "1962",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港仔",
+        "zh-hant": "Aberdeen"
+    },
+    "displayDate": {
+        "en": "1962",
+        "zh-hant": null
+    },
     "beginDate": 1962,
     "endDate": 1962,
-    "dimension": "overall: 40.5 × 53.4 cm",
-    "medium": "oil on board",
-    "creditLine": "M+, Hong Kong. Gift of the artist, 2017",
+    "dimension": {
+        "en": "overall: 40.5 × 53.4 cm",
+        "zh-hant": "整體: 40.5 × 53.4 厘米"
+    },
+    "medium": {
+        "en": "oil on board",
+        "zh-hant": "油彩、木板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of the artist, 2017",
+        "zh-hant": "M+，香港，藝術家捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 1507,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

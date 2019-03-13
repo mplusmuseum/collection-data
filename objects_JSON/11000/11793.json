@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA32/3/4",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Isometric cross section 1, Nehru Memorial Pavilion (1971–1972), New Delhi, India",
-    "titleOther": "印度新德里尼赫鲁纪念館（1971至1972年）等角橫剖面圖一",
-    "displayDate": "[circa 1972]",
-    "displayDateOther": null,
+    "title": {
+        "en": "印度新德里尼赫鲁纪念館（1971至1972年）等角橫剖面圖一",
+        "zh-hant": "Isometric cross section 1, Nehru Memorial Pavilion (1971–1972), New Delhi, India"
+    },
+    "displayDate": {
+        "en": "[circa 1972]",
+        "zh-hant": null
+    },
     "beginDate": 1970,
     "endDate": 1972,
-    "dimension": "sheet: 29.6 x 42.1 cm",
-    "medium": "xerographic copy on transparent paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 29.6 x 42.1 cm",
+        "zh-hant": "sheet: 29.6 x 42.1 cm"
+    },
+    "medium": {
+        "en": "xerographic copy on transparent paper",
+        "zh-hant": "xerographic copy on transparent paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

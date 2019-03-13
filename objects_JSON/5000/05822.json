@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.427",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The End of the Road — School for the Blind, Rennie's Mills, Hong Kong, 1952",
-    "titleOther": "路的盡頭──1952年，香港調景嶺盲人學校",
-    "displayDate": "1952",
-    "displayDateOther": null,
+    "title": {
+        "en": "路的盡頭──1952年，香港調景嶺盲人學校",
+        "zh-hant": "The End of the Road — School for the Blind, Rennie's Mills, Hong Kong, 1952"
+    },
+    "displayDate": {
+        "en": "1952",
+        "zh-hant": null
+    },
     "beginDate": 1952,
     "endDate": 1952,
-    "dimension": "image size: 20 × 25 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image size: 20 × 25 cm",
+        "zh-hant": "圖像： 20 × 25 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 964,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

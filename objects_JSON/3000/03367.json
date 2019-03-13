@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1468",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Airplane",
     "titleOther": "飛機",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2005,
     "endDate": 2005,
-    "dimension": "overall: 200 × 510 × 3 cm",
-    "medium": "airbrush on canvas",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 200 × 510 × 3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "airbrush on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 608,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

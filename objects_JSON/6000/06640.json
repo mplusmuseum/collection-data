@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.848",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "New York, New York, 1979",
-    "titleOther": "1979年，紐約，紐約",
-    "displayDate": "photographed 1979, printed 2017",
-    "displayDateOther": "1979年拍攝，2017年印刷",
+    "title": {
+        "en": "1979年，紐約，紐約",
+        "zh-hant": "New York, New York, 1979"
+    },
+    "displayDate": {
+        "en": "1979年拍攝，2017年印刷",
+        "zh-hant": "photographed 1979, printed 2017"
+    },
     "beginDate": 1979,
     "endDate": 2017,
-    "dimension": "sheet: 51 × 40.8 cm\r\r\nimage: 38.2 × 38.1 cm",
-    "medium": "silver gelatin selenium toned prints",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 51 × 40.8 cm\r\r\nimage: 38.2 × 38.1 cm",
+        "zh-hant": "紙本: 51 × 40.8 厘米  圖像: 38.2 × 38.1 厘米"
+    },
+    "medium": {
+        "en": "silver gelatin selenium toned prints",
+        "zh-hant": "銀鹽硒調染照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

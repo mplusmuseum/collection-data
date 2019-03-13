@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/3/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Drawing",
+            "zh-hant": "繪圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "White Butterfly",
-    "titleOther": "《白蝶》",
-    "displayDate": "November 1995",
-    "displayDateOther": null,
+    "title": {
+        "en": "《白蝶》",
+        "zh-hant": "White Butterfly"
+    },
+    "displayDate": {
+        "en": "November 1995",
+        "zh-hant": null
+    },
     "beginDate": 1995,
     "endDate": 1995,
-    "dimension": "2 items",
-    "medium": "crayon on canvas, typewriter ink and ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "2 items",
+        "zh-hant": "2 items"
+    },
+    "medium": {
+        "en": "crayon on canvas, typewriter ink and ink on paper",
+        "zh-hant": "crayon on canvas, typewriter ink and ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

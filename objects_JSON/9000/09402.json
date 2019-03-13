@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.211",
     "classification": {
-        "area": "Moving Image",
-        "category": "Drawing",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Drawing",
+            "zh-hant": "繪圖"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Sweet Friday animation cels",
-    "titleOther": "《快樂星期五》動畫膠片",
-    "displayDate": "1975",
-    "displayDateOther": null,
+    "title": {
+        "en": "《快樂星期五》動畫膠片",
+        "zh-hant": "Sweet Friday animation cels"
+    },
+    "displayDate": {
+        "en": "1975",
+        "zh-hant": null
+    },
     "beginDate": 1975,
     "endDate": 1975,
-    "dimension": "dimensions variable",
-    "medium": "watercolour on paper on cellulose sheet",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": "尺寸不一"
+    },
+    "medium": {
+        "en": "watercolour on paper on cellulose sheet",
+        "zh-hant": "水彩、紙、纖維素膠片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1031,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

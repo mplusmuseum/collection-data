@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2015.403",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Red III (Aka no samban)",
-    "titleOther": "紅III",
-    "displayDate": "1953",
-    "displayDateOther": null,
+    "title": {
+        "en": "紅III",
+        "zh-hant": "Red III (Aka no samban)"
+    },
+    "displayDate": {
+        "en": "1953",
+        "zh-hant": null
+    },
     "beginDate": 1953,
     "endDate": 1953,
-    "dimension": "framed: 163 × 132.8 × 4 cm\r\r\nimage: 160.7 × 131 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "framed: 163 × 132.8 × 4 cm\r\r\nimage: 160.7 × 131 cm",
+        "zh-hant": "連框： 163 × 132.8 × 4 厘米\r\n圖像： 1607 × 131 厘米"
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": "油彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

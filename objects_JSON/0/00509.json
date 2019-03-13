@@ -1,24 +1,132 @@
 {
     "id": 509,
-    "sortNumber": null,
+    "sortNumber": "2013   143",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1968,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2013.143",
+    "classification": {
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "九龍城寨西南面鳥瞰圖",
+        "zh-hant": "Kowloon Walled City - Aerial View from the Southwest"
+    },
+    "displayDate": {
+        "en": "1989/2013",
+        "zh-hant": null
+    },
+    "beginDate": 1989,
+    "endDate": 2013,
+    "dimension": {
+        "en": "overall: 91.7 × 120 × 2.6 cm",
+        "zh-hant": "整體: 91.7 × 120 × 2.6 厘米"
+    },
+    "medium": {
+        "en": "bubble jet print on Moab gloss art paper and Perspex",
+        "zh-hant": "氣泡式噴墨打印、Moab光粉紙、Perspex亞加力板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [
+        {
+            "id": 259,
+            "role": {
+                "en": "Photographer",
+                "zh-hant": "攝影師"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Photograph of a rectangular mass of very tightly packed tall buildings viewed from above. The buildings are surrounded by empty land covered in roads and a group of more sparsely spread out high-rises."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#766B62",
+                "value": 29.1
+            },
+            {
+                "color": "#856C59",
+                "value": 13.1
+            },
+            {
+                "color": "#7B6952",
+                "value": 10.1
+            },
+            {
+                "color": "#494741",
+                "value": 9.7
+            },
+            {
+                "color": "#3E4546",
+                "value": 9.3
+            },
+            {
+                "color": "#414449",
+                "value": 4.5
+            },
+            {
+                "color": "#5C5E63",
+                "value": 3.5
+            },
+            {
+                "color": "#CCB7A5",
+                "value": 3.3
+            },
+            {
+                "color": "#63635B",
+                "value": 3.2
+            },
+            {
+                "color": "#C39E84",
+                "value": 3.2
+            },
+            {
+                "color": "#565D61",
+                "value": 2.5
+            },
+            {
+                "color": "#2F3A42",
+                "value": 2
+            },
+            {
+                "color": "#CAAD8A",
+                "value": 2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 8.4
+                },
+                {
+                    "color": "gray",
+                    "value": 38.3
+                },
+                {
+                    "color": "black",
+                    "value": 25.4
+                },
+                {
+                    "color": "brown",
+                    "value": 23.2
+                }
+            ]
         }
     }
 }

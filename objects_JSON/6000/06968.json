@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.395",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video Installation",
+            "zh-hant": "錄像裝置"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Excessive",
-    "titleOther": "多餘的",
-    "displayDate": "2015",
-    "displayDateOther": null,
+    "title": {
+        "en": "多餘的",
+        "zh-hant": "Excessive"
+    },
+    "displayDate": {
+        "en": "2015",
+        "zh-hant": null
+    },
     "beginDate": 2015,
     "endDate": 2015,
-    "dimension": "19 min 32 sec",
-    "medium": "single-channel video (colour with sound), splicing LED screen, glass projector, silica gel finger, iron box and wood table",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "19 min 32 sec",
+        "zh-hant": "19分32秒"
+    },
+    "medium": {
+        "en": "single-channel video (colour with sound), splicing LED screen, glass projector, silica gel finger, iron box and wood table",
+        "zh-hant": "單頻道錄像（彩色、有聲）、拼接LED螢幕、玻璃投影、矽膠手指、鐵箱、木桌"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

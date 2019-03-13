@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.628",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Utsurun Desu Fotojack disposable camera",
-    "titleOther": "Utsurun Desu Fotojack 即用即棄相機",
-    "displayDate": "1930s",
-    "displayDateOther": "1930年代",
+    "title": {
+        "en": "Utsurun Desu Fotojack 即用即棄相機",
+        "zh-hant": "Utsurun Desu Fotojack disposable camera"
+    },
+    "displayDate": {
+        "en": "1930年代",
+        "zh-hant": "1930s"
+    },
     "beginDate": 1986,
     "endDate": 1986,
-    "dimension": "overall: 4.9 × 15.9 × 3.7 cm",
-    "medium": "plastic and electronic parts",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 4.9 × 15.9 × 3.7 cm",
+        "zh-hant": "整體： 4.9 × 15.9 × 3.7 厘米"
+    },
+    "medium": {
+        "en": "plastic and electronic parts",
+        "zh-hant": "塑膠、電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

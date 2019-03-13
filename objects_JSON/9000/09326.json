@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA35/1/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Photograph, interior of the arrival hall, City Hall (1956–1962), Hong Kong",
-    "titleOther": "香港大會堂（1956至1962年）入口大廳內部照片",
-    "displayDate": "19 April 1962",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港大會堂（1956至1962年）入口大廳內部照片",
+        "zh-hant": "Photograph, interior of the arrival hall, City Hall (1956–1962), Hong Kong"
+    },
+    "displayDate": {
+        "en": "19 April 1962",
+        "zh-hant": null
+    },
     "beginDate": 1962,
     "endDate": 1962,
-    "dimension": "sheet: 20.2 x 30.4 cm",
-    "medium": "digital print",
-    "creditLine": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+    "dimension": {
+        "en": "sheet: 20.2 x 30.4 cm",
+        "zh-hant": "sheet: 20.2 x 30.4 cm"
+    },
+    "medium": {
+        "en": "digital print",
+        "zh-hant": "digital print"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+        "zh-hant": "M+，香港，Alan Fitch家族捐赠，2014年"
+    },
     "constituents": [
         {
             "id": 814,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
     "images": [],

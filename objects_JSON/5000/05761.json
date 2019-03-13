@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.93",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Some moods",
-    "titleOther": "變相",
-    "displayDate": "1981",
-    "displayDateOther": null,
+    "title": {
+        "en": "變相",
+        "zh-hant": "Some moods"
+    },
+    "displayDate": {
+        "en": "1981",
+        "zh-hant": null
+    },
     "beginDate": 1981,
     "endDate": 1981,
-    "dimension": "sheet: 31.9 × 28.9 cm",
-    "medium": "colour xerox collage",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 31.9 × 28.9 cm",
+        "zh-hant": "紙本: 31.9 × 28.9 厘米"
+    },
+    "medium": {
+        "en": "colour xerox collage",
+        "zh-hant": "拼貼"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1242,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

@@ -1,24 +1,84 @@
 {
     "id": 1698,
-    "sortNumber": null,
+    "sortNumber": "2013   300",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1970,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2013.300",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "白菜, 三, 新聞一斤",
+        "zh-hant": "Chinese Cabbage, Three, News, 500g"
+    },
+    "displayDate": {
+        "en": "1985",
+        "zh-hant": null
+    },
+    "beginDate": 1985,
+    "endDate": 1985,
+    "dimension": {
+        "en": "overall: 101 × 103 cm",
+        "zh-hant": "整體: 101 × 103 厘米"
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": "油彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Guan Yi, 2013",
+        "zh-hant": "M+，香港，管藝捐贈，2013年"
+    },
+    "constituents": [
+        {
+            "id": 483,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#9E3551",
+                "value": 46.1
+            },
+            {
+                "color": "#A12443",
+                "value": 45.9
+            },
+            {
+                "color": "#B8CBC9",
+                "value": 3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 92
+                },
+                {
+                    "color": "gray",
+                    "value": 3
+                }
+            ]
         }
     }
 }

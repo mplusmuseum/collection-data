@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.789",
     "classification": {
-        "area": "Moving Image",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": "版畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The Anabasis of May and Fusako Shigenobu, Masao Adachi, and 27 Years without Images",
-    "titleOther": "重信命、重信房子、足立正生的長征記，和那影像全無的二十七年",
-    "displayDate": "2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "重信命、重信房子、足立正生的長征記，和那影像全無的二十七年",
+        "zh-hant": "The Anabasis of May and Fusako Shigenobu, Masao Adachi, and 27 Years without Images"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": null
+    },
     "beginDate": 2011,
     "endDate": 2011,
-    "dimension": "dimensions variable\r\r\n\r\nduration: 66 min.",
-    "medium": "wall poster; Super 8 film transferred to single-channel video (colour, sound); silkscreen prints; photographs; printed libretto",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "dimensions variable\r\r\n\r\nduration: 66 min.",
+        "zh-hant": "尺寸不一\r\n影片長度：66分"
+    },
+    "medium": {
+        "en": "wall poster; Super 8 film transferred to single-channel video (colour, sound); silkscreen prints; photographs; printed libretto",
+        "zh-hant": "海報、超八和三十五毫米菲林轉載於單頻道錄像（彩色、有聲）、絲網印刷、照片、小冊子印刷本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

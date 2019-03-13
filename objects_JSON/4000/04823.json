@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2016.64",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Low Chair",
     "titleOther": "矮椅",
@@ -14,10 +23,19 @@
     "displayDateOther": "1946年，2012年重製",
     "beginDate": 1946,
     "endDate": 2012,
-    "dimension": "71.5 × 66 × 75 cm",
-    "medium": "rattan and wood",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "71.5 × 66 × 75 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "rattan and wood",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": null,

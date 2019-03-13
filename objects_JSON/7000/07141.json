@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.215",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Yunlin, Taiwan 1977",
-    "titleOther": "雲林 北港 1977",
-    "displayDate": "1977",
-    "displayDateOther": null,
+    "title": {
+        "en": "雲林 北港 1977",
+        "zh-hant": "Yunlin, Taiwan 1977"
+    },
+    "displayDate": {
+        "en": "1977",
+        "zh-hant": null
+    },
     "beginDate": 1977,
     "endDate": 1977,
-    "dimension": "overall: 37 × 56 cm\r\r\nimage: 37 × 56 cm",
-    "medium": "silver-print proof",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 37 × 56 cm\r\r\nimage: 37 × 56 cm",
+        "zh-hant": "整體: 37 × 56 厘米\r\n圖像: 37 × 56 厘米"
+    },
+    "medium": {
+        "en": "silver-print proof",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1716,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

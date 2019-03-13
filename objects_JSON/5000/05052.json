@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.376",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Yuen Long wet market at night",
-    "titleOther": "晚上的大橋街市",
-    "displayDate": "2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "晚上的大橋街市",
+        "zh-hant": "Yuen Long wet market at night"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "overall: 83.9 × 123.9 cm\r\r\nimage: 80 × 119.9 cm",
-    "medium": "chromogenic colour print on archival paper, LED light",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 83.9 × 123.9 cm\r\r\nimage: 80 × 119.9 cm",
+        "zh-hant": "整體: 83.9 × 123.9 厘米\r\n圖像: 80 × 119.9 厘米"
+    },
+    "medium": {
+        "en": "chromogenic colour print on archival paper, LED light",
+        "zh-hant": "收藏級彩色照片，LED燈"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1044,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

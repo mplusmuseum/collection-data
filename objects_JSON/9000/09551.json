@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA7/2/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Perspective sketches, Digital Beijing Building (2004–2007), Beijing, China",
-    "titleOther": "中國數字北京大廈（2004至2007年）透視草圖",
-    "displayDate": "2003",
-    "displayDateOther": null,
+    "title": {
+        "en": "中國數字北京大廈（2004至2007年）透視草圖",
+        "zh-hant": "Perspective sketches, Digital Beijing Building (2004–2007), Beijing, China"
+    },
+    "displayDate": {
+        "en": "2003",
+        "zh-hant": null
+    },
     "beginDate": 2003,
     "endDate": 2003,
-    "dimension": "sheet: 39 x 54.2 cm",
-    "medium": "graphite on transparent paper",
-    "creditLine": "M+, Hong Kong. Gift of Studio Pei-Zhu, 2013",
+    "dimension": {
+        "en": "sheet: 39 x 54.2 cm",
+        "zh-hant": "sheet: 39 x 54.2 cm"
+    },
+    "medium": {
+        "en": "graphite on transparent paper",
+        "zh-hant": "graphite on transparent paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Studio Pei-Zhu, 2013",
+        "zh-hant": "M+, Hong Kong. Gift of Studio Pei-Zhu, 2013"
+    },
     "constituents": [
         {
             "id": 80,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         },
         {
             "id": 70,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [],

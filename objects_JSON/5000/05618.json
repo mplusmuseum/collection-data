@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.14",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": "裝置藝術"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Relatum (formerly Phenomena and Perception A)",
-    "titleOther": "關係項（原為現象與感知A）",
-    "displayDate": "1969/2012",
-    "displayDateOther": null,
+    "title": {
+        "en": "關係項（原為現象與感知A）",
+        "zh-hant": "Relatum (formerly Phenomena and Perception A)"
+    },
+    "displayDate": {
+        "en": "1969/2012",
+        "zh-hant": null
+    },
     "beginDate": 1969,
     "endDate": 2012,
-    "dimension": "dimensions variable",
-    "medium": "chalk on rubber and stones",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": "尺寸不一"
+    },
+    "medium": {
+        "en": "chalk on rubber and stones",
+        "zh-hant": "粉筆、橡膠、石頭"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 923,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

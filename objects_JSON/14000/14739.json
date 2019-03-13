@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/50",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "File"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "File",
+            "zh-hant": "案卷"
+        }
     },
-    "title": "Documents relating to the origin and playing of Mahjong",
-    "titleOther": "有關麻將起源及玩法的文件",
-    "displayDate": "[1970s–2000s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "有關麻將起源及玩法的文件",
+        "zh-hant": "Documents relating to the origin and playing of Mahjong"
+    },
+    "displayDate": {
+        "en": "[1970s–2000s]",
+        "zh-hant": null
+    },
     "beginDate": 1970,
     "endDate": 2009,
-    "dimension": "3 items",
-    "medium": "printout and photocopy on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "3 items",
+        "zh-hant": "3 items"
+    },
+    "medium": {
+        "en": "printout and photocopy on paper",
+        "zh-hant": "printout and photocopy on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

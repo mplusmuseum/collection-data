@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2014.115",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Up",
     "titleOther": "上",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2011,
     "endDate": 2011,
-    "dimension": "each: 300 × 80 × 120 cm",
-    "medium": "wood",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "each: 300 × 80 × 120 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "wood",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

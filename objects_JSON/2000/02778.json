@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.249",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Three Top Xing Shu in the History—No. 1 Lan Tingxu",
     "titleOther": "天下三大行書：蘭亭序",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2004,
     "endDate": 2004,
-    "dimension": "sheet: 120.6 × 349.6 cm",
-    "medium": "ink on Xuan paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 120.6 × 349.6 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink on Xuan paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

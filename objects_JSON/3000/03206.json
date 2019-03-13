@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1374",
     "classification": {
-        "area": "Visual Art",
-        "category": "Performance",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Performance",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Taxi Samba",
     "titleOther": "的士桑芭",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2003,
     "endDate": 2003,
-    "dimension": "duration: 6 min.",
-    "medium": "video (colour, sound)",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 6 min.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "video (colour, sound)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

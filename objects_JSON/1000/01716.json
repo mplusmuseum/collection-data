@@ -1,24 +1,104 @@
 {
     "id": 1716,
-    "sortNumber": null,
+    "sortNumber": "2013   271",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1943,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2013.271",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "遙思",
+        "zh-hant": "Thoughts Across the Lands"
+    },
+    "displayDate": {
+        "en": "1970",
+        "zh-hant": null
+    },
+    "beginDate": 1970,
+    "endDate": 1970,
+    "dimension": {
+        "en": "sheet: 208 × 111.5 cm\r\r\nimage: 183.6 × 95.2 cm",
+        "zh-hant": "紙本: 208 × 111.5 厘米  圖像: 183.6 × 95.2 厘米"
+    },
+    "medium": {
+        "en": "ink and acrylic on paper",
+        "zh-hant": "水墨及塑膠彩紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [
+        {
+            "id": 478,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Ink and colour painting on paper depicting two watery blue squares with blurred edges, one above the other, bridged by a smaller blue square at the centre of the vertical piece."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#589ACA",
+                "value": 31.6
+            },
+            {
+                "color": "#0B5A9F",
+                "value": 17.3
+            },
+            {
+                "color": "#5C91D5",
+                "value": 12.3
+            },
+            {
+                "color": "#2172B7",
+                "value": 11.4
+            },
+            {
+                "color": "#3674A4",
+                "value": 10.4
+            },
+            {
+                "color": "#D0E6EC",
+                "value": 7.7
+            },
+            {
+                "color": "#EAF3EE",
+                "value": 4.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "blue",
+                    "value": 28.7
+                },
+                {
+                    "color": "white",
+                    "value": 12.4
+                },
+                {
+                    "color": "teal",
+                    "value": 54.4
+                }
+            ]
         }
     }
 }

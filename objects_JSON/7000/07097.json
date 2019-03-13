@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.363",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Custom II",
-    "titleOther": "習慣II",
-    "displayDate": "2014",
-    "displayDateOther": null,
+    "title": {
+        "en": "習慣II",
+        "zh-hant": "Custom II"
+    },
+    "displayDate": {
+        "en": "2014",
+        "zh-hant": null
+    },
     "beginDate": 2014,
     "endDate": 2014,
-    "dimension": "duration: 3 min. 13 sec.",
-    "medium": "HD video (black and white, stereo sound)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 3 min. 13 sec.",
+        "zh-hant": "影片長度：3分13秒"
+    },
+    "medium": {
+        "en": "HD video (black and white, stereo sound)",
+        "zh-hant": "單頻道高清錄像（ 黑白，有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

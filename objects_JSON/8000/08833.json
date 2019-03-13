@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.322",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "New Territories",
-    "titleOther": "新界",
-    "displayDate": "1960",
-    "displayDateOther": null,
+    "title": {
+        "en": "新界",
+        "zh-hant": "New Territories"
+    },
+    "displayDate": {
+        "en": "1960",
+        "zh-hant": null
+    },
     "beginDate": 1960,
     "endDate": 1960,
-    "dimension": "overall: 30.3 × 40.5 cm",
-    "medium": "oil on board",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 30.3 × 40.5 cm",
+        "zh-hant": "整體: 30.3 × 40.5 厘米"
+    },
+    "medium": {
+        "en": "oil on board",
+        "zh-hant": "油彩、木板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1507,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

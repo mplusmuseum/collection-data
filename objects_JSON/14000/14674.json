@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/4/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Exterior photograph, unidentified factory",
-    "titleOther": "一工廠外部照片，工廠名字不詳",
-    "displayDate": "[1950s–1960s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "一工廠外部照片，工廠名字不詳",
+        "zh-hant": "Exterior photograph, unidentified factory"
+    },
+    "displayDate": {
+        "en": "[1950s–1960s]",
+        "zh-hant": null
+    },
     "beginDate": 1950,
     "endDate": 1969,
-    "dimension": "sheet: 9.4 x 11.7 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 9.4 x 11.7 cm",
+        "zh-hant": "sheet: 9.4 x 11.7 cm"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "gelatin silver print"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": [

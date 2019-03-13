@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.385",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "KH cup, no. 410",
-    "titleOther": "KH牌410型杯",
-    "displayDate": "1960s–1970s",
-    "displayDateOther": "1960至1970年代",
+    "title": {
+        "en": "KH牌410型杯",
+        "zh-hant": "KH cup, no. 410"
+    },
+    "displayDate": {
+        "en": "1960至1970年代",
+        "zh-hant": "1960s–1970s"
+    },
     "beginDate": 1960,
     "endDate": 1979,
-    "dimension": "overall: 10.1 × 6. 8 × 6.8 cm",
-    "medium": "polystyrene and metal",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 10.1 × 6. 8 × 6.8 cm",
+        "zh-hant": "整體: 10.1 × 6.8 × 6.8 厘米"
+    },
+    "medium": {
+        "en": "polystyrene and metal",
+        "zh-hant": "聚苯乙烯、金屬"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1521,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

@@ -1,24 +1,88 @@
 {
     "id": 1378,
-    "sortNumber": null,
+    "sortNumber": "2012  1772",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1948,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.1772",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "狗馬當道",
+        "zh-hant": "Dog and Horse Races"
+    },
+    "displayDate": {
+        "en": "1968",
+        "zh-hant": null
+    },
+    "beginDate": 1968,
+    "endDate": 1968,
+    "dimension": {
+        "en": "sheet: 47.6 × 38.7 cm",
+        "zh-hant": "紙本: 47.6 × 38.7 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [
+        {
+            "id": 378,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C9C4B8",
+                "value": 35.6
+            },
+            {
+                "color": "#2E2A27",
+                "value": 31.9
+            },
+            {
+                "color": "#837C70",
+                "value": 29.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 64.9
+                },
+                {
+                    "color": "white",
+                    "value": 27
+                },
+                {
+                    "color": "black",
+                    "value": 31.9
+                }
+            ]
         }
     }
 }

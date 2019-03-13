@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA32/4/6",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Copy rendering, Asian Games Village (1980–1982), New Delhi, India",
-    "titleOther": "印度新德里亞運村（1980至1982年）示意圖複本",
-    "displayDate": "[1980s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "印度新德里亞運村（1980至1982年）示意圖複本",
+        "zh-hant": "Copy rendering, Asian Games Village (1980–1982), New Delhi, India"
+    },
+    "displayDate": {
+        "en": "[1980s]",
+        "zh-hant": null
+    },
     "beginDate": 1980,
     "endDate": 1989,
-    "dimension": "sheet: 59.2 × 90.6 cm",
-    "medium": "xerographic copy on transparent paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 59.2 × 90.6 cm",
+        "zh-hant": "sheet: 59.2 × 90.6 cm"
+    },
+    "medium": {
+        "en": "xerographic copy on transparent paper",
+        "zh-hant": "xerographic copy on transparent paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

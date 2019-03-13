@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA2/8",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Series"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Series",
+            "zh-hant": "系列"
+        }
     },
-    "title": "Drawings, Boao Canal Village (2001–2002), Hainan, China",
-    "titleOther": "中國海南島博鰲藍色海岸（2001至2002年）繪圖",
-    "displayDate": "[circa 2000]",
-    "displayDateOther": null,
+    "title": {
+        "en": "中國海南島博鰲藍色海岸（2001至2002年）繪圖",
+        "zh-hant": "Drawings, Boao Canal Village (2001–2002), Hainan, China"
+    },
+    "displayDate": {
+        "en": "[circa 2000]",
+        "zh-hant": null
+    },
     "beginDate": 1999,
     "endDate": 2001,
-    "dimension": "2 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+    "dimension": {
+        "en": "2 items",
+        "zh-hant": "2 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+        "zh-hant": "M+，香港，許李嚴建築師事務所捐贈，2013年"
+    },
     "constituents": [
         {
             "id": 543,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.673",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hong Kong Kiss (HK9001)",
-    "titleOther": "香港之吻 (HK9001)",
-    "displayDate": "1997",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港之吻 (HK9001)",
+        "zh-hant": "Hong Kong Kiss (HK9001)"
+    },
+    "displayDate": {
+        "en": "1997",
+        "zh-hant": null
+    },
     "beginDate": 1997,
     "endDate": 1997,
-    "dimension": "image: 76.2 × 111.8 cm",
-    "medium": "platinum and palladium print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image: 76.2 × 111.8 cm",
+        "zh-hant": "圖像: 76.2 × 111.8 厘米"
+    },
+    "medium": {
+        "en": "platinum and palladium print",
+        "zh-hant": "鉑鈀印相"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1151,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

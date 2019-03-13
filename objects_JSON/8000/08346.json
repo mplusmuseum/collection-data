@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.412",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Kowloon Walled City—South Elevation",
-    "titleOther": "九龍城寨──南向立面",
-    "displayDate": "1988",
-    "displayDateOther": null,
+    "title": {
+        "en": "九龍城寨──南向立面",
+        "zh-hant": "Kowloon Walled City—South Elevation"
+    },
+    "displayDate": {
+        "en": "1988",
+        "zh-hant": null
+    },
     "beginDate": 1990,
     "endDate": 2015,
-    "dimension": "frame: 60 × 100 × 3.2 cm\r\nimage (sight): 39.9 × 80.3 cm",
-    "medium": "archival digital print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 60 × 100 × 3.2 cm\r\nimage (sight): 39.9 × 80.3 cm",
+        "zh-hant": "連框: 60 × 100 × 3.2 厘米 圖像 （目測量度）: 39.9 × 80.3 厘米"
+    },
+    "medium": {
+        "en": "archival digital print",
+        "zh-hant": "收藏級數碼打印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 259,
-            "role": "Photographer"
+            "role": {
+                "en": "Photographer",
+                "zh-hant": "攝影師"
+            }
         }
     ],
     "images": [

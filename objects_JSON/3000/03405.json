@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.992",
     "classification": {
-        "area": "Visual Art",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "You know where the east is",
     "titleOther": "你知道东方在哪一边",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "sheet: 73.5 × 49.8 cm\r\r\nimage: 69.5 × 45.9 cm",
-    "medium": "print on paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet: 73.5 × 49.8 cm\r\r\nimage: 69.5 × 45.9 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "print on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 447,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

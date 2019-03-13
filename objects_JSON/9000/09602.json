@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.349",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "She Said Why Me",
-    "titleOther": "她說為何是我",
-    "displayDate": "1989",
-    "displayDateOther": null,
+    "title": {
+        "en": "她說為何是我",
+        "zh-hant": "She Said Why Me"
+    },
+    "displayDate": {
+        "en": "1989",
+        "zh-hant": null
+    },
     "beginDate": 1989,
     "endDate": 1989,
-    "dimension": "duration: 8 min.",
-    "medium": "VHS transferred to digital (colour, mono sound)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 8 min.",
+        "zh-hant": "影片長度：8分"
+    },
+    "medium": {
+        "en": "VHS transferred to digital (colour, mono sound)",
+        "zh-hant": "VHS 轉載於數碼錄像（彩色，有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

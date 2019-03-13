@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.822",
     "classification": {
-        "area": "Visual Art",
-        "category": "Performance",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Performance",
+            "zh-hant": "行為"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Swearing in Front of the Flag with False Chinese Characters",
-    "titleOther": "錯別字旗幟前的宣誓",
-    "displayDate": "1988",
-    "displayDateOther": null,
+    "title": {
+        "en": "錯別字旗幟前的宣誓",
+        "zh-hant": "Swearing in Front of the Flag with False Chinese Characters"
+    },
+    "displayDate": {
+        "en": "1988",
+        "zh-hant": null
+    },
     "beginDate": 1988,
     "endDate": 1988,
-    "dimension": "sheet: 59.8 × 40.3 cm\r\r\nimage: 59.2 × 39.7 cm",
-    "medium": "photographic print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 59.8 × 40.3 cm\r\r\nimage: 59.2 × 39.7 cm",
+        "zh-hant": "紙本: 59.8 × 40.3 厘米  圖像: 59.2 × 39.7 厘米"
+    },
+    "medium": {
+        "en": "photographic print",
+        "zh-hant": "沖印照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 483,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

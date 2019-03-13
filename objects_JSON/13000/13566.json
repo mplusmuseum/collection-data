@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA8/3",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Series"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Series",
+            "zh-hant": "系列"
+        }
     },
-    "title": "Drawings, Wisma Dharmala Sakti (Intiland Tower) (1982–1990), Jakarta, Indonesia",
-    "titleOther": "印尼雅加達大馬集團總部大廈（1982至1990年）繪圖",
-    "displayDate": "[circa 1983–circa 1990]",
-    "displayDateOther": null,
+    "title": {
+        "en": "印尼雅加達大馬集團總部大廈（1982至1990年）繪圖",
+        "zh-hant": "Drawings, Wisma Dharmala Sakti (Intiland Tower) (1982–1990), Jakarta, Indonesia"
+    },
+    "displayDate": {
+        "en": "[circa 1983–circa 1990]",
+        "zh-hant": null
+    },
     "beginDate": 1982,
     "endDate": 1992,
-    "dimension": "2 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "2 items",
+        "zh-hant": "2 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 389,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

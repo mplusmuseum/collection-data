@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.332",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Wang Yi in Eiderdown Overcoat, Beijing, 1989",
-    "titleOther": "著羽絨襖的王怡，北京，一九八九年",
-    "displayDate": "1989",
-    "displayDateOther": null,
+    "title": {
+        "en": "著羽絨襖的王怡，北京，一九八九年",
+        "zh-hant": "Wang Yi in Eiderdown Overcoat, Beijing, 1989"
+    },
+    "displayDate": {
+        "en": "1989",
+        "zh-hant": null
+    },
     "beginDate": 1989,
     "endDate": 1989,
-    "dimension": "sheet: 30.2 × 25 cm\r\r\nimage: 28 × 18.8 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 30.2 × 25 cm\r\r\nimage: 28 × 18.8 cm",
+        "zh-hant": "紙本: 30.2 × 25 厘米\r\n圖像: 28 × 18.8 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 2789,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

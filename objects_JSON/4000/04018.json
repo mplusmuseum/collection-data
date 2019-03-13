@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.658",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Sisters with ‘Two Girls’",
     "titleOther": "一對姊妹和「兩個女孩」",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2001,
     "endDate": 2001,
-    "dimension": "overall: 43 × 36.2 cm\r\r\nimage: 38 × 31 cm",
-    "medium": "glass baryta, brown tone technique-ink jet pigment ink, and ultra chrome k3",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 43 × 36.2 cm\r\r\nimage: 38 × 31 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "glass baryta, brown tone technique-ink jet pigment ink, and ultra chrome k3",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

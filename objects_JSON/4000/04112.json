@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.298",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Copy-tiam Chair",
     "titleOther": "Copy店椅子",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2012,
     "endDate": 2012,
-    "dimension": "sheet: 92 × 126.9 cm\r\r\nimage: 84.1 × 11.9 cm",
-    "medium": "digital file and digital print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 92 × 126.9 cm\r\r\nimage: 84.1 × 11.9 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "digital file and digital print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

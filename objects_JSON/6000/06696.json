@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.398",
     "classification": {
-        "area": "Visual Art",
-        "category": "Collage",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Collage",
+            "zh-hant": "拼貼"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The Divine Comedy",
-    "titleOther": "神曲",
-    "displayDate": "2001–2003",
-    "displayDateOther": null,
+    "title": {
+        "en": "神曲",
+        "zh-hant": "The Divine Comedy"
+    },
+    "displayDate": {
+        "en": "2001–2003",
+        "zh-hant": null
+    },
     "beginDate": 2001,
     "endDate": 2003,
-    "dimension": "overall (approx.): 151 × 212 × 16.5 cm\r\r\nframe: 151 × 212 × 5 cm\r\r\nimage: 134 × 192.5 × 11.5 cm",
-    "medium": "acrylic, electric wire with bulb, and paper on linen",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (approx.): 151 × 212 × 16.5 cm\r\r\nframe: 151 × 212 × 5 cm\r\r\nimage: 134 × 192.5 × 11.5 cm",
+        "zh-hant": "整體 （約）: 151 × 212 × 16.5 厘米  連框: 151 × 212 × 5 厘米  圖像: 134 × 192.5 × 11.5 厘米"
+    },
+    "medium": {
+        "en": "acrylic, electric wire with bulb, and paper on linen",
+        "zh-hant": "塑膠彩、電線燈泡、布塊、麻布"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1494,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

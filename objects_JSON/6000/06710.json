@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.695",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hammer and Sickle",
-    "titleOther": "錘子與鐮刀",
-    "displayDate": "1977",
-    "displayDateOther": null,
+    "title": {
+        "en": "錘子與鐮刀",
+        "zh-hant": "Hammer and Sickle"
+    },
+    "displayDate": {
+        "en": "1977",
+        "zh-hant": null
+    },
     "beginDate": 1977,
     "endDate": 1977,
-    "dimension": "hammer: 26 x 13 x 5.1 cm approx.\r\r\nsickle: 36.8 x 29.2 x 5.1 cm approx.",
-    "medium": "wood and steel",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "hammer: 26 x 13 x 5.1 cm approx.\r\r\nsickle: 36.8 x 29.2 x 5.1 cm approx.",
+        "zh-hant": "鎚：約26 x 13 x 51厘米\r\n鐮：約368 x 292 x 51厘米"
+    },
+    "medium": {
+        "en": "wood and steel",
+        "zh-hant": "木、鋼"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": null,

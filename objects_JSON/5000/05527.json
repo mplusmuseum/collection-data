@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.242",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled",
-    "titleOther": "無題",
-    "displayDate": "1979",
-    "displayDateOther": null,
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "1979",
+        "zh-hant": null
+    },
     "beginDate": 1973,
     "endDate": 1973,
-    "dimension": "sheet: 25.2 × 30.4 cm\r\r\nimage: 18.8 × 28.7 cm",
-    "medium": "print on baryta paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 25.2 × 30.4 cm\r\r\nimage: 18.8 × 28.7 cm",
+        "zh-hant": "紙本: 25.2 × 30.4 厘米  圖像: 18.8 × 28.7 厘米"
+    },
+    "medium": {
+        "en": "print on baryta paper",
+        "zh-hant": "鋇地紙基照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1156,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA2/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Series"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Series",
+            "zh-hant": "系列"
+        }
     },
-    "title": "Drawings and photographic material, international competition for the Bastille Opera House, Paris, France",
-    "titleOther": "法國巴黎巴士底歌劇院國際建築比賽參賽作品繪圖及影像資料",
-    "displayDate": "1983",
-    "displayDateOther": null,
+    "title": {
+        "en": "法國巴黎巴士底歌劇院國際建築比賽參賽作品繪圖及影像資料",
+        "zh-hant": "Drawings and photographic material, international competition for the Bastille Opera House, Paris, France"
+    },
+    "displayDate": {
+        "en": "1983",
+        "zh-hant": null
+    },
     "beginDate": 1983,
     "endDate": 1983,
-    "dimension": "33 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+    "dimension": {
+        "en": "33 items",
+        "zh-hant": "33 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+        "zh-hant": "M+，香港，許李嚴建築師事務所捐贈，2013年"
+    },
     "constituents": [
         {
             "id": 543,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/2/23",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Ephemera",
-        "archivalLevel": "File"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Ephemera",
+            "zh-hant": "Ephemera"
+        },
+        "archivalLevel": {
+            "en": "File",
+            "zh-hant": "案卷"
+        }
     },
-    "title": "Postcards, exterior views, Twanmoh Memorial Building (circa 1981), Soochow University, Taipei, Taiwan",
-    "titleOther": "台灣台北市東吳大學鑄秋大樓（約1981年）明信片，顯示建築外部",
-    "displayDate": "[circa 1981]",
-    "displayDateOther": null,
+    "title": {
+        "en": "台灣台北市東吳大學鑄秋大樓（約1981年）明信片，顯示建築外部",
+        "zh-hant": "Postcards, exterior views, Twanmoh Memorial Building (circa 1981), Soochow University, Taipei, Taiwan"
+    },
+    "displayDate": {
+        "en": "[circa 1981]",
+        "zh-hant": null
+    },
     "beginDate": 1979,
     "endDate": 1983,
-    "dimension": "sheet: 11.1 x 16.1 cm",
-    "medium": "printing ink on paperboard",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 11.1 x 16.1 cm",
+        "zh-hant": "sheet: 11.1 x 16.1 cm"
+    },
+    "medium": {
+        "en": "printing ink on paperboard",
+        "zh-hant": "printing ink on paperboard"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": [

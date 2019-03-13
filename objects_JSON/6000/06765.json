@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2017.123",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Collage",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Collage",
+            "zh-hant": "拼貼"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Collages, Tony Leung:  'M'",
-    "titleOther": "梁朝偉音樂專輯〈M〉拼貼",
-    "displayDate": "1994",
-    "displayDateOther": null,
+    "title": {
+        "en": "梁朝偉音樂專輯〈M〉拼貼",
+        "zh-hant": "Collages, Tony Leung:  'M'"
+    },
+    "displayDate": {
+        "en": "1994",
+        "zh-hant": null
+    },
     "beginDate": 1994,
     "endDate": 1994,
-    "dimension": "each (frame): 40.8 × 53.5 × 4.8 cm",
-    "medium": "collage",
-    "creditLine": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2017",
+    "dimension": {
+        "en": "each (frame): 40.8 × 53.5 × 4.8 cm",
+        "zh-hant": "各 (連框): 40.8 × 53.5 × 4.8 厘米"
+    },
+    "medium": {
+        "en": "collage",
+        "zh-hant": "拼貼"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2017",
+        "zh-hant": "M+，香港，又一山人（黃炳培）捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 17,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
             "id": 1536,
-            "role": "Commissioned by"
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
+            }
         }
     ],
     "images": [],

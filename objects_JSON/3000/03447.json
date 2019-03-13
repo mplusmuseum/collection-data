@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1342",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "May 1st 2010 to July 20th - Time for sex and love of 25 years old Miss A",
     "titleOther": "A小姐的性與愛：2010年5月1日到7月20日",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "overall: 180 × 180 × 4.5 cm",
-    "medium": "acrylic on canvas",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 180 × 180 × 4.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "acrylic on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 570,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

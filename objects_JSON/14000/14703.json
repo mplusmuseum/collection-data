@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/14",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Notes of two addresses, Tom Duffy, Manchester, UK, and Claudia Schneider, St Gallen, Switzerland",
-    "titleOther": "寫有湯姆‧達菲及克洛迪婭‧施奈德地址的筆記，地點分別為英國曼徹斯特和瑞士聖加侖",
-    "displayDate": "[1980s–1990s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "寫有湯姆‧達菲及克洛迪婭‧施奈德地址的筆記，地點分別為英國曼徹斯特和瑞士聖加侖",
+        "zh-hant": "Notes of two addresses, Tom Duffy, Manchester, UK, and Claudia Schneider, St Gallen, Switzerland"
+    },
+    "displayDate": {
+        "en": "[1980s–1990s]",
+        "zh-hant": null
+    },
     "beginDate": 1981,
     "endDate": 1999,
-    "dimension": "sheet: 26.6 x 39 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 26.6 x 39 cm",
+        "zh-hant": "sheet: 26.6 x 39 cm"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": null,
     "color": {
         "predominant": null,

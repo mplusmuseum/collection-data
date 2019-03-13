@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/2/17/3",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Draft letter, Wang Dahong to unknown person",
-    "titleOther": "王大閎致他人的信件，收件者姓名不詳",
-    "displayDate": "[1970s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "王大閎致他人的信件，收件者姓名不詳",
+        "zh-hant": "Draft letter, Wang Dahong to unknown person"
+    },
+    "displayDate": {
+        "en": "[1970s]",
+        "zh-hant": null
+    },
     "beginDate": 1970,
     "endDate": 1979,
-    "dimension": "sheet: 25.8 x 18.2 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 25.8 x 18.2 cm",
+        "zh-hant": "sheet: 25.8 x 18.2 cm"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

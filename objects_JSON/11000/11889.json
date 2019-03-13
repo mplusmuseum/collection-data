@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA21/2/24",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "North-west elevation, Yokohama Floating Parking, Yokohama, Japan",
-    "titleOther": "日本橫濱水上停車場東西向立面圖",
-    "displayDate": "[circa 1991]",
-    "displayDateOther": null,
+    "title": {
+        "en": "日本橫濱水上停車場東西向立面圖",
+        "zh-hant": "North-west elevation, Yokohama Floating Parking, Yokohama, Japan"
+    },
+    "displayDate": {
+        "en": "[circa 1991]",
+        "zh-hant": null
+    },
     "beginDate": 1991,
     "endDate": 1991,
-    "dimension": "sheet: 43 x 67 cm",
-    "medium": "marker, blackline print, and graphite on Mylar",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 43 x 67 cm",
+        "zh-hant": "sheet: 43 x 67 cm"
+    },
+    "medium": {
+        "en": "marker, blackline print, and graphite on Mylar",
+        "zh-hant": "marker, blackline print, and graphite on Mylar"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

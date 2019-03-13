@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.278",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Reservoir Series—Valley (Jing'an)",
-    "titleOther": "水庫系列──山谷（靜安）",
-    "displayDate": "1955",
-    "displayDateOther": null,
+    "title": {
+        "en": "水庫系列──山谷（靜安）",
+        "zh-hant": "Reservoir Series—Valley (Jing'an)"
+    },
+    "displayDate": {
+        "en": "1955",
+        "zh-hant": null
+    },
     "beginDate": 2007,
     "endDate": 2007,
-    "dimension": "image: 194.8 × 144.6 cm",
-    "medium": "chromogenic print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image: 194.8 × 144.6 cm",
+        "zh-hant": "圖像： 194.8 × 144.6 厘米"
+    },
+    "medium": {
+        "en": "chromogenic print",
+        "zh-hant": "彩色照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 3006,
-            "role": "Photographer"
+            "role": {
+                "en": "Photographer",
+                "zh-hant": "攝影師"
+            }
         }
     ],
     "images": [

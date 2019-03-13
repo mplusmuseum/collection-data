@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.126",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Lee Ufan, Pinar Gallery, Tokyo, June, 1970",
     "titleOther": "李禹煥，1970年6月東京Pinar 畫廊",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1970,
     "endDate": 1970,
-    "dimension": "overall (mounted): 25.4 × 15.2 cm\r\r\nimage: 19.8 × 13.4 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (mounted): 25.4 × 15.2 cm\r\r\nimage: 19.8 × 13.4 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Monochrome photograph of three stones placed on a gallery floor. Six rulers are drawn on the floor, connected to each other in a linear semi-circle. The stones sit at three of the rulers' junctures."

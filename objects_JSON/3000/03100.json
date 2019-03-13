@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.360",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Han Xizai Dinner No. 2",
     "titleOther": "韓熙載夜宴圖 第2號",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2007,
     "endDate": 2007,
-    "dimension": "dimensions variable",
-    "medium": "porcelain",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "porcelain",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 187,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

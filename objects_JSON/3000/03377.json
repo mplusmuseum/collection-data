@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.991",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "100%",
     "titleOther": null,
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1999,
     "endDate": 1999,
-    "dimension": "sheet: 126.9 × 149.7 cm\r\r\nimage: 114.9 × 140.9 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet: 126.9 × 149.7 cm\r\r\nimage: 114.9 × 140.9 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 447,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

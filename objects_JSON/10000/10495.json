@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA19/3/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Ephemera",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Ephemera",
+            "zh-hant": "Ephemera"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Invitation, Wunderkind, Fall/Winter 2010",
-    "titleOther": "2010年Wunderkind秋冬時裝秀邀請函",
-    "displayDate": "[2010]",
-    "displayDateOther": null,
+    "title": {
+        "en": "2010年Wunderkind秋冬時裝秀邀請函",
+        "zh-hant": "Invitation, Wunderkind, Fall/Winter 2010"
+    },
+    "displayDate": {
+        "en": "[2010]",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "sheet: 21 x 14.9 cm",
-    "medium": "printing ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of WORK, 2014",
+    "dimension": {
+        "en": "sheet: 21 x 14.9 cm",
+        "zh-hant": "sheet: 21 x 14.9 cm"
+    },
+    "medium": {
+        "en": "printing ink on paper",
+        "zh-hant": "printing ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of WORK, 2014",
+        "zh-hant": "M+，香港，WORK捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 846,
-            "role": "Design Firm"
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
         },
         {
             "id": 1302,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": null,

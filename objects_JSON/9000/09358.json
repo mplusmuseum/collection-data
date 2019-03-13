@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA35/3/7",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Photography",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Photograph, Alan Fitch being interviewed by Hong Kong TVB television",
-    "titleOther": "艾倫‧菲奇接受香港無綫電視訪問時所攝照片",
-    "displayDate": "[1970]",
-    "displayDateOther": null,
+    "title": {
+        "en": "艾倫‧菲奇接受香港無綫電視訪問時所攝照片",
+        "zh-hant": "Photograph, Alan Fitch being interviewed by Hong Kong TVB television"
+    },
+    "displayDate": {
+        "en": "[1970]",
+        "zh-hant": null
+    },
     "beginDate": 1970,
     "endDate": 1970,
-    "dimension": "sheet: 20.2 x 30.3 cm",
-    "medium": "digital print",
-    "creditLine": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+    "dimension": {
+        "en": "sheet: 20.2 x 30.3 cm",
+        "zh-hant": "sheet: 20.2 x 30.3 cm"
+    },
+    "medium": {
+        "en": "digital print",
+        "zh-hant": "digital print"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+        "zh-hant": "M+，香港，Alan Fitch家族捐赠，2014年"
+    },
     "constituents": [
         {
             "id": 814,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
     "images": null,

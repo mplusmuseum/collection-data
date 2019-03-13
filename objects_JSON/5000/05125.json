@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.266",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Tea and coffee set",
-    "titleOther": "泡茶及咖啡用具",
-    "displayDate": "2012",
-    "displayDateOther": "1995–1996年設計",
+    "title": {
+        "en": "泡茶及咖啡用具",
+        "zh-hant": "Tea and coffee set"
+    },
+    "displayDate": {
+        "en": "1995–1996年設計",
+        "zh-hant": "2012"
+    },
     "beginDate": 1995,
     "endDate": 1996,
-    "dimension": "overall (approx): 27.4 × 24 × 24.5 cm",
-    "medium": "silver",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (approx): 27.4 × 24 × 24.5 cm",
+        "zh-hant": "整體 （約）： 27.4 × 24 × 24.5 厘米"
+    },
+    "medium": {
+        "en": "silver",
+        "zh-hant": "銀"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 200,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

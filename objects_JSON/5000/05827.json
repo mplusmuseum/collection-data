@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.84",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Qi 311",
-    "titleOther": "炁之三一一",
-    "displayDate": "1981",
-    "displayDateOther": null,
+    "title": {
+        "en": "炁之三一一",
+        "zh-hant": "Qi 311"
+    },
+    "displayDate": {
+        "en": "1981",
+        "zh-hant": null
+    },
     "beginDate": 1981,
     "endDate": 1981,
-    "dimension": "frame: 81 × 143.5 × 5 cm\r\r\nimage (sight): 67 × 129.5 cm",
-    "medium": "acrylic on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 81 × 143.5 × 5 cm\r\r\nimage (sight): 67 × 129.5 cm",
+        "zh-hant": "框架: 81 × 143.5 × 5 厘米\r\n圖像 (目測量度): 67 × 129.5 厘米"
+    },
+    "medium": {
+        "en": "acrylic on paper",
+        "zh-hant": "塑膠彩紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 905,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

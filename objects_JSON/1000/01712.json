@@ -1,24 +1,108 @@
 {
     "id": 1712,
-    "sortNumber": null,
+    "sortNumber": "2016    45",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1934,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2016.45",
+    "classification": {
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "0.7% 鹽",
+        "zh-hant": "0.7% Salt"
+    },
+    "displayDate": {
+        "en": "2009",
+        "zh-hant": null
+    },
+    "beginDate": 2009,
+    "endDate": 2009,
+    "dimension": {
+        "en": "duration: 8 min. 43 sec.",
+        "zh-hant": "影片長度：8分43秒"
+    },
+    "medium": {
+        "en": "digital video (colour, silent)",
+        "zh-hant": "單頻道錄像（ 彩色）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [
+        {
+            "id": 238,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CFC2B5",
+                "value": 57.6
+            },
+            {
+                "color": "#E4C29B",
+                "value": 9.9
+            },
+            {
+                "color": "#2A2A23",
+                "value": 7.8
+            },
+            {
+                "color": "#CDA281",
+                "value": 6.1
+            },
+            {
+                "color": "#8F6C51",
+                "value": 5.1
+            },
+            {
+                "color": "#2D291D",
+                "value": 4.8
+            },
+            {
+                "color": "#1C1E15",
+                "value": 2.6
+            },
+            {
+                "color": "#81786B",
+                "value": 2.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 16
+                },
+                {
+                    "color": "gray",
+                    "value": 60.2
+                },
+                {
+                    "color": "black",
+                    "value": 15.2
+                },
+                {
+                    "color": "brown",
+                    "value": 5.1
+                }
+            ]
         }
     }
 }

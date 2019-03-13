@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1158",
     "classification": {
-        "area": "Visual Art",
-        "category": "Digital",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Digital",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Cold Grey (1)",
     "titleOther": "冷灰(一)",
@@ -14,13 +23,25 @@
     "displayDateOther": "2004",
     "beginDate": 2003,
     "endDate": 2008,
-    "dimension": "overall: 149 × 149 cm",
-    "medium": "face-mounted digital print",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 149 × 149 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "face-mounted digital print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 503,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

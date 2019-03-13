@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.1",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Untitled",
     "titleOther": "無題",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2012,
     "endDate": 2012,
-    "dimension": "overall: 43.5 × 34.2 × 2.9 cm",
-    "medium": "glazed ceramic",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 43.5 × 34.2 × 2.9 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "glazed ceramic",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

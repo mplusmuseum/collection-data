@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.422",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Jewel",
-    "titleOther": "寶石",
-    "displayDate": "2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "寶石",
+        "zh-hant": "Jewel"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "duration: 6 min. 30 sec.",
-    "medium": "35mm film transferred to full HD video (colour, sound)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 6 min. 30 sec.",
+        "zh-hant": "影片長度：6分30秒"
+    },
+    "medium": {
+        "en": "35mm film transferred to full HD video (colour, sound)",
+        "zh-hant": "三十五毫米菲林轉載於全高清錄像（彩色，有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2016.777",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Design Object",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Design Object",
+            "zh-hant": "設計物件"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "National SAGA television, model TC-96G",
-    "titleOther": "樂聲牌 SAGA 電視機，TC-96G 型",
-    "displayDate": "designed 1965",
-    "displayDateOther": "1965年設計",
+    "title": {
+        "en": "樂聲牌 SAGA 電視機，TC-96G 型",
+        "zh-hant": "National SAGA television, model TC-96G"
+    },
+    "displayDate": {
+        "en": "1965年設計",
+        "zh-hant": "designed 1965"
+    },
     "beginDate": 1965,
     "endDate": 1965,
-    "dimension": "overall: 90 × 78.5 × 36 cm",
-    "medium": "wood, glass, plastic, and electronic parts",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 90 × 78.5 × 36 cm",
+        "zh-hant": "整體: 90 × 78.5 × 36 厘米"
+    },
+    "medium": {
+        "en": "wood, glass, plastic, and electronic parts",
+        "zh-hant": "木、玻璃、塑膠、電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1697,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         },
         {
             "id": 3030,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

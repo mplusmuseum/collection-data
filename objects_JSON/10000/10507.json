@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.360",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled (Square Within Square)",
-    "titleOther": "無題（四方框裏的正方形）",
-    "displayDate": "2013",
-    "displayDateOther": null,
+    "title": {
+        "en": "無題（四方框裏的正方形）",
+        "zh-hant": "Untitled (Square Within Square)"
+    },
+    "displayDate": {
+        "en": "2013",
+        "zh-hant": null
+    },
     "beginDate": 2013,
     "endDate": 2013,
-    "dimension": "overall: 97.1 × 96.8 × 4.3 cm",
-    "medium": "mirror, reverse-glass painting, and plaster on wood",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 97.1 × 96.8 × 4.3 cm",
+        "zh-hant": "整體: 97.1 × 96.8 × 4.3 厘米"
+    },
+    "medium": {
+        "en": "mirror, reverse-glass painting, and plaster on wood",
+        "zh-hant": "鏡、玻璃彩繪、石膏、木"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

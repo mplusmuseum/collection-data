@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/43",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Notes, possible essay titles on political and cultural topics",
-    "titleOther": "寫有不同文章標題的筆記，內容為政治及文化議題",
-    "displayDate": "[1990s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "寫有不同文章標題的筆記，內容為政治及文化議題",
+        "zh-hant": "Notes, possible essay titles on political and cultural topics"
+    },
+    "displayDate": {
+        "en": "[1990s]",
+        "zh-hant": null
+    },
     "beginDate": 1990,
     "endDate": 1999,
-    "dimension": "sheet: 29.7 x 21.5 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 29.7 x 21.5 cm",
+        "zh-hant": "sheet: 29.7 x 21.5 cm"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

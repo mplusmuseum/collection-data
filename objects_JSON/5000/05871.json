@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.697",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "SQN1-F2 A",
-    "titleOther": null,
-    "displayDate": "2007",
-    "displayDateOther": "2011年設計， 2014年製造",
+    "title": {
+        "en": "SQN1-F2 A",
+        "zh-hant": null
+    },
+    "displayDate": {
+        "en": "2011年設計， 2014年製造",
+        "zh-hant": "2007"
+    },
     "beginDate": 2011,
     "endDate": 2014,
-    "dimension": "overall: 77.5 × 59 × 55.5 cm",
-    "medium": "stainless steel",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 77.5 × 59 × 55.5 cm",
+        "zh-hant": "整體： 77.5 × 59 × 55.5 厘米"
+    },
+    "medium": {
+        "en": "stainless steel",
+        "zh-hant": "不鏽鋼"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

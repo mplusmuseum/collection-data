@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2017.11",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": "版畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Graphic Atelier Ltd. poster/pamphlet",
-    "titleOther": "恆美設計有限公司海報／單張",
-    "displayDate": "1972",
-    "displayDateOther": null,
+    "title": {
+        "en": "恆美設計有限公司海報／單張",
+        "zh-hant": "Graphic Atelier Ltd. poster/pamphlet"
+    },
+    "displayDate": {
+        "en": "1972",
+        "zh-hant": null
+    },
     "beginDate": 1972,
     "endDate": 1972,
-    "dimension": "sheet (poster): 73.5 × 55 cm\r\r\nsheet (brochure): 18.5 × 18.5 cm",
-    "medium": "offset lithograph",
-    "creditLine": "M+, Hong Kong. Gift of Kan Tai Keung, 2017",
+    "dimension": {
+        "en": "sheet (poster): 73.5 × 55 cm\r\r\nsheet (brochure): 18.5 × 18.5 cm",
+        "zh-hant": "紙本 (海報): 73.5 × 55 厘米\r\r\n紙本 (冊子): 18.5 × 18.5 厘米"
+    },
+    "medium": {
+        "en": "offset lithograph",
+        "zh-hant": "柯式石印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Kan Tai Keung, 2017",
+        "zh-hant": "M+，香港，靳埭強捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 1710,
-            "role": "Art Director"
+            "role": {
+                "en": "Art Director",
+                "zh-hant": "美術指導"
+            }
         },
         {
             "id": 245,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

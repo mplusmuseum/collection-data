@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/48",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Draft introduction, '\"Phantasmagoria\", memoirs of a child's former life, written on board the spaceyacht Medusa, in the year of our Lord 2069'",
-    "titleOther": "小說《幻城》序言草稿",
-    "displayDate": "May 1990",
-    "displayDateOther": null,
+    "title": {
+        "en": "小說《幻城》序言草稿",
+        "zh-hant": "Draft introduction, '\"Phantasmagoria\", memoirs of a child's former life, written on board the spaceyacht Medusa, in the year of our Lord 2069'"
+    },
+    "displayDate": {
+        "en": "May 1990",
+        "zh-hant": null
+    },
     "beginDate": 1990,
     "endDate": 1990,
-    "dimension": "sheet: 27.4 x 21.1 cm",
-    "medium": "typewriter ink on paper, ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 27.4 x 21.1 cm",
+        "zh-hant": "sheet: 27.4 x 21.1 cm"
+    },
+    "medium": {
+        "en": "typewriter ink on paper, ink on paper",
+        "zh-hant": "typewriter ink on paper, ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": [

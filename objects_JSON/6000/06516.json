@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.406",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "1962 G 120-1",
-    "titleOther": "1962年 G 120-1",
-    "displayDate": "1962",
-    "displayDateOther": null,
+    "title": {
+        "en": "1962年 G 120-1",
+        "zh-hant": "1962 G 120-1"
+    },
+    "displayDate": {
+        "en": "1962",
+        "zh-hant": null
+    },
     "beginDate": 1962,
     "endDate": 1962,
-    "dimension": "frame: 182.7 × 153.2 × 3.7 cm\r\r\nimage size: 180.5 × 151 × 3.7 cm",
-    "medium": "string and oil on canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "frame: 182.7 × 153.2 × 3.7 cm\r\r\nimage size: 180.5 × 151 × 3.7 cm",
+        "zh-hant": "連框： 182.7 × 153.2 × 3.7 厘米\r\n圖像： 180.5 × 151 × 3.7 厘米"
+    },
+    "medium": {
+        "en": "string and oil on canvas",
+        "zh-hant": "細線油彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

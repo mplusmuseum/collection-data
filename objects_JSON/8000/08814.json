@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.52",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "National Panasonic radio, model R-72",
-    "titleOther": "樂聲牌Panasonic收音機，R-72型",
-    "displayDate": "1957",
-    "displayDateOther": null,
+    "title": {
+        "en": "樂聲牌Panasonic收音機，R-72型",
+        "zh-hant": "National Panasonic radio, model R-72"
+    },
+    "displayDate": {
+        "en": "1957",
+        "zh-hant": null
+    },
     "beginDate": 1972,
     "endDate": 1972,
-    "dimension": "overall: 7 × 14.7 × 14.8 cm",
-    "medium": "acrylonitrile butadiene styrene, radio mechanical component",
-    "creditLine": "M+, Hong Kong. Gift of Keiji Nagai, 2018",
+    "dimension": {
+        "en": "overall: 7 × 14.7 × 14.8 cm",
+        "zh-hant": "整體： 7 × 14.7 × 14.8 厘米"
+    },
+    "medium": {
+        "en": "acrylonitrile butadiene styrene, radio mechanical component",
+        "zh-hant": "ABS塑膠、收音機電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Keiji Nagai, 2018",
+        "zh-hant": "M+，香港，Keiji Nagai捐贈，2018年"
+    },
     "constituents": [
         {
             "id": 1697,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [],

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.868",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Still Life at the Park",
-    "titleOther": "山頂的靜物",
-    "displayDate": "1974–1978",
-    "displayDateOther": null,
+    "title": {
+        "en": "山頂的靜物",
+        "zh-hant": "Still Life at the Park"
+    },
+    "displayDate": {
+        "en": "1974–1978",
+        "zh-hant": null
+    },
     "beginDate": 1974,
     "endDate": 1978,
-    "dimension": "image: 19.7 × 27.5 cm",
-    "medium": "oil on board",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image: 19.7 × 27.5 cm",
+        "zh-hant": "圖像: 19.7 × 27.5 厘米"
+    },
+    "medium": {
+        "en": "oil on board",
+        "zh-hant": "油彩、木板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1495,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.424",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Red A plastic crystal tray, no. 1155",
-    "titleOther": "紅A牌塑膠水晶托盤，型號1155",
-    "displayDate": "1960s–1980s",
-    "displayDateOther": "1960至1980年代",
+    "title": {
+        "en": "紅A牌塑膠水晶托盤，型號1155",
+        "zh-hant": "Red A plastic crystal tray, no. 1155"
+    },
+    "displayDate": {
+        "en": "1960至1980年代",
+        "zh-hant": "1960s–1980s"
+    },
     "beginDate": 1960,
     "endDate": 1989,
-    "dimension": "overall: 2.2 × 42.2 × 24.7 cm\r\r\noverall (orginal packaging): 3 × 25.6 × 43 cm",
-    "medium": "polystyrene",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 2.2 × 42.2 × 24.7 cm\r\r\noverall (orginal packaging): 3 × 25.6 × 43 cm",
+        "zh-hant": "整體: 2.2 × 42.2 × 24.7 厘米\r\r\n整體(包裝): 3 × 25.6 × 43 厘米"
+    },
+    "medium": {
+        "en": "polystyrene",
+        "zh-hant": "聚苯乙烯"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 68,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

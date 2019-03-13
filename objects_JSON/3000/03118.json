@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.65",
     "classification": {
-        "area": "Visual Art",
-        "category": "Performance",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Performance",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Dropping a Han Dynasty Urn",
     "titleOther": "摔一隻漢代的瓦罐",
@@ -14,13 +23,25 @@
     "displayDateOther": "1995",
     "beginDate": 2006,
     "endDate": 2006,
-    "dimension": "overall (each): 147.7 × 120 cm\r\r\nimage: 127.8 × 107.7 cm",
-    "medium": "gelatin silver print and ceramic",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall (each): 147.7 × 120 cm\r\r\nimage: 127.8 × 107.7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print and ceramic",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 97,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

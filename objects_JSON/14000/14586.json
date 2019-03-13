@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/2/10/3",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Document, Cost estimate, Hong Lu Apartment House (circa 1964), Jinan Road, Taipei, Taiwan",
-    "titleOther": "台灣台北市濟南路虹廬（約1964年）費用估算文件",
-    "displayDate": "[circa 1964]",
-    "displayDateOther": null,
+    "title": {
+        "en": "台灣台北市濟南路虹廬（約1964年）費用估算文件",
+        "zh-hant": "Document, Cost estimate, Hong Lu Apartment House (circa 1964), Jinan Road, Taipei, Taiwan"
+    },
+    "displayDate": {
+        "en": "[circa 1964]",
+        "zh-hant": null
+    },
     "beginDate": 1962,
     "endDate": 1966,
-    "dimension": "sheet: 26.8 x 19.4 cm",
-    "medium": "typewriter ink and ink on paper, carbon copy on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 26.8 x 19.4 cm",
+        "zh-hant": "sheet: 26.8 x 19.4 cm"
+    },
+    "medium": {
+        "en": "typewriter ink and ink on paper, carbon copy on paper",
+        "zh-hant": "typewriter ink and ink on paper, carbon copy on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

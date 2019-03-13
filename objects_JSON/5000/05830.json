@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.309",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Morning After the Deluge",
-    "titleOther": "大洪水後的早晨",
-    "displayDate": "2003",
-    "displayDateOther": null,
+    "title": {
+        "en": "大洪水後的早晨",
+        "zh-hant": "Morning After the Deluge"
+    },
+    "displayDate": {
+        "en": "2003",
+        "zh-hant": null
+    },
     "beginDate": 2003,
     "endDate": 2003,
-    "dimension": "450 x 570 cm (projection size)",
-    "medium": "digital video (colour)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "450 x 570 cm (projection size)",
+        "zh-hant": "450x570厘米（投影大小）"
+    },
+    "medium": {
+        "en": "digital video (colour)",
+        "zh-hant": "單頻道數碼錄像"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

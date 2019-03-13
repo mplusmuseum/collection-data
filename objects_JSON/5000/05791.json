@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.5",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Model",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Model",
+            "zh-hant": "建築模型"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Schematic design model, Verbena Heights (1992–1997), Hong Kong",
-    "titleOther": "香港茵怡花園（1992至1997年）概要設計模型",
-    "displayDate": "2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港茵怡花園（1992至1997年）概要設計模型",
+        "zh-hant": "Schematic design model, Verbena Heights (1992–1997), Hong Kong"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": null
+    },
     "beginDate": 1997,
     "endDate": 1997,
-    "dimension": "other (model): 71 × 119.8 × 75.5 cm\r\nother (vitrine): 72 × 122.6 × 79 cm",
-    "medium": "paper and acrylic",
-    "creditLine": "M+, Hong Kong. Gift of Anthony Ng Heung-Hung, 2018",
-    "constituents": null,
+    "dimension": {
+        "en": "other (model): 71 × 119.8 × 75.5 cm\r\nother (vitrine): 72 × 122.6 × 79 cm",
+        "zh-hant": "其他 （模型）： 71 × 119.8 × 75.5厘米\r\n其他 （櫃）： 72 × 122.6 × 79厘米"
+    },
+    "medium": {
+        "en": "paper and acrylic",
+        "zh-hant": "紙、亞加力"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Anthony Ng Heung-Hung, 2018",
+        "zh-hant": "M+，香港，吴享洪捐贈，2018年"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

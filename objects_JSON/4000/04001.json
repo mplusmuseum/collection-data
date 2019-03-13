@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.648",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Vitrine: Giraffe",
     "titleOther": "玻璃燈箱：長頸鹿",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1958,
     "endDate": 1958,
-    "dimension": "186.8 × 95.4 × 26.5 cm",
-    "medium": "wood, glass, oil paint, and fluorescent light",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "186.8 × 95.4 × 26.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "wood, glass, oil paint, and fluorescent light",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

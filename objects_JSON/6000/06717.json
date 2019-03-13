@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.757",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": "裝置藝術"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled (Water)",
-    "titleOther": "無題（水）",
-    "displayDate": "1990",
-    "displayDateOther": null,
+    "title": {
+        "en": "無題（水）",
+        "zh-hant": "Untitled (Water)"
+    },
+    "displayDate": {
+        "en": "1990",
+        "zh-hant": null
+    },
     "beginDate": 1990,
     "endDate": 1990,
-    "dimension": "Lightboxes: 102 x 102 x 20 cm (each)\r\r\nMirrors:  30.5 x 30.5 x 5.1 cm (each)\r\r\nOverall: 117 x 1360 cm x 72 cm",
-    "medium": "lightboxes, colour transparencies, and mirrors",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "Lightboxes: 102 x 102 x 20 cm (each)\r\r\nMirrors:  30.5 x 30.5 x 5.1 cm (each)\r\r\nOverall: 117 x 1360 cm x 72 cm",
+        "zh-hant": "燈箱（各）：102 x 102 x 20厘米\r\n鏡（各）： 30.5 x 30.5 x 5.1厘米\r\n整體：117 x 1360 x 72厘米"
+    },
+    "medium": {
+        "en": "lightboxes, colour transparencies, and mirrors",
+        "zh-hant": "燈箱、有色透明膠片、鏡"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

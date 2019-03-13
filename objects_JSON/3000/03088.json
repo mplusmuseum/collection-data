@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.526",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Or everything",
     "titleOther": "亦或所有",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2005,
     "endDate": 2005,
-    "dimension": "duration (channel 1): 7 min. 17 sec.\r\r\nduration (channel 2): 11 min. 17 sec.\r\r\nduration (channel 3): 6 min. 4 sec.\r\r\nduration (channel 4): 3 min. 46 sec.\r\r\nduration (channel 5): 6 min. 14 sec.\r\r\nduration (channel 6): 6 min. 17 sec.\r\r\nduration (channel 7): 4 min. 42 sec.\r\r\nduration (channel 8): 4 min. 2 sec.\r\r\nduration (channel 9): 2 min. 24 sec.\r\r\nduration (channel 10): 5 min. 25 sec.",
-    "medium": "ten-channel video installation (black and white, silent)",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "duration (channel 1): 7 min. 17 sec.\r\r\nduration (channel 2): 11 min. 17 sec.\r\r\nduration (channel 3): 6 min. 4 sec.\r\r\nduration (channel 4): 3 min. 46 sec.\r\r\nduration (channel 5): 6 min. 14 sec.\r\r\nduration (channel 6): 6 min. 17 sec.\r\r\nduration (channel 7): 4 min. 42 sec.\r\r\nduration (channel 8): 4 min. 2 sec.\r\r\nduration (channel 9): 2 min. 24 sec.\r\r\nduration (channel 10): 5 min. 25 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ten-channel video installation (black and white, silent)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 246,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": null,

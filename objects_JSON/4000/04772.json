@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.90",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Conjunction 82-82",
     "titleOther": "連接 82-82",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1982,
     "endDate": 1982,
-    "dimension": "frame: 121.6 × 242 × 3.6 cm\r\r\nimage: 120.2 × 240.5 cm",
-    "medium": "oil on hemp canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "frame: 121.6 × 242 × 3.6 cm\r\r\nimage: 120.2 × 240.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on hemp canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

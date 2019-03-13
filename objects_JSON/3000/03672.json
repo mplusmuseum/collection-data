@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2014.110",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Design Object",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Design Object",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Radio Nurse and Guardian Ear",
     "titleOther": "「無線護士」嬰兒監察器及「守護人」揚聲器",
@@ -14,10 +23,19 @@
     "displayDateOther": "1937年",
     "beginDate": 1937,
     "endDate": 1949,
-    "dimension": "overall (receiver): 16.1 × 10.5 × 20.6 cm\r\r\noverall (transmitter): 21 × 17.5 × 16.5 cm",
-    "medium": "bakelite and enameled steel and electrical components",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (receiver): 16.1 × 10.5 × 20.6 cm\r\r\noverall (transmitter): 21 × 17.5 × 16.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "bakelite and enameled steel and electrical components",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Two piece baby monitor. On our left a small receiver is housed in beige enamelled steel with a name plate that reads 'Guardian Ear of the Radio Nurse'. The transmitter on our right is housed in black plastic and resembles a Japanese Kendo mask."

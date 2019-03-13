@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.49",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "18X Mobile Telephone Lens",
-    "titleOther": "18X手提電話鏡頭",
-    "displayDate": "2016",
-    "displayDateOther": null,
+    "title": {
+        "en": "18X手提電話鏡頭",
+        "zh-hant": "18X Mobile Telephone Lens"
+    },
+    "displayDate": {
+        "en": "2016",
+        "zh-hant": null
+    },
     "beginDate": 2016,
     "endDate": 2016,
-    "dimension": "overall (lens): 3.8 × 13.8 × 4.5 cm\r\r\noverall (packaging): 5.8 × 9 × 14.9 cm",
-    "medium": "metal, plastic, and glass",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (lens): 3.8 × 13.8 × 4.5 cm\r\r\noverall (packaging): 5.8 × 9 × 14.9 cm",
+        "zh-hant": "整體 (鏡頭): 3.8 × 13.8 × 4.5 厘米\r\r\n整體 (包裝): 5.8 × 9 × 14.9 厘米"
+    },
+    "medium": {
+        "en": "metal, plastic, and glass",
+        "zh-hant": "金屬、塑膠、玻璃"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1530,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [],

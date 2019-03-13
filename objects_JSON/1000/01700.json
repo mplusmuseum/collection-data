@@ -1,24 +1,100 @@
 {
     "id": 1700,
-    "sortNumber": null,
+    "sortNumber": "2013   244",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1967,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2013.244",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled (TT-C47-00)"
+    },
+    "displayDate": {
+        "en": "1997",
+        "zh-hant": null
+    },
+    "beginDate": 1997,
+    "endDate": 1997,
+    "dimension": {
+        "en": "overall: 221.7 × 144 cm",
+        "zh-hant": "整體: 221.7 × 144 厘米"
+    },
+    "medium": {
+        "en": "ink on canvas curtain",
+        "zh-hant": "墨水、帆布窗簾"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [
+        {
+            "id": 44,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D6CBB7",
+                "value": 68.2
+            },
+            {
+                "color": "#897E6E",
+                "value": 20.3
+            },
+            {
+                "color": "#443D37",
+                "value": 4.7
+            },
+            {
+                "color": "#7B6D5A",
+                "value": 2.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 57.4
+                },
+                {
+                    "color": "gray",
+                    "value": 20.3
+                },
+                {
+                    "color": "white",
+                    "value": 68.2
+                },
+                {
+                    "color": "black",
+                    "value": 4.7
+                },
+                {
+                    "color": "brown",
+                    "value": 2.5
+                }
+            ]
         }
     }
 }

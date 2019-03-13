@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.692",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Village at Dawn",
-    "titleOther": "破曉村",
-    "displayDate": "1965",
-    "displayDateOther": null,
+    "title": {
+        "en": "破曉村",
+        "zh-hant": "Village at Dawn"
+    },
+    "displayDate": {
+        "en": "1965",
+        "zh-hant": null
+    },
     "beginDate": 1965,
     "endDate": 1965,
-    "dimension": "frame: 64.7 × 152.4 cm\r\r\nsheet (sight): 57 × 120.7 cm",
-    "medium": "ink and colour on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 64.7 × 152.4 cm\r\r\nsheet (sight): 57 × 120.7 cm",
+        "zh-hant": "框架: 64.7 × 152.4 厘米\r\n紙本 (目測量度): 57 × 120.7 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": "水墨設色紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 327,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

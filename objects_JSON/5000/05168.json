@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.55",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Kanxuan!  Ai!",
-    "titleOther": "闞萱! 哎!",
-    "displayDate": "1999",
-    "displayDateOther": null,
+    "title": {
+        "en": "闞萱! 哎!",
+        "zh-hant": "Kanxuan!  Ai!"
+    },
+    "displayDate": {
+        "en": "1999",
+        "zh-hant": null
+    },
     "beginDate": 1999,
     "endDate": 1999,
-    "dimension": "duration: 1 min. 22 sec.",
-    "medium": "video (colour, sound)",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "duration: 1 min. 22 sec.",
+        "zh-hant": "影片長度: 1 分 22 秒"
+    },
+    "medium": {
+        "en": "video (colour, sound)",
+        "zh-hant": "單頻道錄像（彩色、有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 246,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

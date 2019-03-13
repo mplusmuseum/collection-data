@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1276",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "First Trade",
     "titleOther": "第一次操盤",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "sheet: 223.7 × 495.5 cm\r\r\nduration: 6 min. 25 sec.",
-    "medium": "industrial paint on canvas and video",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet: 223.7 × 495.5 cm\r\r\nduration: 6 min. 25 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "industrial paint on canvas and video",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 96,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

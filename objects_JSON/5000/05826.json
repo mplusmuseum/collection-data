@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.414",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Some Came With Their Soul In A Bottle And Left With Their Hearts Under Their Soles 2",
-    "titleOther": "有些人帶着裝有靈魂的瓶子而來，把本心置於足下而去2",
-    "displayDate": "2009",
-    "displayDateOther": null,
+    "title": {
+        "en": "有些人帶着裝有靈魂的瓶子而來，把本心置於足下而去2",
+        "zh-hant": "Some Came With Their Soul In A Bottle And Left With Their Hearts Under Their Soles 2"
+    },
+    "displayDate": {
+        "en": "2009",
+        "zh-hant": null
+    },
     "beginDate": 2009,
     "endDate": 2009,
-    "dimension": "image size: 145.1 × 147.9 cm\r\r\nframe: 158.7 × 162.4 × 4.2 cm",
-    "medium": "pigment, watercolour, and oil on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "image size: 145.1 × 147.9 cm\r\r\nframe: 158.7 × 162.4 × 4.2 cm",
+        "zh-hant": "圖像： 145.1 × 147.9 厘米\r\n連框： 158.7 × 162.4 × 4.2 厘米"
+    },
+    "medium": {
+        "en": "pigment, watercolour, and oil on paper",
+        "zh-hant": "顏料、水彩、油彩、紙"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

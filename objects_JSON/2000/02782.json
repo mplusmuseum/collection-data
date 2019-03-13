@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1368",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Broadcast at Same Time (1999.12.31 night)",
     "titleOther": "同時播報1999年12 月31日夜",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2000,
     "endDate": 2000,
-    "dimension": "duration: 10-30 min.",
-    "medium": "video",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "duration: 10-30 min.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "video",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 584,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

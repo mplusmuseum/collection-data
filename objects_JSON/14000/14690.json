@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Ephemera",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Ephemera",
+            "zh-hant": "Ephemera"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Business card, Dahong Wang & Associates",
-    "titleOther": "大洪建築師事務所名片",
-    "displayDate": "[1950s–1990s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "大洪建築師事務所名片",
+        "zh-hant": "Business card, Dahong Wang & Associates"
+    },
+    "displayDate": {
+        "en": "[1950s–1990s]",
+        "zh-hant": null
+    },
     "beginDate": 1951,
     "endDate": 1999,
-    "dimension": "sheet: 10.2 x 5.9 cm",
-    "medium": "printing ink on paperboard",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 10.2 x 5.9 cm",
+        "zh-hant": "sheet: 10.2 x 5.9 cm"
+    },
+    "medium": {
+        "en": "printing ink on paperboard",
+        "zh-hant": "printing ink on paperboard"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": [

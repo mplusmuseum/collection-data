@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.316",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Between Clouds And Water",
     "titleOther": "雲水隔",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2013,
     "endDate": 2013,
-    "dimension": "overall: 193.7 × 29.1 × 4 cm\r\r\nimage: 103.4 × 23 cm",
-    "medium": "ink and colour on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 193.7 × 29.1 × 4 cm\r\r\nimage: 103.4 × 23 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 366,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

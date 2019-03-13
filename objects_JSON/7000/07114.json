@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.44",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "‘Original’ stickers",
-    "titleOther": "「原裝」貼紙",
-    "displayDate": "2016",
-    "displayDateOther": null,
+    "title": {
+        "en": "「原裝」貼紙",
+        "zh-hant": "‘Original’ stickers"
+    },
+    "displayDate": {
+        "en": "2016",
+        "zh-hant": null
+    },
     "beginDate": 2016,
     "endDate": 2016,
-    "dimension": "overall (silver sticker 1): 7 × 17.3 cm\r\r\noverall (silver sticker 2): 6.9 × 17.2 cm\r\r\noverall (gold sticker 1): 14.5 × 17.1 cm\r\r\noverall (gold sticker 2): 14.6 × 17.1 cm",
-    "medium": "printed pressure sensitive adhesive foil",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (silver sticker 1): 7 × 17.3 cm\r\r\noverall (silver sticker 2): 6.9 × 17.2 cm\r\r\noverall (gold sticker 1): 14.5 × 17.1 cm\r\r\noverall (gold sticker 2): 14.6 × 17.1 cm",
+        "zh-hant": "整體 (銀色貼紙一): 7 × 17.3 厘米\r\r\n整體 (銀色貼紙二): 6.9 × 17.2 厘米\r\r\n整體 (金色貼紙一): 14.5 × 17.1 厘米\r\r\n整體 (金色貼紙二): 14.6 × 17.1 厘米"
+    },
+    "medium": {
+        "en": "printed pressure sensitive adhesive foil",
+        "zh-hant": "黏膠印刷紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1530,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

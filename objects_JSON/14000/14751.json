@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/3/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Drawing",
+            "zh-hant": "繪圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Sketch, mountain and a clock",
-    "titleOther": "山及時鐘草圖",
-    "displayDate": "[1950s–2000s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "山及時鐘草圖",
+        "zh-hant": "Sketch, mountain and a clock"
+    },
+    "displayDate": {
+        "en": "[1950s–2000s]",
+        "zh-hant": null
+    },
     "beginDate": 1951,
     "endDate": 2009,
-    "dimension": "sheet: 21 x 27.2 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 21 x 27.2 cm",
+        "zh-hant": "sheet: 21 x 27.2 cm"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

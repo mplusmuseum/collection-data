@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/5",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Ephemera",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Ephemera",
+            "zh-hant": "Ephemera"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Company envelope, Dahong Wang & Associates",
-    "titleOther": "大洪建築師事務所公司信封",
-    "displayDate": "[1960s–1990s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "大洪建築師事務所公司信封",
+        "zh-hant": "Company envelope, Dahong Wang & Associates"
+    },
+    "displayDate": {
+        "en": "[1960s–1990s]",
+        "zh-hant": null
+    },
     "beginDate": 1962,
     "endDate": 1999,
-    "dimension": "sheet: 31.5 x 22.4 cm",
-    "medium": "printing ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 31.5 x 22.4 cm",
+        "zh-hant": "sheet: 31.5 x 22.4 cm"
+    },
+    "medium": {
+        "en": "printing ink on paper",
+        "zh-hant": "printing ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

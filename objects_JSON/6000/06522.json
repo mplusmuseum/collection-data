@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.813",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Marvellous Realisation",
-    "titleOther": "妙得",
-    "displayDate": "1974",
-    "displayDateOther": null,
+    "title": {
+        "en": "妙得",
+        "zh-hant": "Marvellous Realisation"
+    },
+    "displayDate": {
+        "en": "1974",
+        "zh-hant": null
+    },
     "beginDate": 1974,
     "endDate": 1974,
-    "dimension": "frame: 96.2 × 254 × 3.9 cm\r\r\nsheet (sight): 82.5 × 232 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 96.2 × 254 × 3.9 cm\r\r\nsheet (sight): 82.5 × 232 cm",
+        "zh-hant": "連框: 96.2 × 254 × 3.9 厘米  紙本 （目測量度）: 82.5 × 232 厘米"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "水墨紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 327,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

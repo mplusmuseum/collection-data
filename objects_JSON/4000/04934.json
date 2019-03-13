@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.594",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The House in Ascension",
-    "titleOther": "升天之家",
-    "displayDate": "1987",
-    "displayDateOther": null,
+    "title": {
+        "en": "升天之家",
+        "zh-hant": "The House in Ascension"
+    },
+    "displayDate": {
+        "en": "1987",
+        "zh-hant": null
+    },
     "beginDate": 1987,
     "endDate": 1987,
-    "dimension": "overall: 250 × 169 × 64.1 cm\r\r\noverall (approx.): 102 kg",
-    "medium": "wood and lacquer",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 250 × 169 × 64.1 cm\r\r\noverall (approx.): 102 kg",
+        "zh-hant": "整體：250 × 169 × 64.1厘米"
+    },
+    "medium": {
+        "en": "wood and lacquer",
+        "zh-hant": "木、漆"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1031,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA8/3/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Exterior perspective, Wisma Dharmala Sakti (Intiland Tower) (1982–1990), Jakarta, Indonesia",
-    "titleOther": "印尼雅加達大馬集團總部大廈（1982至1990年）外部透視圖",
-    "displayDate": "1984",
-    "displayDateOther": null,
+    "title": {
+        "en": "印尼雅加達大馬集團總部大廈（1982至1990年）外部透視圖",
+        "zh-hant": "Exterior perspective, Wisma Dharmala Sakti (Intiland Tower) (1982–1990), Jakarta, Indonesia"
+    },
+    "displayDate": {
+        "en": "1984",
+        "zh-hant": null
+    },
     "beginDate": 1984,
     "endDate": 1984,
-    "dimension": "sheet: 96.5 x 69.7 cm",
-    "medium": "ink on transparent paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 96.5 x 69.7 cm",
+        "zh-hant": "97.8 × 71.1 厘米"
+    },
+    "medium": {
+        "en": "ink on transparent paper",
+        "zh-hant": "ink on transparent paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 389,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
     "images": [

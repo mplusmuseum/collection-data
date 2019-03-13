@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.41",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Model",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Model",
+            "zh-hant": "建築模型"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Model, Bank of Asia (Robot Building) (1983–1986), Bangkok, Thailand",
-    "titleOther": "泰國曼谷亞洲銀行總部（現為大華銀行曼谷總部）展示模型（1983至1986年）",
-    "displayDate": "1990",
-    "displayDateOther": null,
+    "title": {
+        "en": "泰國曼谷亞洲銀行總部（現為大華銀行曼谷總部）展示模型（1983至1986年）",
+        "zh-hant": "Model, Bank of Asia (Robot Building) (1983–1986), Bangkok, Thailand"
+    },
+    "displayDate": {
+        "en": "1990",
+        "zh-hant": null
+    },
     "beginDate": 1990,
     "endDate": 1990,
-    "dimension": "overall: 51.5 × 30.5 × 22.6 cm",
-    "medium": "plastic",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 51.5 × 30.5 × 22.6 cm",
+        "zh-hant": "整體: 51.5 × 30.5 × 22.6 厘米"
+    },
+    "medium": {
+        "en": "plastic",
+        "zh-hant": "塑膠"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 4074,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
     "images": [

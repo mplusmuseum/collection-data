@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1341",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "December 21st 2008 to March 11th 2009 - Variations in the Weather No. 1",
     "titleOther": "2008年12月21日到2009年3月11日的天氣",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2008,
     "endDate": 2009,
-    "dimension": "overall: 190 × 190 × 5 cm",
-    "medium": "acrylic on canvas",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 190 × 190 × 5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "acrylic on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 570,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

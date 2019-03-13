@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/3/3/17",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Fax with a third revised site plan, office, Lead Long Textile Factory, Chung-li (Zhongli), Taiwan",
-    "titleOther": "台灣中壢區理隆紡織工廠辦公室傳真件，附第三版工地修訂平面圖",
-    "displayDate": "24 March 1998",
-    "displayDateOther": null,
+    "title": {
+        "en": "台灣中壢區理隆紡織工廠辦公室傳真件，附第三版工地修訂平面圖",
+        "zh-hant": "Fax with a third revised site plan, office, Lead Long Textile Factory, Chung-li (Zhongli), Taiwan"
+    },
+    "displayDate": {
+        "en": "24 March 1998",
+        "zh-hant": null
+    },
     "beginDate": 1998,
     "endDate": 1998,
-    "dimension": "sheet: 29.7 x 42.1 cm",
-    "medium": "printout, graphite and ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 29.7 x 42.1 cm",
+        "zh-hant": "sheet: 29.7 x 42.1 cm"
+    },
+    "medium": {
+        "en": "printout, graphite and ink on paper",
+        "zh-hant": "printout, graphite and ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": null,
     "color": {
         "predominant": null,

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA22/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Series"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Series",
+            "zh-hant": "系列"
+        }
     },
-    "title": "Printed material, Everbest Printing Company and Everbest Atelier",
-    "titleOther": "恆美印務有限公司及Everbest Atelier印刷資料",
-    "displayDate": "[1966–1967]",
-    "displayDateOther": null,
+    "title": {
+        "en": "恆美印務有限公司及Everbest Atelier印刷資料",
+        "zh-hant": "Printed material, Everbest Printing Company and Everbest Atelier"
+    },
+    "displayDate": {
+        "en": "[1966–1967]",
+        "zh-hant": null
+    },
     "beginDate": 1966,
     "endDate": 1967,
-    "dimension": "2 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong. Gift of Kan Tai Keung, 2017",
+    "dimension": {
+        "en": "2 items",
+        "zh-hant": "2 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Kan Tai Keung, 2017",
+        "zh-hant": "M+，香港，靳埭強捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 1710,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

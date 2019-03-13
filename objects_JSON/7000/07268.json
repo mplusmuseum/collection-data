@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.640",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Cooking knife, model G-2",
-    "titleOther": "廚刀，G-2型",
-    "displayDate": "1959",
-    "displayDateOther": null,
+    "title": {
+        "en": "廚刀，G-2型",
+        "zh-hant": "Cooking knife, model G-2"
+    },
+    "displayDate": {
+        "en": "1959",
+        "zh-hant": null
+    },
     "beginDate": 1983,
     "endDate": 1983,
-    "dimension": "overall: 1.6 × 62.4 × 4.4 cm\r\noverall (orginal packing): 2 × 37.5 × 8.4 cm",
-    "medium": "stainless steel",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 1.6 × 62.4 × 4.4 cm\r\noverall (orginal packing): 2 × 37.5 × 8.4 cm",
+        "zh-hant": "整體： 1.6 × 62.4 × 4.4厘米\r\n整體 （orginal packing）： 2 × 37.5 × 8.4厘米"
+    },
+    "medium": {
+        "en": "stainless steel",
+        "zh-hant": "不鏽鋼"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.921",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Breathing, Tiananmen Square",
     "titleOther": "哈氣, 天安門",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1996,
     "endDate": 1996,
-    "dimension": "frame: 131.2 × 187.7 cm\r\r\nimage (sight): 123.5 × 179.8 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "frame: 131.2 × 187.7 cm\r\r\nimage (sight): 123.5 × 179.8 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 414,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

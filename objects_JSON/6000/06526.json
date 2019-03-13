@@ -4,31 +4,62 @@
     "publicAccess": true,
     "objectNumber": "CL.2016.1.1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Book/Periodical",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Book/Periodical",
+            "zh-hant": "書藉/期刊"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Tradition, Selection, Creation: Contact with Japanese Art",
-    "titleOther": "選擇‧傳統‧創造──與日本藝術的接觸",
-    "displayDate": "1941",
-    "displayDateOther": null,
+    "title": {
+        "en": "選擇‧傳統‧創造──與日本藝術的接觸",
+        "zh-hant": "Tradition, Selection, Creation: Contact with Japanese Art"
+    },
+    "displayDate": {
+        "en": "1941",
+        "zh-hant": null
+    },
     "beginDate": 1941,
     "endDate": 1941,
-    "dimension": "overall (closed): 2.8 × 22.3 × 30.3 cm",
-    "medium": "book",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (closed): 2.8 × 22.3 × 30.3 cm",
+        "zh-hant": "整體 (合上): 2.8 × 22.3 × 30.3 厘米"
+    },
+    "medium": {
+        "en": "book",
+        "zh-hant": "書"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 821,
-            "role": "Author"
+            "role": {
+                "en": "Author",
+                "zh-hant": "作者"
+            }
         },
         {
             "id": 390,
-            "role": "Author"
+            "role": {
+                "en": "Author",
+                "zh-hant": "作者"
+            }
         },
         {
             "id": 1440,
-            "role": "Publisher"
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
         }
     ],
     "images": [],

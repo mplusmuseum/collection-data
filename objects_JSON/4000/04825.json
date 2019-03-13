@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.651",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Longevity Triptych",
-    "titleOther": "山河並壽",
-    "displayDate": "2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "山河並壽",
+        "zh-hant": "Longevity Triptych"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2006,
-    "dimension": "image: 133 × 89.6 cm",
-    "medium": "ink and colour on silk",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image: 133 × 89.6 cm",
+        "zh-hant": "圖像: 133 × 89.6 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on silk",
+        "zh-hant": "水墨設色絹本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 560,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

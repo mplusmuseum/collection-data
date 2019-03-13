@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.803",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Flowing Clouds",
-    "titleOther": "浮雲似流水",
-    "displayDate": "1982",
-    "displayDateOther": null,
+    "title": {
+        "en": "浮雲似流水",
+        "zh-hant": "Flowing Clouds"
+    },
+    "displayDate": {
+        "en": "1982",
+        "zh-hant": null
+    },
     "beginDate": 1982,
     "endDate": 1982,
-    "dimension": "frame: 160 × 37.5 × 5.3 cm\r\r\nimage: 132.5 × 62 cm",
-    "medium": "ink and colour on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 160 × 37.5 × 5.3 cm\r\r\nimage: 132.5 × 62 cm",
+        "zh-hant": "框架: 160 × 37.5 × 5.3 厘米\r\r\n圖像: 132.5 × 62 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": "水墨設色紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1633,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

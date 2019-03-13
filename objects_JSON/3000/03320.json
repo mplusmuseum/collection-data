@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.272",
     "classification": {
-        "area": "Visual Art",
-        "category": "Drawing",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Drawing",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "What a Pity. The Heartless Wind In the Spring",
     "titleOther": "可惜那無情的春風吹落了鮮花吹走了芬芳並帶著無限的感傷頭頭整理絲裙",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2006,
     "endDate": 2006,
-    "dimension": "sheet (each): 25.1 × 34.9 cm",
-    "medium": "pencil and pen on paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet (each): 25.1 × 34.9 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "pencil and pen on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 160,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

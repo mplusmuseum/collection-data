@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA39/4/7/2/7",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Annotated floor plans, Main Library (circa 1987–1989), National Taiwan Ocean University, Jilong (Keelung), Taiwan",
-    "titleOther": "台灣基隆市國立台灣海洋大學總圖書館（約1987至1989年）樓層平面圖連標註",
-    "displayDate": "[circa 1987–1989]",
-    "displayDateOther": null,
+    "title": {
+        "en": "台灣基隆市國立台灣海洋大學總圖書館（約1987至1989年）樓層平面圖連標註",
+        "zh-hant": "Annotated floor plans, Main Library (circa 1987–1989), National Taiwan Ocean University, Jilong (Keelung), Taiwan"
+    },
+    "displayDate": {
+        "en": "[circa 1987–1989]",
+        "zh-hant": null
+    },
     "beginDate": 1985,
     "endDate": 1991,
-    "dimension": "sheet: 59 x 85.6 cm",
-    "medium": "blackline print and photocopy on transparent paper and tape",
-    "creditLine": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 59 x 85.6 cm",
+        "zh-hant": "sheet: 59 x 85.6 cm"
+    },
+    "medium": {
+        "en": "blackline print and photocopy on transparent paper and tape",
+        "zh-hant": "blackline print and photocopy on transparent paper and tape"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
+        "zh-hant": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": null,

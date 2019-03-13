@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.641",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Cooking knife, model  GS-3",
-    "titleOther": "廚刀，GS-3型",
-    "displayDate": "1959",
-    "displayDateOther": "1990年，2015年重印",
+    "title": {
+        "en": "廚刀，GS-3型",
+        "zh-hant": "Cooking knife, model  GS-3"
+    },
+    "displayDate": {
+        "en": "1990年，2015年重印",
+        "zh-hant": "1959"
+    },
     "beginDate": 1983,
     "endDate": 1983,
-    "dimension": "overall: 1.2 × 25.5 × 3.4 cm\r\noverall (orginal packing): 2 × 31.3 × 8.1 cm",
-    "medium": "stainless steel",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 1.2 × 25.5 × 3.4 cm\r\noverall (orginal packing): 2 × 31.3 × 8.1 cm",
+        "zh-hant": "整體： 1.2 × 25.5 × 3.4厘米\r\n整體 （orginal packing）： 2 × 31.3 × 8.1厘米"
+    },
+    "medium": {
+        "en": "stainless steel",
+        "zh-hant": "不鏽鋼"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.644",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Don't Touch!",
     "titleOther": "別碰！",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "overall (approx): 268 × 420 × 230 cm",
-    "medium": "edible dog chews",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall (approx): 268 × 420 × 230 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "edible dog chews",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 311,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

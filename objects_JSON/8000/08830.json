@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.325",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Now and Silver",
-    "titleOther": "霧顏",
-    "displayDate": "1987",
-    "displayDateOther": null,
+    "title": {
+        "en": "霧顏",
+        "zh-hant": "Now and Silver"
+    },
+    "displayDate": {
+        "en": "1987",
+        "zh-hant": null
+    },
     "beginDate": 1987,
     "endDate": 1987,
-    "dimension": "overall: 126.4 × 125.7 × 3.3 cm",
-    "medium": "acrylic on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 126.4 × 125.7 × 3.3 cm",
+        "zh-hant": "整體: 126.4 × 125.7 × 3.3 厘米"
+    },
+    "medium": {
+        "en": "acrylic on canvas",
+        "zh-hant": "塑膠彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1507,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

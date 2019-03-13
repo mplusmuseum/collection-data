@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.50",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "AIEK card phone, model mini-V8",
-    "titleOther": "AIEK mini-V8型卡片手機",
-    "displayDate": "2014",
-    "displayDateOther": null,
+    "title": {
+        "en": "AIEK mini-V8型卡片手機",
+        "zh-hant": "AIEK card phone, model mini-V8"
+    },
+    "displayDate": {
+        "en": "2014",
+        "zh-hant": null
+    },
     "beginDate": 2014,
     "endDate": 2014,
-    "dimension": "overall (phone): 0.3 × 8.2 × 5.5 cm\r\r\noverall (packaging): 11.2 × 7.2 × 4.4 cm",
-    "medium": "plastic, electronic parts, and LED",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (phone): 0.3 × 8.2 × 5.5 cm\r\r\noverall (packaging): 11.2 × 7.2 × 4.4 cm",
+        "zh-hant": "整體 (電話): 0.3 × 8.2 × 5.5 厘米\r\r\n整體 (包裝): 11.2 × 7.2 × 4.4 厘米"
+    },
+    "medium": {
+        "en": "plastic, electronic parts, and LED",
+        "zh-hant": "塑膠、電子零件、LED 燈"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1706,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [],

@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA35/2/8",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Photograph, fountain in pool number one, Statue Square (1965–1966), Hong Kong",
-    "titleOther": "香港皇后像廣場（1956至1966年）一號水池噴泉照片",
-    "displayDate": "[1966]",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港皇后像廣場（1956至1966年）一號水池噴泉照片",
+        "zh-hant": "Photograph, fountain in pool number one, Statue Square (1965–1966), Hong Kong"
+    },
+    "displayDate": {
+        "en": "[1966]",
+        "zh-hant": null
+    },
     "beginDate": 1966,
     "endDate": 1966,
-    "dimension": "sheet: 20.3 x 30.4 cm",
-    "medium": "digital print",
-    "creditLine": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+    "dimension": {
+        "en": "sheet: 20.3 x 30.4 cm",
+        "zh-hant": "sheet: 20.3 x 30.4 cm"
+    },
+    "medium": {
+        "en": "digital print",
+        "zh-hant": "digital print"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+        "zh-hant": "M+，香港，Alan Fitch家族捐赠，2014年"
+    },
     "constituents": [
         {
             "id": 814,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         },
         {
             "id": 1348,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [

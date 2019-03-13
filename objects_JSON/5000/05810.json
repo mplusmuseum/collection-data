@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.415",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The End of the Road — The mirage, which is real. Houses going up in the overcrowded, unsanitary refuse area outside Hong Kong, but few refugees will be able to afford the rent-low as it is.",
-    "titleOther": "路的盡頭──真實幻景。房子建於香港以外的廢棄區域，該處人滿為患，衛生惡劣，儘管租金低廉，只有少數難民能負擔入住。",
-    "displayDate": "1952",
-    "displayDateOther": null,
+    "title": {
+        "en": "路的盡頭──真實幻景。房子建於香港以外的廢棄區域，該處人滿為患，衛生惡劣，儘管租金低廉，只有少數難民能負擔入住。",
+        "zh-hant": "The End of the Road — The mirage, which is real. Houses going up in the overcrowded, unsanitary refuse area outside Hong Kong, but few refugees will be able to afford the rent-low as it is."
+    },
+    "displayDate": {
+        "en": "1952",
+        "zh-hant": null
+    },
     "beginDate": 1952,
     "endDate": 1952,
-    "dimension": "image size: 27 × 24 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image size: 27 × 24 cm",
+        "zh-hant": "圖像： 27 × 24 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 964,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

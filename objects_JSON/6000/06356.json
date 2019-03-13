@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.229",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Things from the Sixties",
-    "titleOther": "廣進",
-    "displayDate": "1995",
-    "displayDateOther": null,
+    "title": {
+        "en": "廣進",
+        "zh-hant": "Things from the Sixties"
+    },
+    "displayDate": {
+        "en": "1995",
+        "zh-hant": null
+    },
     "beginDate": 1995,
     "endDate": 1995,
-    "dimension": "artist frame (approx.): 110.9 × 143.6 × 6 cm\r\r\nimage: 101 × 134.3 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "artist frame (approx.): 110.9 × 143.6 × 6 cm\r\r\nimage: 101 × 134.3 cm",
+        "zh-hant": "原框 （約）: 110.9 × 143.6 × 6 厘米  圖像: 101 × 134.3 厘米"
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": "彩色照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1360,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [],

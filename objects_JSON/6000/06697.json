@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.647",
     "classification": {
-        "area": "Moving Image",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": "裝置藝術"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Conversations I",
-    "titleOther": "對話I",
-    "displayDate": "2005",
-    "displayDateOther": null,
+    "title": {
+        "en": "對話I",
+        "zh-hant": "Conversations I"
+    },
+    "displayDate": {
+        "en": "2005",
+        "zh-hant": null
+    },
     "beginDate": 2005,
     "endDate": 2005,
-    "dimension": "duration: 13 min. 30 sec.",
-    "medium": "five-channel video (colour, sound)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 13 min. 30 sec.",
+        "zh-hant": "影片長度：13分30秒"
+    },
+    "medium": {
+        "en": "five-channel video (colour, sound)",
+        "zh-hant": "五頻道錄像（ 彩色，有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

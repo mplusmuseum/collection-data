@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.763",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "A Travel Without Visual Experience",
     "titleOther": "與視覺無關旅行",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "dimensions variable",
-    "medium": "photographs",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
-    "constituents": null,
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "photographs",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Installation. Framed travel photographs line the walls of a room with patterned blue wallpaper and a concrete floor. The photos include snapshots of hotel rooms, people, and locations in Malaysia."

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.885",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled",
-    "titleOther": "無題",
-    "displayDate": "1980–1981",
-    "displayDateOther": null,
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "1980–1981",
+        "zh-hant": null
+    },
     "beginDate": 1980,
     "endDate": 1981,
-    "dimension": "image: 96.5 × 167 × 3.5 cm\r\r\nframe: 102 × 172 × 6 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image: 96.5 × 167 × 3.5 cm\r\r\nframe: 102 × 172 × 6 cm",
+        "zh-hant": "圖像: 96.5 × 167 × 3.5 厘米"
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": "油彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1526,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

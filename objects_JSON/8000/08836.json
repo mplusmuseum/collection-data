@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.319",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Changing Orbit",
-    "titleOther": "軸變",
-    "displayDate": "1993",
-    "displayDateOther": null,
+    "title": {
+        "en": "軸變",
+        "zh-hant": "Changing Orbit"
+    },
+    "displayDate": {
+        "en": "1993",
+        "zh-hant": null
+    },
     "beginDate": 1993,
     "endDate": 1993,
-    "dimension": "overall: 61.5 × 245.5 × 3.2 cm",
-    "medium": "acrylic on canvas",
-    "creditLine": "M+, Hong Kong. Gift of the artist, 2017",
+    "dimension": {
+        "en": "overall: 61.5 × 245.5 × 3.2 cm",
+        "zh-hant": "整體: 61.5 × 245.5 × 3.2 厘米"
+    },
+    "medium": {
+        "en": "acrylic on canvas",
+        "zh-hant": "塑膠彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of the artist, 2017",
+        "zh-hant": "M+，香港，藝術家捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 1507,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

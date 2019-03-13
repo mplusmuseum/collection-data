@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.565",
     "classification": {
-        "area": "Visual Art",
-        "category": "Maquette",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Maquette",
+            "zh-hant": "初步設計模型"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Study for General Yuen",
-    "titleOther": "阮將軍習作",
-    "displayDate": "2005",
-    "displayDateOther": null,
+    "title": {
+        "en": "阮將軍習作",
+        "zh-hant": "Study for General Yuen"
+    },
+    "displayDate": {
+        "en": "2005",
+        "zh-hant": null
+    },
     "beginDate": 2005,
     "endDate": 2005,
-    "dimension": "overall: 21 × 19 × 1.2 cm",
-    "medium": "cardboard",
-    "creditLine": "M+, Hong Kong. Gift of Henry Au-yeung, 2015",
+    "dimension": {
+        "en": "overall: 21 × 19 × 1.2 cm",
+        "zh-hant": "整體: 21 × 19 × 1.2 厘米"
+    },
+    "medium": {
+        "en": "cardboard",
+        "zh-hant": "紙板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Henry Au-yeung, 2015",
+        "zh-hant": "M+，香港，歐陽憲捐贈，2015年"
+    },
     "constituents": [
         {
             "id": 824,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

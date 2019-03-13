@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA2/10/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Sketch section, international Competition for Guangzhou City Library, Guangzhou, China",
-    "titleOther": "中國廣州圖書館國際建築比賽參賽作品剖面草圖",
-    "displayDate": "[2005]",
-    "displayDateOther": null,
+    "title": {
+        "en": "中國廣州圖書館國際建築比賽參賽作品剖面草圖",
+        "zh-hant": "Sketch section, international Competition for Guangzhou City Library, Guangzhou, China"
+    },
+    "displayDate": {
+        "en": "[2005]",
+        "zh-hant": null
+    },
     "beginDate": 2005,
     "endDate": 2005,
-    "dimension": "sheet: 21 x 29.7 cm",
-    "medium": "printout on paper",
-    "creditLine": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+    "dimension": {
+        "en": "sheet: 21 x 29.7 cm",
+        "zh-hant": "sheet: 21 x 29.7 cm"
+    },
+    "medium": {
+        "en": "printout on paper",
+        "zh-hant": "printout on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Rocco Design Architects Ltd., 2013",
+        "zh-hant": "M+，香港，許李嚴建築師事務所捐贈，2013年"
+    },
     "constituents": [
         {
             "id": 543,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         },
         {
             "id": 60,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [],

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.435",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "The Years Between—Burma Front",
     "titleOther": "那些年間──緬甸前線",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1944,
     "endDate": 1944,
-    "dimension": "sheet: 24.6 × 25.5 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 24.6 × 25.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

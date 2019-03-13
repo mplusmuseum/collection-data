@@ -1,24 +1,84 @@
 {
     "id": 520,
-    "sortNumber": null,
+    "sortNumber": "2012  1551",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1965,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.1551",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "模範解放軍戰士",
+        "zh-hant": "Model PLA soldier"
+    },
+    "displayDate": {
+        "en": "1968",
+        "zh-hant": null
+    },
+    "beginDate": 1968,
+    "endDate": 1968,
+    "dimension": {
+        "en": "frame: 73.5 × 55.5 cm\r\r\nsheet: 70 × 52 cm\r\r\nimage: 56.5 × 39.5 cm",
+        "zh-hant": "框架: 73.5 × 55.5 厘米\r\n紙本: 70 × 52 厘米\r\n圖像: 56.5 × 39.5 厘米"
+    },
+    "medium": {
+        "en": "photograph mounted with matboard",
+        "zh-hant": "照片裱於卡紙"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Liu Heung-Shing, 2012",
+        "zh-hant": "M+，香港，劉香成捐贈，2012年"
+    },
+    "constituents": [
+        {
+            "id": 281,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#858585",
+                "value": 75.9
+            },
+            {
+                "color": "#2F2F2F",
+                "value": 12.4
+            },
+            {
+                "color": "#CDCDCD",
+                "value": 11.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 75.9
+                },
+                {
+                    "color": "white",
+                    "value": 11.7
+                },
+                {
+                    "color": "black",
+                    "value": 12.4
+                }
+            ]
         }
     }
 }

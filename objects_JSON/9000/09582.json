@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA15/2/6",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Interior photograph, Lyric Theatre, The Hong Kong Academy for Performing Arts (1981–1985), Hong Kong",
-    "titleOther": "香港演藝學院（1981至1985年）歌劇院內部照片",
-    "displayDate": "1985",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港演藝學院（1981至1985年）歌劇院內部照片",
+        "zh-hant": "Interior photograph, Lyric Theatre, The Hong Kong Academy for Performing Arts (1981–1985), Hong Kong"
+    },
+    "displayDate": {
+        "en": "1985",
+        "zh-hant": null
+    },
     "beginDate": 1985,
     "endDate": 1985,
-    "dimension": "sheet: 20.3 x 25.4 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+, Hong Kong. Gift of Simon Kwan & Associates Limited, 2014",
+    "dimension": {
+        "en": "sheet: 20.3 x 25.4 cm",
+        "zh-hant": "sheet: 20.3 x 25.4 cm"
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": "chromogenic colour print"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Simon Kwan & Associates Limited, 2014",
+        "zh-hant": "M+，香港，關善明建築師事務所捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 63,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2013.297",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Expressions in Fresh Meat",
     "titleOther": "鲜肉的表情",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1999,
     "endDate": 1999,
-    "dimension": "each: 34.7 × 25 cm",
-    "medium": "meat and resin",
-    "creditLine": "M+, Hong Kong. Gift of Guan Yi, 2013",
+    "dimension": {
+        "en": "each: 34.7 × 25 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "meat and resin",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Guan Yi, 2013",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 139,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

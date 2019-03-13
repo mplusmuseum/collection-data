@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.86",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Écriture No. 10-72",
     "titleOther": "描法  No. 10-72",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1972,
     "endDate": 1972,
-    "dimension": "overall: 194 × 259.8 × 3.5 cm",
-    "medium": "oil and pencil on canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 194 × 259.8 × 3.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil and pencil on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Oil and pencil painting on canvas of numerous rows of tightly packed lines drawn in pencil. A white border sits along the edge of the painting."

@@ -1,24 +1,100 @@
 {
     "id": 101,
-    "sortNumber": null,
+    "sortNumber": "2012  1899",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1978,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.1899",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "卸土",
+        "zh-hant": "Moving Earth"
+    },
+    "displayDate": {
+        "en": "1958",
+        "zh-hant": null
+    },
+    "beginDate": 1958,
+    "endDate": 1958,
+    "dimension": {
+        "en": "sheet: 47.6 × 38.7 cm",
+        "zh-hant": "紙本: 47.6 × 38.7 厘米"
+    },
+    "medium": {
+        "en": "black and white print",
+        "zh-hant": "黑白沖印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D8D7D7",
+                "value": 37.3
+            },
+            {
+                "color": "#E7E8E5",
+                "value": 21.6
+            },
+            {
+                "color": "#262525",
+                "value": 12.1
+            },
+            {
+                "color": "#858384",
+                "value": 10.5
+            },
+            {
+                "color": "#D0CECF",
+                "value": 4.7
+            },
+            {
+                "color": "#929091",
+                "value": 4.1
+            },
+            {
+                "color": "#2E2C2F",
+                "value": 3.1
+            },
+            {
+                "color": "#DEE3E0",
+                "value": 2.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 14.6
+                },
+                {
+                    "color": "white",
+                    "value": 66.1
+                },
+                {
+                    "color": "black",
+                    "value": 15.2
+                }
+            ]
         }
     }
 }

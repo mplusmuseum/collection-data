@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.245",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Kishio Suga, Maki Galley, Tokyo, June 5, 1976",
     "titleOther": "菅木志雄，1976年6月5日東京Maki 畫廊",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1976,
     "endDate": 1976,
-    "dimension": "overall (mounted): 22.8 × 14.8 cm\r\r\nimage: 19.3 × 12.9 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (mounted): 22.8 × 14.8 cm\r\r\nimage: 19.3 × 12.9 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Monochrome photograph of a person crouching on a street, holding up a string that goes between two rocks."

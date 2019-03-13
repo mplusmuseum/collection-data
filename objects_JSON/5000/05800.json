@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.78",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "RCCC/Roll Carbon Ceramic Chair",
-    "titleOther": "卷狀碳纖維陶椅",
-    "displayDate": "2011",
-    "displayDateOther": "2001年設計， 2008年製造",
+    "title": {
+        "en": "卷狀碳纖維陶椅",
+        "zh-hant": "RCCC/Roll Carbon Ceramic Chair"
+    },
+    "displayDate": {
+        "en": "2001年設計， 2008年製造",
+        "zh-hant": "2011"
+    },
     "beginDate": 2001,
     "endDate": 2008,
-    "dimension": "overall: 80 × 57 × 74 cm",
-    "medium": "ceramics and carbon fiber",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 80 × 57 × 74 cm",
+        "zh-hant": "整體： 80 × 57 × 74 厘米"
+    },
+    "medium": {
+        "en": "ceramics and carbon fiber",
+        "zh-hant": "陶瓷、碳纖維"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Chair with a shiny blue surface. The seat consists of a big hollow roll and the back consists of three separate vertical shapes."

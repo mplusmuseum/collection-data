@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.879",
     "classification": {
-        "area": "Visual Art",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "King Chair",
     "titleOther": "寶座",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1995,
     "endDate": 1995,
-    "dimension": "overall: 108 × 103.5 × 49.9 cm",
-    "medium": "wood",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 108 × 103.5 × 49.9 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "wood",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 397,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

@@ -1,24 +1,84 @@
 {
     "id": 1428,
-    "sortNumber": null,
+    "sortNumber": "2012  2101",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1915,
-    "endDate": 2011,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.2101",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "1981年北京，畫室里的人體寫生",
+        "zh-hant": "China After Mao. 1981 Beijing, Painting from life in the studio"
+    },
+    "displayDate": {
+        "en": "1981",
+        "zh-hant": null
+    },
+    "beginDate": 1981,
+    "endDate": 1981,
+    "dimension": {
+        "en": "sheet: 60 × 102 cm",
+        "zh-hant": "紙本: 60 × 102 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [
+        {
+            "id": 303,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Monochrome photograph of young men painting large canvases in a crowded studio. Each painting features a similar portrait of a fleshy, nude woman with her back to the artist."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#282828",
+                "value": 56
+            },
+            {
+                "color": "#828282",
+                "value": 28
+            },
+            {
+                "color": "#C8C8C8",
+                "value": 16
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 44
+                },
+                {
+                    "color": "black",
+                    "value": 56
+                }
+            ]
         }
     }
 }

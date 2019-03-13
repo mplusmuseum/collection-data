@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.254",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Work 12",
-    "titleOther": "作品12",
-    "displayDate": "1953",
-    "displayDateOther": null,
+    "title": {
+        "en": "作品12",
+        "zh-hant": "Work 12"
+    },
+    "displayDate": {
+        "en": "1953",
+        "zh-hant": null
+    },
     "beginDate": 1953,
     "endDate": 1953,
-    "dimension": "image (sight): 67 × 65.3 cm\r\r\nframe: 70.7 × 70.7 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image (sight): 67 × 65.3 cm\r\r\nframe: 70.7 × 70.7 cm",
+        "zh-hant": "圖像 (目測量度): 67 × 65.3 厘米\r\n框架: 70.7 × 70.7 厘米"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "水墨紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1638,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

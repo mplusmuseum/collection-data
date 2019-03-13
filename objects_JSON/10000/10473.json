@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA23/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Series"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Series",
+            "zh-hant": "系列"
+        }
     },
-    "title": "Drawings, Bamboo Wing (2009), Vinhphuc, Vietnam",
-    "titleOther": "越南永福省竹之翼（2009年）繪圖",
-    "displayDate": "2009",
-    "displayDateOther": null,
+    "title": {
+        "en": "越南永福省竹之翼（2009年）繪圖",
+        "zh-hant": "Drawings, Bamboo Wing (2009), Vinhphuc, Vietnam"
+    },
+    "displayDate": {
+        "en": "2009",
+        "zh-hant": null
+    },
     "beginDate": 2009,
     "endDate": 2009,
-    "dimension": "3 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "3 items",
+        "zh-hant": "3 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 868,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

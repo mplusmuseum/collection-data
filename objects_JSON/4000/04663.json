@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.198",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Nobuo Sekine, Shiki City Plaza, Saitama, June, 1972",
     "titleOther": "關根伸夫，1972年6月埼玉縣志木市城市廣場",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1972,
     "endDate": 1972,
-    "dimension": "overall (mounted): 20.5 × 25.5 cm\r\r\nimage: 15.2 × 23 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (mounted): 20.5 × 25.5 cm\r\r\nimage: 15.2 × 23 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Monochrome photograph of several workers gathered in a gravel lot watching two cranes hoist a boulder into the air. The image is distorted, as if viewed through a convex lens."

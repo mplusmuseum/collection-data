@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA4/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Ephemera",
-        "archivalLevel": "File"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Ephemera",
+            "zh-hant": "Ephemera"
+        },
+        "archivalLevel": {
+            "en": "File",
+            "zh-hant": "案卷"
+        }
     },
-    "title": "Superstar: a Mobile China Town, postcards, Venice Architectural Biennale 2008, Venice, Italy",
-    "titleOther": "2008年意大利威尼斯建築雙年展「超級明星—移動的中國城」明信片",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "2008年意大利威尼斯建築雙年展「超級明星—移動的中國城」明信片",
+        "zh-hant": "Superstar: a Mobile China Town, postcards, Venice Architectural Biennale 2008, Venice, Italy"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "8 items",
-    "medium": "offset lithograph on paperboard",
-    "creditLine": "M+, Hong Kong. Gift of MAD Architects, 2013",
+    "dimension": {
+        "en": "8 items",
+        "zh-hant": "8 items"
+    },
+    "medium": {
+        "en": "offset lithograph on paperboard",
+        "zh-hant": "offset lithograph on paperboard"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of MAD Architects, 2013",
+        "zh-hant": "M+，香港，MAD Architects捐贈，2013年"
+    },
     "constituents": [
         {
             "id": 48,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [],

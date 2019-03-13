@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.162",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Design Object",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Design Object",
+            "zh-hant": "設計物件"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "imitation · imitation—Antique Market",
-    "titleOther": "模仿 · 模仿──古董市場",
-    "displayDate": "2016",
-    "displayDateOther": null,
+    "title": {
+        "en": "模仿 · 模仿──古董市場",
+        "zh-hant": "imitation · imitation—Antique Market"
+    },
+    "displayDate": {
+        "en": "2016",
+        "zh-hant": null
+    },
     "beginDate": 2016,
     "endDate": 2016,
-    "dimension": "overall: 40 × 30 x 30 cm",
-    "medium": "printed paper, porcelain, gold, and overglaze",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 40 × 30 x 30 cm",
+        "zh-hant": "整體: 40 × 30 x 30 厘米"
+    },
+    "medium": {
+        "en": "printed paper, porcelain, gold, and overglaze",
+        "zh-hant": "瓷、金、面釉；印刷紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1687,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.168",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Sunflower vacuum flask",
-    "titleOther": "向陽牌保溫瓶",
-    "displayDate": "1966–1975",
-    "displayDateOther": null,
+    "title": {
+        "en": "向陽牌保溫瓶",
+        "zh-hant": "Sunflower vacuum flask"
+    },
+    "displayDate": {
+        "en": "1966–1975",
+        "zh-hant": null
+    },
     "beginDate": 1966,
     "endDate": 1975,
-    "dimension": "overall: 38.5 × 9.3 × 9.3 cm",
-    "medium": "aluminium and paint",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 38.5 × 9.3 × 9.3 cm",
+        "zh-hant": "整體: 38.5 × 9.3 × 9.3 厘米"
+    },
+    "medium": {
+        "en": "aluminium and paint",
+        "zh-hant": "鋁、彩漆"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1691,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

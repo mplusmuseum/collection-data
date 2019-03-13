@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1371",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Continuous Reproduction 25 Times",
     "titleOther": "翻拍25次",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1993,
     "endDate": 1993,
-    "dimension": "frame (each): 33.8 × 28.9 cm\r\r\nimage (each, sight): 30.1 × 25.2 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "frame (each): 33.8 × 28.9 cm\r\r\nimage (each, sight): 30.1 × 25.2 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 584,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

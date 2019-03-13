@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.280",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Not Wanting to Say Anything About Marcel. Plexigram V",
-    "titleOther": "不想談論任何有關馬塞爾的事──塑膠玻璃板印圖五",
-    "displayDate": "1969",
-    "displayDateOther": null,
+    "title": {
+        "en": "不想談論任何有關馬塞爾的事──塑膠玻璃板印圖五",
+        "zh-hant": "Not Wanting to Say Anything About Marcel. Plexigram V"
+    },
+    "displayDate": {
+        "en": "1969",
+        "zh-hant": null
+    },
     "beginDate": 1969,
     "endDate": 1969,
-    "dimension": "each sheet of Plexiglas: 35.6 × 50.8 × 0.3 cm (14 × 20 × 1/8 in.)\r\r\nwalnut base: 36.8 × 61 × 1.9 cm",
-    "medium": "Plexiglas, wood",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "each sheet of Plexiglas: 35.6 × 50.8 × 0.3 cm (14 × 20 × 1/8 in.)\r\r\nwalnut base: 36.8 × 61 × 1.9 cm",
+        "zh-hant": "塑膠玻璃（各）：35.6 × 50.8 × 0.3 厘米\r\n核桃木座： 36.8 × 61 × 1.9 厘米"
+    },
+    "medium": {
+        "en": "Plexiglas, wood",
+        "zh-hant": "塑膠玻璃、木"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

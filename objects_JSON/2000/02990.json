@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.220",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Collectivity Memory–Guangzhou. Haizhu Plaza",
     "titleOther": "集體記憶:海珠廣場",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2006,
     "endDate": 2006,
-    "dimension": "sheet: 205.9 × 378.3 cm\r\r\nimage: 168.2 × 308.8 cm",
-    "medium": "inkpad on rice paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet: 205.9 × 378.3 cm\r\r\nimage: 168.2 × 308.8 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "inkpad on rice paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 137,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

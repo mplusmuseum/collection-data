@@ -1,24 +1,76 @@
 {
     "id": 519,
-    "sortNumber": null,
+    "sortNumber": "2012  1550",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1898,
-    "endDate": 1987,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.1550",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "大雪覆蓋的村莊景色 黑龍江",
+        "zh-hant": "Snow covered village, Heilongjiang"
+    },
+    "displayDate": {
+        "en": "1964",
+        "zh-hant": null
+    },
+    "beginDate": 1964,
+    "endDate": 1964,
+    "dimension": {
+        "en": "frame: 114 × 115 cm\r\r\nsheet: 110.6 × 112.2 cm\r\r\nimage: 99.5 × 100.5 cm",
+        "zh-hant": "框架: 114 × 115 厘米\r\n紙本: 110.6 × 112.2 厘米\r\n圖像: 99.5 × 100.5 厘米"
+    },
+    "medium": {
+        "en": "photograph mounted on aluminium",
+        "zh-hant": "照片裱於鋁板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Liu Heung-Shing, 2012",
+        "zh-hant": "M+，香港，劉香成捐贈，2012年"
+    },
+    "constituents": [
+        {
+            "id": 281,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D5D5D5",
+                "value": 93.9
+            },
+            {
+                "color": "#8A8A8A",
+                "value": 3.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 3.9
+                },
+                {
+                    "color": "white",
+                    "value": 93.9
+                }
+            ]
         }
     }
 }

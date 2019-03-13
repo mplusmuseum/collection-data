@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.309",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Another State of Man No. 19",
     "titleOther": "人的另一種狀態19號",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1988,
     "endDate": 1988,
-    "dimension": "image: 260 × 75.5 × 7 cm",
-    "medium": "ink and acrylic on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "image: 260 × 75.5 × 7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink and acrylic on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

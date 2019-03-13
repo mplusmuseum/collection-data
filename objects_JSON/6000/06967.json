@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.394",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The Dusk of Teheran",
-    "titleOther": "德黑蘭的黃昏",
-    "displayDate": "2014",
-    "displayDateOther": null,
+    "title": {
+        "en": "德黑蘭的黃昏",
+        "zh-hant": "The Dusk of Teheran"
+    },
+    "displayDate": {
+        "en": "2014",
+        "zh-hant": null
+    },
     "beginDate": 2014,
     "endDate": 2014,
-    "dimension": "duration: 4 min.",
-    "medium": "HD video (colour, sound)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 4 min.",
+        "zh-hant": "影片長度：4分"
+    },
+    "medium": {
+        "en": "HD video (colour, sound)",
+        "zh-hant": "單頻道高清錄像（ 彩色，有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

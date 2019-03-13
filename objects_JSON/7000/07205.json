@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.213",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Sculptor Antonio Mak, Peitou, Taiwan 1984",
-    "titleOther": "雕塑家 麥顯揚 北投 地熱谷 1984",
-    "displayDate": "1984",
-    "displayDateOther": null,
+    "title": {
+        "en": "雕塑家 麥顯揚 北投 地熱谷 1984",
+        "zh-hant": "Sculptor Antonio Mak, Peitou, Taiwan 1984"
+    },
+    "displayDate": {
+        "en": "1984",
+        "zh-hant": null
+    },
     "beginDate": 1984,
     "endDate": 1984,
-    "dimension": "overall: 50.5 × 60.9 cm\r\r\nimage: 37.5 × 56.2 cm",
-    "medium": "silver-print proof",
-    "creditLine": "M+, Hong Kong. Gift of Chang, Chao-Tang, 2017",
+    "dimension": {
+        "en": "overall: 50.5 × 60.9 cm\r\r\nimage: 37.5 × 56.2 cm",
+        "zh-hant": "整體: 50.5 × 60.9 厘米\r\n圖像: 37.5 × 56.2 厘米"
+    },
+    "medium": {
+        "en": "silver-print proof",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Chang, Chao-Tang, 2017",
+        "zh-hant": "M+，香港，張照堂捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 1716,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

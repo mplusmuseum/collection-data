@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.245",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Impact II",
-    "titleOther": "激霰二",
-    "displayDate": "1977",
-    "displayDateOther": null,
+    "title": {
+        "en": "激霰二",
+        "zh-hant": "Impact II"
+    },
+    "displayDate": {
+        "en": "1977",
+        "zh-hant": null
+    },
     "beginDate": 1977,
     "endDate": 1977,
-    "dimension": "sheet (sight): 66 × 139 cm",
-    "medium": "ink and colour on paper",
-    "creditLine": "M+, Hong Kong. Gift of MK Lau Foundation Ltd, 2018",
+    "dimension": {
+        "en": "sheet (sight): 66 × 139 cm",
+        "zh-hant": "紙本 （目測量度）: 66 × 139 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": "水墨設色紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of MK Lau Foundation Ltd, 2018",
+        "zh-hant": "M+，香港，梅潔樓文化創意基金有限公司捐贈，2018年"
+    },
     "constituents": [
         {
             "id": 154,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.3",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Children watching a puppet show, Tokyo",
-    "titleOther": "看木偶戲的小孩們，東京",
-    "displayDate": "photographed 1951, printed [1980s]",
-    "displayDateOther": "1951年拍攝，1980年代印刷",
+    "title": {
+        "en": "看木偶戲的小孩們，東京",
+        "zh-hant": "Children watching a puppet show, Tokyo"
+    },
+    "displayDate": {
+        "en": "1951年拍攝，1980年代印刷",
+        "zh-hant": "photographed 1951, printed [1980s]"
+    },
     "beginDate": 1951,
     "endDate": 1989,
-    "dimension": "sheet: 50.4 × 60.5 cm\r\r\nimage: 42.2 × 59.7 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 50.4 × 60.5 cm\r\r\nimage: 42.2 × 59.7 cm",
+        "zh-hant": "紙本: 50.4 × 60.5 厘米  圖像: 42.2 × 59.7 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 964,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

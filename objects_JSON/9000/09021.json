@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.8",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Cloth Sculpture",
-    "titleOther": "布雕",
-    "displayDate": "1962",
-    "displayDateOther": null,
+    "title": {
+        "en": "布雕",
+        "zh-hant": "Cloth Sculpture"
+    },
+    "displayDate": {
+        "en": "1962",
+        "zh-hant": null
+    },
     "beginDate": 1962,
     "endDate": 1962,
-    "dimension": "overall: 212.6 × 109 × 32.5 cm",
-    "medium": "iron and cloth",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 212.6 × 109 × 32.5 cm",
+        "zh-hant": "整體: 212.6 × 109 × 32.5 厘米"
+    },
+    "medium": {
+        "en": "iron and cloth",
+        "zh-hant": "鐵、布"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA21/2/11",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Sixth floor plan, Yokohama Floating Parking, Yokohama, Japan",
-    "titleOther": "日本橫濱水上停車場六樓平面圖",
-    "displayDate": "[circa 1991]",
-    "displayDateOther": null,
+    "title": {
+        "en": "日本橫濱水上停車場六樓平面圖",
+        "zh-hant": "Sixth floor plan, Yokohama Floating Parking, Yokohama, Japan"
+    },
+    "displayDate": {
+        "en": "[circa 1991]",
+        "zh-hant": null
+    },
     "beginDate": 1991,
     "endDate": 1991,
-    "dimension": "sheet: 27.9 x 43.1 cm",
-    "medium": "photocopy and graphite on paper",
-    "creditLine": "M+, Hong Kong. Gift of Gaetano Pesce, 2014",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 27.9 x 43.1 cm",
+        "zh-hant": "sheet: 27.9 x 43.1 cm"
+    },
+    "medium": {
+        "en": "photocopy and graphite on paper",
+        "zh-hant": "photocopy and graphite on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Gaetano Pesce, 2014",
+        "zh-hant": "M+，香港，Gaetano Pesce捐贈，2014年"
+    },
+    "constituents": [],
     "images": null,
     "color": {
         "predominant": null,

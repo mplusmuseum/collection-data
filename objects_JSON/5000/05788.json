@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.96",
     "classification": {
-        "area": "Visual Art",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "4th Annual Hong Kong Film Awards Poster",
-    "titleOther": "第四屆香港電影金像獎頒獎典禮海報",
-    "displayDate": "1985",
-    "displayDateOther": null,
+    "title": {
+        "en": "第四屆香港電影金像獎頒獎典禮海報",
+        "zh-hant": "4th Annual Hong Kong Film Awards Poster"
+    },
+    "displayDate": {
+        "en": "1985",
+        "zh-hant": null
+    },
     "beginDate": 1985,
     "endDate": 1985,
-    "dimension": "frame: 79.7 × 54.5 cm\r\r\nsight: 75.8 × 50 cm",
-    "medium": "printed poster",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 79.7 × 54.5 cm\r\r\nsight: 75.8 × 50 cm",
+        "zh-hant": "連框：79.7 × 54.5厘米\r\n目測量度：75.8 × 50厘米"
+    },
+    "medium": {
+        "en": "printed poster",
+        "zh-hant": "海報"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1242,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

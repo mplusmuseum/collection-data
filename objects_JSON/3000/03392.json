@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1469",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Rita (Nr. 109)",
     "titleOther": "麗塔 (No. 109)",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2001,
     "endDate": 2001,
-    "dimension": "sheet: 285.7 × 189.5 cm\r\r\nimage: 200.5 × 160.2 cm",
-    "medium": "airbrush on canvas",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet: 285.7 × 189.5 cm\r\r\nimage: 200.5 × 160.2 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "airbrush on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 608,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

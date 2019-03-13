@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA32/2/5",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Sections SD and SG, Hall of Nations (1971–1972), New Delhi, India",
-    "titleOther": "印度新德里萬國大廳（1971至1972年）剖面圖SD及SG",
-    "displayDate": "[circa 1972]",
-    "displayDateOther": null,
+    "title": {
+        "en": "印度新德里萬國大廳（1971至1972年）剖面圖SD及SG",
+        "zh-hant": "Sections SD and SG, Hall of Nations (1971–1972), New Delhi, India"
+    },
+    "displayDate": {
+        "en": "[circa 1972]",
+        "zh-hant": null
+    },
     "beginDate": 1970,
     "endDate": 1972,
-    "dimension": "sheet: 59.1 x 60 cm",
-    "medium": "xerographic copy on transparent paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 59.1 x 60 cm",
+        "zh-hant": "sheet: 59.1 x 60 cm"
+    },
+    "medium": {
+        "en": "xerographic copy on transparent paper",
+        "zh-hant": "xerographic copy on transparent paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

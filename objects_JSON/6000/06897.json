@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.3",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video Installation",
+            "zh-hant": "錄像裝置"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "flotsam and jetsam",
-    "titleOther": "漂泊者",
-    "displayDate": "2015–2016",
-    "displayDateOther": null,
+    "title": {
+        "en": "漂泊者",
+        "zh-hant": "flotsam and jetsam"
+    },
+    "displayDate": {
+        "en": "2015–2016",
+        "zh-hant": null
+    },
     "beginDate": 2015,
     "endDate": 2016,
-    "dimension": "dimensions variable",
-    "medium": "watercolor, ink, acrylic, vinyl, plexiglass, video and text",
-    "creditLine": "M+, Hong Kong. Brown Family Annual Acquisition Fund, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": "尺寸不一"
+    },
+    "medium": {
+        "en": "watercolor, ink, acrylic, vinyl, plexiglass, video and text",
+        "zh-hant": "水彩、墨水、塑膠彩、塑膠玻璃、錄像、文字"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Brown Family Annual Acquisition Fund, 2016",
+        "zh-hant": "M+，香港，Brown家族年度購藏基金購置，2016年"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

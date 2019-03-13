@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/10",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Letter, [Taiwan Urban Development Association?] to Wang Dahong",
-    "titleOther": "中華民國都會發展協進會致王大閎的信件",
-    "displayDate": "3 June 1997",
-    "displayDateOther": null,
+    "title": {
+        "en": "中華民國都會發展協進會致王大閎的信件",
+        "zh-hant": "Letter, [Taiwan Urban Development Association?] to Wang Dahong"
+    },
+    "displayDate": {
+        "en": "3 June 1997",
+        "zh-hant": null
+    },
     "beginDate": 1997,
     "endDate": 1997,
-    "dimension": "sheet: 27.1 x 21 cm",
-    "medium": "printout on paper, graphite on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 27.1 x 21 cm",
+        "zh-hant": "sheet: 27.1 x 21 cm"
+    },
+    "medium": {
+        "en": "printout on paper, graphite on paper",
+        "zh-hant": "printout on paper, graphite on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": null,
     "color": {
         "predominant": null,

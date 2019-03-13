@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1262",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "View of Tide",
     "titleOther": "止水之上：觀潮",
@@ -14,13 +23,25 @@
     "displayDateOther": "2008",
     "beginDate": 2009,
     "endDate": 2009,
-    "dimension": "overall: 49.6 × 380.6 cm\r\r\nsheet: 49.6 × 332 cm",
-    "medium": "inkjet print on rice paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 49.6 × 380.6 cm\r\r\nsheet: 49.6 × 332 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "inkjet print on rice paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 537,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

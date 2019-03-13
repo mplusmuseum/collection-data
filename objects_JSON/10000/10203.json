@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.16",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Design Object",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Design Object",
+            "zh-hant": "設計物件"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Pour - Samples",
-    "titleOther": "《倒》樣本",
-    "displayDate": "2015",
-    "displayDateOther": null,
+    "title": {
+        "en": "《倒》樣本",
+        "zh-hant": "Pour - Samples"
+    },
+    "displayDate": {
+        "en": "2015",
+        "zh-hant": null
+    },
     "beginDate": 2015,
     "endDate": 2015,
-    "dimension": "dimensions variable",
-    "medium": "epoxy resin",
-    "creditLine": "M+, Hong Kong. Gift of Hans Tan, 2017",
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": "尺寸不一"
+    },
+    "medium": {
+        "en": "epoxy resin",
+        "zh-hant": "人工樹脂"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Hans Tan, 2017",
+        "zh-hant": "M+，香港，陳彥瀚捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 858,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.268",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Sleepy Bed (New York Hostel 2)",
-    "titleOther": "酣 睡床 (紐約旅館2)",
-    "displayDate": "2014",
-    "displayDateOther": null,
+    "title": {
+        "en": "酣 睡床 (紐約旅館2)",
+        "zh-hant": "Sleepy Bed (New York Hostel 2)"
+    },
+    "displayDate": {
+        "en": "2014",
+        "zh-hant": null
+    },
     "beginDate": 2014,
     "endDate": 2014,
-    "dimension": "frame: 57.4 × 42.2 × 3.9 cm\r\r\nimage (sight): 45 × 29.8 cm",
-    "medium": "archival inkjet print with engraving",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 57.4 × 42.2 × 3.9 cm\r\r\nimage (sight): 45 × 29.8 cm",
+        "zh-hant": "框架: 57.4 × 42.2 × 3.9 厘米\r\n圖像 (目測量度): 45 × 29.8 厘米"
+    },
+    "medium": {
+        "en": "archival inkjet print with engraving",
+        "zh-hant": "收藏級噴墨打印、雕刻"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1044,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

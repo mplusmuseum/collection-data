@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/2/11/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Photograph, exterior view, Taiwan Golf and Country Club (circa 1963), Tan-shui (Tamsui), Taiwan",
-    "titleOther": "台灣淡水高爾夫球俱樂部（約1963年）外部照片",
-    "displayDate": "[circa 1963]",
-    "displayDateOther": null,
+    "title": {
+        "en": "台灣淡水高爾夫球俱樂部（約1963年）外部照片",
+        "zh-hant": "Photograph, exterior view, Taiwan Golf and Country Club (circa 1963), Tan-shui (Tamsui), Taiwan"
+    },
+    "displayDate": {
+        "en": "[circa 1963]",
+        "zh-hant": null
+    },
     "beginDate": 1961,
     "endDate": 1965,
-    "dimension": "sheet: 16 x 11.4 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 16 x 11.4 cm",
+        "zh-hant": "sheet: 16 x 11.4 cm"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "gelatin silver print"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.291",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Compound",
     "titleOther": "複合城市",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2011,
     "endDate": 2011,
-    "dimension": "overall (small cubes): 48.3 × 48.3 × 48.3 cm\r\r\noverall (large cubes): 99.1 × 99.1 × 99.1 cm\r\r\noverall (cylinders): 99.1 × 39.4 cm\r\r\noverall (shortest cones): 106.7 × 39.4 cm\r\r\noverall (short cones): 139.7 × 39.4 cm\r\r\noverall (tall cones): 160 × 39.4 cm\r\r\noverall (tallest cones): 200.7 × 39.4 cm\r\r\noverall (rectangles): 49.5 × 49.5 × 98.5 cm\r\r\noverall (smaller rectangles): 49.5 × 25.4 × 99 cm",
-    "medium": "bamboo, rattan, plywood, and metal wire",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (small cubes): 48.3 × 48.3 × 48.3 cm\r\r\noverall (large cubes): 99.1 × 99.1 × 99.1 cm\r\r\noverall (cylinders): 99.1 × 39.4 cm\r\r\noverall (shortest cones): 106.7 × 39.4 cm\r\r\noverall (short cones): 139.7 × 39.4 cm\r\r\noverall (tall cones): 160 × 39.4 cm\r\r\noverall (tallest cones): 200.7 × 39.4 cm\r\r\noverall (rectangles): 49.5 × 49.5 × 98.5 cm\r\r\noverall (smaller rectangles): 49.5 × 25.4 × 99 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "bamboo, rattan, plywood, and metal wire",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Sculpture consisting of multiple woven bamboo and rattan shapes created with the help of metal wire, combined to create a large, castle-like structure."

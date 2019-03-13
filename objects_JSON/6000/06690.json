@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.397",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Traversing Drizzle and Gossamer of the Future",
-    "titleOther": "穿越來年的細雨和輕塵",
-    "displayDate": "1992–1993",
-    "displayDateOther": null,
+    "title": {
+        "en": "穿越來年的細雨和輕塵",
+        "zh-hant": "Traversing Drizzle and Gossamer of the Future"
+    },
+    "displayDate": {
+        "en": "1992–1993",
+        "zh-hant": null
+    },
     "beginDate": 1992,
     "endDate": 1993,
-    "dimension": "overall: 147.5 × 246 × 10 cm",
-    "medium": "acrylic, black and white photograph, burlap, fabric, dried branch on linen",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 147.5 × 246 × 10 cm",
+        "zh-hant": "整體: 147.5 × 246 × 10 厘米"
+    },
+    "medium": {
+        "en": "acrylic, black and white photograph, burlap, fabric, dried branch on linen",
+        "zh-hant": "塑膠彩、黑白照片、 粗麻布，布塊、枯枝於麻布"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1494,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

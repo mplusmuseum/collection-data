@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.685",
     "classification": {
-        "area": "Visual Art",
-        "category": "Textile",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Textile",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Recording Chang'an Street of 2005",
     "titleOther": "記錄2005年的長安街",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2005,
     "endDate": 2005,
-    "dimension": "overall: 53.4 × 5000 cm",
-    "medium": "ink on silk",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 53.4 × 5000 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink on silk",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 321,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

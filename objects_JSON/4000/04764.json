@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.271",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Tak 86099",
     "titleOther": "楮 86099",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1986,
     "endDate": 1986,
-    "dimension": "overall: 227 × 163 × 4 cm",
-    "medium": "fibre on canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 227 × 163 × 4 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "fibre on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.771",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Okazaki Chair",
-    "titleOther": "岡崎椅",
-    "displayDate": "1989, reprinted 2015",
-    "displayDateOther": "1995年，2015年重印",
+    "title": {
+        "en": "岡崎椅",
+        "zh-hant": "Okazaki Chair"
+    },
+    "displayDate": {
+        "en": "1995年，2015年重印",
+        "zh-hant": "1989, reprinted 2015"
+    },
     "beginDate": 1995,
     "endDate": 1996,
-    "dimension": "77 × 47 × 39 cm (each)",
-    "medium": "resin plywood with a core filling",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "77 × 47 × 39 cm (each)",
+        "zh-hant": "77 × 47 × 39厘米 （各）"
+    },
+    "medium": {
+        "en": "resin plywood with a core filling",
+        "zh-hant": "芯料膠合板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1485,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

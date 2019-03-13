@@ -1,24 +1,112 @@
 {
     "id": 240,
-    "sortNumber": null,
+    "sortNumber": "2013   255",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1972,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2013.255",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "階",
+        "zh-hant": "Stairs"
+    },
+    "displayDate": {
+        "en": "1969",
+        "zh-hant": null
+    },
+    "beginDate": 1969,
+    "endDate": 1969,
+    "dimension": {
+        "en": "sheet: 208 × 107 cm\r\r\nimage: 185.1 × 95.8 cm",
+        "zh-hant": "紙本: 208 × 107 厘米\r\n圖像: 185.1 × 95.8 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": "水墨設色紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [
+        {
+            "id": 245,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Ink and colour painting on paper. A stack of ever-larger violet plinths rises out of a cloudy violet void. At the top are round yellow and red lights and an object resembling an industrial fan."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#000000",
+                "value": 51.4
+            },
+            {
+                "color": "#030829",
+                "value": 14.7
+            },
+            {
+                "color": "#2B4579",
+                "value": 11.7
+            },
+            {
+                "color": "#2F0002",
+                "value": 4.4
+            },
+            {
+                "color": "#132273",
+                "value": 4.2
+            },
+            {
+                "color": "#6F020E",
+                "value": 4
+            },
+            {
+                "color": "#425CBE",
+                "value": 3.5
+            },
+            {
+                "color": "#2D3BCA",
+                "value": 1
+            },
+            {
+                "color": "#D4061B",
+                "value": 1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 9.4
+                },
+                {
+                    "color": "blue",
+                    "value": 35.1
+                },
+                {
+                    "color": "black",
+                    "value": 51.4
+                }
+            ]
         }
     }
 }

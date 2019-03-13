@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.225",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The Square",
-    "titleOther": "廣場",
-    "displayDate": "1989",
-    "displayDateOther": null,
+    "title": {
+        "en": "廣場",
+        "zh-hant": "The Square"
+    },
+    "displayDate": {
+        "en": "1989",
+        "zh-hant": null
+    },
     "beginDate": 1989,
     "endDate": 1989,
-    "dimension": "artist frame: 95.4 × 95.5 × 4 cm \r\r\nsheet (sight): 91 × 98.7 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "artist frame: 95.4 × 95.5 × 4 cm \r\r\nsheet (sight): 91 × 98.7 cm",
+        "zh-hant": "原框: 95.4 × 95.5 × 4 厘米 \r\r\n紙本 (目測量度): 91 × 98.7 厘米"
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": "彩色照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1360,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

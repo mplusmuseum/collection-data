@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.244",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Interior of the Old Shoin seen from the east side of the second room, 1954",
-    "titleOther": "從二房的東端望向古書院內部",
-    "displayDate": "photographed 1954, printed 1990s",
-    "displayDateOther": "1954年拍攝，1990年代印刷",
+    "title": {
+        "en": "從二房的東端望向古書院內部",
+        "zh-hant": "Interior of the Old Shoin seen from the east side of the second room, 1954"
+    },
+    "displayDate": {
+        "en": "1954年拍攝，1990年代印刷",
+        "zh-hant": "photographed 1954, printed 1990s"
+    },
     "beginDate": 1954,
     "endDate": 1999,
-    "dimension": "sheet: 27.8 × 35.5 cm\r\r\nimage: 18.9 × 24.3 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 27.8 × 35.5 cm\r\r\nimage: 18.9 × 24.3 cm",
+        "zh-hant": "紙本: 27.8 × 35.5 厘米  圖像: 18.9 × 24.3 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 904,
-            "role": "Photographer"
+            "role": {
+                "en": "Photographer",
+                "zh-hant": "攝影師"
+            }
         }
     ],
     "images": [],

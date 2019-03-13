@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.273",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The Living Need Light, The Dead Need Music",
-    "titleOther": "生者要光，死者賞樂",
-    "displayDate": "2014",
-    "displayDateOther": "2011年設計，2013年製造",
+    "title": {
+        "en": "生者要光，死者賞樂",
+        "zh-hant": "The Living Need Light, The Dead Need Music"
+    },
+    "displayDate": {
+        "en": "2011年設計，2013年製造",
+        "zh-hant": "2014"
+    },
     "beginDate": 2014,
     "endDate": 2014,
-    "dimension": "duration: 21 min. 15 sec.",
-    "medium": "single-channel video (colour, sound)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 21 min. 15 sec.",
+        "zh-hant": "影片長度：21分15秒"
+    },
+    "medium": {
+        "en": "single-channel video (colour, sound)",
+        "zh-hant": "單頻道錄像（ 彩色，有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

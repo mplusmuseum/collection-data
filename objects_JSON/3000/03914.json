@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.264",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Dr. N Song",
     "titleOther": "N宋博士",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2013,
     "endDate": 2013,
-    "dimension": "duration: 5 min. 54 sec.",
-    "medium": "video (colour, stereo sound)",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "duration: 5 min. 54 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "video (colour, stereo sound)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 358,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

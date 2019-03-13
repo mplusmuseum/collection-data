@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.716",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Gunpowder Drawing No. 8-A5",
-    "titleOther": "火藥畫8-A5號",
-    "displayDate": "1988",
-    "displayDateOther": null,
+    "title": {
+        "en": "火藥畫8-A5號",
+        "zh-hant": "Gunpowder Drawing No. 8-A5"
+    },
+    "displayDate": {
+        "en": "1988",
+        "zh-hant": null
+    },
     "beginDate": 1988,
     "endDate": 1988,
-    "dimension": "frame: 227.3 × 181.8 × 6 cm\r\r\nimage: 226 × 180 × 6 cm",
-    "medium": "gunpowder and acrylic on canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "frame: 227.3 × 181.8 × 6 cm\r\r\nimage: 226 × 180 × 6 cm",
+        "zh-hant": "連框: 227.3 × 181.8 × 6 厘米  圖像: 226 × 180 × 6 厘米"
+    },
+    "medium": {
+        "en": "gunpowder and acrylic on canvas",
+        "zh-hant": "炸藥、塑膠彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

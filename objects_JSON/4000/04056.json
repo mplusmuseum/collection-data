@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "CL.2015.1.3",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Book/Periodical",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Book/Periodical",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "PEDDERZINE No. 1: Whatever Spring/Summer 2007",
     "titleOther": "PEDDERZINE第1期：無所謂",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2007,
     "endDate": 2007,
-    "dimension": "overall (closed): 1 × 23.1 × 29.7 cm\r\r\noverall (open): 6.5 × 39.7 × 29.7 cm",
-    "medium": "offset print on paper",
-    "creditLine": "M+, Hong Kong. Gift of WORK, 2014",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (closed): 1 × 23.1 × 29.7 cm\r\r\noverall (open): 6.5 × 39.7 × 29.7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "offset print on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of WORK, 2014",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA10/1/1/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Photograph, ground floor plan, Peak Tower (1967–1972), Hong Kong",
-    "titleOther": "香港太平山頂爐峰塔（1967至1972年）地下平面圖照片",
-    "displayDate": "[1967]",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港太平山頂爐峰塔（1967至1972年）地下平面圖照片",
+        "zh-hant": "Photograph, ground floor plan, Peak Tower (1967–1972), Hong Kong"
+    },
+    "displayDate": {
+        "en": "[1967]",
+        "zh-hant": null
+    },
     "beginDate": 1967,
     "endDate": 1967,
-    "dimension": "sheet: 23.3 x 34 cm",
-    "medium": "dry transfer decal on gelatin silver print mounted on paper",
-    "creditLine": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2014",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 23.3 x 34 cm",
+        "zh-hant": "sheet: 23.3 x 34 cm"
+    },
+    "medium": {
+        "en": "dry transfer decal on gelatin silver print mounted on paper",
+        "zh-hant": "dry transfer decal on gelatin silver print mounted on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2014",
+        "zh-hant": "M+，香港，鍾華楠建築師有限公司捐贈，2014年"
+    },
+    "constituents": [],
     "images": null,
     "color": {
         "predominant": null,

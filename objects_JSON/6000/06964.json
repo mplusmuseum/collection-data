@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.408",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Who's Afraid of Ghost?!",
-    "titleOther": "邊個驚鬼?!",
-    "displayDate": "2009",
-    "displayDateOther": null,
+    "title": {
+        "en": "邊個驚鬼?!",
+        "zh-hant": "Who's Afraid of Ghost?!"
+    },
+    "displayDate": {
+        "en": "2009",
+        "zh-hant": null
+    },
     "beginDate": 2009,
     "endDate": 2009,
-    "dimension": "duration: 15 min. 20 sec.",
-    "medium": "Super 8 transferred to DV, digital video (colour, stereo sound)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 15 min. 20 sec.",
+        "zh-hant": "影片長度：15分20秒"
+    },
+    "medium": {
+        "en": "Super 8 transferred to DV, digital video (colour, stereo sound)",
+        "zh-hant": "超八菲林、數碼錄像（彩色、有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -1,24 +1,128 @@
 {
     "id": 869,
-    "sortNumber": null,
+    "sortNumber": "2012  2127",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1994,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.2127",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "爛尾31/黑市居民01/曼谷",
+        "zh-hant": "Lanwei 31 / Illegal Residence 01 / Bangkok"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
+    "beginDate": 2008,
+    "endDate": 2008,
+    "dimension": {
+        "en": "overall: 200.9 × 111.8 cm\r\r\nimage: 138.2 × 110.5 cm",
+        "zh-hant": "整體: 200.9 × 111.8 厘米  圖像: 138.2 × 110.5 厘米"
+    },
+    "medium": {
+        "en": "archival inkjet print",
+        "zh-hant": "收藏級噴墨打印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2012",
+        "zh-hant": "M+，香港，又一山人（黃炳培）捐贈，2012年"
+    },
+    "constituents": [
+        {
+            "id": 17,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Photograph of three people inside an abandoned concrete building. One person can only be seen as a dark silhouette in the foreground, another is staring at the wall, and a third is slouching down on the floor."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#0F0909",
+                "value": 35.2
+            },
+            {
+                "color": "#132026",
+                "value": 14.1
+            },
+            {
+                "color": "#0E0C0E",
+                "value": 11.1
+            },
+            {
+                "color": "#141413",
+                "value": 8
+            },
+            {
+                "color": "#1E2322",
+                "value": 5.7
+            },
+            {
+                "color": "#0D0E13",
+                "value": 5.4
+            },
+            {
+                "color": "#0F1817",
+                "value": 5.3
+            },
+            {
+                "color": "#897F74",
+                "value": 4
+            },
+            {
+                "color": "#C7B1A3",
+                "value": 1.8
+            },
+            {
+                "color": "#211D16",
+                "value": 1.4
+            },
+            {
+                "color": "#D5E6F2",
+                "value": 1.3
+            },
+            {
+                "color": "#0F090D",
+                "value": 1.1
+            },
+            {
+                "color": "#5A6366",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 6.7
+                },
+                {
+                    "color": "white",
+                    "value": 1.3
+                },
+                {
+                    "color": "black",
+                    "value": 87.3
+                }
+            ]
         }
     }
 }

@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/33",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Draft paragraph of prose, and notes",
-    "titleOther": "散文段落草稿連筆記",
-    "displayDate": "[1980s–1990s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "散文段落草稿連筆記",
+        "zh-hant": "Draft paragraph of prose, and notes"
+    },
+    "displayDate": {
+        "en": "[1980s–1990s]",
+        "zh-hant": null
+    },
     "beginDate": 1980,
     "endDate": 1999,
-    "dimension": "sheet: 29.9 x 21 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 29.9 x 21 cm",
+        "zh-hant": "sheet: 29.9 x 21 cm"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

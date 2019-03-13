@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.609",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Family Computer floppy disk drive",
-    "titleOther": "Family Computer磁碟機",
-    "displayDate": "1959",
-    "displayDateOther": null,
+    "title": {
+        "en": "Family Computer磁碟機",
+        "zh-hant": "Family Computer floppy disk drive"
+    },
+    "displayDate": {
+        "en": "1959",
+        "zh-hant": null
+    },
     "beginDate": 1986,
     "endDate": 1986,
-    "dimension": "overall: 7 × 14.8 × 24.5 cm",
-    "medium": "plastic and electronic parts",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 7 × 14.8 × 24.5 cm",
+        "zh-hant": "整體： 7 × 14.8 × 24.5 厘米"
+    },
+    "medium": {
+        "en": "plastic and electronic parts",
+        "zh-hant": "塑膠、電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

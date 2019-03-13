@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.223",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Kishio Suga, Tamura Gallery, Tokyo, January 13, 1972",
     "titleOther": "菅木志雄，1972年1月13日東京田村畫廊",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1972,
     "endDate": 1972,
-    "dimension": "overall (mounted): 20.2 × 25.8 cm\r\r\nimage: 19.1 × 24.5 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (mounted): 20.2 × 25.8 cm\r\r\nimage: 19.1 × 24.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Monochrome photograph of a row of small stones lying across a sheet of chicken wire, viewed from underneath the wire."

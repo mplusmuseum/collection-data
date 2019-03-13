@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.239",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": "版畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled—Hong Kong",
-    "titleOther": "無題—香港",
-    "displayDate": "2003–2004",
-    "displayDateOther": null,
+    "title": {
+        "en": "無題—香港",
+        "zh-hant": "Untitled—Hong Kong"
+    },
+    "displayDate": {
+        "en": "2003–2004",
+        "zh-hant": null
+    },
     "beginDate": 2003,
     "endDate": 2004,
-    "dimension": "dimensions variable",
-    "medium": "silkscreen and acrylic on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": "尺寸不一"
+    },
+    "medium": {
+        "en": "silkscreen and acrylic on paper",
+        "zh-hant": "絲網印刷及塑膠彩紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 2761,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

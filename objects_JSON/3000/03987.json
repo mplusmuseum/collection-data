@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.428",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "I Got Up; 19-25 December, 1972",
     "titleOther": "我起床了；1972年12月19至25日",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1972,
     "endDate": 1972,
-    "dimension": "overall (each post card, sight): 10 × 14.5 cm\r\r\noverall: 103.4 × 29.9 × 1.8 cm",
-    "medium": "ink and stamps on postcards",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (each post card, sight): 10 × 14.5 cm\r\r\noverall: 103.4 × 29.9 × 1.8 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink and stamps on postcards",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": null,

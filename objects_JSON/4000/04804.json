@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.439",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Koreans, Untitled 22",
     "titleOther": "韓國人，無題22",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1957,
     "endDate": 1957,
-    "dimension": "overall: 34.9 × 23.6 × 2.5 cm",
-    "medium": "black and white photograph mounted on Sintra",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 34.9 × 23.6 × 2.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "black and white photograph mounted on Sintra",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": null,

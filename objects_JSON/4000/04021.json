@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.661",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Father-Daughter",
     "titleOther": "父女",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2001,
     "endDate": 2001,
-    "dimension": "overall: 56.7 × 43 cm\r\r\nimage: 48.2 × 36 cm",
-    "medium": "glass baryta, brown tone technique-ink jet pigment ink, and ultra chrome k3",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 56.7 × 43 cm\r\r\nimage: 48.2 × 36 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "glass baryta, brown tone technique-ink jet pigment ink, and ultra chrome k3",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

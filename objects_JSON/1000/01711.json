@@ -1,24 +1,108 @@
 {
     "id": 1711,
-    "sortNumber": null,
+    "sortNumber": "2013   309",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 2005,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2013.309",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "約1997至2007年",
+        "zh-hant": "circa 1997–2007"
+    },
+    "beginDate": 1995,
+    "endDate": 2007,
+    "dimension": {
+        "en": "sheet: 45.7 × 90.9 cm",
+        "zh-hant": "紙本: 45.7 × 90.9 厘米"
+    },
+    "medium": {
+        "en": "marker on paper",
+        "zh-hant": "箱頭筆紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [
+        {
+            "id": 44,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Vertical columns of Chinese characters written in black and red marker on paper list out words beginning with the phrases ‘Hong Kong, 5th of May 2004’ and ‘Hong Kong Government’. Lists of Tsang family members and locations in China are interspersed with names of government officials and the enlarged Chinese calligraphy character meaning ‘the King’."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D8D8DE",
+                "value": 65.6
+            },
+            {
+                "color": "#7D7C85",
+                "value": 8.9
+            },
+            {
+                "color": "#D4CECA",
+                "value": 8.6
+            },
+            {
+                "color": "#D9D6D8",
+                "value": 4.3
+            },
+            {
+                "color": "#837C79",
+                "value": 3.3
+            },
+            {
+                "color": "#413F44",
+                "value": 2.3
+            },
+            {
+                "color": "#807B7F",
+                "value": 1.8
+            },
+            {
+                "color": "#E3E3E1",
+                "value": 1.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 14
+                },
+                {
+                    "color": "white",
+                    "value": 80.2
+                },
+                {
+                    "color": "black",
+                    "value": 2.3
+                }
+            ]
         }
     }
 }

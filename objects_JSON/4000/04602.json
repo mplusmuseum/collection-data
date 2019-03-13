@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.137",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Lee Ufan, Tamura Gallery, Tokyo, July 22, 1974",
     "titleOther": "李禹煥，1974年7月22日東京田村畫廊",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1974,
     "endDate": 1974,
-    "dimension": "overall (mounted): 19.1 × 25.4 cm\r\r\nimage: 18 × 24 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (mounted): 19.1 × 25.4 cm\r\r\nimage: 18 × 24 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Monochrome photograph of a pole resting its weight on a knotted rope hanging from the ceiling. The pole leans against the rope in a diagonal line with one end touching the center of metal sheet that rests on the floor. On the far wall there is another sculptural work."

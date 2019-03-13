@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.419",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The End of the Road — Food is distributed twice a day at Rennie's Mills and two hours beforehand lines form in front of the cook house. Most of the refugees just leave out their bowl or pail to \"keep their place\" in the queue.",
-    "titleOther": "路的盡頭──調景嶺居民每天獲派糧食兩次，大批難民提早兩小時到廚房前排隊，部分人以碗盆或桶子「霸位」。",
-    "displayDate": "1952",
-    "displayDateOther": null,
+    "title": {
+        "en": "路的盡頭──調景嶺居民每天獲派糧食兩次，大批難民提早兩小時到廚房前排隊，部分人以碗盆或桶子「霸位」。",
+        "zh-hant": "The End of the Road — Food is distributed twice a day at Rennie's Mills and two hours beforehand lines form in front of the cook house. Most of the refugees just leave out their bowl or pail to \"keep their place\" in the queue."
+    },
+    "displayDate": {
+        "en": "1952",
+        "zh-hant": null
+    },
     "beginDate": 1952,
     "endDate": 1952,
-    "dimension": "image size: 17.3 × 25.2 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image size: 17.3 × 25.2 cm",
+        "zh-hant": "圖像： 17.3 × 25.2 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 964,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

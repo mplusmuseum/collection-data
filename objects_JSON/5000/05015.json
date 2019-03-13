@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2015.459",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Koreans, Untitled 6",
-    "titleOther": "韓國人，無題6",
-    "displayDate": "1957",
-    "displayDateOther": null,
+    "title": {
+        "en": "韓國人，無題6",
+        "zh-hant": "Koreans, Untitled 6"
+    },
+    "displayDate": {
+        "en": "1957",
+        "zh-hant": null
+    },
     "beginDate": 1957,
     "endDate": 1957,
-    "dimension": "overall: 34.9 × 25.9 × 2.5 cm",
-    "medium": "black and white photograph mounted on Sintra",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 34.9 × 25.9 × 2.5 cm",
+        "zh-hant": "整體: 34.9 × 25.9 × 2.5 厘米"
+    },
+    "medium": {
+        "en": "black and white photograph mounted on Sintra",
+        "zh-hant": "黑白照片裱於膠板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": null,

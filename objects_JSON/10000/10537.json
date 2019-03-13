@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.27",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Poster, KLM Royal Dutch Airlines: New York, Far East",
-    "titleOther": "荷蘭皇家航空海報──「紐約、遠東」",
-    "displayDate": "1948",
-    "displayDateOther": "約1950年",
+    "title": {
+        "en": "荷蘭皇家航空海報──「紐約、遠東」",
+        "zh-hant": "Poster, KLM Royal Dutch Airlines: New York, Far East"
+    },
+    "displayDate": {
+        "en": "約1950年",
+        "zh-hant": "1948"
+    },
     "beginDate": 1945,
     "endDate": 1955,
-    "dimension": "overall: 100.3 × 59.7 cm",
-    "medium": "stone lithography on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 100.3 × 59.7 cm",
+        "zh-hant": "整體： 100.3 × 59.7 厘米"
+    },
+    "medium": {
+        "en": "stone lithography on paper",
+        "zh-hant": "石版印刷紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1534,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.190",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Composition No. 1",
-    "titleOther": "構成之一",
-    "displayDate": "1983",
-    "displayDateOther": null,
+    "title": {
+        "en": "構成之一",
+        "zh-hant": "Composition No. 1"
+    },
+    "displayDate": {
+        "en": "1983",
+        "zh-hant": null
+    },
     "beginDate": 1983,
     "endDate": 1983,
-    "dimension": "image: 39.8 × 73.8 × 2 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image: 39.8 × 73.8 × 2 cm",
+        "zh-hant": "圖像: 39.8 × 73.8 × 2 厘米"
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": "油彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1062,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

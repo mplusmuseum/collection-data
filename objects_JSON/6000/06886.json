@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.493",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Handlebar",
-    "titleOther": "車把",
-    "displayDate": "1981",
-    "displayDateOther": null,
+    "title": {
+        "en": "車把",
+        "zh-hant": "Handlebar"
+    },
+    "displayDate": {
+        "en": "1981",
+        "zh-hant": null
+    },
     "beginDate": 1981,
     "endDate": 1981,
-    "dimension": "overall: 64.5 × 58.3 cm",
-    "medium": "aluminium, beech, glass, and rubber",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 64.5 × 58.3 cm",
+        "zh-hant": "整體: 64.5 × 58.3 厘米"
+    },
+    "medium": {
+        "en": "aluminium, beech, glass, and rubber",
+        "zh-hant": "鋁、櫸木、玻璃、橡膠"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1574,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

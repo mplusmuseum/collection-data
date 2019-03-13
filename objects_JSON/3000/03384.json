@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.942",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "21 G",
     "titleOther": "21克",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2010,
     "endDate": 2010,
-    "dimension": "duration: 27 min.",
-    "medium": "single-channel HD animated video (black and white, stereo sound)",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 27 min.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "single-channel HD animated video (black and white, stereo sound)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Seven by five grid of stills from a monochrome video. Images include landscapes and skyscapes, and some feature men in top hats."

@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA19/2/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Press kit, Singapore Biennale 2006: Belief",
-    "titleOther": "2006年「新加坡雙年展：信念」新聞資料袋",
-    "displayDate": "[2006]",
-    "displayDateOther": null,
+    "title": {
+        "en": "2006年「新加坡雙年展：信念」新聞資料袋",
+        "zh-hant": "Press kit, Singapore Biennale 2006: Belief"
+    },
+    "displayDate": {
+        "en": "[2006]",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2006,
-    "dimension": "2 items",
-    "medium": "sticker on paperboard",
-    "creditLine": "M+, Hong Kong. Gift of WORK, 2014",
+    "dimension": {
+        "en": "2 items",
+        "zh-hant": "2 items"
+    },
+    "medium": {
+        "en": "sticker on paperboard",
+        "zh-hant": "sticker on paperboard"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of WORK, 2014",
+        "zh-hant": "M+，香港，WORK捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 846,
-            "role": "Design Firm"
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
         },
         {
             "id": 1302,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

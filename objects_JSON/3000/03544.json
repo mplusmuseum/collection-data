@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.871",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Fragments of History",
     "titleOther": "歷史的碎片",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2012,
     "endDate": 2012,
-    "dimension": "sheet (each): 103.7 × 84 cm\r\r\nimage (each): 100.2 × 80.4 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "sheet (each): 103.7 × 84 cm\r\r\nimage (each): 100.2 × 80.4 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 391,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

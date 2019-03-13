@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.25",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Young Age",
     "titleOther": "花樣年華",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1979,
     "endDate": 1979,
-    "dimension": "image: 10 × 16.2 cm\r\r\nsheet: 69.7 × 61 cm",
-    "medium": "woodcut",
-    "creditLine": "M+ Sigg Collection, Hong Kong",
+    "dimension": {
+        "en": "image: 10 × 16.2 cm\r\r\nsheet: 69.7 × 61 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "woodcut",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 333,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

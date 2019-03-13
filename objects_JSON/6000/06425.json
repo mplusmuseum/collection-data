@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2018.38",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Model",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Model",
+            "zh-hant": "建築模型"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Model, Roof-Roof House, Kuala Lumpur, Malaysia, 1983–1984",
-    "titleOther": "馬來西亞吉隆玻雙頂屋模型（1983至1984年）",
-    "displayDate": "circa 1995",
-    "displayDateOther": "約1995年",
+    "title": {
+        "en": "馬來西亞吉隆玻雙頂屋模型（1983至1984年）",
+        "zh-hant": "Model, Roof-Roof House, Kuala Lumpur, Malaysia, 1983–1984"
+    },
+    "displayDate": {
+        "en": "約1995年",
+        "zh-hant": "circa 1995"
+    },
     "beginDate": 1993,
     "endDate": 1997,
-    "dimension": "overall: 25.8 × 42 × 29.6 cm",
-    "medium": "plexiglass and painted plastic",
-    "creditLine": "M+, Hong Kong.  Museum purchase and gift of T.R. Hamzah & Yeang Sdn. Bhd ., 2017",
+    "dimension": {
+        "en": "overall: 25.8 × 42 × 29.6 cm",
+        "zh-hant": "整體: 25.8 × 42 × 29.6 厘米"
+    },
+    "medium": {
+        "en": "plexiglass and painted plastic",
+        "zh-hant": "亞加力板及有色塑膠"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong.  Museum purchase and gift of T.R. Hamzah & Yeang Sdn. Bhd ., 2017",
+        "zh-hant": "M+，香港， 由T. R. Hamzah & Yeang建築事務所捐贈以協助博物館購買，2017年"
+    },
     "constituents": [
         {
             "id": 1371,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         },
         {
             "id": 1364,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.533",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "My First Sony stereo walkman portable cassette player, model WM-F3050",
-    "titleOther": "my first Sony walkman便攜式立體聲卡式錄音機，WM-F3050型",
-    "displayDate": "2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "my first Sony walkman便攜式立體聲卡式錄音機，WM-F3050型",
+        "zh-hant": "My First Sony stereo walkman portable cassette player, model WM-F3050"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": null
+    },
     "beginDate": 1988,
     "endDate": 1988,
-    "dimension": "overall: 13.8 × 10 × 4 cm",
-    "medium": "plastic and electronic parts",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 13.8 × 10 × 4 cm",
+        "zh-hant": "整體： 13.8 × 10 × 4 厘米"
+    },
+    "medium": {
+        "en": "plastic and electronic parts",
+        "zh-hant": "塑膠、電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1600,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

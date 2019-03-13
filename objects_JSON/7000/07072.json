@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.196",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Formation",
-    "titleOther": "形成",
-    "displayDate": "1964",
-    "displayDateOther": null,
+    "title": {
+        "en": "形成",
+        "zh-hant": "Formation"
+    },
+    "displayDate": {
+        "en": "1964",
+        "zh-hant": null
+    },
     "beginDate": 1964,
     "endDate": 1964,
-    "dimension": "frame: 52.3 × 69.5 × 3.7 cm\r\r\nsheet (sight): 36.8 × 55 cm",
-    "medium": "watercolour on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 52.3 × 69.5 × 3.7 cm\r\r\nsheet (sight): 36.8 × 55 cm",
+        "zh-hant": "框架: 52.3 × 69.5 × 3.7 厘米\r\r\n圖像: 36.8 × 55 厘米"
+    },
+    "medium": {
+        "en": "watercolour on paper",
+        "zh-hant": "水彩紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1667,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

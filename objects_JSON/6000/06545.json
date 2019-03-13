@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2016.442",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Zataku, model SM6026",
-    "titleOther": "座桌，6026 型",
-    "displayDate": "designed 1967, made circa 1968",
-    "displayDateOther": "1967年設計，約1968年製造",
+    "title": {
+        "en": "座桌，6026 型",
+        "zh-hant": "Zataku, model SM6026"
+    },
+    "displayDate": {
+        "en": "1967年設計，約1968年製造",
+        "zh-hant": "designed 1967, made circa 1968"
+    },
     "beginDate": 1967,
     "endDate": 1970,
-    "dimension": "overall (table): 140 × 98.5 × 33.2 cm",
-    "medium": "rosewood-veneered plywood",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (table): 140 × 98.5 × 33.2 cm",
+        "zh-hant": "整體 (桌子): 140 × 98.5 × 33.2 厘米"
+    },
+    "medium": {
+        "en": "rosewood-veneered plywood",
+        "zh-hant": "玫瑰木皮夾板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1430,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
             "id": 1033,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

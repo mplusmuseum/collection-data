@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.596",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "ROBO compass radio, model S2",
-    "titleOther": "ROBO指南針收音機，S2型",
-    "displayDate": "1988",
-    "displayDateOther": null,
+    "title": {
+        "en": "ROBO指南針收音機，S2型",
+        "zh-hant": "ROBO compass radio, model S2"
+    },
+    "displayDate": {
+        "en": "1988",
+        "zh-hant": null
+    },
     "beginDate": 1988,
     "endDate": 1988,
-    "dimension": "overall (the radio): 8.5 × 10.2 × 5.5 cm\r\noverall (the compass): 5 × 6.2 × 2 cm",
-    "medium": "plastic and electronic parts",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (the radio): 8.5 × 10.2 × 5.5 cm\r\noverall (the compass): 5 × 6.2 × 2 cm",
+        "zh-hant": "整體 （收音機）： 8.5 × 10.2 × 5.5厘米\r\n整體 （指南針）： 5 × 6.2 × 2厘米"
+    },
+    "medium": {
+        "en": "plastic and electronic parts",
+        "zh-hant": "塑膠、電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

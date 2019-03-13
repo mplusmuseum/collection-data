@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.649",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Some unexpected events sometimes bring momentary happiness",
-    "titleOther": "一些意外之事有時可帶來瞬間快樂",
-    "displayDate": "2009",
-    "displayDateOther": null,
+    "title": {
+        "en": "一些意外之事有時可帶來瞬間快樂",
+        "zh-hant": "Some unexpected events sometimes bring momentary happiness"
+    },
+    "displayDate": {
+        "en": "2009",
+        "zh-hant": null
+    },
     "beginDate": 2009,
     "endDate": 2009,
-    "dimension": "duration: 20 min. 3 sec.",
-    "medium": "digital video (black and white, silent)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 20 min. 3 sec.",
+        "zh-hant": "影片長度：20 分 3 秒"
+    },
+    "medium": {
+        "en": "digital video (black and white, silent)",
+        "zh-hant": "單頻道高清錄像（ 黑白，無聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

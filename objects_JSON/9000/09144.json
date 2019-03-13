@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA12/2/4",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "File"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "File",
+            "zh-hant": "案卷"
+        }
     },
-    "title": "Drawings, entrance and staircase details, Exchange Square (1983–1988), Hong Kong",
-    "titleOther": "香港交易廣場（1983至1988年）入口及樓梯細節繪圖",
-    "displayDate": "1985",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港交易廣場（1983至1988年）入口及樓梯細節繪圖",
+        "zh-hant": "Drawings, entrance and staircase details, Exchange Square (1983–1988), Hong Kong"
+    },
+    "displayDate": {
+        "en": "1985",
+        "zh-hant": null
+    },
     "beginDate": 1985,
     "endDate": 1985,
-    "dimension": "4 items",
-    "medium": "ink and graphite on paper",
-    "creditLine": "M+, Hong Kong. Gift of Remo Riva, 2013",
+    "dimension": {
+        "en": "4 items",
+        "zh-hant": "4 items"
+    },
+    "medium": {
+        "en": "ink and graphite on paper",
+        "zh-hant": "ink and graphite on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Remo Riva, 2013",
+        "zh-hant": "M+，香港，Remo Riva捐贈，2013年"
+    },
     "constituents": [
         {
             "id": 54,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [

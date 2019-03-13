@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.32",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Poster, Chuen Sun Knitting Factory",
-    "titleOther": "全新線衫廠海報",
-    "displayDate": "1948",
-    "displayDateOther": "1930年代",
+    "title": {
+        "en": "全新線衫廠海報",
+        "zh-hant": "Poster, Chuen Sun Knitting Factory"
+    },
+    "displayDate": {
+        "en": "1930年代",
+        "zh-hant": "1948"
+    },
     "beginDate": 1930,
     "endDate": 1939,
-    "dimension": "overall: 77.5 × 53.3 cm",
-    "medium": "offset lithography on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 77.5 × 53.3 cm",
+        "zh-hant": "整體： 77.5 × 53.3 厘米"
+    },
+    "medium": {
+        "en": "offset lithography on paper",
+        "zh-hant": "柯式平板印刷紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

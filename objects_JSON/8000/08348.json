@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.411",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Kowloon Walled City—Shared staircase linking three buildings",
-    "titleOther": "九龍城寨──連接三棟大廈的樓梯",
-    "displayDate": "1988",
-    "displayDateOther": "1991年， 重印於2015年",
+    "title": {
+        "en": "九龍城寨──連接三棟大廈的樓梯",
+        "zh-hant": "Kowloon Walled City—Shared staircase linking three buildings"
+    },
+    "displayDate": {
+        "en": "1991年， 重印於2015年",
+        "zh-hant": "1988"
+    },
     "beginDate": 1991,
     "endDate": 2015,
-    "dimension": "frame: 81.1 × 69 × 3.2 cm\r\nimage (sight): 60 × 47.7 cm",
-    "medium": "archival digital print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 81.1 × 69 × 3.2 cm\r\nimage (sight): 60 × 47.7 cm",
+        "zh-hant": "連框: 81.1 × 69 × 3.2 厘米 圖像 （目測量度）: 60 × 47.7 厘米"
+    },
+    "medium": {
+        "en": "archival digital print",
+        "zh-hant": "收藏級數碼打印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 259,
-            "role": "Photographer"
+            "role": {
+                "en": "Photographer",
+                "zh-hant": "攝影師"
+            }
         }
     ],
     "images": [

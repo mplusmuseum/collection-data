@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.276",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hinterland Series—Straits (Tekong Reclamation)",
-    "titleOther": "腹地系列──海峽（德光島填海工程）",
-    "displayDate": "1952",
-    "displayDateOther": null,
+    "title": {
+        "en": "腹地系列──海峽（德光島填海工程）",
+        "zh-hant": "Hinterland Series—Straits (Tekong Reclamation)"
+    },
+    "displayDate": {
+        "en": "1952",
+        "zh-hant": null
+    },
     "beginDate": 2015,
     "endDate": 2015,
-    "dimension": "sheet: 182.8 × 321.3 cm\r\nimage: 180.5 × 225.5 cm",
-    "medium": "chromogenic print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 182.8 × 321.3 cm\r\nimage: 180.5 × 225.5 cm",
+        "zh-hant": "紙本： 182.8 × 321.3 厘米\r\n圖像： 180.5 × 225.5 厘米"
+    },
+    "medium": {
+        "en": "chromogenic print",
+        "zh-hant": "彩色照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 3006,
-            "role": "Photographer"
+            "role": {
+                "en": "Photographer",
+                "zh-hant": "攝影師"
+            }
         }
     ],
     "images": [

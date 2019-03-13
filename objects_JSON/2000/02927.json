@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1426",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Paris Riots",
     "titleOther": "巴黎騷亂",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2005,
     "endDate": 2005,
-    "dimension": "overall (open): 329 × 82 × 3.5 cm\r\r\nimage: 272.8 × 69.3 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall (open): 329 × 82 × 3.5 cm\r\r\nimage: 272.8 × 69.3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 603,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1313",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "1990-18",
     "titleOther": null,
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1990,
     "endDate": 1990,
-    "dimension": "frame: 166.2 × 136.1 cm\r\r\noverall: 159.6 × 131.2 cm",
-    "medium": "acrylic on canvas",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "frame: 166.2 × 136.1 cm\r\r\noverall: 159.6 × 131.2 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "acrylic on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 559,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

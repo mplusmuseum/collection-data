@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.663",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Procedure of \"Ask  First, Shoot Later\": About \"X?\"",
-    "titleOther": "先奏后斩的程序-关于《X？》",
-    "displayDate": "1987",
-    "displayDateOther": null,
+    "title": {
+        "en": "先奏后斩的程序-关于《X？》",
+        "zh-hant": "Procedure of \"Ask  First, Shoot Later\": About \"X?\""
+    },
+    "displayDate": {
+        "en": "1987",
+        "zh-hant": null
+    },
     "beginDate": 1987,
     "endDate": 1987,
-    "dimension": "each (approx.): 26.5 × 19 cm",
-    "medium": "ballpen on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "each (approx.): 26.5 × 19 cm",
+        "zh-hant": "各 （約）: 26.5 × 19 厘米"
+    },
+    "medium": {
+        "en": "ballpen on paper",
+        "zh-hant": "原子筆紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 584,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

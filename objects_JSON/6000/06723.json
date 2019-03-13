@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.758",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": "版畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "September 11, 1973",
-    "titleOther": "1973年9月11日",
-    "displayDate": "1974",
-    "displayDateOther": null,
+    "title": {
+        "en": "1973年9月11日",
+        "zh-hant": "September 11, 1973"
+    },
+    "displayDate": {
+        "en": "1974",
+        "zh-hant": null
+    },
     "beginDate": 1974,
     "endDate": 1974,
-    "dimension": "frame: 45.2 × 74.7 × 4.5 cm\r\r\nimage (Sight): 42 × 97 cm",
-    "medium": "pigment print",
-    "creditLine": "M+, Hong Kong. Gift of the Artist in honour of Dr. Lars Nittve, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "frame: 45.2 × 74.7 × 4.5 cm\r\r\nimage (Sight): 42 × 97 cm",
+        "zh-hant": "連框：45.2 × 74.7 × 4.5 厘米\r\n圖像 （目測量度）：42 × 97厘米"
+    },
+    "medium": {
+        "en": "pigment print",
+        "zh-hant": "噴墨打印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of the Artist in honour of Dr. Lars Nittve, 2016",
+        "zh-hant": "M+，香港，藝術家向李立偉博士致意的捐贈，2016年"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

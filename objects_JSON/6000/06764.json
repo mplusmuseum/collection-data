@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.153",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Chungking Express, poster",
-    "titleOther": "《重慶森林》海報",
-    "displayDate": "1994",
-    "displayDateOther": null,
+    "title": {
+        "en": "《重慶森林》海報",
+        "zh-hant": "Chungking Express, poster"
+    },
+    "displayDate": {
+        "en": "1994",
+        "zh-hant": null
+    },
     "beginDate": 1994,
     "endDate": 1994,
-    "dimension": "sheet: 72.8 × 103 cm",
-    "medium": "offset lithograph",
-    "creditLine": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2017",
+    "dimension": {
+        "en": "sheet: 72.8 × 103 cm",
+        "zh-hant": "紙本: 72.8 × 103 厘米"
+    },
+    "medium": {
+        "en": "offset lithograph",
+        "zh-hant": "柯式石印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2017",
+        "zh-hant": "M+，香港，又一山人（黃炳培）捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 17,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

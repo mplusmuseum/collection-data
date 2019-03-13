@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.977",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Living Elsewhere",
     "titleOther": "生活在別處",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1999,
     "endDate": 1999,
-    "dimension": "duration: 39 min. 42 sec.",
-    "medium": "videotape (colour, sound)",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 39 min. 42 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "videotape (colour, sound)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

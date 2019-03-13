@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/9",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Translation of poem, 'An Old Man on the River Bank', by Giorgos Seferis",
-    "titleOther": "《An Old Man on the River Bank》，喬治·塞菲里斯詩作英譯本",
-    "displayDate": "[circa 1971]",
-    "displayDateOther": null,
+    "title": {
+        "en": "《An Old Man on the River Bank》，喬治·塞菲里斯詩作英譯本",
+        "zh-hant": "Translation of poem, 'An Old Man on the River Bank', by Giorgos Seferis"
+    },
+    "displayDate": {
+        "en": "[circa 1971]",
+        "zh-hant": null
+    },
     "beginDate": 1971,
     "endDate": 1973,
-    "dimension": "sheet: 27.6 x 21.3 cm",
-    "medium": "printing ink and typewriter ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 27.6 x 21.3 cm",
+        "zh-hant": "sheet: 27.6 x 21.3 cm"
+    },
+    "medium": {
+        "en": "printing ink and typewriter ink on paper",
+        "zh-hant": "printing ink and typewriter ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

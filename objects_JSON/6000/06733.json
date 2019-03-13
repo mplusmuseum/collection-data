@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.373",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Rattan chair",
-    "titleOther": "籐椅",
-    "displayDate": "designed circa 1954, made 1950s–1960s",
-    "displayDateOther": "約1954年設計，1950至1960年代製造",
+    "title": {
+        "en": "籐椅",
+        "zh-hant": "Rattan chair"
+    },
+    "displayDate": {
+        "en": "約1954年設計，1950至1960年代製造",
+        "zh-hant": "designed circa 1954, made 1950s–1960s"
+    },
     "beginDate": 1952,
     "endDate": 1969,
-    "dimension": "overall: 51 × 52 × 46 cm",
-    "medium": "rattan, plastic, and iron",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 51 × 52 × 46 cm",
+        "zh-hant": "整體: 51 × 52 × 46 厘米"
+    },
+    "medium": {
+        "en": "rattan, plastic, and iron",
+        "zh-hant": "籐、塑膠、鐵"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1519,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

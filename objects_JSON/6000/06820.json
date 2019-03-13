@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.484",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled",
-    "titleOther": "無題",
-    "displayDate": "1970s",
-    "displayDateOther": "1970年代",
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "1970年代",
+        "zh-hant": "1970s"
+    },
     "beginDate": 1970,
     "endDate": 1979,
-    "dimension": "sheet: 36.5 × 37.9 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Chiu Wai-Yee, 2016",
+    "dimension": {
+        "en": "sheet: 36.5 × 37.9 cm",
+        "zh-hant": "紙本: 36.5 × 37.9 厘米"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "水墨紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Chiu Wai-Yee, 2016",
+        "zh-hant": "M+，香港，趙慧儀捐贈，2016年"
+    },
     "constituents": [
         {
             "id": 1537,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

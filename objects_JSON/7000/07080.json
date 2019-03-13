@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.60",
     "classification": {
-        "area": "Visual Art",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Convention for the Exchange of Goods, poster",
-    "titleOther": "《物資交流大會》海報",
-    "displayDate": "1974–1979",
-    "displayDateOther": null,
+    "title": {
+        "en": "《物資交流大會》海報",
+        "zh-hant": "Convention for the Exchange of Goods, poster"
+    },
+    "displayDate": {
+        "en": "1974–1979",
+        "zh-hant": null
+    },
     "beginDate": 1974,
     "endDate": 1979,
-    "dimension": "sheet: 53.7 × 78 cm",
-    "medium": "colour lithograph on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 53.7 × 78 cm",
+        "zh-hant": "紙本: 53.7 × 78 厘米"
+    },
+    "medium": {
+        "en": "colour lithograph on paper",
+        "zh-hant": "彩色平板印刷紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1530,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

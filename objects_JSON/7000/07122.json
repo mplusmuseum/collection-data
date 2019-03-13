@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.55",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Anica card phone, model A11 Mini",
-    "titleOther": "Anica A11型卡片手機",
-    "displayDate": "2016",
-    "displayDateOther": null,
+    "title": {
+        "en": "Anica A11型卡片手機",
+        "zh-hant": "Anica card phone, model A11 Mini"
+    },
+    "displayDate": {
+        "en": "2016",
+        "zh-hant": null
+    },
     "beginDate": 2016,
     "endDate": 2016,
-    "dimension": "overall (phone): 1.2 × 6.8 × 13.8 cm",
-    "medium": "plastic, electronic parts, and LED",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (phone): 1.2 × 6.8 × 13.8 cm",
+        "zh-hant": "整體 (電話): 1.2 × 6.8 × 13.8 厘米"
+    },
+    "medium": {
+        "en": "plastic, electronic parts, and LED",
+        "zh-hant": "塑膠、電子零件、LED 燈"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1709,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [],

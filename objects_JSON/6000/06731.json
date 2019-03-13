@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.691",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The Century with Mushroom Clouds: Project for the 20th Century (Photo Documentation)",
-    "titleOther": "二十世紀項目：有蘑菇雲的世紀（照片記錄）",
-    "displayDate": "2007",
-    "displayDateOther": null,
+    "title": {
+        "en": "二十世紀項目：有蘑菇雲的世紀（照片記錄）",
+        "zh-hant": "The Century with Mushroom Clouds: Project for the 20th Century (Photo Documentation)"
+    },
+    "displayDate": {
+        "en": "2007",
+        "zh-hant": null
+    },
     "beginDate": 2007,
     "endDate": 2007,
-    "dimension": "image: 60.1 × 85 cm\r\r\nsheet: 64.5 × 91.5 cm",
-    "medium": "color inkjet print on archival paper",
-    "creditLine": "M+, Hong Kong. Gift of Ms Chen Ai-Gan, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "image: 60.1 × 85 cm\r\r\nsheet: 64.5 × 91.5 cm",
+        "zh-hant": "圖像: 60.1 × 85 厘米  紙本: 64.5 × 91.5 厘米"
+    },
+    "medium": {
+        "en": "color inkjet print on archival paper",
+        "zh-hant": "彩色噴墨無酸紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Ms Chen Ai-Gan, 2016",
+        "zh-hant": "M+，香港，陳愛柑女士捐贈，2016年"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

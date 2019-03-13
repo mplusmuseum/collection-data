@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA15/3/9",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Aerial photograph, site (phase 1) under construction, Hong Kong University of Science and Technology (1987–1993), Hong Kong",
-    "titleOther": "香港科技大學（1987至1993年）工地（第一期）施工鳥瞰照片",
-    "displayDate": "[circa 1990]",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港科技大學（1987至1993年）工地（第一期）施工鳥瞰照片",
+        "zh-hant": "Aerial photograph, site (phase 1) under construction, Hong Kong University of Science and Technology (1987–1993), Hong Kong"
+    },
+    "displayDate": {
+        "en": "[circa 1990]",
+        "zh-hant": null
+    },
     "beginDate": 1988,
     "endDate": 1992,
-    "dimension": "sheet: 27.8 x 35.3 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+, Hong Kong. Gift of Simon Kwan & Associates Limited, 2014",
+    "dimension": {
+        "en": "sheet: 27.8 x 35.3 cm",
+        "zh-hant": "sheet: 27.8 x 35.3 cm"
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": "chromogenic colour print"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Simon Kwan & Associates Limited, 2014",
+        "zh-hant": "M+，香港，關善明建築師事務所捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 63,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [],

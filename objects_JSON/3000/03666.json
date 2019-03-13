@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2014.64",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Tension—IX",
     "titleOther": "張力之九",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1969,
     "endDate": 1969,
-    "dimension": "overall (sight): 65.5 × 66 cm",
-    "medium": "acrylic on canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (sight): 65.5 × 66 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "acrylic on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

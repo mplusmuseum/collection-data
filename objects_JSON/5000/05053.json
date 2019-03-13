@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.377",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": "裝置藝術"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Black Triangle",
-    "titleOther": "黑三角",
-    "displayDate": "2014",
-    "displayDateOther": null,
+    "title": {
+        "en": "黑三角",
+        "zh-hant": "Black Triangle"
+    },
+    "displayDate": {
+        "en": "2014",
+        "zh-hant": null
+    },
     "beginDate": 2014,
     "endDate": 2014,
-    "dimension": "overall (each): 240 × 240 × 240 cm",
-    "medium": "black aquarium sand, triangular panels, and copper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (each): 240 × 240 × 240 cm",
+        "zh-hant": "整體 (各): 240 × 240 × 240 厘米"
+    },
+    "medium": {
+        "en": "black aquarium sand, triangular panels, and copper",
+        "zh-hant": "黑色水槽沙、三角板、銅"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1044,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

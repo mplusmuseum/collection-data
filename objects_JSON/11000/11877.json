@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA21/2/12",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "File"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "File",
+            "zh-hant": "案卷"
+        }
     },
-    "title": "Set of copy drawings, Yokohama Floating Parking, Yokohama, Japan",
-    "titleOther": "日本橫濱水上停車場繪圖複本",
-    "displayDate": "[circa 1991]",
-    "displayDateOther": null,
+    "title": {
+        "en": "日本橫濱水上停車場繪圖複本",
+        "zh-hant": "Set of copy drawings, Yokohama Floating Parking, Yokohama, Japan"
+    },
+    "displayDate": {
+        "en": "[circa 1991]",
+        "zh-hant": null
+    },
     "beginDate": 1991,
     "endDate": 1991,
-    "dimension": "6 items",
-    "medium": "photocopy and marker on paper",
-    "creditLine": "M+, Hong Kong. Gift of Gaetano Pesce, 2014",
-    "constituents": null,
+    "dimension": {
+        "en": "6 items",
+        "zh-hant": "6 items"
+    },
+    "medium": {
+        "en": "photocopy and marker on paper",
+        "zh-hant": "photocopy and marker on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Gaetano Pesce, 2014",
+        "zh-hant": "M+，香港，Gaetano Pesce捐贈，2014年"
+    },
+    "constituents": [],
     "images": null,
     "color": {
         "predominant": null,

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.162",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Katsuhiko Narita, The 10th Tokyo Biennale '70 -- Between Man and Matter, Tokyo Metropolitan Art Museum, May, 1970",
     "titleOther": "成田克彥，1970年5月東京都美術館「1970年第十屆東京雙年展──人與物質」",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1970,
     "endDate": 1970,
-    "dimension": "overall (mounted): 23.1 × 26.5 cm\r\r\nimage: 20.4 × 20.4 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (mounted): 23.1 × 26.5 cm\r\r\nimage: 20.4 × 20.4 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Monochrome photograph of thick, dark railway ties lying side-by-side on the wooden floor of a gallery space, backed by a pegboard wall."

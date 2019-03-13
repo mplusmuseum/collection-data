@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.381",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "One Manipulates into Two, Two Integrates into One No.4",
-    "titleOther": "一分為二，二合為一",
-    "displayDate": "2013",
-    "displayDateOther": null,
+    "title": {
+        "en": "一分為二，二合為一",
+        "zh-hant": "One Manipulates into Two, Two Integrates into One No.4"
+    },
+    "displayDate": {
+        "en": "2013",
+        "zh-hant": null
+    },
     "beginDate": 2013,
     "endDate": 2013,
-    "dimension": "overall: 240 × 206 × 4.5 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 240 × 206 × 4.5 cm",
+        "zh-hant": "整體: 240 × 206 × 4.5 厘米"
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": "油彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 603,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

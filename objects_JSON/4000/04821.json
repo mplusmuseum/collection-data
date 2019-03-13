@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.313",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Field of Lines No. 1",
     "titleOther": "線場1",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2013,
     "endDate": 2013,
-    "dimension": "sheet: 500 × 626 cm",
-    "medium": "ink and acrylic on rice paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 500 × 626 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink and acrylic on rice paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": [

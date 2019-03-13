@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.589",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Found New Species Tamagotchi portable game device",
-    "titleOther": "Tamagotchi發現新物種系列掌上遊戲機",
-    "displayDate": "1988",
-    "displayDateOther": null,
+    "title": {
+        "en": "Tamagotchi發現新物種系列掌上遊戲機",
+        "zh-hant": "Found New Species Tamagotchi portable game device"
+    },
+    "displayDate": {
+        "en": "1988",
+        "zh-hant": null
+    },
     "beginDate": 1996,
     "endDate": 1996,
-    "dimension": "each: 20.1 × 10.1 × 2.3 cm",
-    "medium": "metal, plastic, and electronic parts",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "each: 20.1 × 10.1 × 2.3 cm",
+        "zh-hant": "各： 20.1 × 10.1 × 2.3 厘米"
+    },
+    "medium": {
+        "en": "metal, plastic, and electronic parts",
+        "zh-hant": "金屬、塑膠、電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

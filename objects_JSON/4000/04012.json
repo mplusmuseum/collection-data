@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.537",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Voyeuristic Machine",
     "titleOther": "偷窺機器",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1975,
     "endDate": 1975,
-    "dimension": "image size: 73 × 91 × 2.5 cm\r\r\nframe: 75.5 × 93.5 × 3 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "image size: 73 × 91 × 2.5 cm\r\r\nframe: 75.5 × 93.5 × 3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

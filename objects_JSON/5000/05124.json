@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2015.289",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Cabinet for Mill Owners' Association Building, Ahmedabad, India, model LC-AH-08-A",
-    "titleOther": "紡織工會大廈 LC-AH-08-A型木櫃 （印度阿美達巴德）",
-    "displayDate": "1953–1954",
-    "displayDateOther": null,
+    "title": {
+        "en": "紡織工會大廈 LC-AH-08-A型木櫃 （印度阿美達巴德）",
+        "zh-hant": "Cabinet for Mill Owners' Association Building, Ahmedabad, India, model LC-AH-08-A"
+    },
+    "displayDate": {
+        "en": "1953–1954",
+        "zh-hant": null
+    },
     "beginDate": 1953,
     "endDate": 1954,
-    "dimension": "overall: 226.5 × 205.3 × 46.2 cm",
-    "medium": "teak, birch-veneered wood, and ebonised wood",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 226.5 × 205.3 × 46.2 cm",
+        "zh-hant": "整體: 226.5 × 205.3 × 46.2 厘米"
+    },
+    "medium": {
+        "en": "teak, birch-veneered wood, and ebonised wood",
+        "zh-hant": "柚木、樺皮木、烏檀木"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1103,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
             "id": 963,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

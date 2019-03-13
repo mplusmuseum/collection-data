@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1369",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Water: Standard Version from the Cihai Dictionary",
     "titleOther": "水–– 《辭海》標準版",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1991,
     "endDate": 1991,
-    "dimension": "duration: 9 min. 35 sec.",
-    "medium": "video (colour, sound)",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "duration: 9 min. 35 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "video (colour, sound)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 584,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

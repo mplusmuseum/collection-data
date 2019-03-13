@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1364",
     "classification": {
-        "area": "Visual Art",
-        "category": "Textile",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Textile",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Soft Archive (letter to the WWF)",
     "titleOther": "軟檔案：致WWF",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1997,
     "endDate": 1997,
-    "dimension": "overall: 104 × 151 × 7 cm",
-    "medium": "cotton quilting and cotton cord",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 104 × 151 × 7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "cotton quilting and cotton cord",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 581,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

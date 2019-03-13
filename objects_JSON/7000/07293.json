@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.535",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "My First Sony stereo CD player, model D-5500",
-    "titleOther": "my first Sony立體聲CD機，D-5500型",
-    "displayDate": "1996",
-    "displayDateOther": null,
+    "title": {
+        "en": "my first Sony立體聲CD機，D-5500型",
+        "zh-hant": "My First Sony stereo CD player, model D-5500"
+    },
+    "displayDate": {
+        "en": "1996",
+        "zh-hant": null
+    },
     "beginDate": 1988,
     "endDate": 1988,
-    "dimension": "overall: 15 × 40.8 × 27 cm",
-    "medium": "plastic and electronic parts",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 15 × 40.8 × 27 cm",
+        "zh-hant": "整體： 15 × 40.8 × 27 厘米"
+    },
+    "medium": {
+        "en": "plastic and electronic parts",
+        "zh-hant": "塑膠、電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1600,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

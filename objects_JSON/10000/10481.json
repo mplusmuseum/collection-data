@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA19/1/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Poster",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Poster, Club 21 + WERK: Installation, 2003",
-    "titleOther": "2003年「Club 21 + WERK: Installation」海報",
-    "displayDate": "2003",
-    "displayDateOther": null,
+    "title": {
+        "en": "2003年「Club 21 + WERK: Installation」海報",
+        "zh-hant": "Poster, Club 21 + WERK: Installation, 2003"
+    },
+    "displayDate": {
+        "en": "2003",
+        "zh-hant": null
+    },
     "beginDate": 2003,
     "endDate": 2003,
-    "dimension": "sheet: 98.5 x 68.4 cm",
-    "medium": "offset lithograph on paper",
-    "creditLine": "M+, Hong Kong. Gift of WORK, 2014",
+    "dimension": {
+        "en": "sheet: 98.5 x 68.4 cm",
+        "zh-hant": "sheet: 98.5 x 68.4 cm"
+    },
+    "medium": {
+        "en": "offset lithograph on paper",
+        "zh-hant": "offset lithograph on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of WORK, 2014",
+        "zh-hant": "M+，香港，WORK捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 846,
-            "role": "Design Firm"
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
         },
         {
             "id": 1302,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": null,

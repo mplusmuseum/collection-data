@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA39/2/25",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "File"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "File",
+            "zh-hant": "案卷"
+        }
     },
-    "title": "Project file, Temple Emeth (1956–1968), Teaneck, New Jersey, USA",
-    "titleOther": "美國新澤西州提內克Temple Emeth（1956至1968年）項目文件",
-    "displayDate": "1968",
-    "displayDateOther": null,
+    "title": {
+        "en": "美國新澤西州提內克Temple Emeth（1956至1968年）項目文件",
+        "zh-hant": "Project file, Temple Emeth (1956–1968), Teaneck, New Jersey, USA"
+    },
+    "displayDate": {
+        "en": "1968",
+        "zh-hant": null
+    },
     "beginDate": 1968,
     "endDate": 1968,
-    "dimension": "5 items",
-    "medium": "printout on paper, printing ink on paper; gelatin silver print",
-    "creditLine": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
-    "constituents": null,
+    "dimension": {
+        "en": "5 items",
+        "zh-hant": "5 items"
+    },
+    "medium": {
+        "en": "printout on paper, printing ink on paper; gelatin silver print",
+        "zh-hant": "printout on paper, printing ink on paper; gelatin silver print"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
+        "zh-hant": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

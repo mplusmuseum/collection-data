@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.206",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Nobuo Sekine, Tokyo Gallery, Tokyo, March, 1973",
     "titleOther": "關根伸夫，1973年3月東京畫廊",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1973,
     "endDate": 1973,
-    "dimension": "overall (mounted): 24.4 × 19.3 cm\r\r\nimage: 24.4 × 19.3 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (mounted): 24.4 × 19.3 cm\r\r\nimage: 24.4 × 19.3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Monochrome photograph of a polished shape resembling a turtle head rising out of a rectangular block of dark, cut stone."

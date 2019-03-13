@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA4/1/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Poster",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "MAD in China: a futuristic practice and place, poster, Venice Architecture Biennale 2006, Venice, Italy",
-    "titleOther": "2006年意大利威尼斯建築雙年展「MAD在中國──一個關於未來的實踐」海報",
-    "displayDate": "September 2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "2006年意大利威尼斯建築雙年展「MAD在中國──一個關於未來的實踐」海報",
+        "zh-hant": "MAD in China: a futuristic practice and place, poster, Venice Architecture Biennale 2006, Venice, Italy"
+    },
+    "displayDate": {
+        "en": "September 2006",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2006,
-    "dimension": "sheet: 57 x 42 cm",
-    "medium": "offset lithograph on paper",
-    "creditLine": "M+, Hong Kong. Gift of MAD Architects, 2013",
+    "dimension": {
+        "en": "sheet: 57 x 42 cm",
+        "zh-hant": "sheet: 57 x 42 cm"
+    },
+    "medium": {
+        "en": "offset lithograph on paper",
+        "zh-hant": "offset lithograph on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of MAD Architects, 2013",
+        "zh-hant": "M+，香港，MAD Architects捐贈，2013年"
+    },
     "constituents": [
         {
             "id": 48,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [],

@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2018.29",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Visit Java Bali, Travellers Official Information Bureau of the Netherland Indies poster",
-    "titleOther": "來爪哇和峇里一遊",
-    "displayDate": "1930s",
-    "displayDateOther": "1930年代",
+    "title": {
+        "en": "來爪哇和峇里一遊",
+        "zh-hant": "Visit Java Bali, Travellers Official Information Bureau of the Netherland Indies poster"
+    },
+    "displayDate": {
+        "en": "1930年代",
+        "zh-hant": "1930s"
+    },
     "beginDate": 1930,
     "endDate": 1939,
-    "dimension": "frame: 64.2 × 45.7 × 4 cm\r\r\nsheet: 47.8 × 29 cm\r\r\nimage: 36.2 × 24.7 cm",
-    "medium": "photolithography on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 64.2 × 45.7 × 4 cm\r\r\nsheet: 47.8 × 29 cm\r\r\nimage: 36.2 × 24.7 cm",
+        "zh-hant": "連框: 64.2 × 45.7 × 4 厘米  紙本: 47.8 × 29 厘米  圖像: 36.2 × 24.7 厘米"
+    },
+    "medium": {
+        "en": "photolithography on paper",
+        "zh-hant": "照相石印紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1534,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
             "id": 4048,
-            "role": "Commissioned by"
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
+            }
         }
     ],
     "images": [

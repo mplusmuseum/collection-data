@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.39",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Fujian Room of the Great Hall of the People",
-    "titleOther": "人民大會堂福建廳",
-    "displayDate": "1968",
-    "displayDateOther": null,
+    "title": {
+        "en": "人民大會堂福建廳",
+        "zh-hant": "Fujian Room of the Great Hall of the People"
+    },
+    "displayDate": {
+        "en": "1968",
+        "zh-hant": null
+    },
     "beginDate": 1959,
     "endDate": 1959,
-    "dimension": "overall (mount board): 37.2 × 52.5 cm\r\nsheet: 24.6 × 35.3 cm",
-    "medium": "hand-painted colour photograph",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (mount board): 37.2 × 52.5 cm\r\nsheet: 24.6 × 35.3 cm",
+        "zh-hant": "整體 （連板）: 37.2 × 52.5 厘米 紙本: 24.6 × 35.3 厘米"
+    },
+    "medium": {
+        "en": "hand-painted colour photograph",
+        "zh-hant": "手工上色照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1675,
-            "role": "Publisher"
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
         }
     ],
     "images": [

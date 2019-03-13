@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.61",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Akari 55F",
-    "titleOther": null,
-    "displayDate": "2012",
-    "displayDateOther": "約1960年",
+    "title": {
+        "en": "Akari 55F",
+        "zh-hant": null
+    },
+    "displayDate": {
+        "en": "約1960年",
+        "zh-hant": "2012"
+    },
     "beginDate": 1958,
     "endDate": 1962,
-    "dimension": "45 × 55 cm",
-    "medium": "mulberry bark paper, bamboo, metal, and electric components",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "45 × 55 cm",
+        "zh-hant": "45 × 55 厘米"
+    },
+    "medium": {
+        "en": "mulberry bark paper, bamboo, metal, and electric components",
+        "zh-hant": "桑皮紙、竹、金屬、電子零件"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 815,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

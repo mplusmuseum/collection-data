@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.471",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Design Drawing",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Design Drawing",
+            "zh-hant": "設計繪圖"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Sketch, How High the Moon",
-    "titleOther": "「月亮有多高」草繪",
-    "displayDate": "1986",
-    "displayDateOther": null,
+    "title": {
+        "en": "「月亮有多高」草繪",
+        "zh-hant": "Sketch, How High the Moon"
+    },
+    "displayDate": {
+        "en": "1986",
+        "zh-hant": null
+    },
     "beginDate": 1986,
     "endDate": 1986,
-    "dimension": "sheet: 23.8 × 31.9 cm",
-    "medium": "ink and coloured pencil on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 23.8 × 31.9 cm",
+        "zh-hant": "紙本: 23.8 × 31.9 厘米"
+    },
+    "medium": {
+        "en": "ink and coloured pencil on paper",
+        "zh-hant": "水墨、彩色鉛筆紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 252,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

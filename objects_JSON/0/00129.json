@@ -1,24 +1,88 @@
 {
     "id": 129,
-    "sortNumber": null,
+    "sortNumber": "2012  1927",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1982,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.1927",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "象山彌陀",
+        "zh-hant": "Xiangshan Amitābha"
+    },
+    "displayDate": {
+        "en": "1950",
+        "zh-hant": null
+    },
+    "beginDate": 1950,
+    "endDate": 1950,
+    "dimension": {
+        "en": "sheet: 48.9 × 35.6 cm",
+        "zh-hant": "紙本: 48.9 × 35.6 厘米"
+    },
+    "medium": {
+        "en": "black and white print",
+        "zh-hant": "黑白沖印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#858180",
+                "value": 42.4
+            },
+            {
+                "color": "#474248",
+                "value": 16.6
+            },
+            {
+                "color": "#433F40",
+                "value": 14.2
+            },
+            {
+                "color": "#716D72",
+                "value": 13
+            },
+            {
+                "color": "#C0BCBA",
+                "value": 6
+            },
+            {
+                "color": "#716E74",
+                "value": 4.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 66
+                },
+                {
+                    "color": "black",
+                    "value": 30.7
+                }
+            ]
         }
     }
 }

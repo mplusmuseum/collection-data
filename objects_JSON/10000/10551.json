@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.25",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Poster, Hong Kong Tourist Association, Hong Kong",
-    "titleOther": "香港旅遊協會海報",
-    "displayDate": "1948",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港旅遊協會海報",
+        "zh-hant": "Poster, Hong Kong Tourist Association, Hong Kong"
+    },
+    "displayDate": {
+        "en": "1948",
+        "zh-hant": null
+    },
     "beginDate": 1969,
     "endDate": 1969,
-    "dimension": "overall: 85.7 × 55.9 cm",
-    "medium": "offset printing on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 85.7 × 55.9 cm",
+        "zh-hant": "整體： 85.7 × 55.9 厘米"
+    },
+    "medium": {
+        "en": "offset printing on paper",
+        "zh-hant": "柯式印刷紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

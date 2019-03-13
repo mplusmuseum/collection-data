@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1296",
     "classification": {
-        "area": "Visual Art",
-        "category": "Textile",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Textile",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Bomb (da bian series)",
     "titleOther": "大便系列：炸彈",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1998,
     "endDate": 1998,
-    "dimension": "overall (approx.): 47 × 70 × 39 cm",
-    "medium": "silk",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall (approx.): 47 × 70 × 39 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "silk",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 553,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

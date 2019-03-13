@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.388",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": "版畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hammer and Sickle (Special Edition)",
-    "titleOther": "錘子與鐮刀（特別版）",
-    "displayDate": "1977",
-    "displayDateOther": null,
+    "title": {
+        "en": "錘子與鐮刀（特別版）",
+        "zh-hant": "Hammer and Sickle (Special Edition)"
+    },
+    "displayDate": {
+        "en": "1977",
+        "zh-hant": null
+    },
     "beginDate": 1977,
     "endDate": 1977,
-    "dimension": "image: 76.6 × 101.6 cm",
-    "medium": "screen print on Strathmore Bristol paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "image: 76.6 × 101.6 cm",
+        "zh-hant": "圖像： 76.6 × 101.6 厘米"
+    },
+    "medium": {
+        "en": "screen print on Strathmore Bristol paper",
+        "zh-hant": "絲網印刷、Strathmore Bristol繪圖紙"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": null,

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.839",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "A one-thousand-time copy of Lantingxu",
     "titleOther": "書寫蘭亭序一千遍",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1990,
     "endDate": 1995,
-    "dimension": "overall (approx.): 276 × 105 × 1.3 cm",
-    "medium": "black and white digital prints; single-channel video (colour, sound)",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall (approx.): 276 × 105 × 1.3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "black and white digital prints; single-channel video (colour, sound)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 382,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

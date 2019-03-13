@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.81",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Winged pair II",
-    "titleOther": "天馬(二)",
-    "displayDate": "circa 1987",
-    "displayDateOther": "約1987年",
+    "title": {
+        "en": "天馬(二)",
+        "zh-hant": "Winged pair II"
+    },
+    "displayDate": {
+        "en": "約1987年",
+        "zh-hant": "circa 1987"
+    },
     "beginDate": 1985,
     "endDate": 1989,
-    "dimension": "sheet: 27.5 × 38.8 cm",
-    "medium": "acrylic on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 27.5 × 38.8 cm",
+        "zh-hant": "紙本: 27.5 × 38.8 厘米"
+    },
+    "medium": {
+        "en": "acrylic on paper",
+        "zh-hant": "塑膠彩紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1242,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

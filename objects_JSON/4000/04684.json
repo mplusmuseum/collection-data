@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.219",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Kishio Suga, The 10th Contemporary Exhibition of Japan 1971, Tokyo Metropolitan Art Museum, May, 1971",
     "titleOther": "菅木志雄，1971年 5月東京都美術館「1971年第十屆現代日本美術展」",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1971,
     "endDate": 1971,
-    "dimension": "overall (mounted): 20.5 × 25.4 cm\r\r\nimage: 19.5 × 24.3 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (mounted): 20.5 × 25.4 cm\r\r\nimage: 19.5 × 24.3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Monochrome photograph of hollow wooden poles lying in a row along a floor. A roll of barbed wire stands next to the first pole. A string of barbed wire goes from the roll, and lies atop all of the wooden poles."

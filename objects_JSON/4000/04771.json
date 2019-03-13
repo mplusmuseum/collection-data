@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.89",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Conjunction 78-7",
     "titleOther": "連接 78-7",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1978,
     "endDate": 1978,
-    "dimension": "frame: 181.3 × 121.5 cm\r\r\nimage: 179.8 × 120.5 cm",
-    "medium": "oil on hemp canvas",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "frame: 181.3 × 121.5 cm\r\r\nimage: 179.8 × 120.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on hemp canvas",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

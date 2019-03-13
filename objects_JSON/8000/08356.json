@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.817",
     "classification": {
-        "area": "Moving Image",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "All for the Winner, “You use RMB in a vending machine in Hong Kong? Are you crazy?”",
-    "titleOther": "賭聖:「用人民幣買香港汽水，你傻啦?」",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "賭聖:「用人民幣買香港汽水，你傻啦?」",
+        "zh-hant": "All for the Winner, “You use RMB in a vending machine in Hong Kong? Are you crazy?”"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "overall: 100 × 149.8 × 5 cm",
-    "medium": "enamel paint on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 100 × 149.8 × 5 cm",
+        "zh-hant": "整體: 100 × 149.8 × 5 厘米"
+    },
+    "medium": {
+        "en": "enamel paint on canvas",
+        "zh-hant": "瓷漆布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 2760,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

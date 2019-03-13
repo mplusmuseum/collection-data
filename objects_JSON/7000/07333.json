@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.413",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Jinx, in Front of Hong Kong Harbour",
-    "titleOther": "Jinx，於香港海灣",
-    "displayDate": "circa 1994",
-    "displayDateOther": "約1994年",
+    "title": {
+        "en": "Jinx，於香港海灣",
+        "zh-hant": "Jinx, in Front of Hong Kong Harbour"
+    },
+    "displayDate": {
+        "en": "約1994年",
+        "zh-hant": "circa 1994"
+    },
     "beginDate": 1992,
     "endDate": 1996,
-    "dimension": "frame: 118 × 99 × 4.1 cm\r\r\nsheet: 104 × 85 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 118 × 99 × 4.1 cm\r\r\nsheet: 104 × 85 cm",
+        "zh-hant": "連框: 118 × 99 × 4.1 厘米  紙本: 104 × 85 厘米"
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": "彩色照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1755,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

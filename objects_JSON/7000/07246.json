@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.584",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Craft Object",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Craft Object",
+            "zh-hant": "Craft Object"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hato-bue",
-    "titleOther": "鳩笛",
-    "displayDate": "1959",
-    "displayDateOther": null,
+    "title": {
+        "en": "鳩笛",
+        "zh-hant": "Hato-bue"
+    },
+    "displayDate": {
+        "en": "1959",
+        "zh-hant": null
+    },
     "beginDate": 1968,
     "endDate": 1968,
-    "dimension": "overall: 7.5 × 8 × 4.7 cm",
-    "medium": "wood",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 7.5 × 8 × 4.7 cm",
+        "zh-hant": "整體： 7.5 × 8 × 4.7 厘米"
+    },
+    "medium": {
+        "en": "wood",
+        "zh-hant": "木"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1428,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

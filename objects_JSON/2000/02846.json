@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.20",
     "classification": {
-        "area": "Visual Art",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Minions",
     "titleOther": "寵兒",
@@ -14,13 +23,25 @@
     "displayDateOther": "1979年，2005年重印",
     "beginDate": 1979,
     "endDate": 2005,
-    "dimension": "sheet (sight): 40.5 × 48.7 cm\r\nimage (sight): 34.6 × 43 cm",
-    "medium": "woodcut",
-    "creditLine": "M+ Sigg Collection, Hong Kong",
+    "dimension": {
+        "en": "sheet (sight): 40.5 × 48.7 cm\r\nimage (sight): 34.6 × 43 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "woodcut",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 333,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

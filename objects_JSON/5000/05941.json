@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.106",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Red A Plastic Crystal lamp fixture, no. 1616",
-    "titleOther": "紅A牌塑膠水晶掛燈，型號1616",
-    "displayDate": "1960s–1980s",
-    "displayDateOther": "1960至1980年代",
+    "title": {
+        "en": "紅A牌塑膠水晶掛燈，型號1616",
+        "zh-hant": "Red A Plastic Crystal lamp fixture, no. 1616"
+    },
+    "displayDate": {
+        "en": "1960至1980年代",
+        "zh-hant": "1960s–1980s"
+    },
     "beginDate": 1960,
     "endDate": 1989,
-    "dimension": "overall: 17.8 × 41 × 41 cm",
-    "medium": "polystyrene",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 17.8 × 41 × 41 cm",
+        "zh-hant": "整體: 17.8 × 41 × 41 厘米"
+    },
+    "medium": {
+        "en": "polystyrene",
+        "zh-hant": "聚苯乙烯"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 68,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

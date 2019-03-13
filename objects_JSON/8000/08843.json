@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.9",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Man and Woman #20",
-    "titleOther": "男人與女人，作品20",
-    "displayDate": "photographed 1960, printed circa 1970",
-    "displayDateOther": "1960年拍攝，約1970年代印刷",
+    "title": {
+        "en": "男人與女人，作品20",
+        "zh-hant": "Man and Woman #20"
+    },
+    "displayDate": {
+        "en": "1960年拍攝，約1970年代印刷",
+        "zh-hant": "photographed 1960, printed circa 1970"
+    },
     "beginDate": 1960,
     "endDate": 1972,
-    "dimension": "sheet: 24.5 × 30.7 cm\r\r\nimage: 24.7 × 30.4 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 24.5 × 30.7 cm\r\r\nimage: 24.7 × 30.4 cm",
+        "zh-hant": "紙本: 24.5 × 30.7 厘米  圖像: 24.7 × 30.4 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 2821,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

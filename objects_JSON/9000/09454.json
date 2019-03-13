@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2018.312",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hair Wash #1",
-    "titleOther": "洗髮#1",
-    "displayDate": "1978–1979",
-    "displayDateOther": null,
+    "title": {
+        "en": "洗髮#1",
+        "zh-hant": "Hair Wash #1"
+    },
+    "displayDate": {
+        "en": "1978–1979",
+        "zh-hant": null
+    },
     "beginDate": 1978,
     "endDate": 1979,
-    "dimension": "sheet: 25.4 × 20.3 cm\r\r\nimage: 21 × 14.3 cm",
-    "medium": "chromogenic print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 25.4 × 20.3 cm\r\r\nimage: 21 × 14.3 cm",
+        "zh-hant": "紙本: 25.4 × 20.3 厘米  圖像: 21 × 14.3 厘米"
+    },
+    "medium": {
+        "en": "chromogenic print",
+        "zh-hant": "彩色照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.316",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "How to Relax on the Plateau—How to Spend the Night on the Plateau No. 2",
     "titleOther": "高原生活指南：如何在高原度過夜晚第2號",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "frame: 48.3 × 35.4 × 3 cm\r\r\nimage (sight): 15.7 × 27.7 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "frame: 48.3 × 35.4 × 3 cm\r\r\nimage (sight): 15.7 × 27.7 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 171,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

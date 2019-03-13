@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.764",
     "classification": {
-        "area": "Moving Image",
-        "category": "Performance",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Performance",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "The Shape of History",
     "titleOther": "歷史的形狀",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "duration: 17 min. 35 sec.",
-    "medium": "video",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 17 min. 35 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "video",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Still from a performance video in which the artist stands in ankle-deep water  with a partially-submerged segment of stone column. Bending forward, he dips a finger in the water."

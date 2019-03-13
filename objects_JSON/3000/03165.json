@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.125",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Landscape",
     "titleOther": "風景",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2007,
     "endDate": 2007,
-    "dimension": "overall: 225 × 228 × 3 cm\r\r\neach: 25 × 228 × 3 cm",
-    "medium": "lacquer on wood",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 225 × 228 × 3 cm\r\r\neach: 25 × 228 × 3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "lacquer on wood",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 127,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

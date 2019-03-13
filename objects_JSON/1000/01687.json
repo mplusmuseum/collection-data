@@ -1,24 +1,108 @@
 {
     "id": 1687,
-    "sortNumber": null,
+    "sortNumber": "2013   485",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1988,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2013.485",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "藝術雞",
+        "zh-hant": "Artistic Chicken"
+    },
+    "displayDate": {
+        "en": "2002",
+        "zh-hant": null
+    },
+    "beginDate": 2002,
+    "endDate": 2002,
+    "dimension": {
+        "en": "dimensions variable",
+        "zh-hant": "尺寸不一"
+    },
+    "medium": {
+        "en": "fiberglass, resin, acrylic paint, steel armature",
+        "zh-hant": "玻璃纖維、樹脂、塑膠彩漆、鋼支架"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Guan Yi, 2013",
+        "zh-hant": "M+，香港，管藝捐贈，2013年"
+    },
+    "constituents": [
+        {
+            "id": 171,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#BEC7C4",
+                "value": 72.3
+            },
+            {
+                "color": "#7D694F",
+                "value": 6.6
+            },
+            {
+                "color": "#BDC5C7",
+                "value": 5.4
+            },
+            {
+                "color": "#78604D",
+                "value": 5
+            },
+            {
+                "color": "#83796D",
+                "value": 2.3
+            },
+            {
+                "color": "#7D7E76",
+                "value": 2.2
+            },
+            {
+                "color": "#979F9B",
+                "value": 1.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 24.3
+                },
+                {
+                    "color": "gray",
+                    "value": 83.7
+                },
+                {
+                    "color": "black",
+                    "value": 3.5
+                },
+                {
+                    "color": "brown",
+                    "value": 11.6
+                }
+            ]
         }
     }
 }

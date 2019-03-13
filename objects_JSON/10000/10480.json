@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA19/1/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Poster",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Poster, WERK: Exhibition, 2002",
-    "titleOther": "2002年「WERK: Exhibition」海報",
-    "displayDate": "2002",
-    "displayDateOther": null,
+    "title": {
+        "en": "2002年「WERK: Exhibition」海報",
+        "zh-hant": "Poster, WERK: Exhibition, 2002"
+    },
+    "displayDate": {
+        "en": "2002",
+        "zh-hant": null
+    },
     "beginDate": 2002,
     "endDate": 2002,
-    "dimension": "sheet: 98.3 × 68.8 cm",
-    "medium": "offset lithograph on paper",
-    "creditLine": "M+, Hong Kong. Gift of WORK, 2014",
+    "dimension": {
+        "en": "sheet: 98.3 × 68.8 cm",
+        "zh-hant": "sheet: 98.3 × 68.8 cm"
+    },
+    "medium": {
+        "en": "offset lithograph on paper",
+        "zh-hant": "offset lithograph on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of WORK, 2014",
+        "zh-hant": "M+，香港，WORK捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 846,
-            "role": "Design Firm"
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
         },
         {
             "id": 1302,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

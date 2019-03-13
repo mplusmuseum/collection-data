@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "CL.2014.1.4",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Book/Periodical",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Book/Periodical",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "WERK No. 4: Clean By Chaotic",
     "titleOther": "WERK第4期：潔淨卻混亂",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2001,
     "endDate": 2002,
-    "dimension": "overall: 30 × 44 × 0.4 cm",
-    "medium": "offset print on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall: 30 × 44 × 0.4 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "offset print on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

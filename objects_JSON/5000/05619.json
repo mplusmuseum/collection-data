@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2015.591",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Pseudo Diary",
-    "titleOther": "偽日記",
-    "displayDate": "1980",
-    "displayDateOther": null,
+    "title": {
+        "en": "偽日記",
+        "zh-hant": "Pseudo Diary"
+    },
+    "displayDate": {
+        "en": "1980",
+        "zh-hant": null
+    },
     "beginDate": 1980,
     "endDate": 1980,
-    "dimension": "sheet (each): 35.6 × 43.2 cm\r\r\nimage (each): 27.5 × 40.6 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet (each): 35.6 × 43.2 cm\r\r\nimage (each): 27.5 × 40.6 cm",
+        "zh-hant": "紙本 (各): 35.6 × 43.2 厘米  圖像 (各): 27.5 × 40.6 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1151,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2016.447",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Furniture",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Furniture",
+            "zh-hant": "家具"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Low Chair, model 5016",
-    "titleOther": "低座椅子，5016型",
-    "displayDate": "designed 1957, made 1960",
-    "displayDateOther": "1957年設計，1961年製造",
+    "title": {
+        "en": "低座椅子，5016型",
+        "zh-hant": "Low Chair, model 5016"
+    },
+    "displayDate": {
+        "en": "1957年設計，1961年製造",
+        "zh-hant": "designed 1957, made 1960"
+    },
     "beginDate": 1957,
     "endDate": 1960,
-    "dimension": "overall (chair 1): 65.5 × 54.5 × 67 cm\r\r\noverall (chair 2): 65.5 × 55.5 × 68 cm",
-    "medium": "teak-veneered plywood and fabric",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (chair 1): 65.5 × 54.5 × 67 cm\r\r\noverall (chair 2): 65.5 × 55.5 × 68 cm",
+        "zh-hant": "整體 (椅一): 65.5 × 54.5 × 67 厘米\r\r\n整體 (椅二): 65.5 × 55.5 × 68 厘米"
+    },
+    "medium": {
+        "en": "teak-veneered plywood and fabric",
+        "zh-hant": "柚木皮夾板、布料"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1751,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
             "id": 1033,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1481",
     "classification": {
-        "area": "Visual Art",
-        "category": "Drawing",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Drawing",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Found a Dinosaur During the Earthquake Rescue",
     "titleOther": "地震救援過程中發現一隻恐龍",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2009,
     "endDate": 2009,
-    "dimension": "frame: 81.2 × 113.2 × 3.7 cm\r\r\nimage (sight): 76 × 107.8 cm",
-    "medium": "charcoal on paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "frame: 81.2 × 113.2 × 3.7 cm\r\r\nimage (sight): 76 × 107.8 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "charcoal on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 610,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

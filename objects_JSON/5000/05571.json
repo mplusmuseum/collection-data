@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2016.316",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Orinoco, prototype",
-    "titleOther": "奧里諾科，原型",
-    "displayDate": "1981",
-    "displayDateOther": null,
+    "title": {
+        "en": "奧里諾科，原型",
+        "zh-hant": "Orinoco, prototype"
+    },
+    "displayDate": {
+        "en": "1981",
+        "zh-hant": null
+    },
     "beginDate": 1981,
     "endDate": 1981,
-    "dimension": "overall: 28 × 15 × 14.5 cm",
-    "medium": "glass",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 28 × 15 × 14.5 cm",
+        "zh-hant": "整體: 28 × 15 × 14.5 厘米"
+    },
+    "medium": {
+        "en": "glass",
+        "zh-hant": "玻璃"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1162,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
             "id": 1300,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [

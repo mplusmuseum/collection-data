@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.286",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "The Excuses. a7",
-    "titleOther": "藉故.a7",
-    "displayDate": "2005–2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "藉故.a7",
+        "zh-hant": "The Excuses. a7"
+    },
+    "displayDate": {
+        "en": "2005–2006",
+        "zh-hant": null
+    },
     "beginDate": 2005,
     "endDate": 2006,
-    "dimension": "overall (sight): 10.8 × 8.9 cm\r\r\nimage (sight): 7.9 × 7.7 cm",
-    "medium": "instant print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (sight): 10.8 × 8.9 cm\r\r\nimage (sight): 7.9 × 7.7 cm",
+        "zh-hant": "整體 （目測量度）: 10.8 × 8.9 厘米  圖像 （目測量度）: 7.9 × 7.7 厘米"
+    },
+    "medium": {
+        "en": "instant print",
+        "zh-hant": "即影即有照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1625,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

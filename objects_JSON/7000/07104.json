@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2017.409",
     "classification": {
-        "area": "Visual Art",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Start the Patriotic Production Competition, Increase Production to Strengthen the Power to Protect the Nation, poster",
-    "titleOther": "《開展愛國主義生產競賽，生產量就是加強保衛祖國力量》海報",
-    "displayDate": "1951",
-    "displayDateOther": null,
+    "title": {
+        "en": "《開展愛國主義生產競賽，生產量就是加強保衛祖國力量》海報",
+        "zh-hant": "Start the Patriotic Production Competition, Increase Production to Strengthen the Power to Protect the Nation, poster"
+    },
+    "displayDate": {
+        "en": "1951",
+        "zh-hant": null
+    },
     "beginDate": 1951,
     "endDate": 1951,
-    "dimension": "overall: 78.2 × 57.4 cm",
-    "medium": "offset lithograph",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 78.2 × 57.4 cm",
+        "zh-hant": "整體: 78.2 × 57.4 厘米"
+    },
+    "medium": {
+        "en": "offset lithograph",
+        "zh-hant": "柯式石印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1688,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         },
         {
             "id": 1675,
-            "role": "Publisher"
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
         }
     ],
     "images": [

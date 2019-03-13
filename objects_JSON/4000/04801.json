@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.51",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Peaks of Lenin",
     "titleOther": "列寧之巔",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2013,
     "endDate": 2013,
-    "dimension": "overall (2015.51.1): 50.1 × 50.1 × 45 cm\r\r\noverall (2015.51.2): 47.5 × 50.5 × 62.5 cm\r\r\noverall (2015.51.3): 80 × 51.5 × 80 cm",
-    "medium": "enameled metal basins and light filters",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (2015.51.1): 50.1 × 50.1 × 45 cm\r\r\noverall (2015.51.2): 47.5 × 50.5 × 62.5 cm\r\r\noverall (2015.51.3): 80 × 51.5 × 80 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "enameled metal basins and light filters",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

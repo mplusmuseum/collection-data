@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.301",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Raise the Red Lantern",
-    "titleOther": "大紅燈籠高高掛",
-    "displayDate": "1995",
-    "displayDateOther": null,
+    "title": {
+        "en": "大紅燈籠高高掛",
+        "zh-hant": "Raise the Red Lantern"
+    },
+    "displayDate": {
+        "en": "1995",
+        "zh-hant": null
+    },
     "beginDate": 1995,
     "endDate": 1995,
-    "dimension": "frame: 35.5 × 33 × 2 cm\r\r\nimage (sight): 27.5 × 25.1 cm",
-    "medium": "instant print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 35.5 × 33 × 2 cm\r\r\nimage (sight): 27.5 × 25.1 cm",
+        "zh-hant": "框架: 35.5 × 33 × 2 厘米\r\n圖像 (目測量度): 27.5 × 25.1 厘米"
+    },
+    "medium": {
+        "en": "instant print",
+        "zh-hant": "即影即有照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1627,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA35/2/4",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Photograph, Statue Square (1965–1966) with former Hongkong and Shanghai Banking Corporation (HSBC) headquarters building in the background, Hong Kong",
-    "titleOther": "香港皇后像廣場（1956至1966年）照片，背景為前香港上海滙豐銀行總部大樓",
-    "displayDate": "[1966]",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港皇后像廣場（1956至1966年）照片，背景為前香港上海滙豐銀行總部大樓",
+        "zh-hant": "Photograph, Statue Square (1965–1966) with former Hongkong and Shanghai Banking Corporation (HSBC) headquarters building in the background, Hong Kong"
+    },
+    "displayDate": {
+        "en": "[1966]",
+        "zh-hant": null
+    },
     "beginDate": 1966,
     "endDate": 1966,
-    "dimension": "sheet: 17 x 23.4 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+    "dimension": {
+        "en": "sheet: 17 x 23.4 cm",
+        "zh-hant": "sheet: 17 x 23.4 cm"
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": "chromogenic colour print"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+        "zh-hant": "M+，香港，Alan Fitch家族捐赠，2014年"
+    },
     "constituents": [
         {
             "id": 814,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         },
         {
             "id": 1348,
-            "role": "Architectural Firm"
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
     "images": [

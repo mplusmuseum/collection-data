@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.233",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Like the eternal orbiting of the Heavens that fortify the man of principles, I shall fortify myself without cease",
-    "titleOther": "天行健君子自強不息",
-    "displayDate": "1990",
-    "displayDateOther": null,
+    "title": {
+        "en": "天行健君子自強不息",
+        "zh-hant": "Like the eternal orbiting of the Heavens that fortify the man of principles, I shall fortify myself without cease"
+    },
+    "displayDate": {
+        "en": "1990",
+        "zh-hant": null
+    },
     "beginDate": 1990,
     "endDate": 1990,
-    "dimension": "overall (approx): 136.5 × 252.6 × 4.3 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (approx): 136.5 × 252.6 × 4.3 cm",
+        "zh-hant": "整體約: 136.5 × 252.6 × 4.3 厘米"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "水墨紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1624,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

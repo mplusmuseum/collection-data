@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA8/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Series"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Series",
+            "zh-hant": "系列"
+        }
     },
-    "title": "Drawings, Interdenominational Chapel (1967–1969), Tuskegee Institute, Tuskegee, Alabama, USA",
-    "titleOther": "美國阿拉巴馬州塔斯基吉學院小教堂（1967至1969年）繪圖",
-    "displayDate": "[circa 1960]",
-    "displayDateOther": null,
+    "title": {
+        "en": "美國阿拉巴馬州塔斯基吉學院小教堂（1967至1969年）繪圖",
+        "zh-hant": "Drawings, Interdenominational Chapel (1967–1969), Tuskegee Institute, Tuskegee, Alabama, USA"
+    },
+    "displayDate": {
+        "en": "[circa 1960]",
+        "zh-hant": null
+    },
     "beginDate": 1958,
     "endDate": 1965,
-    "dimension": "10 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "10 items",
+        "zh-hant": "10 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 389,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

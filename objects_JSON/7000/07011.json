@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.257",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Work",
-    "titleOther": "作品",
-    "displayDate": "1964",
-    "displayDateOther": null,
+    "title": {
+        "en": "作品",
+        "zh-hant": "Work"
+    },
+    "displayDate": {
+        "en": "1964",
+        "zh-hant": null
+    },
     "beginDate": 1964,
     "endDate": 1964,
-    "dimension": "459.5 × 350 cm",
-    "medium": "sumi ink on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "459.5 × 350 cm",
+        "zh-hant": "459.5 × 350 厘米"
+    },
+    "medium": {
+        "en": "sumi ink on paper",
+        "zh-hant": "日本墨紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1638,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

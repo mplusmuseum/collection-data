@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA10/2/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Photography",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Photography",
+            "zh-hant": "建築照片"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Slide, perspective view, Star Ferry Car Park (1957), Hong Kong",
-    "titleOther": "香港天星碼頭停車場（1957年）透視角度幻燈片",
-    "displayDate": "[1957]",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港天星碼頭停車場（1957年）透視角度幻燈片",
+        "zh-hant": "Slide, perspective view, Star Ferry Car Park (1957), Hong Kong"
+    },
+    "displayDate": {
+        "en": "[1957]",
+        "zh-hant": null
+    },
     "beginDate": 1957,
     "endDate": 1957,
-    "dimension": "sheet: 5 x 5 cm",
-    "medium": "black-and-white slide",
-    "creditLine": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2014",
+    "dimension": {
+        "en": "sheet: 5 x 5 cm",
+        "zh-hant": "sheet: 5 x 5 cm"
+    },
+    "medium": {
+        "en": "black-and-white slide",
+        "zh-hant": "black-and-white slide"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2014",
+        "zh-hant": "M+，香港，鍾華楠建築師有限公司捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 814,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
     "images": null,

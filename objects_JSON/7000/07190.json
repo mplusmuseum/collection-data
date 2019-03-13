@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.260",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Point Reyes n°2 California",
-    "titleOther": "加州雷斯岬二號",
-    "displayDate": "1989",
-    "displayDateOther": null,
+    "title": {
+        "en": "加州雷斯岬二號",
+        "zh-hant": "Point Reyes n°2 California"
+    },
+    "displayDate": {
+        "en": "1989",
+        "zh-hant": null
+    },
     "beginDate": 1989,
     "endDate": 1989,
-    "dimension": "folded: 16 × 9.5 cm\r\r\nopened full length: 195 cm",
-    "medium": "ink on paper, leporello",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "folded: 16 × 9.5 cm\r\r\nopened full length: 195 cm",
+        "zh-hant": "合上：16 × 9.5厘米\r\n打開：195厘米"
+    },
+    "medium": {
+        "en": "ink on paper, leporello",
+        "zh-hant": "水墨紙本摺頁冊"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Leporello made of white paper depicting intertwining strokes of black ink of varying thickness, resembling cursive script."

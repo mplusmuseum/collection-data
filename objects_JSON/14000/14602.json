@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/2/17/4",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Archival Documentation",
-        "archivalLevel": "File"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Archival Documentation",
+            "zh-hant": "檔存文件"
+        },
+        "archivalLevel": {
+            "en": "File",
+            "zh-hant": "案卷"
+        }
     },
-    "title": "Negatives, document titled Selene, Monument to Man's Conquest of the Moon, USA",
-    "titleOther": "美國登陸月球紀念碑計劃案文件負片，文件標題為「月神茜莉妮」",
-    "displayDate": "[1980s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "美國登陸月球紀念碑計劃案文件負片，文件標題為「月神茜莉妮」",
+        "zh-hant": "Negatives, document titled Selene, Monument to Man's Conquest of the Moon, USA"
+    },
+    "displayDate": {
+        "en": "[1980s]",
+        "zh-hant": null
+    },
     "beginDate": 1975,
     "endDate": 1984,
-    "dimension": "2 items",
-    "medium": "black-and-white negative",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "2 items",
+        "zh-hant": "2 items"
+    },
+    "medium": {
+        "en": "black-and-white negative",
+        "zh-hant": "black-and-white negative"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

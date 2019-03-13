@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.187",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Susumu Koshimizu, The 10th Contemporary Exhibition of Japan 1971, Tokyo Metropolitan Art Museum, May, 1971",
     "titleOther": "小清水漸，1971年 5月東京都美術館「1971年第十屆現代日本美術展」",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1971,
     "endDate": 1971,
-    "dimension": "overall (mounted): 25.4 × 15.4 cm\r\r\nimage: 19.8 × 13.4 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (mounted): 25.4 × 15.4 cm\r\r\nimage: 19.8 × 13.4 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Monochrome photograph of three thin dark panels hovering above a hardwood floor in an open gallery space. The panel closest to us has a curved, sharpened edge like a an axe."

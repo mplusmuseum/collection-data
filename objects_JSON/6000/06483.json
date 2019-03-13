@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "2016.763",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Clock with Five Hands",
-    "titleOther": "五支針的時鐘",
-    "displayDate": "1986",
-    "displayDateOther": null,
+    "title": {
+        "en": "五支針的時鐘",
+        "zh-hant": "Clock with Five Hands"
+    },
+    "displayDate": {
+        "en": "1986",
+        "zh-hant": null
+    },
     "beginDate": 1986,
     "endDate": 1986,
-    "dimension": "overall: 32.9 × 33 cm",
-    "medium": "aluminium with lacquer finish, dried sardine, butterfly, ladybug, mechanical clock, and melamine",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 32.9 × 33 cm",
+        "zh-hant": "整體: 32.9 × 33 厘米"
+    },
+    "medium": {
+        "en": "aluminium with lacquer finish, dried sardine, butterfly, ladybug, mechanical clock, and melamine",
+        "zh-hant": "塗裝鋁件、乾沙甸魚、蝴蝶、甲蟲、機械鐘、三聚氰胺"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 252,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
             "id": 670,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [],

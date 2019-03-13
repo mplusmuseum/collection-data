@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.886",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Shidu",
-    "titleOther": "十渡",
-    "displayDate": "1981",
-    "displayDateOther": null,
+    "title": {
+        "en": "十渡",
+        "zh-hant": "Shidu"
+    },
+    "displayDate": {
+        "en": "1981",
+        "zh-hant": null
+    },
     "beginDate": 1981,
     "endDate": 1981,
-    "dimension": "frame: 72 × 123 × 6 cm\r\r\noverall: 63 × 119 × 3.5 cm",
-    "medium": "oil on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "frame: 72 × 123 × 6 cm\r\r\noverall: 63 × 119 × 3.5 cm",
+        "zh-hant": "連框: 72 × 123 × 6 厘米  整體: 63 × 119 × 3.5 厘米"
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": "油彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1526,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

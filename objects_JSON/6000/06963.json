@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.407",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Tra(i)nsient",
-    "titleOther": "火車過客",
-    "displayDate": "2003",
-    "displayDateOther": null,
+    "title": {
+        "en": "火車過客",
+        "zh-hant": "Tra(i)nsient"
+    },
+    "displayDate": {
+        "en": "2003",
+        "zh-hant": null
+    },
     "beginDate": 2003,
     "endDate": 2003,
-    "dimension": "duration: 12 min.",
-    "medium": "Super 8 transferred to DV, digital video (colour, stereo sound)",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 12 min.",
+        "zh-hant": "影片長度：12分"
+    },
+    "medium": {
+        "en": "Super 8 transferred to DV, digital video (colour, stereo sound)",
+        "zh-hant": "超八菲林、數碼錄像（彩色、有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

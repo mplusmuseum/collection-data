@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.480",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": "雕塑"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Proximity",
-    "titleOther": "關係",
-    "displayDate": "1978",
-    "displayDateOther": null,
+    "title": {
+        "en": "關係",
+        "zh-hant": "Proximity"
+    },
+    "displayDate": {
+        "en": "1978",
+        "zh-hant": null
+    },
     "beginDate": 1978,
     "endDate": 1978,
-    "dimension": "overall: 48.5 × 120 × 47 cm",
-    "medium": "camphor (wood)",
-    "creditLine": "M+, Hong Kong. Gift of Chiu Wai-Yee, 2016",
+    "dimension": {
+        "en": "overall: 48.5 × 120 × 47 cm",
+        "zh-hant": "整體: 48.5 × 120 × 47 厘米"
+    },
+    "medium": {
+        "en": "camphor (wood)",
+        "zh-hant": "樟木"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Chiu Wai-Yee, 2016",
+        "zh-hant": "M+，香港，趙慧儀捐贈，2016年"
+    },
     "constituents": [
         {
             "id": 1537,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

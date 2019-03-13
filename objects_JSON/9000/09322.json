@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA35/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Series"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Series",
+            "zh-hant": "系列"
+        }
     },
-    "title": "Photographic and printed material, City Hall (1956–1962), Hong Kong",
-    "titleOther": "香港大會堂（1956至1962年）影像及印刷資料",
-    "displayDate": "1962–1963",
-    "displayDateOther": null,
+    "title": {
+        "en": "香港大會堂（1956至1962年）影像及印刷資料",
+        "zh-hant": "Photographic and printed material, City Hall (1956–1962), Hong Kong"
+    },
+    "displayDate": {
+        "en": "1962–1963",
+        "zh-hant": null
+    },
     "beginDate": 1962,
     "endDate": 1963,
-    "dimension": "6 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+    "dimension": {
+        "en": "6 items",
+        "zh-hant": "6 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
+        "zh-hant": "M+，香港，Alan Fitch家族捐赠，2014年"
+    },
     "constituents": [
         {
             "id": 814,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

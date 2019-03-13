@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.138",
     "classification": {
-        "area": "Visual Art",
-        "category": "Poster",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "form / emptiness",
-    "titleOther": "色／空",
-    "displayDate": "2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "色／空",
+        "zh-hant": "form / emptiness"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": null
+    },
     "beginDate": 2011,
     "endDate": 2011,
-    "dimension": "each: 99.5 × 69.9 cm",
-    "medium": "silkscreen on calligraphy cloth mounted on board",
-    "creditLine": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2017",
+    "dimension": {
+        "en": "each: 99.5 × 69.9 cm",
+        "zh-hant": "各: 99.5 × 69.9 厘米"
+    },
+    "medium": {
+        "en": "silkscreen on calligraphy cloth mounted on board",
+        "zh-hant": "絲網印刷及書法練字布裱於木板"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2017",
+        "zh-hant": "M+，香港，又一山人（黃炳培）捐贈，2017年"
+    },
     "constituents": [
         {
             "id": 17,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

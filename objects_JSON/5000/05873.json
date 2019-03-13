@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.440",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Tension -- VII",
-    "titleOther": "張力之七",
-    "displayDate": "1969",
-    "displayDateOther": null,
+    "title": {
+        "en": "張力之七",
+        "zh-hant": "Tension -- VII"
+    },
+    "displayDate": {
+        "en": "1969",
+        "zh-hant": null
+    },
     "beginDate": 1969,
     "endDate": 1969,
-    "dimension": "100 × 150 × 15 cm",
-    "medium": "acrylic on canvas",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "100 × 150 × 15 cm",
+        "zh-hant": "整體: 100 × 150 × 15 厘米"
+    },
+    "medium": {
+        "en": "acrylic on canvas",
+        "zh-hant": "塑膠彩布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 905,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

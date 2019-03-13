@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.16",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "5th l̶i̶g̶h̶t̶",
     "titleOther": "第五道光",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2007,
     "endDate": 2007,
-    "dimension": "duration: 14 min.",
-    "medium": "digital video projection",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "duration: 14 min.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "digital video projection",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Installation artwork in which a digital video is projected in a triangular shape onto the floor of a dark room. The video projection shows shadowy silhouettes against a blue background."

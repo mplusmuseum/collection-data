@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.13",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": "裝置藝術"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Relatum",
-    "titleOther": "關係項",
-    "displayDate": "1972/2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "關係項",
+        "zh-hant": "Relatum"
+    },
+    "displayDate": {
+        "en": "1972/2011",
+        "zh-hant": null
+    },
     "beginDate": 1972,
     "endDate": 2011,
-    "dimension": "overall (without light bulb, approx.): 20.3 × 182.3 × 228 cm",
-    "medium": "acrylic and graphite on stretched canvas, light cord, and bulb",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (without light bulb, approx.): 20.3 × 182.3 × 228 cm",
+        "zh-hant": "整體 （不連燈，約）： 203 × 182.3 × 228 厘米"
+    },
+    "medium": {
+        "en": "acrylic and graphite on stretched canvas, light cord, and bulb",
+        "zh-hant": "亞加力、石墨、畫布、電燈線、燈泡"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 923,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

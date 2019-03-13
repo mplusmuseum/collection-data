@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA40/2",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Series"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Series",
+            "zh-hant": "系列"
+        }
     },
-    "title": "Wasmuth Portfolio drawings",
-    "titleOther": "《Wasmuth Portfolio》收錄的繪圖",
-    "displayDate": "1910",
-    "displayDateOther": null,
+    "title": {
+        "en": "《Wasmuth Portfolio》收錄的繪圖",
+        "zh-hant": "Wasmuth Portfolio drawings"
+    },
+    "displayDate": {
+        "en": "1910",
+        "zh-hant": null
+    },
     "beginDate": 1910,
     "endDate": 1910,
-    "dimension": "3 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "3 items",
+        "zh-hant": "3 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 479,
-            "role": "Architect"
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
     "images": null,

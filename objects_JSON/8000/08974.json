@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.389",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Aristocrate women, Beijing, 1957",
-    "titleOther": "1957年北京，貴婦",
-    "displayDate": "1957",
-    "displayDateOther": null,
+    "title": {
+        "en": "1957年北京，貴婦",
+        "zh-hant": "Aristocrate women, Beijing, 1957"
+    },
+    "displayDate": {
+        "en": "1957",
+        "zh-hant": null
+    },
     "beginDate": 1957,
     "endDate": 1957,
-    "dimension": "sheet: 25 × 16.3 cm",
-    "medium": "gelatin silver plate",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 25 × 16.3 cm",
+        "zh-hant": "紙本: 25 × 16.3 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver plate",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 966,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

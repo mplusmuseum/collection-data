@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.82",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Work-B",
-    "titleOther": "作品-B",
-    "displayDate": "1965",
-    "displayDateOther": null,
+    "title": {
+        "en": "作品-B",
+        "zh-hant": "Work-B"
+    },
+    "displayDate": {
+        "en": "1965",
+        "zh-hant": null
+    },
     "beginDate": 1965,
     "endDate": 1965,
-    "dimension": "image (sight): 183.2 × 183.4 cm",
-    "medium": "vinyl relief, acrylic, and oil on canvas mounted on wooden board",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "image (sight): 183.2 × 183.4 cm",
+        "zh-hant": "圖像 （目測量度）：183.2 × 183.4 厘米"
+    },
+    "medium": {
+        "en": "vinyl relief, acrylic, and oil on canvas mounted on wooden board",
+        "zh-hant": "乙烯浮雕、塑膠彩、油彩、裱板畫布"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

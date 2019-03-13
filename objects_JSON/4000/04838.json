@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.250",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Untitled (Rock arrangement at the Outside Resting Place)",
-    "titleOther": "無題(休憩園裏的石組)",
-    "displayDate": "photographed 1954, printed 1990s",
-    "displayDateOther": "1954年拍攝，1990年代印刷",
+    "title": {
+        "en": "無題(休憩園裏的石組)",
+        "zh-hant": "Untitled (Rock arrangement at the Outside Resting Place)"
+    },
+    "displayDate": {
+        "en": "1954年拍攝，1990年代印刷",
+        "zh-hant": "photographed 1954, printed 1990s"
+    },
     "beginDate": 1954,
     "endDate": 1999,
-    "dimension": "sheet: 27.8 × 35.5 cm\r\r\nimage: 19 × 24.4 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 27.8 × 35.5 cm\r\r\nimage: 19 × 24.4 cm",
+        "zh-hant": "紙本: 27.8 × 35.5 厘米  圖像: 19 × 24.4 厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 904,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [],

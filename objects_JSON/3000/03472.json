@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.45",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Fusuijing Building",
     "titleOther": "福綏境公寓",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 1975,
     "endDate": 1975,
-    "dimension": "sheet (sight): 25.1 × 18.6 cm",
-    "medium": "oil on paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong",
+    "dimension": {
+        "en": "sheet (sight): 25.1 × 18.6 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 588,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

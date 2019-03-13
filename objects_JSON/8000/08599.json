@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.13",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Imitating Wang Meng's 'Secluded Dwelling in the Qingbian Mountains'",
-    "titleOther": "仿王蒙《青卞隱居圖》",
-    "displayDate": "1967",
-    "displayDateOther": null,
+    "title": {
+        "en": "仿王蒙《青卞隱居圖》",
+        "zh-hant": "Imitating Wang Meng's 'Secluded Dwelling in the Qingbian Mountains'"
+    },
+    "displayDate": {
+        "en": "1967",
+        "zh-hant": null
+    },
     "beginDate": 1967,
     "endDate": 1967,
-    "dimension": "overall: 283.4 × 69.7 × 3.8 cm\r\r\nimage: 131.3 × 47 cm",
-    "medium": "ink and colour on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 283.4 × 69.7 × 3.8 cm\r\r\nimage: 131.3 × 47 cm",
+        "zh-hant": "整體: 283.4 × 69.7 × 3.8 厘米  圖像: 131.3 × 47 厘米"
+    },
+    "medium": {
+        "en": "ink and colour on paper",
+        "zh-hant": "水墨設色紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 327,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

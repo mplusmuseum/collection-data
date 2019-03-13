@@ -1,24 +1,112 @@
 {
     "id": 819,
-    "sortNumber": null,
+    "sortNumber": "2014    70",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1942,
-    "endDate": 1995,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2014.70",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "紀念(雪白的襯衫)",
+        "zh-hant": "Memento (White Shirt)"
+    },
+    "displayDate": {
+        "en": "2014",
+        "zh-hant": null
+    },
+    "beginDate": 2014,
+    "endDate": 2014,
+    "dimension": {
+        "en": "overall: 122.5 × 122.2 × 5 cm",
+        "zh-hant": "整體: 122.5 × 122.2 × 5 厘米"
+    },
+    "medium": {
+        "en": "acrylic, pencil and coloured pencil on linen",
+        "zh-hant": "塑膠彩、鉛筆和彩色鉛筆布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Brown Family Annual Acquisition Fund, 2014",
+        "zh-hant": "M+，香港，Brown家族年度購藏基金購置，2014年"
+    },
+    "constituents": [
+        {
+            "id": 101,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#9EBCBA",
+                "value": 59.8
+            },
+            {
+                "color": "#7FB4AD",
+                "value": 9.9
+            },
+            {
+                "color": "#676E6F",
+                "value": 8.5
+            },
+            {
+                "color": "#7FB0A6",
+                "value": 4.5
+            },
+            {
+                "color": "#9DB9B1",
+                "value": 3.4
+            },
+            {
+                "color": "#DAD7D2",
+                "value": 3
+            },
+            {
+                "color": "#6B726F",
+                "value": 3
+            },
+            {
+                "color": "#65666B",
+                "value": 2.7
+            },
+            {
+                "color": "#977954",
+                "value": 1.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 77.4
+                },
+                {
+                    "color": "white",
+                    "value": 3
+                },
+                {
+                    "color": "teal",
+                    "value": 14.5
+                },
+                {
+                    "color": "brown",
+                    "value": 1.6
+                }
+            ]
         }
     }
 }

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.521",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Tribute to Inside Looking Out — For the male artists along my way",
-    "titleOther": "向展覽《從內至外》致敬 — 給沿途的男性藝術家",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "向展覽《從內至外》致敬 — 給沿途的男性藝術家",
+        "zh-hant": "Tribute to Inside Looking Out — For the male artists along my way"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
-    "dimension": "duration: 2 min. 24 sec.",
-    "medium": "single-channel video (black and white, sound)",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "duration: 2 min. 24 sec.",
+        "zh-hant": "影片長度：2分24秒"
+    },
+    "medium": {
+        "en": "single-channel video (black and white, sound)",
+        "zh-hant": "單頻道錄像（ 黑白，有聲）"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 477,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

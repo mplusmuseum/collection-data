@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.42",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": "繪畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Exercise Work #3",
-    "titleOther": "練習作品#3",
-    "displayDate": "1996",
-    "displayDateOther": null,
+    "title": {
+        "en": "練習作品#3",
+        "zh-hant": "Exercise Work #3"
+    },
+    "displayDate": {
+        "en": "1996",
+        "zh-hant": null
+    },
     "beginDate": 1996,
     "endDate": 1996,
-    "dimension": "image: 67.5 × 67.7 cm\r\r\nsheet: 76.2 × 76.3 cm",
-    "medium": "mixed media on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "image: 67.5 × 67.7 cm\r\r\nsheet: 76.2 × 76.3 cm",
+        "zh-hant": "圖像: 67.5 × 67.7 厘米  紙本: 76.2 × 76.3 厘米"
+    },
+    "medium": {
+        "en": "mixed media on paper",
+        "zh-hant": "混合媒材布本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1369,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

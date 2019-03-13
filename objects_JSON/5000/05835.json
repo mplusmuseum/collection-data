@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2016.756",
     "classification": {
-        "area": "Moving Image",
-        "category": "Video",
-        "archivalLevel": null
+        "area": {
+            "en": "Moving Image",
+            "zh-hant": "流動影像"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Pouring Bottled Water into the Victoria Harbour",
-    "titleOther": "將瓶裝水倒進維多利亞港",
-    "displayDate": "1993 (photograph)/1999 (video)",
-    "displayDateOther": "1993 （照片）/1999 （錄像）",
+    "title": {
+        "en": "將瓶裝水倒進維多利亞港",
+        "zh-hant": "Pouring Bottled Water into the Victoria Harbour"
+    },
+    "displayDate": {
+        "en": "1993 （照片）/1999 （錄像）",
+        "zh-hant": "1993 (photograph)/1999 (video)"
+    },
     "beginDate": 1993,
     "endDate": 1995,
-    "dimension": "image size: 120 × 177 cm\r\r\nduration: 10 min.",
-    "medium": "photograph and video",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "image size: 120 × 177 cm\r\r\nduration: 10 min.",
+        "zh-hant": "圖像：120 × 177厘米\r\n影片長度：10 分"
+    },
+    "medium": {
+        "en": "photograph and video",
+        "zh-hant": "照片、錄像"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

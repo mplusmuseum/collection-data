@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA41",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Fonds"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Fonds",
+            "zh-hant": "全宗"
+        }
     },
-    "title": "Bernard Tschumi Drawings",
-    "titleOther": "伯納德·屈米作品繪圖",
-    "displayDate": "1986",
-    "displayDateOther": null,
+    "title": {
+        "en": "伯納德·屈米作品繪圖",
+        "zh-hant": "Bernard Tschumi Drawings"
+    },
+    "displayDate": {
+        "en": "1986",
+        "zh-hant": null
+    },
     "beginDate": 1986,
     "endDate": 1986,
-    "dimension": "3 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "3 items",
+        "zh-hant": "3 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 433,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

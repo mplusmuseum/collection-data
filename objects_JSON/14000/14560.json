@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "CA30/1/5/1",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Architectural Drawing",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Architectural Drawing",
+            "zh-hant": "建築圖"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Extract, 'bedroom and bath' of [small house?], Interiors to Come",
-    "titleOther": "關於[小住宅?]的「臥房與浴室」文章，摘錄自《室內》",
-    "displayDate": "[circa 1947]",
-    "displayDateOther": null,
+    "title": {
+        "en": "關於[小住宅?]的「臥房與浴室」文章，摘錄自《室內》",
+        "zh-hant": "Extract, 'bedroom and bath' of [small house?], Interiors to Come"
+    },
+    "displayDate": {
+        "en": "[circa 1947]",
+        "zh-hant": null
+    },
     "beginDate": 1945,
     "endDate": 1949,
-    "dimension": "sheet: 30.6 x 23 cm\r\r\n11 pages",
-    "medium": "printing ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 30.6 x 23 cm\r\r\n11 pages",
+        "zh-hant": "sheet: 30.6 x 23 cm\r\r\n11 pages"
+    },
+    "medium": {
+        "en": "printing ink on paper",
+        "zh-hant": "printing ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": [

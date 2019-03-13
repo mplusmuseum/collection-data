@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.662",
     "classification": {
-        "area": "Visual Art",
-        "category": "Sculpture",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Sculpture",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Baby in Bottle",
     "titleOther": "瓶中嬰兒",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2007,
     "endDate": 2007,
-    "dimension": "overall (largest bottle): 11 × 5.4 × 5.4 cm\r\r\noverall (medium bottle): 8.5 × 4.4 × 4.4 cm\r\r\noverall (smallest bottle): 6.8 × 3.5 × 3.5 cm",
-    "medium": "acrylic on glass",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall (largest bottle): 11 × 5.4 × 5.4 cm\r\r\noverall (medium bottle): 8.5 × 4.4 × 4.4 cm\r\r\noverall (smallest bottle): 6.8 × 3.5 × 3.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "acrylic on glass",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 316,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

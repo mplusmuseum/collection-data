@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.232",
     "classification": {
-        "area": "Visual Art",
-        "category": "Ink Art",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Ink Art",
+            "zh-hant": "水墨"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Spirited, like a far-journeying steed; floating, like a duck on water",
-    "titleOther": "昂昂若千里之駒 泛泛若水中之鳧",
-    "displayDate": "2002",
-    "displayDateOther": null,
+    "title": {
+        "en": "昂昂若千里之駒 泛泛若水中之鳧",
+        "zh-hant": "Spirited, like a far-journeying steed; floating, like a duck on water"
+    },
+    "displayDate": {
+        "en": "2002",
+        "zh-hant": null
+    },
     "beginDate": 2002,
     "endDate": 2002,
-    "dimension": "each: 137 × 69.7 × 4.5 cm\r\r\noverall: 137 × 840 × 4.5 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "each: 137 × 69.7 × 4.5 cm\r\r\noverall: 137 × 840 × 4.5 cm",
+        "zh-hant": "各: 137 × 69.7 × 4.5 厘米  整體: 137 × 840 × 4.5 厘米"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "水墨紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1624,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.816",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Textile",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Textile",
+            "zh-hant": "紡織品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Korean Composition: 18_22_34_43_56_80",
-    "titleOther": "韓式構圖: 18_22_34_43_56_80",
-    "displayDate": "2011, made 2011–2015",
-    "displayDateOther": "2011年，2011至2015年製造",
+    "title": {
+        "en": "韓式構圖: 18_22_34_43_56_80",
+        "zh-hant": "Korean Composition: 18_22_34_43_56_80"
+    },
+    "displayDate": {
+        "en": "2011年，2011至2015年製造",
+        "zh-hant": "2011, made 2011–2015"
+    },
     "beginDate": 2011,
     "endDate": 2015,
-    "dimension": "overall (No. 18): 32.3 × 16.8 × 0.3 cm\r\r\noverall (No. 22): 25.4 × 33.5 × 0.3 cm\r\r\noverall (No. 34): 34 × 37 × 0.3 cm\r\r\noverall (No. 43): 55 × 47.7 × 0.3 cm\r\r\noverall (No. 56): 63.4 × 57 × 0.3 cm\r\r\noverall (No. 80): 88.5 × 46.8 × 0.3 cm",
-    "medium": "linen",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall (No. 18): 32.3 × 16.8 × 0.3 cm\r\r\noverall (No. 22): 25.4 × 33.5 × 0.3 cm\r\r\noverall (No. 34): 34 × 37 × 0.3 cm\r\r\noverall (No. 43): 55 × 47.7 × 0.3 cm\r\r\noverall (No. 56): 63.4 × 57 × 0.3 cm\r\r\noverall (No. 80): 88.5 × 46.8 × 0.3 cm",
+        "zh-hant": "整體 (18號): 32.3 × 16.8 × 0.3 厘米\r\r\n整體 (22號): 25.4 × 33.5 × 0.3 厘米\r\r\n整體 (34號): 34 × 37 × 0.3 厘米\r\r\n整體 (43號): 55 × 47.7 × 0.3 厘米\r\r\n整體 (56號): 63.4 × 57 × 0.3 厘米\r\r\n整體 (80號): 88.5 × 46.8 × 0.3 厘米"
+    },
+    "medium": {
+        "en": "linen",
+        "zh-hant": "亞麻布"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1483,
-            "role": "Maker"
+            "role": {
+                "en": "Maker",
+                "zh-hant": "創作者"
+            }
         }
     ],
     "images": [

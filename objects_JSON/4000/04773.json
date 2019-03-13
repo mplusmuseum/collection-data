@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.91",
     "classification": {
-        "area": "Visual Art",
-        "category": "Painting",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Painting",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Visible, Invisible",
     "titleOther": "可見，不可見",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1978,
     "endDate": 1978,
-    "dimension": "each: 175 × 90 cm",
-    "medium": "oil on paper",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "each: 175 × 90 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Three completely white rectangular oil on paper paintings hanging in a row on a wall."

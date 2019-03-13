@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.287",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Print",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Permeable Lattice City",
     "titleOther": "可滲透格子城市",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 2011,
     "endDate": 2011,
-    "dimension": "sheet: 104.9 × 139.5 cm",
-    "medium": "digital print on paper",
-    "creditLine": "M+, Hong Kong. Gift of WOHA, 2014",
-    "constituents": null,
+    "dimension": {
+        "en": "sheet: 104.9 × 139.5 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "digital print on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of WOHA, 2014",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": null

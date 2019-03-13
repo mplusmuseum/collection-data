@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2016.51",
     "classification": {
-        "area": "Visual Art",
-        "category": "Video Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Video Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Military Court and Prison",
     "titleOther": "軍法局",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2007,
     "endDate": 2008,
-    "dimension": "duration: 62 min. 22 sec.",
-    "medium": "35mm film transferred to DVD (colour, sound)",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "duration: 62 min. 22 sec.",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "35mm film transferred to DVD (colour, sound)",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 124,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

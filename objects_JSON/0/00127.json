@@ -1,24 +1,104 @@
 {
     "id": 127,
-    "sortNumber": null,
+    "sortNumber": "2012  1925",
     "publicAccess": true,
-    "objectNumber": null,
-    "classification": null,
-    "title": null,
-    "titleOther": null,
-    "displayDate": null,
-    "displayDateOther": null,
-    "beginDate": 1969,
-    "endDate": null,
-    "dimension": null,
-    "medium": null,
-    "creditLine": null,
-    "constituents": null,
-    "images": null,
+    "objectNumber": "2012.1925",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "賽龍舟",
+        "zh-hant": "Dragonboats"
+    },
+    "displayDate": {
+        "en": "1955",
+        "zh-hant": null
+    },
+    "beginDate": 1955,
+    "endDate": 1955,
+    "dimension": {
+        "en": "sheet: 48.9 × 35.6 cm",
+        "zh-hant": "紙本: 48.9 × 35.6 厘米"
+    },
+    "medium": {
+        "en": "black and white print",
+        "zh-hant": "黑白沖印"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CFCFCE",
+                "value": 31.1
+            },
+            {
+                "color": "#868483",
+                "value": 19.9
+            },
+            {
+                "color": "#D2D3CE",
+                "value": 15.7
+            },
+            {
+                "color": "#2A2828",
+                "value": 15.1
+            },
+            {
+                "color": "#8C8B87",
+                "value": 4.8
+            },
+            {
+                "color": "#2C292B",
+                "value": 2.8
+            },
+            {
+                "color": "#D3D7D5",
+                "value": 2.4
+            },
+            {
+                "color": "#827F81",
+                "value": 1.7
+            },
+            {
+                "color": "#282B2A",
+                "value": 1.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 26.5
+                },
+                {
+                    "color": "white",
+                    "value": 49.2
+                },
+                {
+                    "color": "black",
+                    "value": 19.6
+                }
+            ]
         }
     }
 }

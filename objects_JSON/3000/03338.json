@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.611",
     "classification": {
-        "area": "Visual Art",
-        "category": "Craft Object",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Craft Object",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Blank Paper",
     "titleOther": "白紙",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2009,
     "endDate": 2009,
-    "dimension": "overall: 201 × 102 × 0.8 cm",
-    "medium": "porcelain",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "overall: 201 × 102 × 0.8 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "porcelain",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 305,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

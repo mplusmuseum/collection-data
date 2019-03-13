@@ -4,31 +4,62 @@
     "publicAccess": true,
     "objectNumber": "2016.776",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Textile",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Textile",
+            "zh-hant": "紡織品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "A-POC Queen",
-    "titleOther": "A-POC 皇后",
-    "displayDate": "designed 1999, made 2003",
-    "displayDateOther": "1999年設計，2003年製造",
+    "title": {
+        "en": "A-POC 皇后",
+        "zh-hant": "A-POC Queen"
+    },
+    "displayDate": {
+        "en": "1999年設計，2003年製造",
+        "zh-hant": "designed 1999, made 2003"
+    },
     "beginDate": 1999,
     "endDate": 1999,
-    "dimension": "overall: 370 × 44 cm",
-    "medium": "cotton, nylon, and polyurethane",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 370 × 44 cm",
+        "zh-hant": "整體: 370 × 44 厘米"
+    },
+    "medium": {
+        "en": "cotton, nylon, and polyurethane",
+        "zh-hant": "棉、尼龍、聚氨酯"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1698,
-            "role": "Manufacturer"
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         },
         {
             "id": 1699,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
             "id": 1700,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [],

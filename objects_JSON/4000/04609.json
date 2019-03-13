@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2015.144",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Jiro Takamatsu, August 1970--Aspects of New Japanese Art, The National Museum of Modern Art, Tokyo, August, 1970",
     "titleOther": "高松次郎，1970年8月東京國立近代美術館「1970年8月：現代藝術面面觀」",
@@ -14,10 +23,19 @@
     "displayDateOther": null,
     "beginDate": 1970,
     "endDate": 1970,
-    "dimension": "overall (mounted): 29.4 × 21.5 cm\r\r\nimage: 25.5 × 17.2 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "overall (mounted): 29.4 × 21.5 cm\r\r\nimage: 25.5 × 17.2 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": null
+    },
+    "constituents": [],
     "images": [
         {
             "altText": "Monochrome photograph of a light installation at the back wall of a dark gallery space. A rectangular sheet rests against the wall, masking the light from view. The light shines from the left and right sides, creating two trapezoidal shapes of light on the far wall, and a reflection on the floor."

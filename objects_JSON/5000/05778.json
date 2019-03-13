@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2017.74",
     "classification": {
-        "area": "Visual Art",
-        "category": "Work on Paper",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Work on Paper",
+            "zh-hant": "紙本作品"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Grass and trees",
-    "titleOther": "草木",
-    "displayDate": "1970s–1990s",
-    "displayDateOther": "1970至1990年代",
+    "title": {
+        "en": "草木",
+        "zh-hant": "Grass and trees"
+    },
+    "displayDate": {
+        "en": "1970至1990年代",
+        "zh-hant": "1970s–1990s"
+    },
     "beginDate": 1970,
     "endDate": 1999,
-    "dimension": "sheet: 32 × 21.7 cm",
-    "medium": "ink on paper",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "sheet: 32 × 21.7 cm",
+        "zh-hant": "紙本: 32 × 21.7 厘米"
+    },
+    "medium": {
+        "en": "ink on paper",
+        "zh-hant": "水墨紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1242,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

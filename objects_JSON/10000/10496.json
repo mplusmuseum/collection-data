@@ -4,27 +4,55 @@
     "publicAccess": true,
     "objectNumber": "CA19/4",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Poster",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Poster",
+            "zh-hant": "海報"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Poster, Theseus Chan: WERK No. 20: Ginza The Extremities of the Printed Matter exhibition",
-    "titleOther": "「陳益：WERK第20期：銀座　印刷的極致」 展覽海報",
-    "displayDate": "2012",
-    "displayDateOther": null,
+    "title": {
+        "en": "「陳益：WERK第20期：銀座　印刷的極致」 展覽海報",
+        "zh-hant": "Poster, Theseus Chan: WERK No. 20: Ginza The Extremities of the Printed Matter exhibition"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": null
+    },
     "beginDate": 2012,
     "endDate": 2012,
-    "dimension": "sheet: 103 x 72.8 cm",
-    "medium": "printing ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of WORK, 2014",
+    "dimension": {
+        "en": "sheet: 103 x 72.8 cm",
+        "zh-hant": "sheet: 103 x 72.8 cm"
+    },
+    "medium": {
+        "en": "printing ink on paper",
+        "zh-hant": "printing ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of WORK, 2014",
+        "zh-hant": "M+，香港，WORK捐贈，2014年"
+    },
     "constituents": [
         {
             "id": 846,
-            "role": "Design Firm"
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
         },
         {
             "id": 1302,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": null,

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA30/5/1/18",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Book/Periodical",
-        "archivalLevel": "Item"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Book/Periodical",
+            "zh-hant": "書藉/期刊"
+        },
+        "archivalLevel": {
+            "en": "Item",
+            "zh-hant": "單件"
+        }
     },
-    "title": "Article from unidentified publication, 'Great Restaurants'",
-    "titleOther": "〈Great Restaurants〉，文章出處不詳",
-    "displayDate": "[1950s–1960s]",
-    "displayDateOther": null,
+    "title": {
+        "en": "〈Great Restaurants〉，文章出處不詳",
+        "zh-hant": "Article from unidentified publication, 'Great Restaurants'"
+    },
+    "displayDate": {
+        "en": "[1950s–1960s]",
+        "zh-hant": null
+    },
     "beginDate": 1955,
     "endDate": 1969,
-    "dimension": "sheet: 25.5 x 26.4 cm",
-    "medium": "printing ink on paper",
-    "creditLine": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+    "dimension": {
+        "en": "sheet: 25.5 x 26.4 cm",
+        "zh-hant": "sheet: 25.5 x 26.4 cm"
+    },
+    "medium": {
+        "en": "printing ink on paper",
+        "zh-hant": "printing ink on paper"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
+        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+    },
     "constituents": [
         {
             "id": 1534,
-            "role": "Publisher"
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
         }
     ],
     "images": [],

@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "CA40",
     "classification": {
-        "area": "Design and Architecture",
-        "category": null,
-        "archivalLevel": "Fonds"
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": null,
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": "Fonds",
+            "zh-hant": "全宗"
+        }
     },
-    "title": "Frank Lloyd Wright Drawings",
-    "titleOther": "弗蘭克‧勞埃德‧賴特作品繪圖",
-    "displayDate": "[circa 1905–circa 1918]",
-    "displayDateOther": null,
+    "title": {
+        "en": "弗蘭克‧勞埃德‧賴特作品繪圖",
+        "zh-hant": "Frank Lloyd Wright Drawings"
+    },
+    "displayDate": {
+        "en": "[circa 1905–circa 1918]",
+        "zh-hant": null
+    },
     "beginDate": 1904,
     "endDate": 1920,
-    "dimension": "10 items",
-    "medium": null,
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "10 items",
+        "zh-hant": "10 items"
+    },
+    "medium": {
+        "en": null,
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 479,
-            "role": "Archive Creator"
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
         }
     ],
     "images": null,

@@ -4,9 +4,18 @@
     "publicAccess": true,
     "objectNumber": "2012.1433",
     "classification": {
-        "area": "Visual Art",
-        "category": "Installation",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": null
+        },
+        "category": {
+            "en": "Installation",
+            "zh-hant": null
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
     "title": "Punishment of Illegal Land Use, No.1―No.26",
     "titleOther": "違法用地處罰, 第1-26號",
@@ -14,13 +23,25 @@
     "displayDateOther": null,
     "beginDate": 2007,
     "endDate": 2008,
-    "dimension": "frame (each): 46.9 × 34.7 × 1.3 cm",
-    "medium": "oil on paper",
-    "creditLine": "M+ Sigg Collection, Hong Kong. By donation",
+    "dimension": {
+        "en": "frame (each): 46.9 × 34.7 × 1.3 cm",
+        "zh-hant": null
+    },
+    "medium": {
+        "en": "oil on paper",
+        "zh-hant": null
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": null
+    },
     "constituents": [
         {
             "id": 603,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": null
+            }
         }
     ],
     "images": [

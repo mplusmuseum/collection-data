@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2016.636",
     "classification": {
-        "area": "Design and Architecture",
-        "category": "Product Design",
-        "archivalLevel": null
+        "area": {
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
+        },
+        "category": {
+            "en": "Product Design",
+            "zh-hant": "產品設計"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Porcelain Series—Tea cup",
-    "titleOther": "瓷器系列──茶杯",
-    "displayDate": "1965–1967",
-    "displayDateOther": null,
+    "title": {
+        "en": "瓷器系列──茶杯",
+        "zh-hant": "Porcelain Series—Tea cup"
+    },
+    "displayDate": {
+        "en": "1965–1967",
+        "zh-hant": null
+    },
     "beginDate": 1948,
     "endDate": 1948,
-    "dimension": "overall: 5.3 × 12.3 × 10.1 cm",
-    "medium": "porcelain",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "overall: 5.3 × 12.3 × 10.1 cm",
+        "zh-hant": "整體： 5.3 × 12.3 × 10.1厘米"
+    },
+    "medium": {
+        "en": "porcelain",
+        "zh-hant": "瓷"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1428,
-            "role": "Designer"
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         }
     ],
     "images": [

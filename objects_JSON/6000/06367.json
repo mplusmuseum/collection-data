@@ -4,23 +4,48 @@
     "publicAccess": true,
     "objectNumber": "2018.240",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hong Kong Arts Policy and Strategy at the Turn of the Century: Demons #1 and #2",
-    "titleOther": "《在世紀未的香港藝術政策及策略》鬼魅其一及其二",
-    "displayDate": "2000",
-    "displayDateOther": null,
+    "title": {
+        "en": "《在世紀未的香港藝術政策及策略》鬼魅其一及其二",
+        "zh-hant": "Hong Kong Arts Policy and Strategy at the Turn of the Century: Demons #1 and #2"
+    },
+    "displayDate": {
+        "en": "2000",
+        "zh-hant": null
+    },
     "beginDate": 2000,
     "endDate": 2000,
-    "dimension": "each (sheet): 101.4 × 76.1 cm\r\r\neach (image): 86.1 × 60.8 cm",
-    "medium": "chromogenic colour print",
-    "creditLine": "M+, Hong Kong",
+    "dimension": {
+        "en": "each (sheet): 101.4 × 76.1 cm\r\r\neach (image): 86.1 × 60.8 cm",
+        "zh-hant": "各 (紙本): 101.4 × 76.1 厘米  各 (圖像): 86.1 × 60.8 厘米"
+    },
+    "medium": {
+        "en": "chromogenic colour print",
+        "zh-hant": "彩色照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
     "constituents": [
         {
             "id": 1360,
-            "role": "Artist"
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
         }
     ],
     "images": [

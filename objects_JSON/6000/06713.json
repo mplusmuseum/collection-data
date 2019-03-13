@@ -4,20 +4,42 @@
     "publicAccess": true,
     "objectNumber": "2017.193",
     "classification": {
-        "area": "Visual Art",
-        "category": "Photography",
-        "archivalLevel": null
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Photography",
+            "zh-hant": "攝影"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
     },
-    "title": "Hammer and Sickle",
-    "titleOther": "錘子與鐮刀",
-    "displayDate": "1976",
-    "displayDateOther": null,
+    "title": {
+        "en": "錘子與鐮刀",
+        "zh-hant": "Hammer and Sickle"
+    },
+    "displayDate": {
+        "en": "1976",
+        "zh-hant": null
+    },
     "beginDate": 1976,
     "endDate": 1976,
-    "dimension": "frame: 41.8 × 45.6 × 3.8 cm\r\r\nimage (sight): 11 × 16.5 cm",
-    "medium": "gelatin silver print",
-    "creditLine": "M+, Hong Kong",
-    "constituents": null,
+    "dimension": {
+        "en": "frame: 41.8 × 45.6 × 3.8 cm\r\r\nimage (sight): 11 × 16.5 cm",
+        "zh-hant": "連框：41.8 × 45.6 × 3.8厘米\r\n圖像（目測量度）：11 × 16.5厘米"
+    },
+    "medium": {
+        "en": "gelatin silver print",
+        "zh-hant": "銀鹽照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [],
     "images": [],
     "color": {
         "predominant": null,
