@@ -1,16 +1,30 @@
 {
     "id": 235,
     "publicAccess": true,
-    "name": "Ji Wenyu",
-    "nameOther": "計文於",
-    "alphaSortName": "Ji, Wenyu",
+    "name": {
+        "en": "Ji Wenyu",
+        "zh-hant": "計文於"
+    },
+    "alphaSortName": {
+        "en": "Ji, Wenyu",
+        "zh-hant": "計, 文於"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1959",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1959",
+        "zh-hant": "中國籍，生於1959年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1959,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

@@ -1,18 +1,32 @@
 {
     "id": 332,
     "publicAccess": true,
-    "name": "Eric Lye",
-    "nameOther": "黎錦超",
-    "alphaSortName": "Lye, Eric",
+    "name": {
+        "en": "Eric Lye",
+        "zh-hant": "黎錦超"
+    },
+    "alphaSortName": {
+        "en": "Lye, Eric",
+        "zh-hant": "黎, 錦超"
+    },
     "type": "Individual",
     "roles": [
         "Archive Creator",
         "Architect",
         "建檔者"
     ],
-    "displayBio": "Hong Kong, born Malaysia. 1934–2003",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Hong Kong, born Malaysia. 1934–2003",
+        "zh-hant": "香港，生於馬來西亞，1934–2003年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1934,
     "endDate": 2003,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

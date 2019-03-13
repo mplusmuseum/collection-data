@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Mirage Garden Part 3",
-    "titleOther": "幻園",
-    "displayDate": "2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "幻園",
+        "zh-hant": "Mirage Garden Part 3"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
         "en": "overall: 120 × 80 × 50 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 120 × 80 × 50 厘米"
     },
     "medium": {
         "en": "silicone rubber",
-        "zh-hant": null
+        "zh-hant": "矽氧橡膠"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 578,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

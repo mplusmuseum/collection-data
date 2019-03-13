@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Miss Vancouver",
-    "titleOther": "溫哥華小姐",
-    "displayDate": "1987",
-    "displayDateOther": null,
+    "title": {
+        "en": "溫哥華小姐",
+        "zh-hant": "Miss Vancouver"
+    },
+    "displayDate": {
+        "en": "1987",
+        "zh-hant": null
+    },
     "beginDate": 1987,
     "endDate": 1987,
     "dimension": {
         "en": "overall: 101.5 × 228.7 × 5.7 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 101.5 × 228.7 × 5.7 厘米"
     },
     "medium": {
         "en": "chromogenic colour print, enamel, Plexiglas, and aluminium",
-        "zh-hant": null
+        "zh-hant": "彩色照片、搪瓷、塑膠玻璃、鋁"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+，香港"
     },
     "constituents": [
         {
             "id": 328,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

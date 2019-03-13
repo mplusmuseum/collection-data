@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Growth Rings 2",
-    "titleOther": "年輪 2",
-    "displayDate": "2009",
-    "displayDateOther": null,
+    "title": {
+        "en": "年輪 2",
+        "zh-hant": "Growth Rings 2"
+    },
+    "displayDate": {
+        "en": "2009",
+        "zh-hant": null
+    },
     "beginDate": 2009,
     "endDate": 2009,
     "dimension": {
         "en": "overall: 385.5 × 22.5 × 4.5 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 385.5 × 22.5 × 4.5 厘米"
     },
     "medium": {
         "en": "wood board",
-        "zh-hant": null
+        "zh-hant": "木板"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 535,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

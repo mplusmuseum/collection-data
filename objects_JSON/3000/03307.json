@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Video",
-            "zh-hant": null
+            "zh-hant": "錄像"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "First Trade",
-    "titleOther": "第一次操盤",
-    "displayDate": "2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "第一次操盤",
+        "zh-hant": "First Trade"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
     "dimension": {
         "en": "sheet: 223.7 × 495.5 cm\r\r\nduration: 6 min. 25 sec.",
-        "zh-hant": null
+        "zh-hant": "紙本: 223.7 × 495.5 厘米  影片長度: 6 分 25 秒"
     },
     "medium": {
         "en": "industrial paint on canvas and video",
-        "zh-hant": null
+        "zh-hant": "工業用漆布本、錄像"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 96,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

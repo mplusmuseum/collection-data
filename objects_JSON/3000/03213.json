@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Marble Chair",
-    "titleOther": "大理石椅子",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "大理石椅子",
+        "zh-hant": "Marble Chair"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
     "dimension": {
         "en": "overall: 117 × 56.9 × 43.7 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 117 × 56.9 × 43.7 厘米"
     },
     "medium": {
         "en": "marble",
-        "zh-hant": null
+        "zh-hant": "大理石"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 97,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

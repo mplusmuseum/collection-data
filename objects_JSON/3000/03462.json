@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Installation",
-            "zh-hant": null
+            "zh-hant": "裝置藝術"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "A Stick of Bamboo",
-    "titleOther": "一根竹竿",
-    "displayDate": "2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "一根竹竿",
+        "zh-hant": "A Stick of Bamboo"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": null
+    },
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
         "en": "overall: 300 × 7 cm\r\r\noverall: 285.5 × 7 cm\r\r\noverall: 78 × 7 cm\r\r\noverall: 22.9 × 7 cm",
-        "zh-hant": null
+        "zh-hant": "300 × 7 厘米\r\r\n285.5 × 7 厘米\r\r\n78 × 7 厘米\r\r\n22.9 × 7 厘米"
     },
     "medium": {
         "en": "gold phoebe (wood)",
-        "zh-hant": null
+        "zh-hant": "金絲楠木"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 220,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

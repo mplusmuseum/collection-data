@@ -1,17 +1,31 @@
 {
     "id": 470,
     "publicAccess": true,
-    "name": "Wei Guangqing",
-    "nameOther": "魏光慶",
-    "alphaSortName": "Wei, Guangqing",
+    "name": {
+        "en": "Wei Guangqing",
+        "zh-hant": "魏光慶"
+    },
+    "alphaSortName": {
+        "en": "Wei, Guangqing",
+        "zh-hant": "魏光慶"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Chinese, born 1963",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1963,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

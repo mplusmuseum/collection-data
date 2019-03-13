@@ -1,9 +1,14 @@
 {
     "id": 17,
     "publicAccess": true,
-    "name": "Stanley Wong",
-    "nameOther": "又一山人（黃炳培）",
-    "alphaSortName": "Wong, Stanley",
+    "name": {
+        "en": "Stanley Wong",
+        "zh-hant": "又一山人（黃炳培）"
+    },
+    "alphaSortName": {
+        "en": "Wong, Stanley",
+        "zh-hant": "又一山人（黃炳培）"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
@@ -11,9 +16,18 @@
         "藝術家",
         "設計師"
     ],
-    "displayBio": "Hong Kong, born 1960",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Hong Kong, born 1960",
+        "zh-hant": "香港，生於1960年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1960,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Future Relic: Guangzhou 02",
-    "titleOther": "未來遺跡廣州——02",
-    "displayDate": "2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "未來遺跡廣州——02",
+        "zh-hant": "Future Relic: Guangzhou 02"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
         "en": "sheet: 126.8 × 171.7 cm\r\r\nimage: 120.7 × 162 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 126.8 × 171.7 厘米  圖像: 120.7 × 162 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 294,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

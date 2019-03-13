@@ -1,16 +1,30 @@
 {
     "id": 194,
     "publicAccess": true,
-    "name": "Guang Tingbo",
-    "nameOther": "廣廷渤",
-    "alphaSortName": "Guang, Tingbo",
+    "name": {
+        "en": "Guang Tingbo",
+        "zh-hant": "廣廷渤"
+    },
+    "alphaSortName": {
+        "en": "Guang, Tingbo",
+        "zh-hant": "廣, 廷渤"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1938",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1938",
+        "zh-hant": "中國籍，生於1938年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1938,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

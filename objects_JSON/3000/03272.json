@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Video Installation",
-            "zh-hant": null
+            "zh-hant": "錄像裝置"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Long March: Restart",
-    "titleOther": "長征:重啟",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "長征:重啟",
+        "zh-hant": "Long March: Restart"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
     "dimension": {
         "en": "dimensions variable",
-        "zh-hant": null
+        "zh-hant": "尺寸不一"
     },
     "medium": {
         "en": "video game (colour, stereo sound), custom computer software, and wireless game controller",
-        "zh-hant": null
+        "zh-hant": "電子遊戲（彩色、立體聲）、特製電腦軟件、無線遊戲手柄控制器"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 175,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

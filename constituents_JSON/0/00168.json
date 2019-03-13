@@ -1,16 +1,30 @@
 {
     "id": 168,
     "publicAccess": true,
-    "name": "Du Jie",
-    "nameOther": "杜婕",
-    "alphaSortName": "Du, Jie",
+    "name": {
+        "en": "Du Jie",
+        "zh-hant": "杜婕"
+    },
+    "alphaSortName": {
+        "en": "Du, Jie",
+        "zh-hant": "杜, 婕"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1968",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1968,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

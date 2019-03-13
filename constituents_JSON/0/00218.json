@@ -1,17 +1,31 @@
 {
     "id": 218,
     "publicAccess": true,
-    "name": "Tehching Hsieh",
-    "nameOther": "謝德慶",
-    "alphaSortName": "Hsieh, Tehching",
+    "name": {
+        "en": "Tehching Hsieh",
+        "zh-hant": "謝德慶"
+    },
+    "alphaSortName": {
+        "en": "Hsieh, Tehching",
+        "zh-hant": "謝, 德慶"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "American, born Taiwan, 1950",
-    "gender": "Male",
+    "displayBio": {
+        "en": "American, born Taiwan, 1950",
+        "zh-hant": "美國籍，1950年生於台灣"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1950,
     "endDate": null,
-    "nationality": "American"
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    }
 }

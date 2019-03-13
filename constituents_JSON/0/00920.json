@@ -1,16 +1,30 @@
 {
     "id": 920,
     "publicAccess": true,
-    "name": "Ha Chong-Hyun",
-    "nameOther": "河鍾賢",
-    "alphaSortName": "Ha, Chong-Hyun",
+    "name": {
+        "en": "Ha Chong-Hyun",
+        "zh-hant": "河鍾賢"
+    },
+    "alphaSortName": {
+        "en": "Ha, Chong-Hyun",
+        "zh-hant": "河鍾賢"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Korean, born 1935",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Korean, born 1935",
+        "zh-hant": "韓國籍，生於1935年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1935,
     "endDate": null,
-    "nationality": "South Korean"
+    "nationality": {
+        "en": "South Korean",
+        "zh-hant": "南韓籍"
+    }
 }

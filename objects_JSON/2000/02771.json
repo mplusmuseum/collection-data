@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "To Marry a Mule",
-    "titleOther": "娶頭騾子",
-    "displayDate": "1995 (2004)",
-    "displayDateOther": null,
+    "title": {
+        "en": "娶頭騾子",
+        "zh-hant": "To Marry a Mule"
+    },
+    "displayDate": {
+        "en": "1995 (2004)",
+        "zh-hant": null
+    },
     "beginDate": 1995,
     "endDate": 1995,
     "dimension": {
         "en": "sheet: 194.4 × 126.6 cm\r\r\nimage: 178 × 114.6 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 194.4 × 126.6 厘米  圖像: 178 × 114.6 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 447,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -1,9 +1,14 @@
 {
     "id": 450,
     "publicAccess": true,
-    "name": "Wang Keping",
-    "nameOther": "王克平",
-    "alphaSortName": "Wang, Keping",
+    "name": {
+        "en": "Wang Keping",
+        "zh-hant": "王克平"
+    },
+    "alphaSortName": {
+        "en": "Wang, Keping",
+        "zh-hant": "王, 克平"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
@@ -11,9 +16,18 @@
         "藝術家",
         "作品主體"
     ],
-    "displayBio": "Chinese, born 1949",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1949",
+        "zh-hant": "中國籍，生於1949年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1949,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

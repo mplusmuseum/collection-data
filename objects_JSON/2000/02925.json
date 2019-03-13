@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "1/2",
-    "titleOther": null,
-    "displayDate": "1998",
-    "displayDateOther": "2005",
+    "title": {
+        "en": "1/2",
+        "zh-hant": null
+    },
+    "displayDate": {
+        "en": "2005",
+        "zh-hant": "1998"
+    },
     "beginDate": 1998,
     "endDate": 1998,
     "dimension": {
         "en": "sheet: 200.3 × 100.3 cm\r\r\nimage: 102.3 × 85.1 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 200.3 × 100.3 厘米  圖像: 102.3 × 85.1 厘米"
     },
     "medium": {
         "en": "photographic print",
-        "zh-hant": null
+        "zh-hant": "沖印照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 577,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -1,16 +1,30 @@
 {
     "id": 287,
     "publicAccess": true,
-    "name": "Liao Guohe",
-    "nameOther": "廖國核",
-    "alphaSortName": "Liao, Guohe",
+    "name": {
+        "en": "Liao Guohe",
+        "zh-hant": "廖國核"
+    },
+    "alphaSortName": {
+        "en": "Liao, Guohe",
+        "zh-hant": "廖, 國核"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born India, 1977",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born India, 1977",
+        "zh-hant": "中國籍，1977年生於印度"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1977,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

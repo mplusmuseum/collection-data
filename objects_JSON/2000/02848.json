@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Print",
-            "zh-hant": null
+            "zh-hant": "版畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Young Lady II",
-    "titleOther": "侍女（二）",
-    "displayDate": "1980, reprinted 2005",
-    "displayDateOther": "1980年，2005年重印",
+    "title": {
+        "en": "侍女（二）",
+        "zh-hant": "Young Lady II"
+    },
+    "displayDate": {
+        "en": "1980年，2005年重印",
+        "zh-hant": "1980, reprinted 2005"
+    },
     "beginDate": 1980,
     "endDate": 1980,
     "dimension": {
         "en": "sheet (sight): 33.7 × 45.7 cm\r\nimage (sight): 28 × 39.7 cm",
-        "zh-hant": null
+        "zh-hant": "紙本 (目測量度): 33.7 × 45.7 厘米\r\n圖像 (目測量度): 28 × 39.7 厘米"
     },
     "medium": {
         "en": "woodcut",
-        "zh-hant": null
+        "zh-hant": "木刻版畫"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [
         {
             "id": 333,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

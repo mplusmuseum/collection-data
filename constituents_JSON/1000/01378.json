@@ -1,16 +1,30 @@
 {
     "id": 1378,
     "publicAccess": true,
-    "name": "Li Huayi",
-    "nameOther": "李華弌",
-    "alphaSortName": "Li, Huayi",
+    "name": {
+        "en": "Li Huayi",
+        "zh-hant": "李華弌"
+    },
+    "alphaSortName": {
+        "en": "Li, Huayi",
+        "zh-hant": "李華弌"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "American, born China, 1948",
-    "gender": "Male",
+    "displayBio": {
+        "en": "American, born China, 1948",
+        "zh-hant": "美國籍，1948年生於中國"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1948,
     "endDate": null,
-    "nationality": "American"
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    }
 }

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Ink Art",
-            "zh-hant": null
+            "zh-hant": "水墨"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Paris Riots",
-    "titleOther": "巴黎騷亂",
-    "displayDate": "2005",
-    "displayDateOther": null,
+    "title": {
+        "en": "巴黎騷亂",
+        "zh-hant": "Paris Riots"
+    },
+    "displayDate": {
+        "en": "2005",
+        "zh-hant": null
+    },
     "beginDate": 2005,
     "endDate": 2005,
     "dimension": {
         "en": "overall (open): 329 × 82 × 3.5 cm\r\r\nimage: 272.8 × 69.3 cm",
-        "zh-hant": null
+        "zh-hant": "整體 (打開): 329 × 82 × 3.5 厘米  圖像: 272.8 × 69.3 厘米"
     },
     "medium": {
         "en": "ink on paper",
-        "zh-hant": null
+        "zh-hant": "水墨紙本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 603,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

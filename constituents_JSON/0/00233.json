@@ -1,16 +1,30 @@
 {
     "id": 233,
     "publicAccess": true,
-    "name": "Ji Dachun",
-    "nameOther": "季大純",
-    "alphaSortName": "Ji, Dachun",
+    "name": {
+        "en": "Ji Dachun",
+        "zh-hant": "季大純"
+    },
+    "alphaSortName": {
+        "en": "Ji, Dachun",
+        "zh-hant": "季, 大純"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1968",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1968,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

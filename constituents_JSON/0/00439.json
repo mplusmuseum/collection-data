@@ -1,16 +1,30 @@
 {
     "id": 439,
     "publicAccess": true,
-    "name": "Charlotte von der Lancken",
-    "nameOther": null,
-    "alphaSortName": "von der Lancken, Charlotte",
+    "name": {
+        "en": "Charlotte von der Lancken",
+        "zh-hant": "Charlotte von der Lancken"
+    },
+    "alphaSortName": {
+        "en": "von der Lancken, Charlotte",
+        "zh-hant": "von der Lancken, Charlotte"
+    },
     "type": "Individual",
     "roles": [
         "Designer"
     ],
-    "displayBio": "Swedish, born 1978",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Swedish, born 1978",
+        "zh-hant": "瑞典籍，生於1978年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1978,
     "endDate": null,
-    "nationality": "Swedish"
+    "nationality": {
+        "en": "Swedish",
+        "zh-hant": "瑞典籍"
+    }
 }

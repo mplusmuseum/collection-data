@@ -1,16 +1,30 @@
 {
     "id": 311,
     "publicAccess": true,
-    "name": "Liu Wei",
-    "nameOther": "劉韡",
-    "alphaSortName": "Liu, Wei",
+    "name": {
+        "en": "Liu Wei",
+        "zh-hant": "劉韡"
+    },
+    "alphaSortName": {
+        "en": "Liu, Wei",
+        "zh-hant": "劉, 韡"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1972",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1972",
+        "zh-hant": "中國籍，1972年生於北京"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1972,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

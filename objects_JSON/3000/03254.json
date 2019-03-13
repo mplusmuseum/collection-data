@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "The Great Economic Retreat: The Dongguan Scene",
-    "titleOther": "經濟大撤退：東莞現場",
-    "displayDate": "2010",
-    "displayDateOther": "2008",
+    "title": {
+        "en": "經濟大撤退：東莞現場",
+        "zh-hant": "The Great Economic Retreat: The Dongguan Scene"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": "2010"
+    },
     "beginDate": 2010,
     "endDate": 2010,
     "dimension": {
         "en": "sheet (each): 115 × 300 cm",
-        "zh-hant": null
+        "zh-hant": "紙本 (各): 115 × 300 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 240,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

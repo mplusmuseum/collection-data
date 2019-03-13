@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Rainbow Series No.5",
-    "titleOther": "2006",
-    "displayDate": "2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "2006",
+        "zh-hant": "Rainbow Series No.5"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
         "en": "artist frame: 120.3 × 180.3 × 4.7 cm",
-        "zh-hant": null
+        "zh-hant": "原框: 120.3 × 180.3 × 4.7 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 238,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

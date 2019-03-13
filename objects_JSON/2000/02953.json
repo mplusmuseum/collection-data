@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Installation",
-            "zh-hant": null
+            "zh-hant": "裝置藝術"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "A Keepsake I cannot give away",
-    "titleOther": "送不出去的信物",
-    "displayDate": "2005–2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "送不出去的信物",
+        "zh-hant": "A Keepsake I cannot give away"
+    },
+    "displayDate": {
+        "en": "2005–2006",
+        "zh-hant": null
+    },
     "beginDate": 2005,
     "endDate": 2006,
     "dimension": {
         "en": "overall (largest): 78 × 30 × 1 cm\r\r\noverall (smallest): 38 × 17 × 0.6 cm",
-        "zh-hant": null
+        "zh-hant": "整體 (最大): 78 × 30 × 1 厘米\r\n整體 (最小): 38 × 17 × 0.6 厘米"
     },
     "medium": {
         "en": "mixed media installation consisting of artist hair, white silk twill, wooden embroidery rings",
-        "zh-hant": null
+        "zh-hant": "混合媒介裝置（藝術家的頭髮 、白綾、刺繡木手繃）"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 223,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -1,16 +1,30 @@
 {
     "id": 366,
     "publicAccess": true,
-    "name": "Peng Wei",
-    "nameOther": "彭薇",
-    "alphaSortName": "Peng, Wei",
+    "name": {
+        "en": "Peng Wei",
+        "zh-hant": "彭薇"
+    },
+    "alphaSortName": {
+        "en": "Peng, Wei",
+        "zh-hant": "彭, 薇"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1974",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1974",
+        "zh-hant": "中國籍，生於1974年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1974,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

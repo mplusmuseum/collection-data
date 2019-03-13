@@ -1,16 +1,30 @@
 {
     "id": 1440,
     "publicAccess": true,
-    "name": "Takashimaya Co., Ltd.",
-    "nameOther": "株式會社髙島屋",
-    "alphaSortName": "Takashimaya Co., Ltd.",
+    "name": {
+        "en": "Takashimaya Co., Ltd.",
+        "zh-hant": "株式會社髙島屋"
+    },
+    "alphaSortName": {
+        "en": "Takashimaya Co., Ltd.",
+        "zh-hant": "株式會社髙島屋"
+    },
     "type": "Organization",
     "roles": [
         "Publisher"
     ],
-    "displayBio": "established Kyoto, 1831",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Kyoto, 1831",
+        "zh-hant": "1831年成立於京都"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1831,
     "endDate": null,
-    "nationality": "Japanese"
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    }
 }

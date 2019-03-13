@@ -1,16 +1,30 @@
 {
     "id": 532,
     "publicAccess": true,
-    "name": "Yang Shaobin",
-    "nameOther": "楊少斌",
-    "alphaSortName": "Yang, Shaobin",
+    "name": {
+        "en": "Yang Shaobin",
+        "zh-hant": "楊少斌"
+    },
+    "alphaSortName": {
+        "en": "Yang, Shaobin",
+        "zh-hant": "楊, 少斌"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1963",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1963,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

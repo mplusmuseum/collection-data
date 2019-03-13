@@ -1,16 +1,30 @@
 {
     "id": 529,
     "publicAccess": true,
-    "name": "Yang Na",
-    "nameOther": "楊納",
-    "alphaSortName": "Yang, Na",
+    "name": {
+        "en": "Yang Na",
+        "zh-hant": "楊納"
+    },
+    "alphaSortName": {
+        "en": "Yang, Na",
+        "zh-hant": "楊, 納"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1982",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1982",
+        "zh-hant": "中國籍，生於1982年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1982,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

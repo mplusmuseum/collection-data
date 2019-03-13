@@ -1,16 +1,30 @@
 {
     "id": 123,
     "publicAccess": true,
-    "name": "Chao Ziyi",
-    "nameOther": "鈔子藝",
-    "alphaSortName": "Chao, Ziyi",
+    "name": {
+        "en": "Chao Ziyi",
+        "zh-hant": "鈔子藝"
+    },
+    "alphaSortName": {
+        "en": "Chao, Ziyi",
+        "zh-hant": "鈔子藝"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1970",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1970",
+        "zh-hant": "中國籍，生於1970年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1970,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

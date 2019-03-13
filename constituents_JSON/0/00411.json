@@ -1,17 +1,31 @@
 {
     "id": 411,
     "publicAccess": true,
-    "name": "Wilson Shieh Ka-ho",
-    "nameOther": "石家豪",
-    "alphaSortName": "Shieh Ka-ho, Wilson",
+    "name": {
+        "en": "Wilson Shieh Ka-ho",
+        "zh-hant": "石家豪"
+    },
+    "alphaSortName": {
+        "en": "Shieh Ka-ho, Wilson",
+        "zh-hant": "石家豪"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Hong Kong, born 1970",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Hong Kong, born 1970",
+        "zh-hant": "香港，生於1970年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1970,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

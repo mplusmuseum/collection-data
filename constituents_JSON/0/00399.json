@@ -1,16 +1,30 @@
 {
     "id": 399,
     "publicAccess": true,
-    "name": "Shao Yinong",
-    "nameOther": "邵逸農",
-    "alphaSortName": "Shao, Yinong",
+    "name": {
+        "en": "Shao Yinong",
+        "zh-hant": "邵逸農"
+    },
+    "alphaSortName": {
+        "en": "Shao, Yinong",
+        "zh-hant": "邵逸農"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1961",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1961",
+        "zh-hant": "中國籍，生於1961年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1961,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

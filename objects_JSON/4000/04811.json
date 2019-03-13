@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Extension- The Transition",
-    "titleOther": "擴延系列：混沌",
-    "displayDate": "1985",
-    "displayDateOther": null,
+    "title": {
+        "en": "擴延系列：混沌",
+        "zh-hant": "Extension- The Transition"
+    },
+    "displayDate": {
+        "en": "1985",
+        "zh-hant": null
+    },
     "beginDate": 1985,
     "endDate": 1985,
     "dimension": {
         "en": "frame (each): 121 × 161.8 cm\r\r\nimage (each): 118.4 × 149 cm",
-        "zh-hant": null
+        "zh-hant": "框架 (各): 121 × 161.8 厘米\r\n圖像 (各): 118.4 × 149 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+，香港"
     },
     "constituents": [
         {
             "id": 270,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

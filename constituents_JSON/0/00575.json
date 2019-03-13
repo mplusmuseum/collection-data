@@ -1,16 +1,30 @@
 {
     "id": 575,
     "publicAccess": true,
-    "name": "Zhang Fazhi",
-    "nameOther": "張發志",
-    "alphaSortName": "Zhang, Fazhi",
+    "name": {
+        "en": "Zhang Fazhi",
+        "zh-hant": "張發志"
+    },
+    "alphaSortName": {
+        "en": "Zhang, Fazhi",
+        "zh-hant": "張, 發志"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1976",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1976",
+        "zh-hant": "中國籍，生於1976年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1976,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

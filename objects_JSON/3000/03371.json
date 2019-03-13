@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Monk and Nun",
-    "titleOther": "和尚和尼姑",
-    "displayDate": "2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "和尚和尼姑",
+        "zh-hant": "Monk and Nun"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
         "en": "overall: 60 × 180 × 90 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 60 × 180 × 90 厘米"
     },
     "medium": {
         "en": "fiberglass",
-        "zh-hant": null
+        "zh-hant": "玻璃纖維"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 280,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

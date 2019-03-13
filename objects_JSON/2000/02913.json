@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Xiaoming Says,\"If One Day We Can Lie on the Grass together in the Sun...\" No. 4",
-    "titleOther": "《小明說, 如果有一天我們可以一起躺在草地上曬太陽》No.4",
-    "displayDate": "2004",
-    "displayDateOther": null,
+    "title": {
+        "en": "《小明說, 如果有一天我們可以一起躺在草地上曬太陽》No.4",
+        "zh-hant": "Xiaoming Says,\"If One Day We Can Lie on the Grass together in the Sun...\" No. 4"
+    },
+    "displayDate": {
+        "en": "2004",
+        "zh-hant": null
+    },
     "beginDate": 2004,
     "endDate": 2004,
     "dimension": {
         "en": "overall: 78.5 × 59 × 2.5 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 78.5 × 59 × 2.5 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 188,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Circumcision",
-    "titleOther": "手術",
-    "displayDate": "2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "手術",
+        "zh-hant": "Circumcision"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
         "en": "overall: 78 × 99.2 × 64.2 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 78 × 99.2 × 64.2 厘米"
     },
     "medium": {
         "en": "bronze",
-        "zh-hant": null
+        "zh-hant": "青銅"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 280,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

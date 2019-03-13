@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "EURO",
-    "titleOther": "歐元",
-    "displayDate": "2007",
-    "displayDateOther": null,
+    "title": {
+        "en": "歐元",
+        "zh-hant": "EURO"
+    },
+    "displayDate": {
+        "en": "2007",
+        "zh-hant": null
+    },
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
         "en": "dimensions variable",
-        "zh-hant": null
+        "zh-hant": "尺寸不一"
     },
     "medium": {
         "en": "coins",
-        "zh-hant": null
+        "zh-hant": "硬幣"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 601,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

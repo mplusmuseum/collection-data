@@ -1,16 +1,30 @@
 {
     "id": 953,
     "publicAccess": true,
-    "name": "Zheng Chongbin",
-    "nameOther": "鄭重賓",
-    "alphaSortName": "Zheng, Chongbin",
+    "name": {
+        "en": "Zheng Chongbin",
+        "zh-hant": "鄭重賓"
+    },
+    "alphaSortName": {
+        "en": "Zheng, Chongbin",
+        "zh-hant": "鄭重賓"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "American, born China, 1961",
-    "gender": "Male",
+    "displayBio": {
+        "en": "American, born China, 1961",
+        "zh-hant": "美國籍，1961年生於中國"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1961,
     "endDate": null,
-    "nationality": "American"
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    }
 }

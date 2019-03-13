@@ -1,17 +1,31 @@
 {
     "id": 328,
     "publicAccess": true,
-    "name": "Ken Lum",
-    "nameOther": "林蔭庭",
-    "alphaSortName": "Lum, Ken",
+    "name": {
+        "en": "Ken Lum",
+        "zh-hant": "林蔭庭"
+    },
+    "alphaSortName": {
+        "en": "Lum, Ken",
+        "zh-hant": "林蔭庭"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Canadian, born 1956",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Canadian, born 1956",
+        "zh-hant": "加拿大籍，生於1956年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1956,
     "endDate": null,
-    "nationality": "Canadian"
+    "nationality": {
+        "en": "Canadian",
+        "zh-hant": "加拿大籍"
+    }
 }

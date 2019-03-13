@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Yuanmingyuan: Rebirth",
-    "titleOther": "圓明園新生",
-    "displayDate": "1979",
-    "displayDateOther": null,
+    "title": {
+        "en": "圓明園新生",
+        "zh-hant": "Yuanmingyuan: Rebirth"
+    },
+    "displayDate": {
+        "en": "1979",
+        "zh-hant": null
+    },
     "beginDate": 1979,
     "endDate": 1979,
     "dimension": {
         "en": "artist frame: 57.7 × 72.3 cm",
-        "zh-hant": null
+        "zh-hant": "框架: 57.7 × 72.3 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [
         {
             "id": 228,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

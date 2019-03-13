@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Ice Surface Plan - Zebra Crossing",
-    "titleOther": "冰面計畫：斑馬線",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "冰面計畫：斑馬線",
+        "zh-hant": "Ice Surface Plan - Zebra Crossing"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
     "dimension": {
         "en": "sheet: 51.5 × 239.6 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 51.5 × 239.6 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 170,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

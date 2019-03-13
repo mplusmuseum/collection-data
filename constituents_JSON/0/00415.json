@@ -1,16 +1,30 @@
 {
     "id": 415,
     "publicAccess": true,
-    "name": "Song Kun",
-    "nameOther": "宋鯤",
-    "alphaSortName": "Song, Kun",
+    "name": {
+        "en": "Song Kun",
+        "zh-hant": "宋鯤"
+    },
+    "alphaSortName": {
+        "en": "Song, Kun",
+        "zh-hant": "宋, 鯤"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1977",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1977",
+        "zh-hant": "中國籍，生於1977年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1977,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Poster",
-            "zh-hant": null
+            "zh-hant": "海報"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Wall-Post",
-    "titleOther": "牆  海報",
-    "displayDate": "1993",
-    "displayDateOther": null,
+    "title": {
+        "en": "牆  海報",
+        "zh-hant": "Wall-Post"
+    },
+    "displayDate": {
+        "en": "1993",
+        "zh-hant": null
+    },
     "beginDate": 1993,
     "endDate": 1993,
     "dimension": {
         "en": "sheet: 79 × 54.5 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 79 × 54.5 厘米"
     },
     "medium": {
         "en": "print on paper",
-        "zh-hant": null
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 455,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -1,16 +1,30 @@
 {
     "id": 448,
     "publicAccess": true,
-    "name": "Wang Jinsong",
-    "nameOther": "王勁松",
-    "alphaSortName": "Wang, Jinsong",
+    "name": {
+        "en": "Wang Jinsong",
+        "zh-hant": "王勁松"
+    },
+    "alphaSortName": {
+        "en": "Wang, Jinsong",
+        "zh-hant": "王, 勁松"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1963",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1963,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

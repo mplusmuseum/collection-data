@@ -1,16 +1,30 @@
 {
     "id": 290,
     "publicAccess": true,
-    "name": "Richard Lin",
-    "nameOther": "林壽宇",
-    "alphaSortName": "Lin, Richard",
+    "name": {
+        "en": "Richard Lin",
+        "zh-hant": "林壽宇"
+    },
+    "alphaSortName": {
+        "en": "Lin, Richard",
+        "zh-hant": "林, 壽宇"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "British, born Taiwan. 1933–2011",
-    "gender": "Male",
+    "displayBio": {
+        "en": "British, born Taiwan. 1933–2011",
+        "zh-hant": "英國籍，生於台灣，1933–2011年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1933,
     "endDate": 2011,
-    "nationality": "British"
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    }
 }

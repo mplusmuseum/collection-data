@@ -1,16 +1,30 @@
 {
     "id": 1745,
     "publicAccess": true,
-    "name": "Nanjing Radio Broadcasting Factory",
-    "nameOther": "南京無線電廠",
-    "alphaSortName": "Nanjing Radio Broadcasting Factory",
+    "name": {
+        "en": "Nanjing Radio Broadcasting Factory",
+        "zh-hant": "南京無線電廠"
+    },
+    "alphaSortName": {
+        "en": "Nanjing Radio Broadcasting Factory",
+        "zh-hant": "南京無線電廠"
+    },
     "type": "Organization",
     "roles": [
         "Manufacturer"
     ],
-    "displayBio": "established Nanjing, 1946",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Nanjing, 1946",
+        "zh-hant": "1946年成立於南京"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1946,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

@@ -1,17 +1,31 @@
 {
     "id": 121,
     "publicAccess": true,
-    "name": "Yung Ho Chang",
-    "nameOther": "張永和",
-    "alphaSortName": "Chang, Yung Ho",
+    "name": {
+        "en": "Yung Ho Chang",
+        "zh-hant": "張永和"
+    },
+    "alphaSortName": {
+        "en": "Chang, Yung Ho",
+        "zh-hant": "張永和"
+    },
     "type": "Individual",
     "roles": [
         "Designer",
         "設計師"
     ],
-    "displayBio": "Chinese, born 1956",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1956",
+        "zh-hant": "中國籍，生於1956年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1956,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

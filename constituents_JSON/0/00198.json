@@ -1,16 +1,30 @@
 {
     "id": 198,
     "publicAccess": true,
-    "name": "Guo Wei",
-    "nameOther": "郭偉",
-    "alphaSortName": "Guo, Wei",
+    "name": {
+        "en": "Guo Wei",
+        "zh-hant": "郭偉"
+    },
+    "alphaSortName": {
+        "en": "Guo, Wei",
+        "zh-hant": "郭, 偉"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1960",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1960",
+        "zh-hant": "中國籍，生於1960年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1960,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

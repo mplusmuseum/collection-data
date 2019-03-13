@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Eating Drinking Shitting Pissing Sleeping",
-    "titleOther": "吃喝拉撒睡",
-    "displayDate": "1999",
-    "displayDateOther": null,
+    "title": {
+        "en": "吃喝拉撒睡",
+        "zh-hant": "Eating Drinking Shitting Pissing Sleeping"
+    },
+    "displayDate": {
+        "en": "1999",
+        "zh-hant": null
+    },
     "beginDate": 1999,
     "endDate": 1999,
     "dimension": {
         "en": "artist frame (each): 77.7 × 77.7 × 9 cm\r\r\nimage (each, sight): 75.6 × 75.6 cm",
-        "zh-hant": null
+        "zh-hant": "原框 (各): 77.7 × 77.7 × 9 厘米\r\r\n圖像 (各, 目測量度): 75.6 × 75.6 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 414,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

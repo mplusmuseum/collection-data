@@ -1,14 +1,30 @@
 {
     "id": 2760,
     "publicAccess": true,
-    "name": null,
-    "nameOther": null,
-    "alphaSortName": null,
-    "type": null,
-    "roles": null,
-    "displayBio": null,
-    "gender": null,
-    "beginDate": 2003,
-    "endDate": 2003,
-    "nationality": null
+    "name": {
+        "en": "Chow Chun-fai",
+        "zh-hant": "周俊輝"
+    },
+    "alphaSortName": {
+        "en": "Chow, Chun-fai",
+        "zh-hant": "周俊輝"
+    },
+    "type": "Individual",
+    "roles": [
+        "Artist"
+    ],
+    "displayBio": {
+        "en": "Hong Kong, born 1980",
+        "zh-hant": "香港，生於1980年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
+    "beginDate": 1980,
+    "endDate": null,
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

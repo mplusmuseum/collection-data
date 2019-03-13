@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "In purity I silently reach for you...",
-    "titleOther": "在純潔裡我慢慢的追尋你",
-    "displayDate": "2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "在純潔裡我慢慢的追尋你",
+        "zh-hant": "In purity I silently reach for you..."
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": null
+    },
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
         "en": "dimensions variable",
-        "zh-hant": null
+        "zh-hant": "尺寸不一"
     },
     "medium": {
         "en": "mixed media installation consisting of seven ready-made objects",
-        "zh-hant": null
+        "zh-hant": "混合媒介裝置，由七件現成物件組成"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 249,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -1,16 +1,30 @@
 {
     "id": 2789,
     "publicAccess": true,
-    "name": "Zhang Hai'er",
-    "nameOther": "張海兒",
-    "alphaSortName": "zhang, Hai'er",
+    "name": {
+        "en": "Zhang Hai'er",
+        "zh-hant": "張海兒"
+    },
+    "alphaSortName": {
+        "en": "zhang, Hai'er",
+        "zh-hant": "張, 海兒"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1957",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1957",
+        "zh-hant": "中國籍，生於1957年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1957,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

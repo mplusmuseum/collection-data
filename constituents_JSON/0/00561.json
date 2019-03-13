@@ -1,16 +1,30 @@
 {
     "id": 561,
     "publicAccess": true,
-    "name": "Yuan Xiao Fang",
-    "nameOther": "袁曉舫",
-    "alphaSortName": "Yuan, Xiao Fang",
+    "name": {
+        "en": "Yuan Xiao Fang",
+        "zh-hant": "袁曉舫"
+    },
+    "alphaSortName": {
+        "en": "Yuan, Xiao Fang",
+        "zh-hant": "袁, 曉舫"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1961",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1961",
+        "zh-hant": "中國籍，生於1961年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1961,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Chain",
-    "titleOther": "鏈",
-    "displayDate": "1979",
-    "displayDateOther": null,
+    "title": {
+        "en": "鏈",
+        "zh-hant": "Chain"
+    },
+    "displayDate": {
+        "en": "1979",
+        "zh-hant": null
+    },
     "beginDate": 1979,
     "endDate": 1979,
     "dimension": {
         "en": "overall: 53 × 37 × 13.2 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 53 × 37 × 13.2 厘米"
     },
     "medium": {
         "en": "wood",
-        "zh-hant": null
+        "zh-hant": "木"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [
         {
             "id": 450,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

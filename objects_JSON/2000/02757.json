@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Fist",
-    "titleOther": "拳頭",
-    "displayDate": "1981",
-    "displayDateOther": null,
+    "title": {
+        "en": "拳頭",
+        "zh-hant": "Fist"
+    },
+    "displayDate": {
+        "en": "1981",
+        "zh-hant": null
+    },
     "beginDate": 1981,
     "endDate": 1981,
     "dimension": {
         "en": "overall: 56.5 × 26 × 15 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 56.5 × 26 × 15 厘米"
     },
     "medium": {
         "en": "wood",
-        "zh-hant": null
+        "zh-hant": "木"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [
         {
             "id": 450,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

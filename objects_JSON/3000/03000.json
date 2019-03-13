@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Floating Landscape",
-    "titleOther": "漂浮的風景",
-    "displayDate": "2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "漂浮的風景",
+        "zh-hant": "Floating Landscape"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
         "en": "overall: 9 × 60 × 22 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 9 × 60 × 22 厘米"
     },
     "medium": {
         "en": "glass and porcelain",
-        "zh-hant": null
+        "zh-hant": "玻璃、瓷"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 305,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -1,16 +1,30 @@
 {
     "id": 1700,
     "publicAccess": true,
-    "name": "Dai Fujiwara",
-    "nameOther": "藤原大",
-    "alphaSortName": "Fujiwara, Dai",
+    "name": {
+        "en": "Dai Fujiwara",
+        "zh-hant": "藤原大"
+    },
+    "alphaSortName": {
+        "en": "Fujiwara, Dai",
+        "zh-hant": "藤原大"
+    },
     "type": "Individual",
     "roles": [
         "Designer"
     ],
-    "displayBio": "Japanese, born 1967",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Japanese, born 1967",
+        "zh-hant": "日本籍，生於1967年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1967,
     "endDate": null,
-    "nationality": "Japanese"
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    }
 }

@@ -1,16 +1,30 @@
 {
     "id": 297,
     "publicAccess": true,
-    "name": "Sophia Liu Bo",
-    "nameOther": "劉波",
-    "alphaSortName": "Liu Bo, Sophia",
+    "name": {
+        "en": "Sophia Liu Bo",
+        "zh-hant": "劉波"
+    },
+    "alphaSortName": {
+        "en": "Liu Bo, Sophia",
+        "zh-hant": "劉, 波"
+    },
     "type": "Individual",
     "roles": [
         "Designer"
     ],
-    "displayBio": "Chinese, born 1973",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1973",
+        "zh-hant": "中國籍，生於1973年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1973,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

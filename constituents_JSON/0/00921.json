@@ -1,16 +1,30 @@
 {
     "id": 921,
     "publicAccess": true,
-    "name": "Hung Fai",
-    "nameOther": "熊輝",
-    "alphaSortName": "Hung, Fai",
+    "name": {
+        "en": "Hung Fai",
+        "zh-hant": "熊輝"
+    },
+    "alphaSortName": {
+        "en": "Hung, Fai",
+        "zh-hant": "Hung Fai"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Hong Kong, born 1988",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Hong Kong, born 1988",
+        "zh-hant": "香港，生於1988年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1988,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

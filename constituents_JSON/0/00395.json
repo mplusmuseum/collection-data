@@ -1,16 +1,30 @@
 {
     "id": 395,
     "publicAccess": true,
-    "name": "Shan Fan",
-    "nameOther": "單凡",
-    "alphaSortName": "Shan, Fan",
+    "name": {
+        "en": "Shan Fan",
+        "zh-hant": "單凡"
+    },
+    "alphaSortName": {
+        "en": "Shan, Fan",
+        "zh-hant": "單, 凡"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1959",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1959",
+        "zh-hant": "中國籍，生於1959年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1959,
     "endDate": null,
-    "nationality": "German"
+    "nationality": {
+        "en": "German",
+        "zh-hant": "德國籍"
+    }
 }

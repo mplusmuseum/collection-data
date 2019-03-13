@@ -1,17 +1,31 @@
 {
     "id": 259,
     "publicAccess": true,
-    "name": "Ian Lambot",
-    "nameOther": "林保賢",
-    "alphaSortName": "Lambot, Ian",
+    "name": {
+        "en": "Ian Lambot",
+        "zh-hant": "林保賢"
+    },
+    "alphaSortName": {
+        "en": "Lambot, Ian",
+        "zh-hant": "林保賢"
+    },
     "type": "Individual",
     "roles": [
         "Photographer",
         "攝影師"
     ],
-    "displayBio": "British, born 1953",
-    "gender": "Male",
+    "displayBio": {
+        "en": "British, born 1953",
+        "zh-hant": "英國籍，生於1953年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1953,
     "endDate": null,
-    "nationality": "British"
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    }
 }

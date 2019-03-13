@@ -1,9 +1,14 @@
 {
     "id": 1530,
     "publicAccess": true,
-    "name": "Unknown (Mainland China)",
-    "nameOther": "佚名 (中國內地)",
-    "alphaSortName": "Unknown (Mainland China)",
+    "name": {
+        "en": "Unknown (Mainland China)",
+        "zh-hant": "佚名 (中國內地)"
+    },
+    "alphaSortName": {
+        "en": "Unknown (Mainland China)",
+        "zh-hant": "佚名 (中國內地)"
+    },
     "type": "Individual",
     "roles": [
         "Designer/Producer",
@@ -13,9 +18,18 @@
         "製造商",
         "設計師"
     ],
-    "displayBio": null,
-    "gender": "Unknown",
+    "displayBio": {
+        "en": null,
+        "zh-hant": null
+    },
+    "gender": {
+        "en": "Unknown",
+        "zh-hant": "不詳"
+    },
     "beginDate": null,
     "endDate": null,
-    "nationality": null
+    "nationality": {
+        "en": null,
+        "zh-hant": null
+    }
 }

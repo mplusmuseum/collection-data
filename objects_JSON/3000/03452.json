@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "The Second Face",
-    "titleOther": "第二張臉",
-    "displayDate": "2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "第二張臉",
+        "zh-hant": "The Second Face"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
     "dimension": {
         "en": "each (average): 110.2 × 84.8 cm\r\r\neach: 83.9 × 56.9 cm",
-        "zh-hant": null
+        "zh-hant": "各 (平均): 110.2 × 84.8 厘米  各: 83.9 × 56.9 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 306,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

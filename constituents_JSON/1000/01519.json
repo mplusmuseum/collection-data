@@ -1,16 +1,30 @@
 {
     "id": 1519,
     "publicAccess": true,
-    "name": "Kowloon Rattan Ware Co.",
-    "nameOther": "九龍籐器公司",
-    "alphaSortName": "Kowloon Rattan Ware Co.",
+    "name": {
+        "en": "Kowloon Rattan Ware Co.",
+        "zh-hant": "九龍籐器公司"
+    },
+    "alphaSortName": {
+        "en": "Kowloon Rattan Ware Co.",
+        "zh-hant": "九龍籐器公司"
+    },
     "type": "Organization",
     "roles": [
         "Manufacturer"
     ],
-    "displayBio": "established Hong Kong, 1925–2003",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Hong Kong, 1925–2003",
+        "zh-hant": "成立於香港，1925至2003年"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1925,
     "endDate": 2003,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

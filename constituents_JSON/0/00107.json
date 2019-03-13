@@ -1,16 +1,30 @@
 {
     "id": 107,
     "publicAccess": true,
-    "name": "Cai Jin",
-    "nameOther": "蔡錦",
-    "alphaSortName": "Cai, Jin",
+    "name": {
+        "en": "Cai Jin",
+        "zh-hant": "蔡錦"
+    },
+    "alphaSortName": {
+        "en": "Cai, Jin",
+        "zh-hant": "蔡, 錦"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1965",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1965",
+        "zh-hant": "中國籍，生於1965年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1965,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

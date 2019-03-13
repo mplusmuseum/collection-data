@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Installation",
-            "zh-hant": null
+            "zh-hant": "裝置藝術"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Mulan River Project",
-    "titleOther": "木蘭溪計畫",
-    "displayDate": "2008–2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "木蘭溪計畫",
+        "zh-hant": "Mulan River Project"
+    },
+    "displayDate": {
+        "en": "2008–2011",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2011,
     "dimension": {
         "en": "dimensions variable",
-        "zh-hant": null
+        "zh-hant": "尺寸不一"
     },
     "medium": {
         "en": "mixed media installation",
-        "zh-hant": null
+        "zh-hant": "混合媒介裝置"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 144,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

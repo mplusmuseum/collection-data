@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "The Landscape of the Age of Empire No. 2",
-    "titleOther": "帝國時代的風景 第2號",
-    "displayDate": "2007",
-    "displayDateOther": null,
+    "title": {
+        "en": "帝國時代的風景 第2號",
+        "zh-hant": "The Landscape of the Age of Empire No. 2"
+    },
+    "displayDate": {
+        "en": "2007",
+        "zh-hant": null
+    },
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
         "en": "overall: 189.6 × 201.5 × 4 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 189.6 × 201.5 × 4 厘米"
     },
     "medium": {
         "en": "oil and digital print on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩數碼印刷畫布"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 603,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

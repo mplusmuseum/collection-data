@@ -1,16 +1,30 @@
 {
     "id": 241,
     "publicAccess": true,
-    "name": "Jing Kewen",
-    "nameOther": "景柯文",
-    "alphaSortName": "Jing, Kewen",
+    "name": {
+        "en": "Jing Kewen",
+        "zh-hant": "景柯文"
+    },
+    "alphaSortName": {
+        "en": "Jing, Kewen",
+        "zh-hant": "景, 柯文"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1965",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1965",
+        "zh-hant": "中國籍，生於1965年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1965,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

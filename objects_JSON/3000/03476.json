@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Red Stop Sign",
-    "titleOther": "紅站牌",
-    "displayDate": "1974",
-    "displayDateOther": null,
+    "title": {
+        "en": "紅站牌",
+        "zh-hant": "Red Stop Sign"
+    },
+    "displayDate": {
+        "en": "1974",
+        "zh-hant": null
+    },
     "beginDate": 1974,
     "endDate": 1974,
     "dimension": {
         "en": "sheet (sight): 17.4 × 24.5 cm",
-        "zh-hant": null
+        "zh-hant": "紙本 (目測量度): 17.4 × 24.5 厘米"
     },
     "medium": {
         "en": "oil on paper",
-        "zh-hant": null
+        "zh-hant": "油彩紙本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [
         {
             "id": 588,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

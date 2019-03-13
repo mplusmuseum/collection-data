@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "EXPE10",
-    "titleOther": null,
-    "displayDate": "1981",
-    "displayDateOther": null,
+    "title": {
+        "en": "EXPE10",
+        "zh-hant": null
+    },
+    "displayDate": {
+        "en": "1981",
+        "zh-hant": null
+    },
     "beginDate": 1981,
     "endDate": 1981,
     "dimension": {
         "en": "image (sight): 108.2 × 82.1 cm",
-        "zh-hant": null
+        "zh-hant": "圖像 (目測量度): 108.2 × 82.1 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [
         {
             "id": 588,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

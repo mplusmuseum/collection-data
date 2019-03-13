@@ -1,16 +1,30 @@
 {
     "id": 570,
     "publicAccess": true,
-    "name": "Zhan Rui",
-    "nameOther": "詹蕤",
-    "alphaSortName": "Zhan, Rui",
+    "name": {
+        "en": "Zhan Rui",
+        "zh-hant": "詹蕤"
+    },
+    "alphaSortName": {
+        "en": "Zhan, Rui",
+        "zh-hant": "詹, 蕤"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1980",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1980",
+        "zh-hant": "中國籍，生於1980年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1980,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

@@ -1,16 +1,30 @@
 {
     "id": 454,
     "publicAccess": true,
-    "name": "Wang Ningde",
-    "nameOther": "王寧德",
-    "alphaSortName": "Wang, Ningde",
+    "name": {
+        "en": "Wang Ningde",
+        "zh-hant": "王寧德"
+    },
+    "alphaSortName": {
+        "en": "Wang, Ningde",
+        "zh-hant": "王, 寧德"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1972",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1972",
+        "zh-hant": "中國籍，生於1972年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1972,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

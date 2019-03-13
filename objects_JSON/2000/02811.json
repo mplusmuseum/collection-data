@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Wave Hand",
-    "titleOther": "揮手",
-    "displayDate": "2002",
-    "displayDateOther": null,
+    "title": {
+        "en": "揮手",
+        "zh-hant": "Wave Hand"
+    },
+    "displayDate": {
+        "en": "2002",
+        "zh-hant": null
+    },
     "beginDate": 2002,
     "endDate": 2002,
     "dimension": {
         "en": "overall (approx.): 110.2 × 330.2 cm",
-        "zh-hant": null
+        "zh-hant": "整體 （約）: 110.2 × 330.2 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 271,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

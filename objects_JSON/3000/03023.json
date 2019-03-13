@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Nansha Horizon",
-    "titleOther": "南沙地平線",
-    "displayDate": "2002–2005",
-    "displayDateOther": null,
+    "title": {
+        "en": "南沙地平線",
+        "zh-hant": "Nansha Horizon"
+    },
+    "displayDate": {
+        "en": "2002–2005",
+        "zh-hant": null
+    },
     "beginDate": 2002,
     "endDate": 2005,
     "dimension": {
         "en": "sheet: 49.7 × 60.8 cm\r\r\nimage: 21 × 56.2 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 49.7 × 60.8 厘米  圖像: 21 × 56.2 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": null
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 506,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

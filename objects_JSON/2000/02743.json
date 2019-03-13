@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "The Four Beauties",
-    "titleOther": "四美圖",
-    "displayDate": "2004",
-    "displayDateOther": null,
+    "title": {
+        "en": "四美圖",
+        "zh-hant": "The Four Beauties"
+    },
+    "displayDate": {
+        "en": "2004",
+        "zh-hant": null
+    },
     "beginDate": 2004,
     "endDate": 2004,
     "dimension": {
         "en": "sheet (sight): 114.1 × 213 cm",
-        "zh-hant": null
+        "zh-hant": "紙本 (目測量度): 114.1 × 213 厘米"
     },
     "medium": {
         "en": "digital chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "數碼彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 315,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

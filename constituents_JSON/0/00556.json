@@ -1,16 +1,30 @@
 {
     "id": 556,
     "publicAccess": true,
-    "name": "Yu Hong",
-    "nameOther": "喻紅",
-    "alphaSortName": "Yu, Hong",
+    "name": {
+        "en": "Yu Hong",
+        "zh-hant": "喻紅"
+    },
+    "alphaSortName": {
+        "en": "Yu, Hong",
+        "zh-hant": "喻, 紅"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1966",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1966",
+        "zh-hant": "中國籍，生於1966年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1966,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

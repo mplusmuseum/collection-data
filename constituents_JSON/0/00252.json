@@ -1,17 +1,31 @@
 {
     "id": 252,
     "publicAccess": true,
-    "name": "Kuramata Shiro",
-    "nameOther": "倉俁史朗",
-    "alphaSortName": "Kuramata, Shiro",
+    "name": {
+        "en": "Kuramata Shiro",
+        "zh-hant": "倉俁史朗"
+    },
+    "alphaSortName": {
+        "en": "Kuramata, Shiro",
+        "zh-hant": "倉俁史朗"
+    },
     "type": "Individual",
     "roles": [
         "Subject",
         "作品主體"
     ],
-    "displayBio": "Japanese, 1934–1991",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Japanese, 1934–1991",
+        "zh-hant": "日本籍，1934–1991年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1934,
     "endDate": 1991,
-    "nationality": "Japanese"
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    }
 }

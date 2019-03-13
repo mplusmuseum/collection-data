@@ -1,9 +1,14 @@
 {
     "id": 4074,
     "publicAccess": true,
-    "name": "Sumet Jumsai",
-    "nameOther": "書梅春塞",
-    "alphaSortName": "Jumsai, Sumet",
+    "name": {
+        "en": "Sumet Jumsai",
+        "zh-hant": "書梅春塞"
+    },
+    "alphaSortName": {
+        "en": "Jumsai, Sumet",
+        "zh-hant": "春塞, 書梅"
+    },
     "type": "Individual",
     "roles": [
         "Architect",
@@ -11,9 +16,18 @@
         "建檔者",
         "建築師"
     ],
-    "displayBio": "Thai, born 1939",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Thai, born 1939",
+        "zh-hant": "泰國籍，生於1939年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1939,
     "endDate": null,
-    "nationality": "Thai"
+    "nationality": {
+        "en": "Thai",
+        "zh-hant": "泰國籍"
+    }
 }

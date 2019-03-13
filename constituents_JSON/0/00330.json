@@ -1,16 +1,30 @@
 {
     "id": 330,
     "publicAccess": true,
-    "name": "Luo Hui",
-    "nameOther": "羅琿",
-    "alphaSortName": "Luo, Hui",
+    "name": {
+        "en": "Luo Hui",
+        "zh-hant": "羅琿"
+    },
+    "alphaSortName": {
+        "en": "Luo, Hui",
+        "zh-hant": "羅, 琿"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1973",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1973",
+        "zh-hant": "中國籍，生於1973年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1973,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

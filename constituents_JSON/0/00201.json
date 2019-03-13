@@ -1,16 +1,30 @@
 {
     "id": 201,
     "publicAccess": true,
-    "name": "Hai Bo",
-    "nameOther": "海波",
-    "alphaSortName": "Hai, Bo",
+    "name": {
+        "en": "Hai Bo",
+        "zh-hant": "海波"
+    },
+    "alphaSortName": {
+        "en": "Hai, Bo",
+        "zh-hant": "海, 波"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1962",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1962",
+        "zh-hant": "中國籍，生於1962年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1962,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

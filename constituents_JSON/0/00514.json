@@ -1,17 +1,31 @@
 {
     "id": 514,
     "publicAccess": true,
-    "name": "Xu Zhen",
-    "nameOther": "徐震",
-    "alphaSortName": "Xu, Zhen",
+    "name": {
+        "en": "Xu Zhen",
+        "zh-hant": "徐震"
+    },
+    "alphaSortName": {
+        "en": "Xu, Zhen",
+        "zh-hant": "徐, 震"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Chinese, born 1977",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1977",
+        "zh-hant": "中國籍，生於1977年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1977,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

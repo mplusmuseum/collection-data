@@ -1,16 +1,30 @@
 {
     "id": 169,
     "publicAccess": true,
-    "name": "Du Xiuxian",
-    "nameOther": "杜修賢",
-    "alphaSortName": "Du, Xiuxian",
+    "name": {
+        "en": "Du Xiuxian",
+        "zh-hant": "杜修賢"
+    },
+    "alphaSortName": {
+        "en": "Du, Xiuxian",
+        "zh-hant": "杜, 修賢"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, 1926–2014",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, 1926–2014",
+        "zh-hant": "中國籍，1926–2014年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1926,
     "endDate": 2014,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

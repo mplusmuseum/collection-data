@@ -1,16 +1,30 @@
 {
     "id": 192,
     "publicAccess": true,
-    "name": "Gu Wenda",
-    "nameOther": "谷文達",
-    "alphaSortName": "Gu, Wenda",
+    "name": {
+        "en": "Gu Wenda",
+        "zh-hant": "谷文達"
+    },
+    "alphaSortName": {
+        "en": "Gu, Wenda",
+        "zh-hant": "谷, 文達"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1955",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1955",
+        "zh-hant": "中國籍，生於1955年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1955,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

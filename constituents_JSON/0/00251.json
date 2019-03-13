@@ -1,16 +1,30 @@
 {
     "id": 251,
     "publicAccess": true,
-    "name": "Kuang Jun",
-    "nameOther": "匡峻",
-    "alphaSortName": "Kuang Jun",
+    "name": {
+        "en": "Kuang Jun",
+        "zh-hant": "匡峻"
+    },
+    "alphaSortName": {
+        "en": "Kuang Jun",
+        "zh-hant": "匡, 峻"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1978",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1978",
+        "zh-hant": "中國籍，生於1978年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1978,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

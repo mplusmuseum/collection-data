@@ -1,16 +1,30 @@
 {
     "id": 597,
     "publicAccess": true,
-    "name": "Zhao Nenzhi",
-    "nameOther": "趙能智",
-    "alphaSortName": "Zhao, Nenzhi",
+    "name": {
+        "en": "Zhao Nenzhi",
+        "zh-hant": "趙能智"
+    },
+    "alphaSortName": {
+        "en": "Zhao, Nenzhi",
+        "zh-hant": "趙, 能智"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1968",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1968,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

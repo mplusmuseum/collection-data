@@ -1,16 +1,30 @@
 {
     "id": 421,
     "publicAccess": true,
-    "name": "Sui Jianguo",
-    "nameOther": "隋建國",
-    "alphaSortName": "Sui, Jianguo",
+    "name": {
+        "en": "Sui Jianguo",
+        "zh-hant": "隋建國"
+    },
+    "alphaSortName": {
+        "en": "Sui, Jianguo",
+        "zh-hant": "隋, 建國"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1956",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1956",
+        "zh-hant": "中國籍，生於1956年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1956,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

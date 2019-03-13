@@ -1,16 +1,30 @@
 {
     "id": 232,
     "publicAccess": true,
-    "name": "Christian Jankowski",
-    "nameOther": "克里斯坦·揚可夫斯基",
-    "alphaSortName": "Jankowski, Christian",
+    "name": {
+        "en": "Christian Jankowski",
+        "zh-hant": "克里斯坦·揚可夫斯基"
+    },
+    "alphaSortName": {
+        "en": "Jankowski, Christian",
+        "zh-hant": "克里斯坦·揚可夫斯基"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "German, born 1968",
-    "gender": "Male",
+    "displayBio": {
+        "en": "German, born 1968",
+        "zh-hant": "德國籍，生於1968年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1968,
     "endDate": null,
-    "nationality": "German"
+    "nationality": {
+        "en": "German",
+        "zh-hant": "德國籍"
+    }
 }

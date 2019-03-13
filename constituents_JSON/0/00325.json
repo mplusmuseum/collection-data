@@ -1,16 +1,30 @@
 {
     "id": 325,
     "publicAccess": true,
-    "name": "Lu Yuanmin",
-    "nameOther": "陸元敏",
-    "alphaSortName": "Lu, Yuanmin",
+    "name": {
+        "en": "Lu Yuanmin",
+        "zh-hant": "陸元敏"
+    },
+    "alphaSortName": {
+        "en": "Lu, Yuanmin",
+        "zh-hant": "陸, 元敏"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1950",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1950",
+        "zh-hant": "中國籍，生於1950年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1950,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

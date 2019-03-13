@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Installation",
-            "zh-hant": null
+            "zh-hant": "裝置藝術"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Clean Lines",
-    "titleOther": "潔矩",
-    "displayDate": "2007",
-    "displayDateOther": null,
+    "title": {
+        "en": "潔矩",
+        "zh-hant": "Clean Lines"
+    },
+    "displayDate": {
+        "en": "2007",
+        "zh-hant": null
+    },
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
         "en": "overall: 400 × 300 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 400 × 300 厘米"
     },
     "medium": {
         "en": "cobblestone",
-        "zh-hant": null
+        "zh-hant": "圓石"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 535,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

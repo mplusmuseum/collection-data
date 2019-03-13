@@ -1,16 +1,30 @@
 {
     "id": 509,
     "publicAccess": true,
-    "name": "Xu Ruotao",
-    "nameOther": "徐若濤",
-    "alphaSortName": "Xu, Ruotao",
+    "name": {
+        "en": "Xu Ruotao",
+        "zh-hant": "徐若濤"
+    },
+    "alphaSortName": {
+        "en": "Xu, Ruotao",
+        "zh-hant": "徐, 若濤"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1968",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1968,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

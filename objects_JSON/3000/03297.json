@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "\"I'm a Little Scared. The Sky is Getting Gloomy.\"",
-    "titleOther": "\"陰天了，我有點怕\"",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "\"陰天了，我有點怕\"",
+        "zh-hant": "\"I'm a Little Scared. The Sky is Getting Gloomy.\""
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
     "dimension": {
         "en": "overall: 229 × 480.2 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 229 × 480.2 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 152,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

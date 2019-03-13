@@ -1,17 +1,31 @@
 {
     "id": 348,
     "publicAccess": true,
-    "name": "Linda Montano",
-    "nameOther": null,
-    "alphaSortName": "Montano, Linda",
+    "name": {
+        "en": "Linda Montano",
+        "zh-hant": "Linda Montano"
+    },
+    "alphaSortName": {
+        "en": "Montano, Linda",
+        "zh-hant": "Montano, Linda"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "American, born 1942",
-    "gender": "Female",
+    "displayBio": {
+        "en": "American, born 1942",
+        "zh-hant": "美國籍，生於1942年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1942,
     "endDate": null,
-    "nationality": "American"
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    }
 }

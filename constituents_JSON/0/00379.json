@@ -1,16 +1,30 @@
 {
     "id": 379,
     "publicAccess": true,
-    "name": "Qiu Shihua",
-    "nameOther": "邱世華",
-    "alphaSortName": "Qiu, Shi Hua",
+    "name": {
+        "en": "Qiu Shihua",
+        "zh-hant": "邱世華"
+    },
+    "alphaSortName": {
+        "en": "Qiu, Shi Hua",
+        "zh-hant": "邱, 世華"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1940",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1940",
+        "zh-hant": "中國籍，生於1940年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1940,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

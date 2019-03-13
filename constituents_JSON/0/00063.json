@@ -1,9 +1,14 @@
 {
     "id": 63,
     "publicAccess": true,
-    "name": "Simon Kwan & Associates Limited",
-    "nameOther": "關善明建築師事務所",
-    "alphaSortName": "Simon Kwan & Associates Limited",
+    "name": {
+        "en": "Simon Kwan & Associates Limited",
+        "zh-hant": "關善明建築師事務所"
+    },
+    "alphaSortName": {
+        "en": "Simon Kwan & Associates Limited",
+        "zh-hant": "關善明建築師事務所"
+    },
     "type": "Organization",
     "roles": [
         "Architectural Firm",
@@ -11,9 +16,18 @@
         "建檔者",
         "建築師事務所"
     ],
-    "displayBio": "established Hong Kong, 1973",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Hong Kong, 1973",
+        "zh-hant": "1973年成立於香港"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1973,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

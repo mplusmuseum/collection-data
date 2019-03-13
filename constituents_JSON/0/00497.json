@@ -1,16 +1,30 @@
 {
     "id": 497,
     "publicAccess": true,
-    "name": "Xie Nanxing",
-    "nameOther": "謝南星",
-    "alphaSortName": "Xie, Nanxing",
+    "name": {
+        "en": "Xie Nanxing",
+        "zh-hant": "謝南星"
+    },
+    "alphaSortName": {
+        "en": "Xie, Nanxing",
+        "zh-hant": "謝, 南星"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1970",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1970",
+        "zh-hant": "中國籍，生於1970年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1970,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

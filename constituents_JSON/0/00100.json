@@ -1,17 +1,31 @@
 {
     "id": 100,
     "publicAccess": true,
-    "name": "Ron Arad",
-    "nameOther": "羅恩·阿拉德",
-    "alphaSortName": "Arad, Ron",
+    "name": {
+        "en": "Ron Arad",
+        "zh-hant": "羅恩·阿拉德"
+    },
+    "alphaSortName": {
+        "en": "Arad, Ron",
+        "zh-hant": "羅恩·阿拉德"
+    },
     "type": "Individual",
     "roles": [
         "Designer",
         "設計師"
     ],
-    "displayBio": "British, born Israel, 1951",
-    "gender": "Male",
+    "displayBio": {
+        "en": "British, born Israel, 1951",
+        "zh-hant": "英國籍，1951年生於以色列"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1951,
     "endDate": null,
-    "nationality": "Israeli"
+    "nationality": {
+        "en": "Israeli",
+        "zh-hant": "以色列籍"
+    }
 }

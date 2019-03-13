@@ -1,17 +1,31 @@
 {
     "id": 510,
     "publicAccess": true,
-    "name": "Xu Tan",
-    "nameOther": "徐坦",
-    "alphaSortName": "Xu, Tan",
+    "name": {
+        "en": "Xu Tan",
+        "zh-hant": "徐坦"
+    },
+    "alphaSortName": {
+        "en": "Xu, Tan",
+        "zh-hant": "徐坦"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Chinese, born 1957",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1957",
+        "zh-hant": "中國籍，生於1957年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1957,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

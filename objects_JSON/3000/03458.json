@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "The People's Conference Hall",
-    "titleOther": "人民大會堂",
-    "displayDate": "2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "人民大會堂",
+        "zh-hant": "The People's Conference Hall"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
         "en": "frame: 191 × 133.7 cm\r\r\nsheet (sight): 182.7 × 125.5 cm\r\r\nimage (sight): 161.1 × 110.1 cm",
-        "zh-hant": null
+        "zh-hant": "連框: 191 × 133.7 厘米  紙本 （目測量度）: 182.7 × 125.5 厘米  圖像 （目測量度）: 161.1 × 110.1 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 177,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

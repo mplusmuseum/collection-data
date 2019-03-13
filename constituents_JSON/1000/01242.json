@@ -1,16 +1,30 @@
 {
     "id": 1242,
     "publicAccess": true,
-    "name": "Antonio Mak",
-    "nameOther": "麥顯揚",
-    "alphaSortName": "Mak, Antonio",
+    "name": {
+        "en": "Antonio Mak",
+        "zh-hant": "麥顯揚"
+    },
+    "alphaSortName": {
+        "en": "Mak, Antonio",
+        "zh-hant": "麥顯揚"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Hong Kong, 1951–1994",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Hong Kong, 1951–1994",
+        "zh-hant": "香港，1951–1994年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1951,
     "endDate": 1994,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

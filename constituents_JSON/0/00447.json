@@ -1,16 +1,30 @@
 {
     "id": 447,
     "publicAccess": true,
-    "name": "Wang Jin",
-    "nameOther": "王晉",
-    "alphaSortName": "Wang, Jin",
+    "name": {
+        "en": "Wang Jin",
+        "zh-hant": "王晉"
+    },
+    "alphaSortName": {
+        "en": "Wang, Jin",
+        "zh-hant": "王, 晉"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1962",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1962",
+        "zh-hant": "中國籍，生於1962年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1962,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

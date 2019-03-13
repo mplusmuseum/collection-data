@@ -1,16 +1,30 @@
 {
     "id": 516,
     "publicAccess": true,
-    "name": "Xue Feng",
-    "nameOther": "薛峰",
-    "alphaSortName": "Xue, Feng",
+    "name": {
+        "en": "Xue Feng",
+        "zh-hant": "薛峰"
+    },
+    "alphaSortName": {
+        "en": "Xue, Feng",
+        "zh-hant": "薛, 峰"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1973",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1973",
+        "zh-hant": "中國籍，生於1973年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1973,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

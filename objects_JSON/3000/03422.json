@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "The Story of Imitation",
-    "titleOther": "模仿的故事",
-    "displayDate": "2008–2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "模仿的故事",
+        "zh-hant": "The Story of Imitation"
+    },
+    "displayDate": {
+        "en": "2008–2010",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2010,
     "dimension": {
         "en": "dimensions variable",
-        "zh-hant": null
+        "zh-hant": "尺寸不一"
     },
     "medium": {
         "en": "mixed media (marble chips, photos, and video)",
-        "zh-hant": null
+        "zh-hant": "混合媒介（大理石碎片、照片、錄像）"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 220,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

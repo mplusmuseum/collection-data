@@ -1,17 +1,31 @@
 {
     "id": 535,
     "publicAccess": true,
-    "name": "Yang Xinguang",
-    "nameOther": "楊心廣",
-    "alphaSortName": "Yang, Xinguang",
+    "name": {
+        "en": "Yang Xinguang",
+        "zh-hant": "楊心廣"
+    },
+    "alphaSortName": {
+        "en": "Yang, Xinguang",
+        "zh-hant": "楊, 心廣"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Chinese, born 1980",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1980",
+        "zh-hant": "中國籍，生於1980年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1980,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

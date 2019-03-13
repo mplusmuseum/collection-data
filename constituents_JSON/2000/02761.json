@@ -1,17 +1,31 @@
 {
     "id": 2761,
     "publicAccess": true,
-    "name": "Tsang Kin-Wah",
-    "nameOther": "曾建華",
-    "alphaSortName": "Tsang, Kin-Wah",
+    "name": {
+        "en": "Tsang Kin-Wah",
+        "zh-hant": "曾建華"
+    },
+    "alphaSortName": {
+        "en": "Tsang, Kin-Wah",
+        "zh-hant": "曾, 建華"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Hong Kong, born 1976",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Hong Kong, born 1976",
+        "zh-hant": "香港，生於1976年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1976,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

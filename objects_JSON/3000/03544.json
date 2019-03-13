@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Fragments of History",
-    "titleOther": "歷史的碎片",
-    "displayDate": "2012",
-    "displayDateOther": null,
+    "title": {
+        "en": "歷史的碎片",
+        "zh-hant": "Fragments of History"
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": null
+    },
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
         "en": "sheet (each): 103.7 × 84 cm\r\r\nimage (each): 100.2 × 80.4 cm",
-        "zh-hant": null
+        "zh-hant": "紙本 (各): 103.7 × 84 厘米  圖像 (各): 100.2 × 80.4 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": null
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 391,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

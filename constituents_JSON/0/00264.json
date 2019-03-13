@@ -1,16 +1,30 @@
 {
     "id": 264,
     "publicAccess": true,
-    "name": "Li Dafang",
-    "nameOther": "李大方",
-    "alphaSortName": "Li, Dafang",
+    "name": {
+        "en": "Li Dafang",
+        "zh-hant": "李大方"
+    },
+    "alphaSortName": {
+        "en": "Li, Dafang",
+        "zh-hant": "李, 大方"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1971",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1971",
+        "zh-hant": "中國籍，生於1971年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1971,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

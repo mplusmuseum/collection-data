@@ -1,16 +1,30 @@
 {
     "id": 539,
     "publicAccess": true,
-    "name": "Yang Zhichao",
-    "nameOther": "楊志超",
-    "alphaSortName": "Yang, Zhichao",
+    "name": {
+        "en": "Yang Zhichao",
+        "zh-hant": "楊志超"
+    },
+    "alphaSortName": {
+        "en": "Yang, Zhichao",
+        "zh-hant": "楊, 志超"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1963",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1963,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

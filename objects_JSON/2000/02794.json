@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "From the Tiger's Mouth",
-    "titleOther": "虎口奪鋼",
-    "displayDate": "1972",
-    "displayDateOther": "1971",
+    "title": {
+        "en": "虎口奪鋼",
+        "zh-hant": "From the Tiger's Mouth"
+    },
+    "displayDate": {
+        "en": "1971",
+        "zh-hant": "1972"
+    },
     "beginDate": 1972,
     "endDate": 1972,
     "dimension": {
         "en": "frame: 237 × 214.9 cm\r\r\nimage: 221 × 201 cm",
-        "zh-hant": null
+        "zh-hant": "連框: 237 × 214.9 厘米  圖像: 221 × 201 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 486,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

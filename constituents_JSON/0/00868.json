@@ -1,18 +1,32 @@
 {
     "id": 868,
     "publicAccess": true,
-    "name": "Vo Trong Nghia Architects",
-    "nameOther": "武重義建築事務所",
-    "alphaSortName": "Vo Trong Nghia Architects",
+    "name": {
+        "en": "Vo Trong Nghia Architects",
+        "zh-hant": "武重義建築事務所"
+    },
+    "alphaSortName": {
+        "en": "Vo Trong Nghia Architects",
+        "zh-hant": "武重義建築事務所"
+    },
     "type": "Organization",
     "roles": [
         "Archive Creator",
         "Architectural Firm",
         "建檔者"
     ],
-    "displayBio": "established Ho Chi Minh City, 2006",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Ho Chi Minh City, 2006",
+        "zh-hant": "2006年成立於胡志明市"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 2006,
     "endDate": null,
-    "nationality": "Vietnamese"
+    "nationality": {
+        "en": "Vietnamese",
+        "zh-hant": "越南籍"
+    }
 }

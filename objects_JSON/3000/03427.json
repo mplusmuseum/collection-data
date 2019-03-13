@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Ming Style Turd",
-    "titleOther": "明式屎",
-    "displayDate": "2007",
-    "displayDateOther": "2005",
+    "title": {
+        "en": "明式屎",
+        "zh-hant": "Ming Style Turd"
+    },
+    "displayDate": {
+        "en": "2005",
+        "zh-hant": "2007"
+    },
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
         "en": "overall: 14 × 41 × 36 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 14 × 41 × 36 厘米"
     },
     "medium": {
         "en": "wood",
-        "zh-hant": null
+        "zh-hant": "木"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 397,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

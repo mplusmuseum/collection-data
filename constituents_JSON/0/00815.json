@@ -1,17 +1,31 @@
 {
     "id": 815,
     "publicAccess": true,
-    "name": "Isamu Noguchi",
-    "nameOther": "野口勇",
-    "alphaSortName": "Noguchi, Isamu",
+    "name": {
+        "en": "Isamu Noguchi",
+        "zh-hant": "野口勇"
+    },
+    "alphaSortName": {
+        "en": "Noguchi, Isamu",
+        "zh-hant": "野口勇"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "American, 1904–1988",
-    "gender": "Male",
+    "displayBio": {
+        "en": "American, 1904–1988",
+        "zh-hant": "美國籍，1904–1988年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1904,
     "endDate": 1988,
-    "nationality": "American"
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    }
 }

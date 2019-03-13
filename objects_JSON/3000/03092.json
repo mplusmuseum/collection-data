@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Untitled",
-    "titleOther": "無題",
-    "displayDate": "1986",
-    "displayDateOther": "1986–1987",
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "1986–1987",
+        "zh-hant": "1986"
+    },
     "beginDate": 1986,
     "endDate": 1986,
     "dimension": {
         "en": "overall: 123.5 × 62 × 10 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 123.5 × 62 × 10 厘米"
     },
     "medium": {
         "en": "wood",
-        "zh-hant": null
+        "zh-hant": "木"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 97,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

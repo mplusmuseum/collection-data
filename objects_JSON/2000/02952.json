@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Plan of the Ants",
-    "titleOther": "螞蟻計畫",
-    "displayDate": "2002–2004",
-    "displayDateOther": "2006",
+    "title": {
+        "en": "螞蟻計畫",
+        "zh-hant": "Plan of the Ants"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": "2002–2004"
+    },
     "beginDate": 2002,
     "endDate": 2004,
     "dimension": {
         "en": "sheet: 126.8 × 401.1 cm\r\r\nimage: 117.2 × 382.2 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 126.8 × 401.1 厘米  圖像: 117.2 × 382.2 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 334,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

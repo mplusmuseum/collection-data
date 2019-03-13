@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Sars Hospital",
-    "titleOther": "非典醫院",
-    "displayDate": "2003",
-    "displayDateOther": "2006",
+    "title": {
+        "en": "非典醫院",
+        "zh-hant": "Sars Hospital"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": "2003"
+    },
     "beginDate": 2003,
     "endDate": 2003,
     "dimension": {
         "en": "overall: 103.2 × 159.3 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 103.2 × 159.3 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 453,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

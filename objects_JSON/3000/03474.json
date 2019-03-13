@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Installation",
-            "zh-hant": null
+            "zh-hant": "裝置藝術"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Wrong Room No. 1",
-    "titleOther": "錯屋 第1號",
-    "displayDate": "2008–2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "錯屋 第1號",
+        "zh-hant": "Wrong Room No. 1"
+    },
+    "displayDate": {
+        "en": "2008–2011",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2011,
     "dimension": {
         "en": "overall: 188 × 168.5 × 33 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 188 × 168.5 × 33 厘米"
     },
     "medium": {
         "en": "wood, paper, and Plexiglas",
-        "zh-hant": null
+        "zh-hant": "木、紙、有機玻璃"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 144,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

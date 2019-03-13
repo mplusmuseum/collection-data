@@ -1,16 +1,30 @@
 {
     "id": 166,
     "publicAccess": true,
-    "name": "Ding Yi",
-    "nameOther": "丁乙",
-    "alphaSortName": "Ding, Yi",
+    "name": {
+        "en": "Ding Yi",
+        "zh-hant": "丁乙"
+    },
+    "alphaSortName": {
+        "en": "Ding, Yi",
+        "zh-hant": "丁, 乙"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1962",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1962",
+        "zh-hant": "中國籍，生於1962年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1962,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

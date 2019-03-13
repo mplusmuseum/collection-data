@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Sister No. 13",
-    "titleOther": "姐姐 第13號",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "姐姐 第13號",
+        "zh-hant": "Sister No. 13"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
     "dimension": {
         "en": "overall: 181 × 217 × 5.5 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 181 × 217 × 5.5 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 171,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Ein Tag im Leben des Ivan Denissowitsch",
-    "titleOther": "伊萬·傑尼索维奇的一天",
-    "displayDate": "2003",
-    "displayDateOther": null,
+    "title": {
+        "en": "伊萬·傑尼索维奇的一天",
+        "zh-hant": "Ein Tag im Leben des Ivan Denissowitsch"
+    },
+    "displayDate": {
+        "en": "2003",
+        "zh-hant": null
+    },
     "beginDate": 2003,
     "endDate": 2003,
     "dimension": {
         "en": "sheet: 281 × 358 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 281 × 358 厘米"
     },
     "medium": {
         "en": "acrylic on laser print",
-        "zh-hant": null
+        "zh-hant": "塑膠彩、雷射打印"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 464,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

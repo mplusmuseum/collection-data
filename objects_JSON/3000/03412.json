@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Performance",
-            "zh-hant": null
+            "zh-hant": "行為"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Planting Grass",
-    "titleOther": "種草",
-    "displayDate": "2000",
-    "displayDateOther": null,
+    "title": {
+        "en": "種草",
+        "zh-hant": "Planting Grass"
+    },
+    "displayDate": {
+        "en": "2000",
+        "zh-hant": null
+    },
     "beginDate": 2000,
     "endDate": 2000,
     "dimension": {
         "en": "sheet: 99.3 × 144 cm\r\r\nimage: 87.3 × 132 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 99.3 × 144 厘米  圖像: 87.3 × 132 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 539,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

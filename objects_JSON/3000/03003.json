@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Breathing, Tiananmen Square",
-    "titleOther": "哈氣, 天安門",
-    "displayDate": "1996",
-    "displayDateOther": null,
+    "title": {
+        "en": "哈氣, 天安門",
+        "zh-hant": "Breathing, Tiananmen Square"
+    },
+    "displayDate": {
+        "en": "1996",
+        "zh-hant": null
+    },
     "beginDate": 1996,
     "endDate": 1996,
     "dimension": {
         "en": "frame: 131.2 × 187.7 cm\r\r\nimage (sight): 123.5 × 179.8 cm",
-        "zh-hant": null
+        "zh-hant": "框架: 131.2 × 187.7 厘米\r\n圖像 (目測量度): 123.5 × 179.8 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 414,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

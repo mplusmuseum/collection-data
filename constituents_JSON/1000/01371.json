@@ -1,16 +1,30 @@
 {
     "id": 1371,
     "publicAccess": true,
-    "name": "T. R. Hamzah & Yeang Sdn. Bhd.",
-    "nameOther": "T. R. Hamzah & Yeang建築事務所",
-    "alphaSortName": "T. R. Hamzah & Yeang Sdn. Bhd.",
+    "name": {
+        "en": "T. R. Hamzah & Yeang Sdn. Bhd.",
+        "zh-hant": "T. R. Hamzah & Yeang建築事務所"
+    },
+    "alphaSortName": {
+        "en": "T. R. Hamzah & Yeang Sdn. Bhd.",
+        "zh-hant": "T. R. Hamzah & Yeang建築事務所"
+    },
     "type": "Organization",
     "roles": [
         "Architectural Firm"
     ],
-    "displayBio": "established Kuala Lumpur, 1976",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Kuala Lumpur, 1976",
+        "zh-hant": "1976年成立於吉隆坡"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1976,
     "endDate": null,
-    "nationality": "Malaysian"
+    "nationality": {
+        "en": "Malaysian",
+        "zh-hant": "馬來西亞籍"
+    }
 }

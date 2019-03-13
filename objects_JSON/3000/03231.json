@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "84-Photo-2",
-    "titleOther": "84行爲照片 2",
-    "displayDate": "1984",
-    "displayDateOther": null,
+    "title": {
+        "en": "84行爲照片 2",
+        "zh-hant": "84-Photo-2"
+    },
+    "displayDate": {
+        "en": "1984",
+        "zh-hant": null
+    },
     "beginDate": 1984,
     "endDate": 1984,
     "dimension": {
         "en": "sheet (sight): 43 × 58.5 cm\r\r\nimage (sight): 39.2 × 54.5 cm\r\r\nframe: 61.6 × 77 × 4.3 cm",
-        "zh-hant": null
+        "zh-hant": "紙本 （目測量度）: 43 × 58.5 厘米  圖像 （目測量度）: 39.2 × 54.5 厘米  連框: 61.6 × 77 × 4.3 厘米"
     },
     "medium": {
         "en": "gelatin silver print on fiber-based paper",
-        "zh-hant": null
+        "zh-hant": "銀鹽照片、纖維紙"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 455,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

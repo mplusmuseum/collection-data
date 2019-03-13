@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Untitled (Monggu bing. Chinese)",
-    "titleOther": "無題（蒙古兵）",
-    "displayDate": "2002",
-    "displayDateOther": null,
+    "title": {
+        "en": "無題（蒙古兵）",
+        "zh-hant": "Untitled (Monggu bing. Chinese)"
+    },
+    "displayDate": {
+        "en": "2002",
+        "zh-hant": null
+    },
     "beginDate": 2002,
     "endDate": 2002,
     "dimension": {
         "en": "overall: 280 × 180 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 280 × 180 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 342,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

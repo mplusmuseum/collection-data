@@ -1,17 +1,31 @@
 {
     "id": 499,
     "publicAccess": true,
-    "name": "Xin Yunpeng",
-    "nameOther": "辛雲鵬",
-    "alphaSortName": "Xin, Yunpeng",
+    "name": {
+        "en": "Xin Yunpeng",
+        "zh-hant": "辛雲鵬"
+    },
+    "alphaSortName": {
+        "en": "Xin, Yunpeng",
+        "zh-hant": "辛, 雲鵬"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Chinese, born 1982",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1982",
+        "zh-hant": "中國籍，生於1982年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1982,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

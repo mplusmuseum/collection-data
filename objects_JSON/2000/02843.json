@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Print",
-            "zh-hant": null
+            "zh-hant": "版畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Solidarity",
-    "titleOther": "人民的呼聲",
-    "displayDate": "1979, printed 2005",
-    "displayDateOther": "1979年，2005年印刷",
+    "title": {
+        "en": "人民的呼聲",
+        "zh-hant": "Solidarity"
+    },
+    "displayDate": {
+        "en": "1979年，2005年印刷",
+        "zh-hant": "1979, printed 2005"
+    },
     "beginDate": 1979,
     "endDate": 2005,
     "dimension": {
         "en": "sheet (sight): 23.4 × 19.8 cm\r\nimage (sight): 17.2 × 13 cm",
-        "zh-hant": null
+        "zh-hant": "紙本 (目測量度): 23.4 × 19.8 厘米\r\n圖像 (目測量度): 17.2 × 13 厘米"
     },
     "medium": {
         "en": "woodcut",
-        "zh-hant": null
+        "zh-hant": "木刻版畫"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [
         {
             "id": 333,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

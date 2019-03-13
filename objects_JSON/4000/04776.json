@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Zen for TV",
-    "titleOther": "電視禪",
-    "displayDate": "1963/1982",
-    "displayDateOther": null,
+    "title": {
+        "en": "電視禪",
+        "zh-hant": "Zen for TV"
+    },
+    "displayDate": {
+        "en": "1963/1982",
+        "zh-hant": null
+    },
     "beginDate": 1963,
     "endDate": 1982,
     "dimension": {
         "en": "overall: 73.1 × 40.5 × 50 cm",
-        "zh-hant": null
+        "zh-hant": "整體： 73.1 × 40.5 × 50 厘米"
     },
     "medium": {
         "en": "television",
-        "zh-hant": null
+        "zh-hant": "電視機"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+，香港"
     },
     "constituents": [
         {
             "id": 359,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

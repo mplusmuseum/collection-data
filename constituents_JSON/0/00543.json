@@ -1,9 +1,14 @@
 {
     "id": 543,
     "publicAccess": true,
-    "name": "Rocco Yim",
-    "nameOther": "嚴迅奇",
-    "alphaSortName": "Yim, Rocco",
+    "name": {
+        "en": "Rocco Yim",
+        "zh-hant": "嚴迅奇"
+    },
+    "alphaSortName": {
+        "en": "Yim, Rocco",
+        "zh-hant": "嚴, 迅奇"
+    },
     "type": "Individual",
     "roles": [
         "Architect",
@@ -11,9 +16,18 @@
         "建檔者",
         "建築師"
     ],
-    "displayBio": "Hong Kong, born 1952",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Hong Kong, born 1952",
+        "zh-hant": "香港，生於1952年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1952,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

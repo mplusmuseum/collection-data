@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Untitled No. 05",
-    "titleOther": "無題 第5號",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "無題 第5號",
+        "zh-hant": "Untitled No. 05"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
     "dimension": {
         "en": "sheet: 352.8 × 121.8 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 352.8 × 121.8 厘米"
     },
     "medium": {
         "en": "acrylic on PVC",
-        "zh-hant": null
+        "zh-hant": "塑膠彩、聚氯乙烯"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 96,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

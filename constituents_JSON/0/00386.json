@@ -1,16 +1,30 @@
 {
     "id": 386,
     "publicAccess": true,
-    "name": "Rong Rong",
-    "nameOther": "榮榮",
-    "alphaSortName": "Rong, Rong",
+    "name": {
+        "en": "Rong Rong",
+        "zh-hant": "榮榮"
+    },
+    "alphaSortName": {
+        "en": "Rong, Rong",
+        "zh-hant": "榮, 榮"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1968",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1968,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

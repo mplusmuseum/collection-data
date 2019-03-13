@@ -1,17 +1,31 @@
 {
     "id": 524,
     "publicAccess": true,
-    "name": "Haegue Yang",
-    "nameOther": "梁慧圭",
-    "alphaSortName": "Yang, Haegue",
+    "name": {
+        "en": "Haegue Yang",
+        "zh-hant": "梁慧圭"
+    },
+    "alphaSortName": {
+        "en": "Yang, Haegue",
+        "zh-hant": "梁慧圭"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Korean, born 1971",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Korean, born 1971",
+        "zh-hant": "韓國籍，生於1971年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1971,
     "endDate": null,
-    "nationality": "South Korean"
+    "nationality": {
+        "en": "South Korean",
+        "zh-hant": "南韓籍"
+    }
 }

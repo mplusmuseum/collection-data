@@ -1,16 +1,30 @@
 {
     "id": 1392,
     "publicAccess": true,
-    "name": "Oki Sato",
-    "nameOther": null,
-    "alphaSortName": "Oki, Sato",
+    "name": {
+        "en": "Oki Sato",
+        "zh-hant": "Oki Sato"
+    },
+    "alphaSortName": {
+        "en": "Oki, Sato",
+        "zh-hant": "Oki, Sato"
+    },
     "type": "Individual",
     "roles": [
         "Designer"
     ],
-    "displayBio": "Japanese, born Canada, 1977",
-    "gender": "Unknown",
+    "displayBio": {
+        "en": "Japanese, born Canada, 1977",
+        "zh-hant": "日本籍，1977年生於加拿大"
+    },
+    "gender": {
+        "en": "Unknown",
+        "zh-hant": "不詳"
+    },
     "beginDate": 1977,
     "endDate": null,
-    "nationality": "Japanese"
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    }
 }

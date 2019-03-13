@@ -1,17 +1,31 @@
 {
     "id": 1485,
     "publicAccess": true,
-    "name": "Uchida Shigeru",
-    "nameOther": "內田繁",
-    "alphaSortName": "Uchida, Shigeru",
+    "name": {
+        "en": "Uchida Shigeru",
+        "zh-hant": "內田繁"
+    },
+    "alphaSortName": {
+        "en": "Uchida, Shigeru",
+        "zh-hant": "內田繁"
+    },
     "type": "Individual",
     "roles": [
         "Archive Creator",
         "建檔者"
     ],
-    "displayBio": "Japanese, 1943–2016",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Japanese, 1943–2016",
+        "zh-hant": "日本籍，1943–2016年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1943,
     "endDate": 2016,
-    "nationality": "Japanese"
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    }
 }

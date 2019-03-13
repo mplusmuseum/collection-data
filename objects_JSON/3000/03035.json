@@ -6,48 +6,52 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Installation",
-            "zh-hant": null
+            "zh-hant": "裝置藝術"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Old People's Home",
-    "titleOther": "老人院",
-    "displayDate": "2007",
-    "displayDateOther": null,
+    "title": {
+        "en": "老人院",
+        "zh-hant": "Old People's Home"
+    },
+    "displayDate": {
+        "en": "2007",
+        "zh-hant": null
+    },
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
         "en": "dimensions variable",
-        "zh-hant": null
+        "zh-hant": "尺寸不一"
     },
     "medium": {
         "en": "mobile installation of 13 lifesize sculptures seated in 13 dynamo-electric wheelchairs",
-        "zh-hant": null
+        "zh-hant": "mobile installation of 13 lifesize sculptures seated in 13 dynamo-electric wheelchairs"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 424,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         },
         {
             "id": 368,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

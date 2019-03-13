@@ -1,16 +1,30 @@
 {
     "id": 1360,
     "publicAccess": true,
-    "name": "Lee Ka-sing",
-    "nameOther": "李家昇",
-    "alphaSortName": "Lee, Ka-sing",
+    "name": {
+        "en": "Lee Ka-sing",
+        "zh-hant": "李家昇"
+    },
+    "alphaSortName": {
+        "en": "Lee, Ka-sing",
+        "zh-hant": "李家昇"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Hong Kong, born 1954",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Hong Kong, born 1954",
+        "zh-hant": "香港，生於1954年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1954,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

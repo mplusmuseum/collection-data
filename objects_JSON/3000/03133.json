@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Continuous Reproduction 25 Times",
-    "titleOther": "翻拍25次",
-    "displayDate": "1993",
-    "displayDateOther": null,
+    "title": {
+        "en": "翻拍25次",
+        "zh-hant": "Continuous Reproduction 25 Times"
+    },
+    "displayDate": {
+        "en": "1993",
+        "zh-hant": null
+    },
     "beginDate": 1993,
     "endDate": 1993,
     "dimension": {
         "en": "frame (each): 33.8 × 28.9 cm\r\r\nimage (each, sight): 30.1 × 25.2 cm",
-        "zh-hant": null
+        "zh-hant": "框架 (各): 33.8 × 28.9 厘米\r\n圖像 (各, 目測量度): 30.1 × 25.2 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": null
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 584,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

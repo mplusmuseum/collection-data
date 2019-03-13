@@ -1,16 +1,30 @@
 {
     "id": 299,
     "publicAccess": true,
-    "name": "Liu Chuang",
-    "nameOther": "劉窗",
-    "alphaSortName": "Liu, Chuang",
+    "name": {
+        "en": "Liu Chuang",
+        "zh-hant": "劉窗"
+    },
+    "alphaSortName": {
+        "en": "Liu, Chuang",
+        "zh-hant": "劉, 窗"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1979",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1979",
+        "zh-hant": "中國籍，生於1979年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1979,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

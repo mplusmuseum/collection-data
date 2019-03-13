@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Design and Architecture",
-            "zh-hant": null
+            "zh-hant": "設計與建築"
         },
         "category": {
             "en": "Design Object",
-            "zh-hant": null
+            "zh-hant": "設計物件"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Lamp (Oba-Q)",
-    "titleOther": "燈（Oba-Q）",
-    "displayDate": "1972",
-    "displayDateOther": null,
+    "title": {
+        "en": "燈（Oba-Q）",
+        "zh-hant": "Lamp (Oba-Q)"
+    },
+    "displayDate": {
+        "en": "1972",
+        "zh-hant": null
+    },
     "beginDate": 1972,
     "endDate": 1972,
     "dimension": {
         "en": "overall: 54.5 × 56 × 55.5 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 54.5 × 56 × 55.5 厘米"
     },
     "medium": {
         "en": "tinted acrylic and painted metal",
-        "zh-hant": null
+        "zh-hant": "染色亞加力、塗裝金屬"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+，香港"
     },
     "constituents": [
         {
             "id": 252,
             "role": {
                 "en": "Designer",
-                "zh-hant": null
+                "zh-hant": "設計師"
             }
         }
     ],

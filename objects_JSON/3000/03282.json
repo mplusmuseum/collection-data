@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Star Ocean",
-    "titleOther": "星海",
-    "displayDate": "2009",
-    "displayDateOther": null,
+    "title": {
+        "en": "星海",
+        "zh-hant": "Star Ocean"
+    },
+    "displayDate": {
+        "en": "2009",
+        "zh-hant": null
+    },
     "beginDate": 2009,
     "endDate": 2009,
     "dimension": {
         "en": "overall: 229 × 169.5 × 4 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 229 × 169.5 × 4 厘米"
     },
     "medium": {
         "en": "acrylic on canvas",
-        "zh-hant": null
+        "zh-hant": "塑膠彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 507,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

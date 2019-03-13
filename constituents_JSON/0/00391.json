@@ -1,16 +1,30 @@
 {
     "id": 391,
     "publicAccess": true,
-    "name": "Manuel Salvisberg",
-    "nameOther": "曼努埃爾·沙爾維斯堡",
-    "alphaSortName": "Salvisberg, Manuel",
+    "name": {
+        "en": "Manuel Salvisberg",
+        "zh-hant": "曼努埃爾·沙爾維斯堡"
+    },
+    "alphaSortName": {
+        "en": "Salvisberg, Manuel",
+        "zh-hant": "曼努埃爾·沙爾維斯堡"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Swiss",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Swiss",
+        "zh-hant": "瑞士籍"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": null,
     "endDate": null,
-    "nationality": "Swiss"
+    "nationality": {
+        "en": "Swiss",
+        "zh-hant": "瑞士籍"
+    }
 }

@@ -1,16 +1,30 @@
 {
     "id": 484,
     "publicAccess": true,
-    "name": "Wu Xiaochuan",
-    "nameOther": "武小川",
-    "alphaSortName": "Wu, Xiaochuan",
+    "name": {
+        "en": "Wu Xiaochuan",
+        "zh-hant": "武小川"
+    },
+    "alphaSortName": {
+        "en": "Wu, Xiaochuan",
+        "zh-hant": "武, 小川"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1973",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1973",
+        "zh-hant": "中國籍，生於1973年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1973,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

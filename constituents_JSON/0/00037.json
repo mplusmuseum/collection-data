@@ -1,16 +1,30 @@
 {
     "id": 37,
     "publicAccess": true,
-    "name": "Front",
-    "nameOther": null,
-    "alphaSortName": "Front",
+    "name": {
+        "en": "Front",
+        "zh-hant": "Front"
+    },
+    "alphaSortName": {
+        "en": "Front",
+        "zh-hant": "Front"
+    },
     "type": "Organization",
     "roles": [
         "Design Firm"
     ],
-    "displayBio": "established Stockholm, 2003",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Stockholm, 2003",
+        "zh-hant": "2003年成立於斯德哥爾摩"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 2003,
     "endDate": null,
-    "nationality": "Swiss"
+    "nationality": {
+        "en": "Swiss",
+        "zh-hant": "瑞士籍"
+    }
 }

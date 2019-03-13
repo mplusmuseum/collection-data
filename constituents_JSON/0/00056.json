@@ -1,17 +1,31 @@
 {
     "id": 56,
     "publicAccess": true,
-    "name": "PINWU",
-    "nameOther": "品物流形",
-    "alphaSortName": "PINWU",
+    "name": {
+        "en": "PINWU",
+        "zh-hant": "品物流形"
+    },
+    "alphaSortName": {
+        "en": "PINWU",
+        "zh-hant": "品物流形"
+    },
     "type": "Organization",
     "roles": [
         "Designer",
         "Manufacturer"
     ],
-    "displayBio": "established Hangzhou, 2010",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Hangzhou, 2010",
+        "zh-hant": "2010年成立於杭州"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 2010,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

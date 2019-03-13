@@ -1,16 +1,30 @@
 {
     "id": 1733,
     "publicAccess": true,
-    "name": "Xi'an Renmin Enamelware Factory",
-    "nameOther": "西安人民搪瓷廠",
-    "alphaSortName": "Xi'an Renmin Enamelware Factory",
+    "name": {
+        "en": "Xi'an Renmin Enamelware Factory",
+        "zh-hant": "西安人民搪瓷廠"
+    },
+    "alphaSortName": {
+        "en": "Xi'an Renmin Enamelware Factory",
+        "zh-hant": "西安人民搪瓷廠"
+    },
     "type": "Organization",
     "roles": [
         "Manufacturer"
     ],
-    "displayBio": "established Xi'an, 1951",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Xi'an, 1951",
+        "zh-hant": "1951年於西安成立"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1951,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

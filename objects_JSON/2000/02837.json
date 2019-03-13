@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Print",
-            "zh-hant": null
+            "zh-hant": "版畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "In Deep Thought",
-    "titleOther": "沉思",
-    "displayDate": "1979, reprinted 2005",
-    "displayDateOther": "1979年，2005年重印",
+    "title": {
+        "en": "沉思",
+        "zh-hant": "In Deep Thought"
+    },
+    "displayDate": {
+        "en": "1979年，2005年重印",
+        "zh-hant": "1979, reprinted 2005"
+    },
     "beginDate": 1979,
     "endDate": 2005,
     "dimension": {
         "en": "sheet (sight): 41.6 × 21.9 cm\r\r\nimage (sight): 25.5 × 15.9 cm",
-        "zh-hant": null
+        "zh-hant": "紙本 （目測量度）: 41.6 × 21.9 厘米  圖像 （目測量度）: 25.5 × 15.9 厘米"
     },
     "medium": {
         "en": "woodcut",
-        "zh-hant": null
+        "zh-hant": "木刻版畫"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [
         {
             "id": 333,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -1,9 +1,14 @@
 {
     "id": 48,
     "publicAccess": true,
-    "name": "MAD Architects",
-    "nameOther": "MAD建築事務所",
-    "alphaSortName": "MAD Architects",
+    "name": {
+        "en": "MAD Architects",
+        "zh-hant": "MAD建築事務所"
+    },
+    "alphaSortName": {
+        "en": "MAD Architects",
+        "zh-hant": "MAD建築事務所"
+    },
     "type": "Organization",
     "roles": [
         "Architectural Firm",
@@ -11,9 +16,18 @@
         "建檔者",
         "建築師事務所"
     ],
-    "displayBio": "established Beijing, 2004",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Beijing, 2004",
+        "zh-hant": "2004年成立於北京"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 2004,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

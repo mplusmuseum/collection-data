@@ -1,16 +1,30 @@
 {
     "id": 4048,
     "publicAccess": true,
-    "name": "Travellers Official Information Bureau of the Netherland Indies",
-    "nameOther": null,
-    "alphaSortName": "Travellers Official Information Bureau of the Netherland Indies",
+    "name": {
+        "en": "Travellers Official Information Bureau of the Netherland Indies",
+        "zh-hant": "Travellers Official Information Bureau of the Netherland Indies"
+    },
+    "alphaSortName": {
+        "en": "Travellers Official Information Bureau of the Netherland Indies",
+        "zh-hant": "Travellers Official Information Bureau of the Netherland Indies"
+    },
     "type": "Organization",
     "roles": [
         "Commissioned by"
     ],
-    "displayBio": "established Netherlands, circa 1920",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Netherlands, circa 1920",
+        "zh-hant": "約1920年成立於荷蘭"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1915,
     "endDate": null,
-    "nationality": "Dutch"
+    "nationality": {
+        "en": "Dutch",
+        "zh-hant": "荷蘭籍"
+    }
 }

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Sitting in China",
-    "titleOther": "椅子",
-    "displayDate": "2002",
-    "displayDateOther": null,
+    "title": {
+        "en": "椅子",
+        "zh-hant": "Sitting in China"
+    },
+    "displayDate": {
+        "en": "2002",
+        "zh-hant": null
+    },
     "beginDate": 2002,
     "endDate": 2002,
     "dimension": {
         "en": "sheet: 27.9 × 35.3 cm\r\r\nimage: 25 × 33.3 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 27.9 × 35.3 厘米  圖像: 25 × 33.3 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+，香港"
     },
     "constituents": [
         {
             "id": 474,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

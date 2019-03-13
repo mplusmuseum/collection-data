@@ -1,16 +1,30 @@
 {
     "id": 1667,
     "publicAccess": true,
-    "name": "Krishna Reddy",
-    "nameOther": "克里希納·雷迪",
-    "alphaSortName": "Reddy, Krishna",
+    "name": {
+        "en": "Krishna Reddy",
+        "zh-hant": "克里希納·雷迪"
+    },
+    "alphaSortName": {
+        "en": "Reddy, Krishna",
+        "zh-hant": "克里希納·雷迪"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Indian, 1925 - 2018",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Indian, 1925 - 2018",
+        "zh-hant": "印度籍，1925–2018年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1925,
     "endDate": 2018,
-    "nationality": "Indian"
+    "nationality": {
+        "en": "Indian",
+        "zh-hant": "印度籍"
+    }
 }

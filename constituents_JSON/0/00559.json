@@ -1,16 +1,30 @@
 {
     "id": 559,
     "publicAccess": true,
-    "name": "Yu Youhan",
-    "nameOther": "余友涵",
-    "alphaSortName": "Yu, Youhan",
+    "name": {
+        "en": "Yu Youhan",
+        "zh-hant": "余友涵"
+    },
+    "alphaSortName": {
+        "en": "Yu, Youhan",
+        "zh-hant": "余友涵"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1943",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1943",
+        "zh-hant": "中國籍，生於1943年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1943,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

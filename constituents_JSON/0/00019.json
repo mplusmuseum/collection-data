@@ -1,17 +1,31 @@
 {
     "id": 19,
     "publicAccess": true,
-    "name": "Atelier FCJZ",
-    "nameOther": "非常建築",
-    "alphaSortName": "Atelier FCJZ",
+    "name": {
+        "en": "Atelier FCJZ",
+        "zh-hant": "非常建築"
+    },
+    "alphaSortName": {
+        "en": "Atelier FCJZ",
+        "zh-hant": "非常建築"
+    },
     "type": "Organization",
     "roles": [
         "Architectural Firm",
         "建築師事務所"
     ],
-    "displayBio": "established Houston, 1993; now based in Beijing and Shanghai",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Houston, 1993; now based in Beijing and Shanghai",
+        "zh-hant": "1993年成立於侯斯頓，現設於北京及上海"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1993,
     "endDate": null,
-    "nationality": null
+    "nationality": {
+        "en": null,
+        "zh-hant": null
+    }
 }

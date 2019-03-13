@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Prime Minister of the People",
-    "titleOther": "人民的總理",
-    "displayDate": "1978",
-    "displayDateOther": null,
+    "title": {
+        "en": "人民的總理",
+        "zh-hant": "Prime Minister of the People"
+    },
+    "displayDate": {
+        "en": "1978",
+        "zh-hant": null
+    },
     "beginDate": 1978,
     "endDate": 1978,
     "dimension": {
         "en": "frame: 143.2 × 181.8 cm\r\r\nimage (sight): 119.4 × 158.8 cm",
-        "zh-hant": null
+        "zh-hant": "連框: 143.2 × 181.8 厘米  圖像 （目測量度）: 119.4 × 158.8 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 231,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

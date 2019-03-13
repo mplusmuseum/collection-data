@@ -1,16 +1,30 @@
 {
     "id": 515,
     "publicAccess": true,
-    "name": "Xu Zhongmin",
-    "nameOther": "許仲敏",
-    "alphaSortName": "Xu, Zhongmin",
+    "name": {
+        "en": "Xu Zhongmin",
+        "zh-hant": "許仲敏"
+    },
+    "alphaSortName": {
+        "en": "Xu, Zhongmin",
+        "zh-hant": "許, 仲敏"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1961",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1961",
+        "zh-hant": "中國籍，生於1961年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1961,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

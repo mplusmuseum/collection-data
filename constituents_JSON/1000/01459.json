@@ -1,17 +1,31 @@
 {
     "id": 1459,
     "publicAccess": true,
-    "name": "Leung Chi Wo",
-    "nameOther": "梁志和",
-    "alphaSortName": "Leung, Chi Wo",
+    "name": {
+        "en": "Leung Chi Wo",
+        "zh-hant": "梁志和"
+    },
+    "alphaSortName": {
+        "en": "Leung, Chi Wo",
+        "zh-hant": "梁志和"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Hong Kong, born 1968",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Hong Kong, born 1968",
+        "zh-hant": "香港，生於1968年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1968,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

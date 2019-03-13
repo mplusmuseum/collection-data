@@ -1,17 +1,31 @@
 {
     "id": 1172,
     "publicAccess": true,
-    "name": "Umeda Design Studio Inc.",
-    "nameOther": null,
-    "alphaSortName": "Umeda Design Studio Inc.",
+    "name": {
+        "en": "Umeda Design Studio Inc.",
+        "zh-hant": "Umeda Design Studio Inc."
+    },
+    "alphaSortName": {
+        "en": "Umeda Design Studio Inc.",
+        "zh-hant": "Umeda Design Studio Inc."
+    },
     "type": "Organization",
     "roles": [
         "Commissioned by",
         "Manufacturer"
     ],
-    "displayBio": "established Tokyo, 1980",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Tokyo, 1980",
+        "zh-hant": "1980年成立於東京"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1980,
     "endDate": null,
-    "nationality": "Japanese"
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    }
 }

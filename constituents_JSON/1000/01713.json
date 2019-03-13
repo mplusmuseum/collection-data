@@ -1,16 +1,30 @@
 {
     "id": 1713,
     "publicAccess": true,
-    "name": "Hong Kong Trade Development Council",
-    "nameOther": "香港貿易發展局",
-    "alphaSortName": "Hong Kong Trade Development Council",
+    "name": {
+        "en": "Hong Kong Trade Development Council",
+        "zh-hant": "香港貿易發展局"
+    },
+    "alphaSortName": {
+        "en": "Hong Kong Trade Development Council",
+        "zh-hant": "香港貿易發展局"
+    },
     "type": "Organization",
     "roles": [
         "Commissioned by"
     ],
-    "displayBio": "established Hong Kong, 1966",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Hong Kong, 1966",
+        "zh-hant": "1966年成立於香港"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1966,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

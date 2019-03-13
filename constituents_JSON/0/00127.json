@@ -1,16 +1,30 @@
 {
     "id": 127,
     "publicAccess": true,
-    "name": "Chen Guanghui",
-    "nameOther": "陳光輝",
-    "alphaSortName": "Chen, Guanghui",
+    "name": {
+        "en": "Chen Guanghui",
+        "zh-hant": "陳光輝"
+    },
+    "alphaSortName": {
+        "en": "Chen, Guanghui",
+        "zh-hant": "陳, 光輝"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1969",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1969",
+        "zh-hant": "中國籍，生於1969年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1969,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

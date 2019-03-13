@@ -1,16 +1,30 @@
 {
     "id": 283,
     "publicAccess": true,
-    "name": "Liang Shaoji",
-    "nameOther": "梁紹基",
-    "alphaSortName": "Liang, Shaoji",
+    "name": {
+        "en": "Liang Shaoji",
+        "zh-hant": "梁紹基"
+    },
+    "alphaSortName": {
+        "en": "Liang, Shaoji",
+        "zh-hant": "梁, 紹基"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1945",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1945",
+        "zh-hant": "中國籍，生於1945年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1945,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

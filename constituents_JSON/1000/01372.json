@@ -1,16 +1,30 @@
 {
     "id": 1372,
     "publicAccess": true,
-    "name": "Revital Cohen",
-    "nameOther": null,
-    "alphaSortName": "Cohen, Revital",
+    "name": {
+        "en": "Revital Cohen",
+        "zh-hant": "Revital Cohen"
+    },
+    "alphaSortName": {
+        "en": "Cohen, Revital",
+        "zh-hant": "Cohen, Revital"
+    },
     "type": "Individual",
     "roles": [
         "Designer"
     ],
-    "displayBio": "Israeli, born 1981",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Israeli, born 1981",
+        "zh-hant": "以色列籍，生於1981年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1981,
     "endDate": null,
-    "nationality": "Israeli"
+    "nationality": {
+        "en": "Israeli",
+        "zh-hant": "以色列籍"
+    }
 }

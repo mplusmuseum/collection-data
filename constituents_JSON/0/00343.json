@@ -1,16 +1,30 @@
 {
     "id": 343,
     "publicAccess": true,
-    "name": "Meng Jin",
-    "nameOther": "孟瑾",
-    "alphaSortName": "Meng, Jin",
+    "name": {
+        "en": "Meng Jin",
+        "zh-hant": "孟瑾"
+    },
+    "alphaSortName": {
+        "en": "Meng, Jin",
+        "zh-hant": "孟, 瑾"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1973",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1973",
+        "zh-hant": "中國籍，生於1973年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1973,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

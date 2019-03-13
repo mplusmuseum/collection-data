@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Beyond Form",
-    "titleOther": "象外",
-    "displayDate": "1969",
-    "displayDateOther": null,
+    "title": {
+        "en": "象外",
+        "zh-hant": "Beyond Form"
+    },
+    "displayDate": {
+        "en": "1969",
+        "zh-hant": null
+    },
     "beginDate": 1969,
     "endDate": 1969,
     "dimension": {
         "en": "image: 135.9 × 80.7 cm",
-        "zh-hant": null
+        "zh-hant": "圖像: 135.9 × 80.7 厘米"
     },
     "medium": {
         "en": "ink on paper",
-        "zh-hant": null
+        "zh-hant": "水墨紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+，香港"
     },
     "constituents": [
         {
             "id": 262,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

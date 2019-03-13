@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Untitled (Nr. 3)",
-    "titleOther": "無題 (第3號)",
-    "displayDate": "circa 2001",
-    "displayDateOther": "約2001年",
+    "title": {
+        "en": "無題 (第3號)",
+        "zh-hant": "Untitled (Nr. 3)"
+    },
+    "displayDate": {
+        "en": "約2001年",
+        "zh-hant": "circa 2001"
+    },
     "beginDate": 2001,
     "endDate": 2001,
     "dimension": {
         "en": "overall: 92.5 × 178.5 × 2 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 92.5 × 178.5 × 2 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 379,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

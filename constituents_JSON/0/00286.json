@@ -1,16 +1,30 @@
 {
     "id": 286,
     "publicAccess": true,
-    "name": "Liang Yuanwei",
-    "nameOther": "梁遠葦",
-    "alphaSortName": "Liang, Yuanwei",
+    "name": {
+        "en": "Liang Yuanwei",
+        "zh-hant": "梁遠葦"
+    },
+    "alphaSortName": {
+        "en": "Liang, Yuanwei",
+        "zh-hant": "梁, 遠葦"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1977",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1977",
+        "zh-hant": "中國籍，生於1977年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1977,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

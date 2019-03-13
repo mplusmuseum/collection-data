@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Moving Image",
-            "zh-hant": null
+            "zh-hant": "流動影像"
         },
         "category": {
             "en": "Video",
-            "zh-hant": null
+            "zh-hant": "錄像"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Looking, looking, looking for...",
-    "titleOther": "找呀找",
-    "displayDate": "2004",
-    "displayDateOther": null,
+    "title": {
+        "en": "找呀找",
+        "zh-hant": "Looking, looking, looking for..."
+    },
+    "displayDate": {
+        "en": "2004",
+        "zh-hant": null
+    },
     "beginDate": 2004,
     "endDate": 2004,
     "dimension": {
         "en": "duration: 2 min. 5 sec.",
-        "zh-hant": null
+        "zh-hant": "影片長度: 2 分 5 秒"
     },
     "medium": {
         "en": "video (colour, stereo sound)",
-        "zh-hant": null
+        "zh-hant": "單頻道錄像（彩色、立體聲）"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 246,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

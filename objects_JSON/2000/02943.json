@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Himalayas: The Mount Everest 8843.43 m. 20 January 2006",
-    "titleOther": "喜碼拉雅 海拔8843.3米 2006年1月15日",
-    "displayDate": "2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "喜碼拉雅 海拔8843.3米 2006年1月15日",
+        "zh-hant": "Himalayas: The Mount Everest 8843.43 m. 20 January 2006"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
         "en": "overall: 126 × 782.1 × 1.7 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 126 × 782.1 × 1.7 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": null
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 405,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

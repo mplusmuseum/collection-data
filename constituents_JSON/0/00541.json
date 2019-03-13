@@ -1,16 +1,30 @@
 {
     "id": 541,
     "publicAccess": true,
-    "name": "Ye Yongqing",
-    "nameOther": "葉永青",
-    "alphaSortName": "Ye, Yongqing",
+    "name": {
+        "en": "Ye Yongqing",
+        "zh-hant": "葉永青"
+    },
+    "alphaSortName": {
+        "en": "Ye, Yongqing",
+        "zh-hant": "葉, 永青"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1958",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1958",
+        "zh-hant": "中國籍，生於1958年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1958,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

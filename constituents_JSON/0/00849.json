@@ -1,16 +1,30 @@
 {
     "id": 849,
     "publicAccess": true,
-    "name": "Sopheap Pich",
-    "nameOther": "索皮·比",
-    "alphaSortName": "Pich, Sopheap",
+    "name": {
+        "en": "Sopheap Pich",
+        "zh-hant": "索皮·比"
+    },
+    "alphaSortName": {
+        "en": "Pich, Sopheap",
+        "zh-hant": "索皮·比"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Cambodian, born 1971",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Cambodian, born 1971",
+        "zh-hant": "柬埔寨籍，生於1971年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1971,
     "endDate": null,
-    "nationality": "Cambodian"
+    "nationality": {
+        "en": "Cambodian",
+        "zh-hant": "柬埔寨籍"
+    }
 }

@@ -1,9 +1,14 @@
 {
     "id": 1169,
     "publicAccess": true,
-    "name": "Memphis S.r.l.",
-    "nameOther": null,
-    "alphaSortName": "Memphis S.r.l.",
+    "name": {
+        "en": "Memphis S.r.l.",
+        "zh-hant": "Memphis S.r.l."
+    },
+    "alphaSortName": {
+        "en": "Memphis S.r.l.",
+        "zh-hant": "Memphis S.r.l."
+    },
     "type": "Organization",
     "roles": [
         "Design Firm",
@@ -11,9 +16,18 @@
         "Publisher",
         "設計師事務所"
     ],
-    "displayBio": "established Milan, 1981",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Milan, 1981",
+        "zh-hant": "1981年成立於米蘭"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1981,
     "endDate": null,
-    "nationality": "Italian"
+    "nationality": {
+        "en": "Italian",
+        "zh-hant": "意大利籍"
+    }
 }

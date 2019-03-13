@@ -1,16 +1,30 @@
 {
     "id": 270,
     "publicAccess": true,
-    "name": "Li Shan",
-    "nameOther": "李山",
-    "alphaSortName": "Li, Shan",
+    "name": {
+        "en": "Li Shan",
+        "zh-hant": "李山"
+    },
+    "alphaSortName": {
+        "en": "Li, Shan",
+        "zh-hant": "李, 山"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1942",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1942",
+        "zh-hant": "中國籍，生於1942年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1942,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

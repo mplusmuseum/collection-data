@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Drawing",
-            "zh-hant": null
+            "zh-hant": "繪圖"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "The Cloud Mountain",
-    "titleOther": "雲山",
-    "displayDate": "2009",
-    "displayDateOther": null,
+    "title": {
+        "en": "雲山",
+        "zh-hant": "The Cloud Mountain"
+    },
+    "displayDate": {
+        "en": "2009",
+        "zh-hant": null
+    },
     "beginDate": 2009,
     "endDate": 2009,
     "dimension": {
         "en": "sheet: 160.6 × 260 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 160.6 × 260 厘米"
     },
     "medium": {
         "en": "pencil on paper",
-        "zh-hant": null
+        "zh-hant": "鉛筆紙本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 219,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

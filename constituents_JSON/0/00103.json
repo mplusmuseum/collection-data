@@ -1,16 +1,30 @@
 {
     "id": 103,
     "publicAccess": true,
-    "name": "Bai Yi Luo",
-    "nameOther": "白宜洛",
-    "alphaSortName": "Bai, Yi Luo",
+    "name": {
+        "en": "Bai Yi Luo",
+        "zh-hant": "白宜洛"
+    },
+    "alphaSortName": {
+        "en": "Bai, Yi Luo",
+        "zh-hant": "白, 宜洛"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1968",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1968,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

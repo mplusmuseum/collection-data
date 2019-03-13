@@ -1,16 +1,30 @@
 {
     "id": 1687,
     "publicAccess": true,
-    "name": "Hao Zhenhan",
-    "nameOther": "郝振瀚",
-    "alphaSortName": "Hao, Zhenhan",
+    "name": {
+        "en": "Hao Zhenhan",
+        "zh-hant": "郝振瀚"
+    },
+    "alphaSortName": {
+        "en": "Hao, Zhenhan",
+        "zh-hant": "郝振瀚"
+    },
     "type": "Individual",
     "roles": [
         "Designer"
     ],
-    "displayBio": "Chinese, born 1988",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1988",
+        "zh-hant": "中國籍，生於1988年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1988,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

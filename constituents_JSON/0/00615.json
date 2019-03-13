@@ -1,16 +1,30 @@
 {
     "id": 615,
     "publicAccess": true,
-    "name": "Zhu Wei",
-    "nameOther": "朱偉",
-    "alphaSortName": "Zhu, Wei",
+    "name": {
+        "en": "Zhu Wei",
+        "zh-hant": "朱偉"
+    },
+    "alphaSortName": {
+        "en": "Zhu, Wei",
+        "zh-hant": "朱, 偉"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1966",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1966",
+        "zh-hant": "中國籍，生於1966年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1966,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

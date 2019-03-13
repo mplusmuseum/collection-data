@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Provisional Landscapes",
-    "titleOther": "臨時風景",
-    "displayDate": "2005",
-    "displayDateOther": null,
+    "title": {
+        "en": "臨時風景",
+        "zh-hant": "Provisional Landscapes"
+    },
+    "displayDate": {
+        "en": "2005",
+        "zh-hant": null
+    },
     "beginDate": 2005,
     "endDate": 2005,
     "dimension": {
         "en": "sheet (each): 400 × 126.5 cm\r\r\nimage (each): 97 × 122 cm",
-        "zh-hant": null
+        "zh-hant": "紙本 (各): 400 × 126.5 厘米  圖像 (各): 97 × 122 厘米"
     },
     "medium": {
         "en": "colour print",
-        "zh-hant": null
+        "zh-hant": "彩色沖印"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 97,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "New Empty Landscape",
-    "titleOther": "新空山水",
-    "displayDate": "2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "新空山水",
+        "zh-hant": "New Empty Landscape"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
     "dimension": {
         "en": "overall (approx.): 200.5 × 901.7 cm",
-        "zh-hant": null
+        "zh-hant": "整體 （約）: 200.5 × 901.7 厘米"
     },
     "medium": {
         "en": "acrylic and VeeJet on canvas",
-        "zh-hant": null
+        "zh-hant": "塑膠彩及噴漆布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 175,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -1,17 +1,31 @@
 {
     "id": 368,
     "publicAccess": true,
-    "name": "Peng Yu",
-    "nameOther": "彭禹",
-    "alphaSortName": "Peng, Yu",
+    "name": {
+        "en": "Peng Yu",
+        "zh-hant": "彭禹"
+    },
+    "alphaSortName": {
+        "en": "Peng, Yu",
+        "zh-hant": "彭, 禹"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Chinese, born 1974",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1974",
+        "zh-hant": "中國籍，生於1974年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1974,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Painting the Moment (Malerei des Augenblicks)",
-    "titleOther": "瞬時之作",
-    "displayDate": "2007–2013",
-    "displayDateOther": null,
+    "title": {
+        "en": "瞬時之作",
+        "zh-hant": "Painting the Moment (Malerei des Augenblicks)"
+    },
+    "displayDate": {
+        "en": "2007–2013",
+        "zh-hant": null
+    },
     "beginDate": 2007,
     "endDate": 2013,
     "dimension": {
         "en": "sheet (each): 85.3 × 55.5 cm\r\r\nimage (each): 78 × 48 cm",
-        "zh-hant": null
+        "zh-hant": "紙本 (各): 85.3 × 55.5 厘米\r\n圖像 (各): 78 × 48 厘米"
     },
     "medium": {
         "en": "ink on paper",
-        "zh-hant": null
+        "zh-hant": "水墨紙本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 395,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -1,17 +1,31 @@
 {
     "id": 239,
     "publicAccess": true,
-    "name": "Jin Feng",
-    "nameOther": "金峰",
-    "alphaSortName": "Jin, Feng",
+    "name": {
+        "en": "Jin Feng",
+        "zh-hant": "金峰"
+    },
+    "alphaSortName": {
+        "en": "Jin, Feng",
+        "zh-hant": "金, 峰"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Chinese, born 1962",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1962",
+        "zh-hant": "中國籍，生於1962年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1962,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

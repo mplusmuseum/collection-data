@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Print",
-            "zh-hant": null
+            "zh-hant": "版畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Flying Goddess",
-    "titleOther": "飛仙",
-    "displayDate": "1979",
-    "displayDateOther": null,
+    "title": {
+        "en": "飛仙",
+        "zh-hant": "Flying Goddess"
+    },
+    "displayDate": {
+        "en": "1979",
+        "zh-hant": null
+    },
     "beginDate": 1979,
     "endDate": 1979,
     "dimension": {
         "en": "sheet: 70.5 × 70 cm\r\nimage: 9.5 × 22.3 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 70.5 × 70 厘米\r\n圖像: 9.5 × 22.3 厘米"
     },
     "medium": {
         "en": "woodcut",
-        "zh-hant": null
+        "zh-hant": "木刻版畫"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [
         {
             "id": 333,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

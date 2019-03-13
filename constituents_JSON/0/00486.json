@@ -1,16 +1,30 @@
 {
     "id": 486,
     "publicAccess": true,
-    "name": "Wu Yunhua",
-    "nameOther": "吳雲華",
-    "alphaSortName": "Wu, Yunhua",
+    "name": {
+        "en": "Wu Yunhua",
+        "zh-hant": "吳雲華"
+    },
+    "alphaSortName": {
+        "en": "Wu, Yunhua",
+        "zh-hant": "吳, 雲華"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1944",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1944",
+        "zh-hant": "中國籍，生於1944年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1944,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

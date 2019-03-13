@@ -1,16 +1,30 @@
 {
     "id": 195,
     "publicAccess": true,
-    "name": "Guo Gong",
-    "nameOther": "郭工",
-    "alphaSortName": "Guo, Gong",
+    "name": {
+        "en": "Guo Gong",
+        "zh-hant": "郭工"
+    },
+    "alphaSortName": {
+        "en": "Guo, Gong",
+        "zh-hant": "郭, 工"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1966",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1966",
+        "zh-hant": "中國籍，生於1966年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1966,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

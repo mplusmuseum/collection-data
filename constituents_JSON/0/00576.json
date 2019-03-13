@@ -1,16 +1,30 @@
 {
     "id": 576,
     "publicAccess": true,
-    "name": "Zhang Hongzan",
-    "nameOther": "張洪贊",
-    "alphaSortName": "Zhang, Hongzan",
+    "name": {
+        "en": "Zhang Hongzan",
+        "zh-hant": "張洪贊"
+    },
+    "alphaSortName": {
+        "en": "Zhang, Hongzan",
+        "zh-hant": "張, 洪贊"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1944",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1944",
+        "zh-hant": "中國籍，生於1944年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1944,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Don't Touch!",
-    "titleOther": "別碰！",
-    "displayDate": "2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "別碰！",
+        "zh-hant": "Don't Touch!"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
     "dimension": {
         "en": "overall (approx): 268 × 420 × 230 cm",
-        "zh-hant": null
+        "zh-hant": "整體約: 270 × 430 × 225 厘米"
     },
     "medium": {
         "en": "edible dog chews",
-        "zh-hant": null
+        "zh-hant": "可食用牛皮狗咬膠"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 311,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

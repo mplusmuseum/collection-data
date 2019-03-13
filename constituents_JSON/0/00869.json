@@ -1,16 +1,30 @@
 {
     "id": 869,
     "publicAccess": true,
-    "name": "WOHA",
-    "nameOther": "WOHA建築事務所",
-    "alphaSortName": "WOHA",
+    "name": {
+        "en": "WOHA",
+        "zh-hant": "WOHA建築事務所"
+    },
+    "alphaSortName": {
+        "en": "WOHA",
+        "zh-hant": "WOHA建築事務所"
+    },
     "type": "Organization",
     "roles": [
         "Architectural Firm"
     ],
-    "displayBio": "established Singapore, 1994",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Singapore, 1994",
+        "zh-hant": "1994年成立於新加坡"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1994,
     "endDate": null,
-    "nationality": "Singaporean"
+    "nationality": {
+        "en": "Singaporean",
+        "zh-hant": "新加坡籍"
+    }
 }

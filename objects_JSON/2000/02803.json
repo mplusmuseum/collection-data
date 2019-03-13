@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Installation",
-            "zh-hant": null
+            "zh-hant": "裝置藝術"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Pharmacy",
-    "titleOther": "藥房",
-    "displayDate": "1995–1997",
-    "displayDateOther": null,
+    "title": {
+        "en": "藥房",
+        "zh-hant": "Pharmacy"
+    },
+    "displayDate": {
+        "en": "1995–1997",
+        "zh-hant": null
+    },
     "beginDate": 1995,
     "endDate": 1997,
     "dimension": {
         "en": "overall: 256 × 645 × 262 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 256 × 645 × 262 厘米"
     },
     "medium": {
         "en": "mixed media",
-        "zh-hant": null
+        "zh-hant": "混合媒介"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 230,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

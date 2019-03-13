@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Untitled",
-    "titleOther": "《水库》",
-    "displayDate": "2004",
-    "displayDateOther": null,
+    "title": {
+        "en": "《水库》",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "2004",
+        "zh-hant": null
+    },
     "beginDate": 2004,
     "endDate": 2004,
     "dimension": {
         "en": "frame: 104 × 83.7 × 2.3 cm\r\r\noverall (sight): 70.8 × 48 cm",
-        "zh-hant": null
+        "zh-hant": "連框: 104 × 83.7 × 2.3 厘米  整體 （目測量度）: 70.8 × 48 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 457,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

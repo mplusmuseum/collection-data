@@ -1,16 +1,30 @@
 {
     "id": 1658,
     "publicAccess": true,
-    "name": "TAKT PROJECT Inc.",
-    "nameOther": null,
-    "alphaSortName": "TAKT PROJECT Inc.",
+    "name": {
+        "en": "TAKT PROJECT Inc.",
+        "zh-hant": "TAKT PROJECT Inc."
+    },
+    "alphaSortName": {
+        "en": "TAKT PROJECT Inc.",
+        "zh-hant": "TAKT PROJECT Inc."
+    },
     "type": "Artist Collaborative",
     "roles": [
         "Design Firm"
     ],
-    "displayBio": "established Tokyo, 2011",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Tokyo, 2011",
+        "zh-hant": "2011年於東京成立"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 2011,
     "endDate": null,
-    "nationality": "Japanese"
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    }
 }

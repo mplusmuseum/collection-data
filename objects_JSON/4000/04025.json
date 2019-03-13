@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Reptiles",
-    "titleOther": "爬行物",
-    "displayDate": "1989, made 2013",
-    "displayDateOther": "1989年，2013年製造",
+    "title": {
+        "en": "爬行物",
+        "zh-hant": "Reptiles"
+    },
+    "displayDate": {
+        "en": "1989年，2013年製造",
+        "zh-hant": "1989, made 2013"
+    },
     "beginDate": 1989,
     "endDate": 2013,
     "dimension": {
         "en": "overall: 495 × 1300 × 900 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 495 × 1300 × 900 厘米"
     },
     "medium": {
         "en": "paper pulp, iron, and washing machine",
-        "zh-hant": null
+        "zh-hant": "紙漿、鐵、洗衣機"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+，香港"
     },
     "constituents": [
         {
             "id": 230,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

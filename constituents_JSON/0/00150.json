@@ -1,17 +1,31 @@
 {
     "id": 150,
     "publicAccess": true,
-    "name": "Amy Cheung",
-    "nameOther": "張韻雯",
-    "alphaSortName": "Cheung, Amy",
+    "name": {
+        "en": "Amy Cheung",
+        "zh-hant": "張韻雯"
+    },
+    "alphaSortName": {
+        "en": "Cheung, Amy",
+        "zh-hant": "張韻雯"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Hong Kong",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": null,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

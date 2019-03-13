@@ -1,17 +1,31 @@
 {
     "id": 240,
     "publicAccess": true,
-    "name": "Jin Jiangbo",
-    "nameOther": "金江波",
-    "alphaSortName": "Jin, Jiangbo",
+    "name": {
+        "en": "Jin Jiangbo",
+        "zh-hant": "金江波"
+    },
+    "alphaSortName": {
+        "en": "Jin, Jiangbo",
+        "zh-hant": "金, 江波"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Chinese, born 1972",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1972",
+        "zh-hant": "中國籍，生於1972年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1972,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

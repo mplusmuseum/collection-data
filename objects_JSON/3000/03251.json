@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Video",
-            "zh-hant": null
+            "zh-hant": "錄像"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "RMB City",
-    "titleOther": "人民城寨",
-    "displayDate": "2008–2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "人民城寨",
+        "zh-hant": "RMB City"
+    },
+    "displayDate": {
+        "en": "2008–2011",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2011,
     "dimension": {
         "en": "dimension variables",
-        "zh-hant": null
+        "zh-hant": "尺寸不一"
     },
     "medium": {
         "en": "videos, photos, objects, computer data",
-        "zh-hant": null
+        "zh-hant": "錄像、照片、物件、電腦數據"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 110,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -1,14 +1,30 @@
 {
     "id": 3029,
     "publicAccess": true,
-    "name": null,
-    "nameOther": null,
-    "alphaSortName": null,
-    "type": null,
-    "roles": null,
-    "displayBio": null,
-    "gender": null,
-    "beginDate": 2002,
-    "endDate": 2002,
-    "nationality": null
+    "name": {
+        "en": "Otsuki Tadashi",
+        "zh-hant": "Otsuki Tadashi"
+    },
+    "alphaSortName": {
+        "en": "Otsuki, Tadashi",
+        "zh-hant": "Otsuki, Tadashi"
+    },
+    "type": "Individual",
+    "roles": [
+        "Engineer"
+    ],
+    "displayBio": {
+        "en": "Japanese, born 1948",
+        "zh-hant": "日本籍，生於1948年"
+    },
+    "gender": {
+        "en": "Unknown",
+        "zh-hant": "不詳"
+    },
+    "beginDate": 1948,
+    "endDate": null,
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    }
 }

@@ -1,9 +1,14 @@
 {
     "id": 1710,
     "publicAccess": true,
-    "name": "Patrick Chung",
-    "nameOther": "鍾培正",
-    "alphaSortName": "Chung, Patrick",
+    "name": {
+        "en": "Patrick Chung",
+        "zh-hant": "鍾培正"
+    },
+    "alphaSortName": {
+        "en": "Chung, Patrick",
+        "zh-hant": "鍾培正"
+    },
     "type": "Individual",
     "roles": [
         "Archive Creator",
@@ -13,9 +18,18 @@
         "設計師",
         "作品主體"
     ],
-    "displayBio": "Hong Kong, 1940–1983",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Hong Kong, 1940–1983",
+        "zh-hant": "香港，1940–1983年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1940,
     "endDate": 1983,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

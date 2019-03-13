@@ -1,17 +1,31 @@
 {
     "id": 154,
     "publicAccess": true,
-    "name": "Irene Chou",
-    "nameOther": "周綠雲",
-    "alphaSortName": "Chou, Irene",
+    "name": {
+        "en": "Irene Chou",
+        "zh-hant": "周綠雲"
+    },
+    "alphaSortName": {
+        "en": "Chou, Irene",
+        "zh-hant": "周, 綠雲"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Hong Kong, born China. 1924–2011",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Hong Kong, born China. 1924–2011",
+        "zh-hant": "香港，生於中國，1924–2011年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1924,
     "endDate": 2011,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

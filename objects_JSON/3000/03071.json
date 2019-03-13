@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Expression",
-    "titleOther": "表達",
-    "displayDate": "2007",
-    "displayDateOther": null,
+    "title": {
+        "en": "表達",
+        "zh-hant": "Expression"
+    },
+    "displayDate": {
+        "en": "2007",
+        "zh-hant": null
+    },
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
         "en": "overall: 79.9 × 119.9 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 79.9 × 119.9 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 128,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

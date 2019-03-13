@@ -1,16 +1,30 @@
 {
     "id": 974,
     "publicAccess": true,
-    "name": "Simryn Gill",
-    "nameOther": "西蒙瑞·吉爾",
-    "alphaSortName": "Gill, Simryn",
+    "name": {
+        "en": "Simryn Gill",
+        "zh-hant": "西蒙瑞·吉爾"
+    },
+    "alphaSortName": {
+        "en": "Gill, Simryn",
+        "zh-hant": "西蒙瑞·吉爾"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Singaporean, born 1959",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Singaporean, born 1959",
+        "zh-hant": "新加坡籍，生於1959年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1959,
     "endDate": null,
-    "nationality": "Singaporean"
+    "nationality": {
+        "en": "Singaporean",
+        "zh-hant": "新加坡籍"
+    }
 }

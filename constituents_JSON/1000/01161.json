@@ -1,16 +1,30 @@
 {
     "id": 1161,
     "publicAccess": true,
-    "name": "Cheng Wei Kuong",
-    "nameOther": null,
-    "alphaSortName": "Cheng, Wei Kuong",
+    "name": {
+        "en": "Cheng Wei Kuong",
+        "zh-hant": "Cheng Wei Kuong"
+    },
+    "alphaSortName": {
+        "en": "Cheng, Wei Kuong",
+        "zh-hant": "Cheng, Wei Kuong"
+    },
     "type": "Individual",
     "roles": [
         "Photographer"
     ],
-    "displayBio": null,
-    "gender": "Male",
+    "displayBio": {
+        "en": null,
+        "zh-hant": null
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": null,
     "endDate": null,
-    "nationality": null
+    "nationality": {
+        "en": null,
+        "zh-hant": null
+    }
 }

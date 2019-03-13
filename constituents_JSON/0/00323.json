@@ -1,16 +1,30 @@
 {
     "id": 323,
     "publicAccess": true,
-    "name": "Lu Qing",
-    "nameOther": "路青",
-    "alphaSortName": "Lu, Qing",
+    "name": {
+        "en": "Lu Qing",
+        "zh-hant": "路青"
+    },
+    "alphaSortName": {
+        "en": "Lu, Qing",
+        "zh-hant": "路, 青"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1964",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1964",
+        "zh-hant": "中國籍，生於1964年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1964,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

@@ -1,16 +1,30 @@
 {
     "id": 1479,
     "publicAccess": true,
-    "name": "DJI",
-    "nameOther": "大疆",
-    "alphaSortName": "DJI",
+    "name": {
+        "en": "DJI",
+        "zh-hant": "大疆"
+    },
+    "alphaSortName": {
+        "en": "DJI",
+        "zh-hant": "大疆"
+    },
     "type": "Organization",
     "roles": [
         "Designer"
     ],
-    "displayBio": "established Shenzhen, 2006",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Shenzhen, 2006",
+        "zh-hant": "2006年成立於深圳"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 2006,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

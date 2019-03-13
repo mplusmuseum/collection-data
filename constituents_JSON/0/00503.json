@@ -1,16 +1,30 @@
 {
     "id": 503,
     "publicAccess": true,
-    "name": "Xu Hongming",
-    "nameOther": "徐紅明",
-    "alphaSortName": "Xu, Hongming",
+    "name": {
+        "en": "Xu Hongming",
+        "zh-hant": "徐紅明"
+    },
+    "alphaSortName": {
+        "en": "Xu, Hongming",
+        "zh-hant": "徐, 紅明"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1971",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1971",
+        "zh-hant": "中國籍，生於1971年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1971,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

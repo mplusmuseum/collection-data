@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Transparent Monument No. 1",
-    "titleOther": "透明碑 第1號",
-    "displayDate": "2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "透明碑 第1號",
+        "zh-hant": "Transparent Monument No. 1"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
     "dimension": {
         "en": "overall: 220 × 150 × 6 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 220 × 150 × 6 厘米"
     },
     "medium": {
         "en": "mixed media on canvas",
-        "zh-hant": null
+        "zh-hant": "混合媒介、畫布"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 354,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

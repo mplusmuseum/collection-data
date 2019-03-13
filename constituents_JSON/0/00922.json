@@ -1,16 +1,30 @@
 {
     "id": 922,
     "publicAccess": true,
-    "name": "Kim Guiline",
-    "nameOther": "金麒麟",
-    "alphaSortName": "Guiline, Kim",
+    "name": {
+        "en": "Kim Guiline",
+        "zh-hant": "金麒麟"
+    },
+    "alphaSortName": {
+        "en": "Guiline, Kim",
+        "zh-hant": "金麒麟"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Korean, born 1936",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Korean, born 1936",
+        "zh-hant": "韓國籍，生於1936年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1936,
     "endDate": null,
-    "nationality": "South Korean"
+    "nationality": {
+        "en": "South Korean",
+        "zh-hant": "南韓籍"
+    }
 }

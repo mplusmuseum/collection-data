@@ -1,18 +1,32 @@
 {
     "id": 51,
     "publicAccess": true,
-    "name": "nendo",
-    "nameOther": null,
-    "alphaSortName": "nendo",
+    "name": {
+        "en": "nendo",
+        "zh-hant": "nendo"
+    },
+    "alphaSortName": {
+        "en": "nendo",
+        "zh-hant": "nendo"
+    },
     "type": "Organization",
     "roles": [
         "Designer",
         "Artist",
         "Design Firm"
     ],
-    "displayBio": "established Tokyo, 2002",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Tokyo, 2002",
+        "zh-hant": "2002年成立於東京"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 2002,
     "endDate": null,
-    "nationality": "Japanese"
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    }
 }

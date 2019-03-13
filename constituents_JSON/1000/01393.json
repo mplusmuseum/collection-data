@@ -1,16 +1,30 @@
 {
     "id": 1393,
     "publicAccess": true,
-    "name": "Zoe Zenghelis",
-    "nameOther": null,
-    "alphaSortName": "Zenghelis, Zoe",
+    "name": {
+        "en": "Zoe Zenghelis",
+        "zh-hant": "Zoe Zenghelis"
+    },
+    "alphaSortName": {
+        "en": "Zenghelis, Zoe",
+        "zh-hant": "Zenghelis, Zoe"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "British, born Greece, 1937",
-    "gender": "Female",
+    "displayBio": {
+        "en": "British, born Greece, 1937",
+        "zh-hant": "英國籍，1937年生於希臘"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1937,
     "endDate": null,
-    "nationality": "British"
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    }
 }

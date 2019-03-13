@@ -1,16 +1,30 @@
 {
     "id": 404,
     "publicAccess": true,
-    "name": "Shi Chong",
-    "nameOther": "石沖",
-    "alphaSortName": "Shi, Chong",
+    "name": {
+        "en": "Shi Chong",
+        "zh-hant": "石沖"
+    },
+    "alphaSortName": {
+        "en": "Shi, Chong",
+        "zh-hant": "石, 沖"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1963",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1963,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

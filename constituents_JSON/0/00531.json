@@ -1,16 +1,30 @@
 {
     "id": 531,
     "publicAccess": true,
-    "name": "Yang Qian",
-    "nameOther": "楊千",
-    "alphaSortName": "Yang, Qian",
+    "name": {
+        "en": "Yang Qian",
+        "zh-hant": "楊千"
+    },
+    "alphaSortName": {
+        "en": "Yang, Qian",
+        "zh-hant": "楊, 千"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1959",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1959",
+        "zh-hant": "中國籍，生於1959年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1959,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

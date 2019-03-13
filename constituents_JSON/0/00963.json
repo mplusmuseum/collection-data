@@ -1,16 +1,30 @@
 {
     "id": 963,
     "publicAccess": true,
-    "name": "Le Corbusier",
-    "nameOther": "勒·柯比意",
-    "alphaSortName": "Le Corbusier",
+    "name": {
+        "en": "Le Corbusier",
+        "zh-hant": "勒·柯比意"
+    },
+    "alphaSortName": {
+        "en": "Le Corbusier",
+        "zh-hant": "勒·柯比意"
+    },
     "type": "Individual",
     "roles": [
         "Designer"
     ],
-    "displayBio": "French, born Switzerland. 1887–1965",
-    "gender": "Male",
+    "displayBio": {
+        "en": "French, born Switzerland. 1887–1965",
+        "zh-hant": "法國籍，生於瑞士，1887–1965年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1887,
     "endDate": 1965,
-    "nationality": "French"
+    "nationality": {
+        "en": "French",
+        "zh-hant": "法國籍"
+    }
 }

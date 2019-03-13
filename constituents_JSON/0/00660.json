@@ -1,16 +1,30 @@
 {
     "id": 660,
     "publicAccess": true,
-    "name": "Ho Fan",
-    "nameOther": "何藩",
-    "alphaSortName": "Fan, Ho",
+    "name": {
+        "en": "Ho Fan",
+        "zh-hant": "何藩"
+    },
+    "alphaSortName": {
+        "en": "Fan, Ho",
+        "zh-hant": "何藩"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Hong Kong, born China. 1931–2016",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Hong Kong, born China. 1931–2016",
+        "zh-hant": "香港，生於中國，1931–2016年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1931,
     "endDate": 2016,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

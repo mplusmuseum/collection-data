@@ -1,16 +1,30 @@
 {
     "id": 517,
     "publicAccess": true,
-    "name": "Xue Song",
-    "nameOther": "薛松",
-    "alphaSortName": "Xue, Song",
+    "name": {
+        "en": "Xue Song",
+        "zh-hant": "薛松"
+    },
+    "alphaSortName": {
+        "en": "Xue, Song",
+        "zh-hant": "薛, 松"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1965",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1965",
+        "zh-hant": "中國籍，生於1965年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1965,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

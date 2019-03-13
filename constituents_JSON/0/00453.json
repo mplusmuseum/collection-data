@@ -1,16 +1,30 @@
 {
     "id": 453,
     "publicAccess": true,
-    "name": "Wang Mai",
-    "nameOther": "王邁",
-    "alphaSortName": "Wang, Mai",
+    "name": {
+        "en": "Wang Mai",
+        "zh-hant": "王邁"
+    },
+    "alphaSortName": {
+        "en": "Wang, Mai",
+        "zh-hant": "王, 邁"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1972",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1972",
+        "zh-hant": "中國籍，生於1972年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1972,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

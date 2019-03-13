@@ -1,16 +1,30 @@
 {
     "id": 131,
     "publicAccess": true,
-    "name": "Chen Ke",
-    "nameOther": "陳可",
-    "alphaSortName": "Chen, Ke",
+    "name": {
+        "en": "Chen Ke",
+        "zh-hant": "陳可"
+    },
+    "alphaSortName": {
+        "en": "Chen, Ke",
+        "zh-hant": "陳, 可"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1978",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1978",
+        "zh-hant": "中國籍，生於1978年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1978,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

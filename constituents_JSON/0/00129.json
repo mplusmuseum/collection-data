@@ -1,16 +1,30 @@
 {
     "id": 129,
     "publicAccess": true,
-    "name": "Chen Hongzhu",
-    "nameOther": "陳虹竹",
-    "alphaSortName": "Chen, Hongzhu",
+    "name": {
+        "en": "Chen Hongzhu",
+        "zh-hant": "陳虹竹"
+    },
+    "alphaSortName": {
+        "en": "Chen, Hongzhu",
+        "zh-hant": "陳, 虹竹"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1982",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1982",
+        "zh-hant": "中國籍，生於1982年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1982,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

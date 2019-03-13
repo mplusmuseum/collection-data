@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Print",
-            "zh-hant": null
+            "zh-hant": "版畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Probe",
-    "titleOther": "望遠鏡",
-    "displayDate": "1993",
-    "displayDateOther": null,
+    "title": {
+        "en": "望遠鏡",
+        "zh-hant": "Probe"
+    },
+    "displayDate": {
+        "en": "1993",
+        "zh-hant": null
+    },
     "beginDate": 1993,
     "endDate": 1993,
     "dimension": {
         "en": "sheet (sight): 15.9 × 16.5 cm\r\r\nimage (sight): 34.8 × 24.9 cm",
-        "zh-hant": null
+        "zh-hant": "紙本 （目測量度）: 15.9 × 16.5 厘米  圖像 （目測量度）: 34.8 × 24.9 厘米"
     },
     "medium": {
         "en": "lithograph on paper",
-        "zh-hant": null
+        "zh-hant": "石印紙本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 313,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "New York 1983 - 1993",
-    "titleOther": "紐約1983-1993",
-    "displayDate": "1983–1993",
-    "displayDateOther": null,
+    "title": {
+        "en": "紐約1983-1993",
+        "zh-hant": "New York 1983 - 1993"
+    },
+    "displayDate": {
+        "en": "1983–1993",
+        "zh-hant": null
+    },
     "beginDate": 1983,
     "endDate": 1993,
     "dimension": {
         "en": "frame (each): 83.7 × 83.7 × 3 cm",
-        "zh-hant": null
+        "zh-hant": "框架 (各): 83.7 × 83.7 × 3 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": null
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 97,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

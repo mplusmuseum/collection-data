@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Video Installation",
-            "zh-hant": null
+            "zh-hant": "錄像裝置"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Galaxy",
-    "titleOther": "銀河",
-    "displayDate": "2010–2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "銀河",
+        "zh-hant": "Galaxy"
+    },
+    "displayDate": {
+        "en": "2010–2011",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2011,
     "dimension": {
         "en": "duration: 12 min. 4 sec.\r\r\neach (coin, max.): 3 × 3 cm\r\r\neach (coin, min.): 2 × 2 cm",
-        "zh-hant": null
+        "zh-hant": "影片長度: 12 分 4 秒"
     },
     "medium": {
         "en": "acrylic on metal coin, single-channel video (sound)",
-        "zh-hant": null
+        "zh-hant": "塑膠彩、硬幣、單頻道錄像（有聲）"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 354,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

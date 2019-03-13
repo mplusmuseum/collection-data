@@ -1,16 +1,30 @@
 {
     "id": 410,
     "publicAccess": true,
-    "name": "Shi Yong",
-    "nameOther": "施勇",
-    "alphaSortName": "Shi, Yong",
+    "name": {
+        "en": "Shi Yong",
+        "zh-hant": "施勇"
+    },
+    "alphaSortName": {
+        "en": "Shi, Yong",
+        "zh-hant": "施, 勇"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1963",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1963,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Dual Painting No 11",
-    "titleOther": "雙重繪畫 第11號",
-    "displayDate": "2005–2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "雙重繪畫 第11號",
+        "zh-hant": "Dual Painting No 11"
+    },
+    "displayDate": {
+        "en": "2005–2006",
+        "zh-hant": null
+    },
     "beginDate": 2005,
     "endDate": 2006,
     "dimension": {
         "en": "overall: 300.4 × 420.3 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 300.4 × 420.3 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 531,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

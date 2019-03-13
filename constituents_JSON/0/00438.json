@@ -1,9 +1,14 @@
 {
     "id": 438,
     "publicAccess": true,
-    "name": "Maryn Varbanov",
-    "nameOther": "萬曼",
-    "alphaSortName": "Varbanov, Maryn",
+    "name": {
+        "en": "Maryn Varbanov",
+        "zh-hant": "萬曼"
+    },
+    "alphaSortName": {
+        "en": "Varbanov, Maryn",
+        "zh-hant": "萬曼"
+    },
     "type": "Individual",
     "roles": [
         "Subject",
@@ -12,9 +17,18 @@
         "建檔者",
         "藝術家"
     ],
-    "displayBio": "Bulgarian, 1932–1989",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Bulgarian, 1932–1989",
+        "zh-hant": "保加利亞籍，1932–1989年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1932,
     "endDate": 1989,
-    "nationality": "Bulgarian"
+    "nationality": {
+        "en": "Bulgarian",
+        "zh-hant": "保加利亞籍"
+    }
 }

@@ -1,16 +1,30 @@
 {
     "id": 209,
     "publicAccess": true,
-    "name": "He Yunchang",
-    "nameOther": "何雲昌",
-    "alphaSortName": "He, Yunchang",
+    "name": {
+        "en": "He Yunchang",
+        "zh-hant": "何雲昌"
+    },
+    "alphaSortName": {
+        "en": "He, Yunchang",
+        "zh-hant": "何, 雲昌"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1967",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1967",
+        "zh-hant": "中國籍，生於1967年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1967,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

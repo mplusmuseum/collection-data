@@ -1,17 +1,31 @@
 {
     "id": 171,
     "publicAccess": true,
-    "name": "Duan Jianyu",
-    "nameOther": "段建宇",
-    "alphaSortName": "Duan, Jianyu",
+    "name": {
+        "en": "Duan Jianyu",
+        "zh-hant": "段建宇"
+    },
+    "alphaSortName": {
+        "en": "Duan, Jianyu",
+        "zh-hant": "段, 建宇"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Chinese, born 1970",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1970",
+        "zh-hant": "中國籍，生於1970年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1970,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

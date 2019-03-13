@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Gray. Red and Blue. Blue",
-    "titleOther": "灰紅藍",
-    "displayDate": "2003",
-    "displayDateOther": null,
+    "title": {
+        "en": "灰紅藍",
+        "zh-hant": "Gray. Red and Blue. Blue"
+    },
+    "displayDate": {
+        "en": "2003",
+        "zh-hant": null
+    },
     "beginDate": 2003,
     "endDate": 2003,
     "dimension": {
         "en": "overall: 45 × 40 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 45 × 40 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 547,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

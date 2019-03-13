@@ -1,16 +1,30 @@
 {
     "id": 1152,
     "publicAccess": true,
-    "name": "Ishimaru Co. Ltd.",
-    "nameOther": null,
-    "alphaSortName": "Ishimaru Co. Ltd.",
+    "name": {
+        "en": "Ishimaru Co. Ltd.",
+        "zh-hant": "Ishimaru Co. Ltd."
+    },
+    "alphaSortName": {
+        "en": "Ishimaru Co. Ltd.",
+        "zh-hant": "Ishimaru Co. Ltd."
+    },
     "type": "Organization",
     "roles": [
         "Manufacturer"
     ],
-    "displayBio": "established Tokyo, 1969",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Tokyo, 1969",
+        "zh-hant": "1969年成立於東京"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1969,
     "endDate": null,
-    "nationality": "Japanese"
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    }
 }

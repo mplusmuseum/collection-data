@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Portrait",
-    "titleOther": "像",
-    "displayDate": "2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "像",
+        "zh-hant": "Portrait"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
         "en": "sheet: 140 × 72.9 cm\r\r\nimage: 119 × 63.7 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 140 × 72.9 厘米  圖像: 119 × 63.7 厘米"
     },
     "medium": {
         "en": "ink on paper",
-        "zh-hant": null
+        "zh-hant": "水墨紙本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 127,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

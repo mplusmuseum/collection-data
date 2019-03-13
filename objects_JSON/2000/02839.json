@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Print",
-            "zh-hant": null
+            "zh-hant": "版畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "The Popside Vendor",
-    "titleOther": "冰棒",
-    "displayDate": "1979, reprinted 2005",
-    "displayDateOther": "1979年，2005年重印",
+    "title": {
+        "en": "冰棒",
+        "zh-hant": "The Popside Vendor"
+    },
+    "displayDate": {
+        "en": "1979年，2005年重印",
+        "zh-hant": "1979, reprinted 2005"
+    },
     "beginDate": 1979,
     "endDate": 2005,
     "dimension": {
         "en": "image (sight): 47 × 34.5 cm\r\r\nsheet (sight): 46.7 × 40.3 cm",
-        "zh-hant": null
+        "zh-hant": "圖像 （目測量度）: 47 × 34.5 厘米  紙本 （目測量度）: 46.7 × 40.3 厘米"
     },
     "medium": {
         "en": "woodcut",
-        "zh-hant": null
+        "zh-hant": "木刻版畫"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [
         {
             "id": 333,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

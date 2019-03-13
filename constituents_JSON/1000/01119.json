@@ -1,16 +1,30 @@
 {
     "id": 1119,
     "publicAccess": true,
-    "name": "Joana Preiss",
-    "nameOther": null,
-    "alphaSortName": "Preiss, Joana",
+    "name": {
+        "en": "Joana Preiss",
+        "zh-hant": "Joana Preiss"
+    },
+    "alphaSortName": {
+        "en": "Preiss, Joana",
+        "zh-hant": "Preiss, Joana"
+    },
     "type": "Individual",
     "roles": [
         "Filmmaker"
     ],
-    "displayBio": "French, born 1972",
-    "gender": "Female",
+    "displayBio": {
+        "en": "French, born 1972",
+        "zh-hant": "法國籍，生於1972年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1972,
     "endDate": null,
-    "nationality": "French"
+    "nationality": {
+        "en": "French",
+        "zh-hant": "法國籍"
+    }
 }

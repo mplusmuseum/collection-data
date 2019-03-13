@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Poster",
-            "zh-hant": null
+            "zh-hant": "海報"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "You know where the east is",
-    "titleOther": "你知道东方在哪一边",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "你知道东方在哪一边",
+        "zh-hant": "You know where the east is"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
     "dimension": {
         "en": "sheet: 73.5 × 49.8 cm\r\r\nimage: 69.5 × 45.9 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 73.5 × 49.8 厘米  圖像: 69.5 × 45.9 厘米"
     },
     "medium": {
         "en": "print on paper",
-        "zh-hant": null
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 447,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

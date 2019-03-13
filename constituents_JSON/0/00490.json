@@ -1,16 +1,30 @@
 {
     "id": 490,
     "publicAccess": true,
-    "name": "Xiang Jing",
-    "nameOther": "向京",
-    "alphaSortName": "Xiang, Jing",
+    "name": {
+        "en": "Xiang Jing",
+        "zh-hant": "向京"
+    },
+    "alphaSortName": {
+        "en": "Xiang, Jing",
+        "zh-hant": "向, 京"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1968",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1968,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Print",
-            "zh-hant": null
+            "zh-hant": "版畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "View of Tide",
-    "titleOther": "止水之上：觀潮",
-    "displayDate": "2009",
-    "displayDateOther": "2008",
+    "title": {
+        "en": "止水之上：觀潮",
+        "zh-hant": "View of Tide"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": "2009"
+    },
     "beginDate": 2009,
     "endDate": 2009,
     "dimension": {
         "en": "overall: 49.6 × 380.6 cm\r\r\nsheet: 49.6 × 332 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 49.6 × 380.6 厘米  紙本: 49.6 × 332 厘米"
     },
     "medium": {
         "en": "inkjet print on rice paper",
-        "zh-hant": null
+        "zh-hant": "噴墨打印宣紙"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 537,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

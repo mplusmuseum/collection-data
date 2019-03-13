@@ -1,16 +1,30 @@
 {
     "id": 308,
     "publicAccess": true,
-    "name": "Liu Qianyi",
-    "nameOther": "劉茜懿",
-    "alphaSortName": "Liu, QianyYi",
+    "name": {
+        "en": "Liu Qianyi",
+        "zh-hant": "劉茜懿"
+    },
+    "alphaSortName": {
+        "en": "Liu, QianyYi",
+        "zh-hant": "劉, 茜懿"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1987",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, born 1987",
+        "zh-hant": "中國籍，生於1987年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1987,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

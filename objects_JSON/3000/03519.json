@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Intercepting Underflow in Huixian City",
-    "titleOther": "截潛流，輝縣",
-    "displayDate": "photographed 1974, printed circa 2000",
-    "displayDateOther": "1974年拍攝，約2000年印刷",
+    "title": {
+        "en": "截潛流，輝縣",
+        "zh-hant": "Intercepting Underflow in Huixian City"
+    },
+    "displayDate": {
+        "en": "1974年拍攝，約2000年印刷",
+        "zh-hant": "photographed 1974, printed circa 2000"
+    },
     "beginDate": 1974,
     "endDate": 2002,
     "dimension": {
         "en": "sheet: 35.1 × 50.7 cm\r\r\nimage: 33.5 × 49.7 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 35.1 × 50.7 厘米  圖像: 33.5 × 49.7 厘米"
     },
     "medium": {
         "en": "inkjet print",
-        "zh-hant": null
+        "zh-hant": "噴墨打印"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 459,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

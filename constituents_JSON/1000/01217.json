@@ -1,16 +1,30 @@
 {
     "id": 1217,
     "publicAccess": true,
-    "name": "Zhang Hui",
-    "nameOther": "張慧",
-    "alphaSortName": "Zhang, Hui",
+    "name": {
+        "en": "Zhang Hui",
+        "zh-hant": "張慧"
+    },
+    "alphaSortName": {
+        "en": "Zhang, Hui",
+        "zh-hant": "張慧"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1967",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1967",
+        "zh-hant": "中國籍，生於1967年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1967,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

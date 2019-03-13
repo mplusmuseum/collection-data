@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Autumn 1994. No. 1",
-    "titleOther": "1994年秋 第1號",
-    "displayDate": "1994",
-    "displayDateOther": null,
+    "title": {
+        "en": "1994年秋 第1號",
+        "zh-hant": "Autumn 1994. No. 1"
+    },
+    "displayDate": {
+        "en": "1994",
+        "zh-hant": null
+    },
     "beginDate": 1994,
     "endDate": 1994,
     "dimension": {
         "en": "overall: 113.5 × 145.7 × 3.3 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 113.5 × 145.7 × 3.3 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 241,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

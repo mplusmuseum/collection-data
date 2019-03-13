@@ -1,17 +1,31 @@
 {
     "id": 487,
     "publicAccess": true,
-    "name": "Francis Wu",
-    "nameOther": "吳章建",
-    "alphaSortName": "Wu, Francis",
+    "name": {
+        "en": "Francis Wu",
+        "zh-hant": "吳章建"
+    },
+    "alphaSortName": {
+        "en": "Wu, Francis",
+        "zh-hant": "吳章建"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Hong Kong, born China. 1911–1989",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Hong Kong, born China. 1911–1989",
+        "zh-hant": "香港，生於中國，1911–1989年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1911,
     "endDate": 1989,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

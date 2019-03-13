@@ -1,18 +1,32 @@
 {
     "id": 359,
     "publicAccess": true,
-    "name": "Nam June Paik",
-    "nameOther": "白南准",
-    "alphaSortName": "Paik, Nam June",
+    "name": {
+        "en": "Nam June Paik",
+        "zh-hant": "白南准"
+    },
+    "alphaSortName": {
+        "en": "Paik, Nam June",
+        "zh-hant": "白南准"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "Archive Creator",
         "建檔者"
     ],
-    "displayBio": "American, born Korea. 1932–2006",
-    "gender": "Male",
+    "displayBio": {
+        "en": "American, born Korea. 1932–2006",
+        "zh-hant": "美國籍，生於韓國，1932–2006年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1932,
     "endDate": 2006,
-    "nationality": "American"
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    }
 }

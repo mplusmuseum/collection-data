@@ -1,17 +1,31 @@
 {
     "id": 11,
     "publicAccess": true,
-    "name": "M+ Museum",
-    "nameOther": null,
-    "alphaSortName": "M+ Museum",
+    "name": {
+        "en": "M+ Museum",
+        "zh-hant": "M+ Museum"
+    },
+    "alphaSortName": {
+        "en": "M+ Museum",
+        "zh-hant": "M+ Museum"
+    },
     "type": "Organization",
     "roles": [
         "Commissioned by",
         "委約方"
     ],
-    "displayBio": "established Hong Kong, 2010",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Hong Kong, 2010",
+        "zh-hant": "2010年成立於香港"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 2010,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

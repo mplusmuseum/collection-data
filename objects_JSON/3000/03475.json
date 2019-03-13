@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Installation",
-            "zh-hant": null
+            "zh-hant": "裝置藝術"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Everyday Relationships",
-    "titleOther": "日常關係",
-    "displayDate": "2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "日常關係",
+        "zh-hant": "Everyday Relationships"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": null
+    },
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
         "en": "dimensions variable",
-        "zh-hant": null
+        "zh-hant": "尺寸不一"
     },
     "medium": {
         "en": "mixed media",
-        "zh-hant": null
+        "zh-hant": "混合媒介"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 144,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

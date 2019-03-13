@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Performance",
-            "zh-hant": null
+            "zh-hant": "行為"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Washing River",
-    "titleOther": "洗河",
-    "displayDate": "1995",
-    "displayDateOther": null,
+    "title": {
+        "en": "洗河",
+        "zh-hant": "Washing River"
+    },
+    "displayDate": {
+        "en": "1995",
+        "zh-hant": null
+    },
     "beginDate": 1995,
     "endDate": 1995,
     "dimension": {
         "en": "sheet (each): 119 × 179.4 cm",
-        "zh-hant": null
+        "zh-hant": "紙本 (各): 119 × 179.4 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 545,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "2007WCSSXL01 (Wrong Coding Shanshui)",
-    "titleOther": "亂碼山水:2007WCSSXL01",
-    "displayDate": "2007",
-    "displayDateOther": null,
+    "title": {
+        "en": "亂碼山水:2007WCSSXL01",
+        "zh-hant": "2007WCSSXL01 (Wrong Coding Shanshui)"
+    },
+    "displayDate": {
+        "en": "2007",
+        "zh-hant": null
+    },
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
         "en": "overall: 200 × 900 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 200 × 900 厘米"
     },
     "medium": {
         "en": "acrylic and VeeJet on canvas",
-        "zh-hant": null
+        "zh-hant": "塑膠彩及噴漆布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 175,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

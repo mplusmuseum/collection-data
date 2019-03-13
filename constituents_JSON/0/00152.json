@@ -1,16 +1,30 @@
 {
     "id": 152,
     "publicAccess": true,
-    "name": "Chi Peng",
-    "nameOther": "遲鵬",
-    "alphaSortName": "Chi, Peng",
+    "name": {
+        "en": "Chi Peng",
+        "zh-hant": "遲鵬"
+    },
+    "alphaSortName": {
+        "en": "Chi, Peng",
+        "zh-hant": "遲, 鵬"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1981",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1981",
+        "zh-hant": "中國籍，生於1981年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1981,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

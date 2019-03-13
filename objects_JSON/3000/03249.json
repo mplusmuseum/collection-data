@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Wall-photos-5",
-    "titleOther": "牆 照片 5",
-    "displayDate": "1993",
-    "displayDateOther": null,
+    "title": {
+        "en": "牆 照片 5",
+        "zh-hant": "Wall-photos-5"
+    },
+    "displayDate": {
+        "en": "1993",
+        "zh-hant": null
+    },
     "beginDate": 1993,
     "endDate": 1993,
     "dimension": {
         "en": "sheet: 43.5 × 59 cm\r\r\nimage: 375 × 54.9 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 43.5 × 59 厘米  圖像: 375 × 54.9 厘米"
     },
     "medium": {
         "en": "gelatin silver print on fiber-based paper",
-        "zh-hant": null
+        "zh-hant": "銀鹽照片、纖維紙"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 455,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

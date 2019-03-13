@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Video",
-            "zh-hant": null
+            "zh-hant": "錄像"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Channels of Socket Live",
-    "titleOther": "穴居頻道",
-    "displayDate": "2003",
-    "displayDateOther": null,
+    "title": {
+        "en": "穴居頻道",
+        "zh-hant": "Channels of Socket Live"
+    },
+    "displayDate": {
+        "en": "2003",
+        "zh-hant": null
+    },
     "beginDate": 2003,
     "endDate": 2003,
     "dimension": {
         "en": "duration: 5 min.",
-        "zh-hant": null
+        "zh-hant": "影片長度：5分"
     },
     "medium": {
         "en": "DVD pal video",
-        "zh-hant": null
+        "zh-hant": "DVD pal 錄像"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 609,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

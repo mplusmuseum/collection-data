@@ -1,16 +1,30 @@
 {
     "id": 1744,
     "publicAccess": true,
-    "name": "Elaine Yan Ling Ng",
-    "nameOther": "吳燕玲",
-    "alphaSortName": "Ng, Elaine Yan Ling",
+    "name": {
+        "en": "Elaine Yan Ling Ng",
+        "zh-hant": "吳燕玲"
+    },
+    "alphaSortName": {
+        "en": "Ng, Elaine Yan Ling",
+        "zh-hant": "吳燕玲"
+    },
     "type": "Individual",
     "roles": [
         "Designer"
     ],
-    "displayBio": "British, born 1985",
-    "gender": "Female",
+    "displayBio": {
+        "en": "British, born 1985",
+        "zh-hant": "英國籍，生於1985年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1985,
     "endDate": null,
-    "nationality": "British"
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    }
 }

@@ -1,17 +1,31 @@
 {
     "id": 153,
     "publicAccess": true,
-    "name": "Heman Chong",
-    "nameOther": "張奕滿",
-    "alphaSortName": "Chong, Heman",
+    "name": {
+        "en": "Heman Chong",
+        "zh-hant": "張奕滿"
+    },
+    "alphaSortName": {
+        "en": "Chong, Heman",
+        "zh-hant": "張奕滿"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Singaporean, born Malaysia, 1977",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Singaporean, born Malaysia, 1977",
+        "zh-hant": "新加坡籍，1977年生於馬來西亞"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1977,
     "endDate": null,
-    "nationality": "Malaysian"
+    "nationality": {
+        "en": "Malaysian",
+        "zh-hant": "馬來西亞籍"
+    }
 }

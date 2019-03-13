@@ -1,17 +1,31 @@
 {
     "id": 340,
     "publicAccess": true,
-    "name": "Mao Tongqiang",
-    "nameOther": "毛同強",
-    "alphaSortName": "Mao, Tongqiang",
+    "name": {
+        "en": "Mao Tongqiang",
+        "zh-hant": "毛同強"
+    },
+    "alphaSortName": {
+        "en": "Mao, Tongqiang",
+        "zh-hant": "毛, 同強"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Chinese, born 1960",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1960",
+        "zh-hant": "中國籍，生於1960年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1960,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

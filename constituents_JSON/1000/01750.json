@@ -1,16 +1,30 @@
 {
     "id": 1750,
     "publicAccess": true,
-    "name": "Julie & Jesse",
-    "nameOther": null,
-    "alphaSortName": "Julie & Jesse",
+    "name": {
+        "en": "Julie & Jesse",
+        "zh-hant": "Julie & Jesse"
+    },
+    "alphaSortName": {
+        "en": "Julie & Jesse",
+        "zh-hant": "Julie & Jesse"
+    },
     "type": "Artist Collaborative",
     "roles": [
         "Artist"
     ],
-    "displayBio": "established Hong Kong, 2008",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Hong Kong, 2008",
+        "zh-hant": "2008年成立於香港"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 2008,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

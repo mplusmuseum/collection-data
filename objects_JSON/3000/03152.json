@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Terrazzo 2005.4/5",
-    "titleOther": "水磨石 2005.4/5",
-    "displayDate": "2005",
-    "displayDateOther": null,
+    "title": {
+        "en": "水磨石 2005.4/5",
+        "zh-hant": "Terrazzo 2005.4/5"
+    },
+    "displayDate": {
+        "en": "2005",
+        "zh-hant": null
+    },
     "beginDate": 2005,
     "endDate": 2005,
     "dimension": {
         "en": "overall: 180 × 150 × 5.5 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 180 × 150 × 5.5 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 444,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

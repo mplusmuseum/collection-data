@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Performance",
-            "zh-hant": null
+            "zh-hant": "行為"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Wrestling: One and One Hundred",
-    "titleOther": "摔跤：1 和100",
-    "displayDate": "photographed 2001, printed 2004",
-    "displayDateOther": "2002年拍攝，2004年印刷",
+    "title": {
+        "en": "摔跤：1 和100",
+        "zh-hant": "Wrestling: One and One Hundred"
+    },
+    "displayDate": {
+        "en": "2002年拍攝，2004年印刷",
+        "zh-hant": "photographed 2001, printed 2004"
+    },
     "beginDate": 2001,
     "endDate": 2004,
     "dimension": {
         "en": "sheet: 125.8 × 763.3 cm\r\r\nimage: 119.8 × 742.3 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 125.8 × 763.3 厘米  圖像: 119.8 × 742.3 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 209,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

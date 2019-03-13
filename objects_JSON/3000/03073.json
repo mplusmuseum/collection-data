@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Installation",
-            "zh-hant": null
+            "zh-hant": "裝置藝術"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "The Times",
-    "titleOther": "那時光",
-    "displayDate": "2006",
-    "displayDateOther": null,
+    "title": {
+        "en": "那時光",
+        "zh-hant": "The Times"
+    },
+    "displayDate": {
+        "en": "2006",
+        "zh-hant": null
+    },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
         "en": "each (average): 450 × 111 cm",
-        "zh-hant": null
+        "zh-hant": "各 (平均): 450 × 111 厘米"
     },
     "medium": {
         "en": "mixed media on silk",
-        "zh-hant": null
+        "zh-hant": "混合媒介、絹布"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 223,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

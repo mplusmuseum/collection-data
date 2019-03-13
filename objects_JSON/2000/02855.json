@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Test Series No. 1",
-    "titleOther": "實驗 第1號",
-    "displayDate": "1996",
-    "displayDateOther": null,
+    "title": {
+        "en": "實驗 第1號",
+        "zh-hant": "Test Series No. 1"
+    },
+    "displayDate": {
+        "en": "1996",
+        "zh-hant": null
+    },
     "beginDate": 1996,
     "endDate": 1996,
     "dimension": {
         "en": "overall: 158.6 × 169.9 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 158.6 × 169.9 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 139,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

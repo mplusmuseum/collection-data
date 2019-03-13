@@ -1,16 +1,30 @@
 {
     "id": 1574,
     "publicAccess": true,
-    "name": "Jasper Morrison",
-    "nameOther": "賈斯珀·莫里森",
-    "alphaSortName": "Morrison, Jasper",
+    "name": {
+        "en": "Jasper Morrison",
+        "zh-hant": "賈斯珀·莫里森"
+    },
+    "alphaSortName": {
+        "en": "Morrison, Jasper",
+        "zh-hant": "賈斯珀·莫里森"
+    },
     "type": "Individual",
     "roles": [
         "Designer"
     ],
-    "displayBio": "British, born 1959",
-    "gender": "Male",
+    "displayBio": {
+        "en": "British, born 1959",
+        "zh-hant": "英國籍，生於1959年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1959,
     "endDate": null,
-    "nationality": "British"
+    "nationality": {
+        "en": "British",
+        "zh-hant": "英國籍"
+    }
 }

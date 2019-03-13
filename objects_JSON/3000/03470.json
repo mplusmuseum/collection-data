@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Existence No. 115",
-    "titleOther": "《有 No.115》",
-    "displayDate": "1985–1986",
-    "displayDateOther": null,
+    "title": {
+        "en": "《有 No.115》",
+        "zh-hant": "Existence No. 115"
+    },
+    "displayDate": {
+        "en": "1985–1986",
+        "zh-hant": null
+    },
     "beginDate": 1985,
     "endDate": 1986,
     "dimension": {
         "en": "overall: 200 × 480 × 3.3 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 200 × 480 × 3.3 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [
         {
             "id": 578,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

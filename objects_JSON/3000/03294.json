@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Lotus Pond",
-    "titleOther": "荷塘",
-    "displayDate": "2009",
-    "displayDateOther": null,
+    "title": {
+        "en": "荷塘",
+        "zh-hant": "Lotus Pond"
+    },
+    "displayDate": {
+        "en": "2009",
+        "zh-hant": null
+    },
     "beginDate": 2009,
     "endDate": 2009,
     "dimension": {
         "en": "overall: 99.8 × 200.4 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 99.8 × 200.4 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 529,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

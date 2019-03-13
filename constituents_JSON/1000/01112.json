@@ -1,16 +1,30 @@
 {
     "id": 1112,
     "publicAccess": true,
-    "name": "Pierre Jeanneret",
-    "nameOther": "皮耶‧江耐瑞",
-    "alphaSortName": "Jeanneret, Pierre",
+    "name": {
+        "en": "Pierre Jeanneret",
+        "zh-hant": "皮耶‧江耐瑞"
+    },
+    "alphaSortName": {
+        "en": "Jeanneret, Pierre",
+        "zh-hant": "江耐瑞, 皮耶"
+    },
     "type": "Individual",
     "roles": [
         "Designer"
     ],
-    "displayBio": "Swiss, 1896–1967",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Swiss, 1896–1967",
+        "zh-hant": "瑞士籍，1896–1967年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1896,
     "endDate": 1967,
-    "nationality": "Swiss"
+    "nationality": {
+        "en": "Swiss",
+        "zh-hant": "瑞士籍"
+    }
 }

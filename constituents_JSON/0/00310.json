@@ -1,16 +1,30 @@
 {
     "id": 310,
     "publicAccess": true,
-    "name": "Liu Wei",
-    "nameOther": "劉煒",
-    "alphaSortName": "Liu, Wei",
+    "name": {
+        "en": "Liu Wei",
+        "zh-hant": "劉煒"
+    },
+    "alphaSortName": {
+        "en": "Liu, Wei",
+        "zh-hant": "劉, 煒"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1965",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1965",
+        "zh-hant": "中國籍，生於1965年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1965,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

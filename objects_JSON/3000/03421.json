@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Installation",
-            "zh-hant": null
+            "zh-hant": "裝置藝術"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Grassland",
-    "titleOther": "草地",
-    "displayDate": "2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "草地",
+        "zh-hant": "Grassland"
+    },
+    "displayDate": {
+        "en": "2010",
+        "zh-hant": null
+    },
     "beginDate": 2010,
     "endDate": 2010,
     "dimension": {
         "en": "each: 185 × 100 × 500 cm",
-        "zh-hant": null
+        "zh-hant": "各: 185 × 100 × 500 厘米"
     },
     "medium": {
         "en": "fiberglass",
-        "zh-hant": null
+        "zh-hant": "玻璃纖維"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 165,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

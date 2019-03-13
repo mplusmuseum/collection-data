@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Print",
-            "zh-hant": null
+            "zh-hant": "版畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "The Mayor Watches a Horror Movie",
-    "titleOther": "市長看恐怖片",
-    "displayDate": "2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "市長看恐怖片",
+        "zh-hant": "The Mayor Watches a Horror Movie"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": null
+    },
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
         "en": "overall (closed): 18.9 × 15.5 cm\r\r\noverall (open): 18.9 × 42.4 cm",
-        "zh-hant": null
+        "zh-hant": "整體 （合上）: 18.9 × 15.5 厘米  整體 (打開): 18.9 × 42.4 厘米"
     },
     "medium": {
         "en": "colour print",
-        "zh-hant": null
+        "zh-hant": "彩色沖印"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 416,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

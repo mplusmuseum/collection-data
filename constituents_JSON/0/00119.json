@@ -1,16 +1,30 @@
 {
     "id": 119,
     "publicAccess": true,
-    "name": "Chang Qing",
-    "nameOther": "常青",
-    "alphaSortName": "Chang, Qing",
+    "name": {
+        "en": "Chang Qing",
+        "zh-hant": "常青"
+    },
+    "alphaSortName": {
+        "en": "Chang, Qing",
+        "zh-hant": "常, 青"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1965",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1965",
+        "zh-hant": "中國籍，生於1965年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1965,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

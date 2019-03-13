@@ -1,16 +1,30 @@
 {
     "id": 373,
     "publicAccess": true,
-    "name": "Qin Ga",
-    "nameOther": "琴嘎",
-    "alphaSortName": "Qin, Ga",
+    "name": {
+        "en": "Qin Ga",
+        "zh-hant": "琴嘎"
+    },
+    "alphaSortName": {
+        "en": "Qin, Ga",
+        "zh-hant": "琴, 嘎"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1971",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1971",
+        "zh-hant": "中國籍，生於1971年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1971,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

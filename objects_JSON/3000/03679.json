@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Naissance du Dragon",
-    "titleOther": "龍的誕生",
-    "displayDate": "1970",
-    "displayDateOther": null,
+    "title": {
+        "en": "龍的誕生",
+        "zh-hant": "Naissance du Dragon"
+    },
+    "displayDate": {
+        "en": "1970",
+        "zh-hant": null
+    },
     "beginDate": 1970,
     "endDate": 1970,
     "dimension": {
         "en": "overall (sight): 69.7 × 99.8 cm\r\r\nframe: 85.2 × 115.2 × 5.3 cm",
-        "zh-hant": null
+        "zh-hant": "整體 （目測量度）: 69.7 × 99.8 厘米  連框: 85.2 × 115.2 × 5.3 厘米"
     },
     "medium": {
         "en": "ink on paper",
-        "zh-hant": null
+        "zh-hant": "水墨紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+，香港"
     },
     "constituents": [
         {
             "id": 425,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

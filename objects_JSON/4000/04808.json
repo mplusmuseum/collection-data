@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Video",
-            "zh-hant": null
+            "zh-hant": "錄像"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "TV Chair",
-    "titleOther": "電視座椅",
-    "displayDate": "1973",
-    "displayDateOther": null,
+    "title": {
+        "en": "電視座椅",
+        "zh-hant": "TV Chair"
+    },
+    "displayDate": {
+        "en": "1973",
+        "zh-hant": null
+    },
     "beginDate": 1973,
     "endDate": 1973,
     "dimension": {
         "en": "overall: 73 × 43.3 × 43.5 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 73 × 43.3 × 43.5 厘米"
     },
     "medium": {
         "en": "television monitor, chair,  and plexiglass",
-        "zh-hant": null
+        "zh-hant": "電視機"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+，香港"
     },
     "constituents": [
         {
             "id": 359,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

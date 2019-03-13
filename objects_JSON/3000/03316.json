@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Tunnel",
-    "titleOther": "地洞",
-    "displayDate": "2007",
-    "displayDateOther": null,
+    "title": {
+        "en": "地洞",
+        "zh-hant": "Tunnel"
+    },
+    "displayDate": {
+        "en": "2007",
+        "zh-hant": null
+    },
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
         "en": "frame: 88.4 × 89 × 4 cm\r\r\nimage (sight): 75 × 75.3 cm",
-        "zh-hant": null
+        "zh-hant": "連框: 88.4 × 89 × 4 厘米  圖像 （目測量度）: 75 × 75.3 厘米"
     },
     "medium": {
         "en": "archival inkjet print",
-        "zh-hant": null
+        "zh-hant": "收藏級噴墨打印"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 138,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -1,16 +1,30 @@
 {
     "id": 274,
     "publicAccess": true,
-    "name": "Li Wei",
-    "nameOther": "李暐",
-    "alphaSortName": "Li, Wei",
+    "name": {
+        "en": "Li Wei",
+        "zh-hant": "李暐"
+    },
+    "alphaSortName": {
+        "en": "Li, Wei",
+        "zh-hant": "李, 暐"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1970",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1970",
+        "zh-hant": "中國籍，生於1970年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1970,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

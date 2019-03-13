@@ -1,16 +1,30 @@
 {
     "id": 159,
     "publicAccess": true,
-    "name": "Cui Xiuwen",
-    "nameOther": "崔岫聞",
-    "alphaSortName": "Cui, Xiuwen",
+    "name": {
+        "en": "Cui Xiuwen",
+        "zh-hant": "崔岫聞"
+    },
+    "alphaSortName": {
+        "en": "Cui, Xiuwen",
+        "zh-hant": "崔, 岫聞"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, 1970–2018",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Chinese, 1970–2018",
+        "zh-hant": "中國籍，1970–2018年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1970,
     "endDate": 2018,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

@@ -1,16 +1,30 @@
 {
     "id": 1101,
     "publicAccess": true,
-    "name": "Kidokoro Ubunji",
-    "nameOther": "城所右文次",
-    "alphaSortName": "Kidokoro, Ubunji",
+    "name": {
+        "en": "Kidokoro Ubunji",
+        "zh-hant": "城所右文次"
+    },
+    "alphaSortName": {
+        "en": "Kidokoro, Ubunji",
+        "zh-hant": "城所右文次"
+    },
     "type": "Individual",
     "roles": [
         "Designer"
     ],
-    "displayBio": "Japanese, 1910–1945",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Japanese, 1910–1945",
+        "zh-hant": "日本籍，1910–1945年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1910,
     "endDate": 1945,
-    "nationality": "Japanese"
+    "nationality": {
+        "en": "Japanese",
+        "zh-hant": "日本籍"
+    }
 }

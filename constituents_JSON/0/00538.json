@@ -1,16 +1,30 @@
 {
     "id": 538,
     "publicAccess": true,
-    "name": "Yang Zhenzhong",
-    "nameOther": "楊振中",
-    "alphaSortName": "Yang, Zhenzhong",
+    "name": {
+        "en": "Yang Zhenzhong",
+        "zh-hant": "楊振中"
+    },
+    "alphaSortName": {
+        "en": "Yang, Zhenzhong",
+        "zh-hant": "楊, 振中"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1968",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1968",
+        "zh-hant": "中國籍，生於1968年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1968,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

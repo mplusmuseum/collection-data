@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Performance",
-            "zh-hant": null
+            "zh-hant": "行為"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Wall",
-    "titleOther": "牆",
-    "displayDate": "1993",
-    "displayDateOther": null,
+    "title": {
+        "en": "牆",
+        "zh-hant": "Wall"
+    },
+    "displayDate": {
+        "en": "1993",
+        "zh-hant": null
+    },
     "beginDate": 1993,
     "endDate": 1993,
     "dimension": {
         "en": "duration: 2 min. 40 sec.",
-        "zh-hant": null
+        "zh-hant": "影片長度：2分40秒"
     },
     "medium": {
         "en": "single-channel video",
-        "zh-hant": null
+        "zh-hant": "單頻道錄像"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 455,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "River of Light",
-    "titleOther": "光河",
-    "displayDate": "1979",
-    "displayDateOther": null,
+    "title": {
+        "en": "光河",
+        "zh-hant": "River of Light"
+    },
+    "displayDate": {
+        "en": "1979",
+        "zh-hant": null
+    },
     "beginDate": 1979,
     "endDate": 1979,
     "dimension": {
         "en": "artist frame: 67.7 × 45.3 cm\r\r\nimage (sight): 61.4 × 39.1 cm",
-        "zh-hant": null
+        "zh-hant": "原框: 67.7 × 45.3 厘米\r\n圖像 (目測量度): 61.4 × 39.1 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩畫布"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [
         {
             "id": 173,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

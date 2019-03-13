@@ -1,16 +1,30 @@
 {
     "id": 528,
     "publicAccess": true,
-    "name": "Yang Mian",
-    "nameOther": "楊冕",
-    "alphaSortName": "Yang, Mian",
+    "name": {
+        "en": "Yang Mian",
+        "zh-hant": "楊冕"
+    },
+    "alphaSortName": {
+        "en": "Yang, Mian",
+        "zh-hant": "楊, 冕"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1970",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1970",
+        "zh-hant": "中國籍，生於1970年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1970,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

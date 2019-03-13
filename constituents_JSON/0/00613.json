@@ -1,16 +1,30 @@
 {
     "id": 613,
     "publicAccess": true,
-    "name": "Zhu Jia",
-    "nameOther": "朱加",
-    "alphaSortName": "Zhu, Jia",
+    "name": {
+        "en": "Zhu Jia",
+        "zh-hant": "朱加"
+    },
+    "alphaSortName": {
+        "en": "Zhu, Jia",
+        "zh-hant": "朱加"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1963",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1963",
+        "zh-hant": "中國籍，生於1963年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1963,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

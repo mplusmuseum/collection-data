@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Some days No. 9",
-    "titleOther": "某一天第9號",
-    "displayDate": "2003",
-    "displayDateOther": null,
+    "title": {
+        "en": "某一天第9號",
+        "zh-hant": "Some days No. 9"
+    },
+    "displayDate": {
+        "en": "2003",
+        "zh-hant": null
+    },
     "beginDate": 2003,
     "endDate": 2003,
     "dimension": {
         "en": "sheet: 50.5 × 60.6 cm\r\r\nimage: 44.1 × 57.6 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 50.5 × 60.6 厘米  圖像: 44.1 × 57.6 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": null
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 454,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

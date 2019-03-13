@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Print",
-            "zh-hant": null
+            "zh-hant": "版畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "The Key Crux",
-    "titleOther": "關鍵",
-    "displayDate": "1979, printed 2005",
-    "displayDateOther": "1979年，2005年印刷",
+    "title": {
+        "en": "關鍵",
+        "zh-hant": "The Key Crux"
+    },
+    "displayDate": {
+        "en": "1979年，2005年印刷",
+        "zh-hant": "1979, printed 2005"
+    },
     "beginDate": 1979,
     "endDate": 2005,
     "dimension": {
         "en": "sheet (sight): 50.7 × 39.5 cm\r\nimage (sight): 45 × 33.7 cm",
-        "zh-hant": null
+        "zh-hant": "紙本 (目測量度): 50.7 × 39.5 厘米\r\n圖像 (目測量度): 45 × 33.7 厘米"
     },
     "medium": {
         "en": "woodcut",
-        "zh-hant": null
+        "zh-hant": "木刻版畫"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [
         {
             "id": 333,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

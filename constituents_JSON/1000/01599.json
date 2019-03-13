@@ -1,16 +1,30 @@
 {
     "id": 1599,
     "publicAccess": true,
-    "name": "Chen Jialing",
-    "nameOther": "陳家泠",
-    "alphaSortName": "Chen, Jialing",
+    "name": {
+        "en": "Chen Jialing",
+        "zh-hant": "陳家泠"
+    },
+    "alphaSortName": {
+        "en": "Chen, Jialing",
+        "zh-hant": "陳家泠"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1937",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1937",
+        "zh-hant": "中國籍，生於1937年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1937,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

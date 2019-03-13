@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Work on Paper",
-            "zh-hant": null
+            "zh-hant": "紙本作品"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Untitled",
-    "titleOther": "無題",
-    "displayDate": "1964",
-    "displayDateOther": null,
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "1964",
+        "zh-hant": null
+    },
     "beginDate": 1964,
     "endDate": 1964,
     "dimension": {
         "en": "overall: 48.5 × 127.3 cm\r\r\nimage: 30.3 × 94.1 cm",
-        "zh-hant": null
+        "zh-hant": "整體： 48.5 ×127.3 厘米\r\n圖像： 30.3 × 94.1 厘米"
     },
     "medium": {
         "en": "ink and colour on paper",
-        "zh-hant": null
+        "zh-hant": "水墨設色紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
-        "zh-hant": null
+        "zh-hant": "M+，香港"
     },
     "constituents": [
         {
             "id": 327,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

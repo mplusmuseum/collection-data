@@ -1,17 +1,31 @@
 {
     "id": 303,
     "publicAccess": true,
-    "name": "Liu Heung-Shing",
-    "nameOther": "劉香成",
-    "alphaSortName": "Liu, Heung-Shing",
+    "name": {
+        "en": "Liu Heung-Shing",
+        "zh-hant": "劉香成"
+    },
+    "alphaSortName": {
+        "en": "Liu, Heung-Shing",
+        "zh-hant": "劉, 香成"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Hong Kong, born 1951",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Hong Kong, born 1951",
+        "zh-hant": "香港，生於1951年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1951,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

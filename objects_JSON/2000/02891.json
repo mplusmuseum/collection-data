@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Drawing",
-            "zh-hant": null
+            "zh-hant": "繪圖"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Having a Rest",
-    "titleOther": "休息",
-    "displayDate": "2005",
-    "displayDateOther": null,
+    "title": {
+        "en": "休息",
+        "zh-hant": "Having a Rest"
+    },
+    "displayDate": {
+        "en": "2005",
+        "zh-hant": null
+    },
     "beginDate": 2005,
     "endDate": 2005,
     "dimension": {
         "en": "frame: 70.4 × 112.2 cm\r\r\nsheet (sight): 67.1 × 109.3 cm",
-        "zh-hant": null
+        "zh-hant": "連框: 70.4 × 112.2 厘米  紙本 （目測量度）: 67.1 × 109.3 厘米"
     },
     "medium": {
         "en": "coloured chalk on paper",
-        "zh-hant": null
+        "zh-hant": "彩色粉筆紙本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 278,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

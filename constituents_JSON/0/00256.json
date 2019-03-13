@@ -1,17 +1,31 @@
 {
     "id": 256,
     "publicAccess": true,
-    "name": "Firenze Lai",
-    "nameOther": "黎清妍",
-    "alphaSortName": "Lai, Firenze",
+    "name": {
+        "en": "Firenze Lai",
+        "zh-hant": "黎清妍"
+    },
+    "alphaSortName": {
+        "en": "Lai, Firenze",
+        "zh-hant": "黎, 清妍"
+    },
     "type": "Individual",
     "roles": [
         "Artist",
         "藝術家"
     ],
-    "displayBio": "Hong Kong, born 1984",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Hong Kong, born 1984",
+        "zh-hant": "香港，生於1984年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1984,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

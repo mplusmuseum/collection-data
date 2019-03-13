@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Sculpture",
-            "zh-hant": null
+            "zh-hant": "雕塑"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Coca-Cola Project—No Water",
-    "titleOther": "可樂計畫：萃取",
-    "displayDate": "2009–2010",
-    "displayDateOther": null,
+    "title": {
+        "en": "可樂計畫：萃取",
+        "zh-hant": "Coca-Cola Project—No Water"
+    },
+    "displayDate": {
+        "en": "2009–2010",
+        "zh-hant": null
+    },
     "beginDate": 2009,
     "endDate": 2010,
     "dimension": {
         "en": "overall: 400 × 100 × 120 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 400 × 100 × 120 厘米"
     },
     "medium": {
         "en": "Coca-Cola remains",
-        "zh-hant": null
+        "zh-hant": "可口可樂殘渣"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 208,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

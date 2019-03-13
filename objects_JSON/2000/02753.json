@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Portrait (No. 13)",
-    "titleOther": "肖像 第13號",
-    "displayDate": "1998–1999",
-    "displayDateOther": null,
+    "title": {
+        "en": "肖像 第13號",
+        "zh-hant": "Portrait (No. 13)"
+    },
+    "displayDate": {
+        "en": "1998–1999",
+        "zh-hant": null
+    },
     "beginDate": 1998,
     "endDate": 1999,
     "dimension": {
         "en": "overall: 231 × 180 × 3 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 231 × 180 × 3 厘米"
     },
     "medium": {
         "en": "oil on canvas",
-        "zh-hant": null
+        "zh-hant": "油彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 532,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

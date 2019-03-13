@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Untitled",
-    "titleOther": "無題",
-    "displayDate": "2008",
-    "displayDateOther": null,
+    "title": {
+        "en": "無題",
+        "zh-hant": "Untitled"
+    },
+    "displayDate": {
+        "en": "2008",
+        "zh-hant": null
+    },
     "beginDate": 2008,
     "endDate": 2008,
     "dimension": {
         "en": "frame: 80.8 × 110.2 cm\r\r\nimage (sight): 78.7 × 109.7 cm",
-        "zh-hant": null
+        "zh-hant": "連框: 80.8 × 110.2 厘米  圖像 （目測量度）: 78.7 × 109.7 厘米"
     },
     "medium": {
         "en": "acrylic on paper",
-        "zh-hant": null
+        "zh-hant": "塑膠彩紙本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 363,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

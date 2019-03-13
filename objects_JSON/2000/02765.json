@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Photography",
-            "zh-hant": null
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Shanghai China. 15-16 October 2004",
-    "titleOther": "中國上海 2004年15日到16日",
-    "displayDate": "2004",
-    "displayDateOther": null,
+    "title": {
+        "en": "中國上海 2004年15日到16日",
+        "zh-hant": "Shanghai China. 15-16 October 2004"
+    },
+    "displayDate": {
+        "en": "2004",
+        "zh-hant": null
+    },
     "beginDate": 2004,
     "endDate": 2004,
     "dimension": {
         "en": "overall: 126.5 × 431.3 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 126.5 × 431.3 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": null
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 405,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

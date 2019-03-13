@@ -1,16 +1,30 @@
 {
     "id": 1755,
     "publicAccess": true,
-    "name": "Holly Lee",
-    "nameOther": "黃楚喬",
-    "alphaSortName": "Lee, Holly",
+    "name": {
+        "en": "Holly Lee",
+        "zh-hant": "黃楚喬"
+    },
+    "alphaSortName": {
+        "en": "Lee, Holly",
+        "zh-hant": "黃楚喬"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Hong Kong, born 1953",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Hong Kong, born 1953",
+        "zh-hant": "香港，生於1953年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1953,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

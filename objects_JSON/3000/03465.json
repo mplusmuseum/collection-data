@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Hey",
-    "titleOther": "嗨",
-    "displayDate": "2011",
-    "displayDateOther": null,
+    "title": {
+        "en": "嗨",
+        "zh-hant": "Hey"
+    },
+    "displayDate": {
+        "en": "2011",
+        "zh-hant": null
+    },
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
         "en": "overall (approx.): 183.7 × 277 × 5.4 cm",
-        "zh-hant": null
+        "zh-hant": "整體 （約）: 183.7 × 277 × 5.4 厘米"
     },
     "medium": {
         "en": "acrylic on canvas",
-        "zh-hant": null
+        "zh-hant": "塑膠彩布本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 308,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

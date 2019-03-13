@@ -1,17 +1,31 @@
 {
     "id": 34,
     "publicAccess": true,
-    "name": "EOQ",
-    "nameOther": null,
-    "alphaSortName": "EOQ",
+    "name": {
+        "en": "EOQ",
+        "zh-hant": "EOQ"
+    },
+    "alphaSortName": {
+        "en": "EOQ",
+        "zh-hant": "EOQ"
+    },
     "type": "Organization",
     "roles": [
         "Design Firm",
         "設計師事務所"
     ],
-    "displayBio": "Hong Kong, established 2012",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "Hong Kong, established 2012",
+        "zh-hant": "2012年於香港成立"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 2012,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }

@@ -1,16 +1,30 @@
 {
     "id": 188,
     "publicAccess": true,
-    "name": "Gong Jian",
-    "nameOther": "龔劍",
-    "alphaSortName": "Gong, Jian",
+    "name": {
+        "en": "Gong Jian",
+        "zh-hant": "龔劍"
+    },
+    "alphaSortName": {
+        "en": "Gong, Jian",
+        "zh-hant": "龔, 劍"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1978",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1978",
+        "zh-hant": "中國籍，生於1978年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1978,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

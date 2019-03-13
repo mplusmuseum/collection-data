@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Painting",
-            "zh-hant": null
+            "zh-hant": "繪畫"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Bei Zhan Moxing (North Exhibition Model)",
-    "titleOther": "北展模型",
-    "displayDate": "2004",
-    "displayDateOther": null,
+    "title": {
+        "en": "北展模型",
+        "zh-hant": "Bei Zhan Moxing (North Exhibition Model)"
+    },
+    "displayDate": {
+        "en": "2004",
+        "zh-hant": null
+    },
     "beginDate": 2004,
     "endDate": 2004,
     "dimension": {
         "en": "overall: 40.2 × 40.2 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 40.2 × 40.2 厘米"
     },
     "medium": {
         "en": "oil on board",
-        "zh-hant": null
+        "zh-hant": "油彩、木板"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 380,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Video",
-            "zh-hant": null
+            "zh-hant": "錄像"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "I open certainly you arrive the Pacific Ocean",
-    "titleOther": "我一定把你開到太平洋",
-    "displayDate": "2005",
-    "displayDateOther": null,
+    "title": {
+        "en": "我一定把你開到太平洋",
+        "zh-hant": "I open certainly you arrive the Pacific Ocean"
+    },
+    "displayDate": {
+        "en": "2005",
+        "zh-hant": null
+    },
     "beginDate": 2005,
     "endDate": 2005,
     "dimension": {
         "en": "duration: 4 min.",
-        "zh-hant": null
+        "zh-hant": "影片長度：4分"
     },
     "medium": {
         "en": "video (colour, stereo sound)",
-        "zh-hant": null
+        "zh-hant": "錄像"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 222,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

@@ -1,16 +1,30 @@
 {
     "id": 608,
     "publicAccess": true,
-    "name": "Zhou Tiehai",
-    "nameOther": "周鐵海‎",
-    "alphaSortName": "Zhou, Tiehai",
+    "name": {
+        "en": "Zhou Tiehai",
+        "zh-hant": "周鐵海‎"
+    },
+    "alphaSortName": {
+        "en": "Zhou, Tiehai",
+        "zh-hant": "周, 鐵海‎"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1966",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1966",
+        "zh-hant": "中國籍，生於1966年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1966,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

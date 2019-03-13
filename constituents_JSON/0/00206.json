@@ -1,16 +1,30 @@
 {
     "id": 206,
     "publicAccess": true,
-    "name": "He Jinwei",
-    "nameOther": "何晉渭",
-    "alphaSortName": "He, Jinwei",
+    "name": {
+        "en": "He Jinwei",
+        "zh-hant": "何晉渭"
+    },
+    "alphaSortName": {
+        "en": "He, Jinwei",
+        "zh-hant": "何, 晉渭"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Chinese, born 1967",
-    "gender": "Male",
+    "displayBio": {
+        "en": "Chinese, born 1967",
+        "zh-hant": "中國籍，生於1967年"
+    },
+    "gender": {
+        "en": "Male",
+        "zh-hant": "男性"
+    },
     "beginDate": 1967,
     "endDate": null,
-    "nationality": "Chinese"
+    "nationality": {
+        "en": "Chinese",
+        "zh-hant": "中國籍"
+    }
 }

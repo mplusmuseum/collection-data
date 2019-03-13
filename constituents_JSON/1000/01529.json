@@ -1,9 +1,14 @@
 {
     "id": 1529,
     "publicAccess": true,
-    "name": "Unknown (Hong Kong)",
-    "nameOther": "佚名 (香港)",
-    "alphaSortName": "Unknown (Hong Kong)",
+    "name": {
+        "en": "Unknown (Hong Kong)",
+        "zh-hant": "佚名 (香港)"
+    },
+    "alphaSortName": {
+        "en": "Unknown (Hong Kong)",
+        "zh-hant": "佚名 (香港)"
+    },
     "type": "Individual",
     "roles": [
         "Author",
@@ -14,9 +19,18 @@
         "出版社",
         "設計師事務所"
     ],
-    "displayBio": null,
-    "gender": "Unknown",
+    "displayBio": {
+        "en": null,
+        "zh-hant": null
+    },
+    "gender": {
+        "en": "Unknown",
+        "zh-hant": "不詳"
+    },
     "beginDate": null,
     "endDate": null,
-    "nationality": null
+    "nationality": {
+        "en": null,
+        "zh-hant": null
+    }
 }

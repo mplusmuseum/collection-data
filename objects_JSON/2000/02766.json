@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Drawing",
-            "zh-hant": null
+            "zh-hant": "繪圖"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Pen No 2",
-    "titleOther": "筆 第二號",
-    "displayDate": "circa 2004",
-    "displayDateOther": "約2004年",
+    "title": {
+        "en": "筆 第二號",
+        "zh-hant": "Pen No 2"
+    },
+    "displayDate": {
+        "en": "約2004年",
+        "zh-hant": "circa 2004"
+    },
     "beginDate": 2004,
     "endDate": 2004,
     "dimension": {
         "en": "overall: 49.3 × 75.6 cm",
-        "zh-hant": null
+        "zh-hant": "整體: 49.3 × 75.6 厘米"
     },
     "medium": {
         "en": "coloured pencil on paper",
-        "zh-hant": null
+        "zh-hant": "彩色鉛筆紙本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 374,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

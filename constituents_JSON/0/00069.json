@@ -1,17 +1,31 @@
 {
     "id": 69,
     "publicAccess": true,
-    "name": "Steven Holl Architects",
-    "nameOther": "斯蒂文·霍爾建築事務所",
-    "alphaSortName": "Steven Holl Architects",
+    "name": {
+        "en": "Steven Holl Architects",
+        "zh-hant": "斯蒂文·霍爾建築事務所"
+    },
+    "alphaSortName": {
+        "en": "Steven Holl Architects",
+        "zh-hant": "斯蒂文·霍爾建築事務所"
+    },
     "type": "Organization",
     "roles": [
         "Architectural Firm",
         "Artist"
     ],
-    "displayBio": "established New York, 1976",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established New York, 1976",
+        "zh-hant": "1976年成立於紐約"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1976,
     "endDate": null,
-    "nationality": "American"
+    "nationality": {
+        "en": "American",
+        "zh-hant": "美國籍"
+    }
 }

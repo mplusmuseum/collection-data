@@ -6,41 +6,45 @@
     "classification": {
         "area": {
             "en": "Visual Art",
-            "zh-hant": null
+            "zh-hant": "視覺藝術"
         },
         "category": {
             "en": "Performance",
-            "zh-hant": null
+            "zh-hant": "行為"
         },
         "archivalLevel": {
             "en": null,
             "zh-hant": null
         }
     },
-    "title": "Branded My Back With a Hot Iron Brand",
-    "titleOther": "烙",
-    "displayDate": "2000",
-    "displayDateOther": null,
+    "title": {
+        "en": "烙",
+        "zh-hant": "Branded My Back With a Hot Iron Brand"
+    },
+    "displayDate": {
+        "en": "2000",
+        "zh-hant": null
+    },
     "beginDate": 2000,
     "endDate": 2000,
     "dimension": {
         "en": "sheet: 188.3 × 103.1 cm\r\r\nimage: 181 × 86.5 cm",
-        "zh-hant": null
+        "zh-hant": "紙本: 188.3 × 103.1 厘米  圖像: 181 × 86.5 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": null
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": null
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
         {
             "id": 539,
             "role": {
                 "en": "Artist",
-                "zh-hant": null
+                "zh-hant": "藝術家"
             }
         }
     ],

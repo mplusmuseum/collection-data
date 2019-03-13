@@ -1,16 +1,30 @@
 {
     "id": 851,
     "publicAccess": true,
-    "name": "Aisha Khalid",
-    "nameOther": null,
-    "alphaSortName": "Khalid, Aisha",
+    "name": {
+        "en": "Aisha Khalid",
+        "zh-hant": "Aisha Khalid"
+    },
+    "alphaSortName": {
+        "en": "Khalid, Aisha",
+        "zh-hant": "Khalid, Aisha"
+    },
     "type": "Individual",
     "roles": [
         "Artist"
     ],
-    "displayBio": "Pakistani, born 1972",
-    "gender": "Female",
+    "displayBio": {
+        "en": "Pakistani, born 1972",
+        "zh-hant": "巴基斯坦籍，生於1972年"
+    },
+    "gender": {
+        "en": "Female",
+        "zh-hant": "女性"
+    },
     "beginDate": 1972,
     "endDate": null,
-    "nationality": "Pakistani"
+    "nationality": {
+        "en": "Pakistani",
+        "zh-hant": "巴基斯坦籍"
+    }
 }

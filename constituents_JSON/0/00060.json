@@ -1,17 +1,31 @@
 {
     "id": 60,
     "publicAccess": true,
-    "name": "Rocco Design Architects Ltd.",
-    "nameOther": "許李嚴建築師事務有限公司",
-    "alphaSortName": "Rocco Design Architects Ltd.",
+    "name": {
+        "en": "Rocco Design Architects Ltd.",
+        "zh-hant": "許李嚴建築師事務有限公司"
+    },
+    "alphaSortName": {
+        "en": "Rocco Design Architects Ltd.",
+        "zh-hant": "許李嚴建築師事務有限公司"
+    },
     "type": "Organization",
     "roles": [
         "Architectural Firm",
         "建築師事務所"
     ],
-    "displayBio": "established Hong Kong, 1982",
-    "gender": "Not Applicable",
+    "displayBio": {
+        "en": "established Hong Kong, 1982",
+        "zh-hant": "1982年成立於香港"
+    },
+    "gender": {
+        "en": "Not Applicable",
+        "zh-hant": "Not Applicable"
+    },
     "beginDate": 1982,
     "endDate": null,
-    "nationality": "Hong Kong"
+    "nationality": {
+        "en": "Hong Kong",
+        "zh-hant": "香港"
+    }
 }
