@@ -1,0 +1,88 @@
+{
+    "id": 3089,
+    "sortNumber": "2012   527",
+    "publicAccess": true,
+    "objectNumber": "2012.527",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Video",
+            "zh-hant": "錄像"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "Object",
+        "zh-hant": "物體"
+    },
+    "displayDate": {
+        "en": "2003",
+        "zh-hant": "2003"
+    },
+    "beginDate": 2003,
+    "endDate": 2003,
+    "dimension": {
+        "en": "duration: 6 min. 25 sec.",
+        "zh-hant": "影片長度: 6 分 25 秒"
+    },
+    "medium": {
+        "en": "video (black and white, stereo sound)",
+        "zh-hant": "單頻道錄像（黑白、有聲）"
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "constituents": [
+        {
+            "id": 246,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Monochrome still from a single-channel video. A flat white pill floats in an open space that resembles a cloud of stars."
+        }
+    ],
+    "color": {
+        "predominant": [
+            {
+                "color": "#D1D1D1",
+                "value": 66.9
+            },
+            {
+                "color": "#242424",
+                "value": 17.5
+            },
+            {
+                "color": "#848484",
+                "value": 15.6
+            }
+        ],
+        "search": {
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 15.6
+                },
+                {
+                    "color": "white",
+                    "value": 66.9
+                },
+                {
+                    "color": "black",
+                    "value": 17.5
+                }
+            ]
+        }
+    }
+}

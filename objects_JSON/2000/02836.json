@@ -1,0 +1,80 @@
+{
+    "id": 2836,
+    "sortNumber": "2012    10",
+    "publicAccess": true,
+    "objectNumber": "2012.10",
+    "classification": {
+        "area": {
+            "en": "Visual Art",
+            "zh-hant": "視覺藝術"
+        },
+        "category": {
+            "en": "Print",
+            "zh-hant": "版畫"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "Six Square Metres",
+        "zh-hant": "六平方米"
+    },
+    "displayDate": {
+        "en": "1979, reprinted 2005",
+        "zh-hant": "1979年，2005年重印"
+    },
+    "beginDate": 1979,
+    "endDate": 2005,
+    "dimension": {
+        "en": "sheet (sight): 28.7 × 28.2 cm\r\r\nimage (sight): 22.6 × 22.3 cm",
+        "zh-hant": "紙本 （目測量度）: 28.7 × 28.2 厘米  圖像 （目測量度）: 22.6 × 22.3 厘米"
+    },
+    "medium": {
+        "en": "woodcut",
+        "zh-hant": "木刻版畫"
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong",
+        "zh-hant": "M+ 希克藏品，香港"
+    },
+    "constituents": [
+        {
+            "id": 333,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Black woodcut print on white paper depicting a tall, sleek artist standing at a canvas with a full palette and several brushes. Paintings hang on the wall and paper litters the floor."
+        }
+    ],
+    "color": {
+        "predominant": [
+            {
+                "color": "#050505",
+                "value": 62.2
+            },
+            {
+                "color": "#E4E4E4",
+                "value": 32.8
+            }
+        ],
+        "search": {
+            "google": [
+                {
+                    "color": "white",
+                    "value": 32.8
+                },
+                {
+                    "color": "black",
+                    "value": 62.2
+                }
+            ]
+        }
+    }
+}

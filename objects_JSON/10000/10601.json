@@ -1,56 +1,25 @@
 {
-    "objectID": 10601,
-    "onView": false,
-    "objectNumber": "2018.41",
+    "id": 10601,
     "sortNumber": "2018    41",
+    "publicAccess": true,
+    "objectNumber": "2018.41",
     "classification": {
         "area": {
-            "rank": 1,
-            "areacat": {
-                "en": "Design and Architecture",
-                "zh-hant": "設計與建築"
-            }
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
         },
         "category": {
-            "rank": 2,
-            "areacat": {
-                "en": "Architectural Model",
-                "zh-hant": "建築模型"
-            }
+            "en": "Architectural Model",
+            "zh-hant": "建築模型"
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
         }
     },
-    "consituents": [
-        {
-            "id": 4074,
-            "rank": 1,
-            "roles": {
-                "en": "Architect"
-            },
-            "names": {
-                "en": "Sumet Jumsai",
-                "zh-hant": "書梅春塞"
-            }
-        }
-    ],
-    "exhibition": {
-        "ids": [
-            92
-        ],
-        "sections": "[]",
-        "exhibitionLabelText": {}
-    },
-    "relatedEventIds": [
-        28
-    ],
-    "relatedConceptIds": null,
-    "allORC": "Sumet Jumsai",
     "title": {
         "en": "Model, Bank of Asia (Robot Building) (1983–1986), Bangkok, Thailand",
         "zh-hant": "泰國曼谷亞洲銀行總部（現為大華銀行曼谷總部）展示模型（1983至1986年）"
-    },
-    "objectStatus": {
-        "en": "Accessioned Object",
-        "zh-hant": "已登錄藏品"
     },
     "displayDate": {
         "en": "1990",
@@ -70,234 +39,90 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "inscription": {},
-    "archiveDescription": {},
-    "objectName": {},
-    "scopeNContent": {},
-    "baselineDescription": {},
-    "images": [
+    "constituents": [
         {
-            "src": "010501_011000/010601_001.jpg",
-            "rank": "3",
-            "primaryDisplay": true,
-            "publicAccess": false
-        },
-        {
-            "src": "010501_011000/010601_002.jpg",
-            "rank": "3",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "src": "010501_011000/010601_003.jpg",
-            "rank": "3",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "src": "010501_011000/010601_004.jpg",
-            "rank": "3",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "AltText": "Plastic model of a skyscraper against a white background. The skyscraper is made to resemble a robot, with two round windows on the top floor looking like eyes and two antennas sticking up from the roof.",
-            "AltTextTC": "一幢摩天大樓的塑膠模型在白色的背景中，其形態恍如機械人，頂層兩個圓形窗戶看似一雙眼睛，有兩條天線從天台向上伸出。",
-            "src": "010501_011000/010601_005.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_006.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_007.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_008.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_009.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_010.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_011.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_012.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_013.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_014.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_015.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_016.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_017.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_018.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_019.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_020.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010601_021.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
+            "id": 4074,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
-    "objectRights": {
-        "type": "Licensed, as detailed below",
-        "copyright": "© Sumet Jumsai",
-        "concatRights": "M+/WKCDA exhibition/PERMISSION GRANTED; M+/WKCDA website/PERMISSION GRANTED; M+/WKCDA internal use/PERMISSION GRANTED; M+/WKCDA publications/PERMISSION GRANTED; M+/WKCDA press/publicity/PERMISSION GRANTED; M+/WKCDA press packs/PERMISSION GRANTED; M+/WKCDA advertising/PERMISSION GRANTED; M+/WKCDA learning team activities/PERMISSION GRANTED; 3rd-party exhibition (LOANS)/PERMISSION GRANTED; 3rd-party non-commercial research/academic/PERMISSION GRANTED; 3rd-party non-commercial educational/PERMISSION GRANTED; 3rd-party non-commercial publication/PERMISSION GRANTED; other 3rd-party non-commercial use/PERMISSION GRANTED; social media/PERMISSION GRANTED; commercial advertising/CONTACT the RIGHTS HOLDER; commercial merchandise/CONTACT the RIGHTS HOLDER; commercial publishing/CONTACT the RIGHTS HOLDER; Current status/Rights-Holder negotiations completed",
-        "concatRemark": "",
-        "currentStatus": "Rights-Holder negotiations completed",
-        "rights": [
+    "images": [
+        {
+            "altText": null
+        }
+    ],
+    "color": {
+        "predominant": [
             {
-                "title": "PERMISSION GRANTED",
-                "group": "M+/WKCDA exhibition"
+                "color": "#E4E4E8",
+                "value": 42.6
             },
             {
-                "title": "PERMISSION GRANTED",
-                "group": "M+/WKCDA website"
+                "color": "#F1F3F4",
+                "value": 18.5
             },
             {
-                "title": "PERMISSION GRANTED",
-                "group": "M+/WKCDA internal use"
+                "color": "#E8E4DB",
+                "value": 13
             },
             {
-                "title": "PERMISSION GRANTED",
-                "group": "M+/WKCDA publications"
+                "color": "#171618",
+                "value": 8.9
             },
             {
-                "title": "PERMISSION GRANTED",
-                "group": "M+/WKCDA press/publicity"
+                "color": "#1D1B1A",
+                "value": 5
             },
             {
-                "title": "PERMISSION GRANTED",
-                "group": "M+/WKCDA press packs"
+                "color": "#F3F5F4",
+                "value": 2.3
             },
             {
-                "title": "PERMISSION GRANTED",
-                "group": "M+/WKCDA advertising"
+                "color": "#F2F2F0",
+                "value": 1.6
             },
             {
-                "title": "PERMISSION GRANTED",
-                "group": "M+/WKCDA learning team activities"
+                "color": "#F0EFF0",
+                "value": 1.5
             },
             {
-                "title": "PERMISSION GRANTED",
-                "group": "3rd-party exhibition (LOANS)"
+                "color": "#888279",
+                "value": 1.2
             },
             {
-                "title": "PERMISSION GRANTED",
-                "group": "3rd-party non-commercial research/academic"
-            },
-            {
-                "title": "PERMISSION GRANTED",
-                "group": "3rd-party non-commercial educational"
-            },
-            {
-                "title": "PERMISSION GRANTED",
-                "group": "3rd-party non-commercial publication"
-            },
-            {
-                "title": "PERMISSION GRANTED",
-                "group": "other 3rd-party non-commercial use"
-            },
-            {
-                "title": "PERMISSION GRANTED",
-                "group": "social media"
-            },
-            {
-                "title": "CONTACT the RIGHTS HOLDER",
-                "group": "commercial advertising"
-            },
-            {
-                "title": "CONTACT the RIGHTS HOLDER",
-                "group": "commercial merchandise"
-            },
-            {
-                "title": "CONTACT the RIGHTS HOLDER",
-                "group": "commercial publishing"
+                "color": "#1D1512",
+                "value": 1.1
             }
-        ]
-    },
-    "id": 10601
+        ],
+        "search": {
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 36.6
+                },
+                {
+                    "color": "gray",
+                    "value": 1.2
+                },
+                {
+                    "color": "white",
+                    "value": 79.5
+                },
+                {
+                    "color": "blue",
+                    "value": 0.9
+                },
+                {
+                    "color": "black",
+                    "value": 15
+                },
+                {
+                    "color": "brown",
+                    "value": 13.5
+                }
+            ]
+        }
+    }
 }

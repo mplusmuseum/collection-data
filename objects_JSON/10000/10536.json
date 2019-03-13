@@ -1,89 +1,25 @@
 {
-    "objectID": 10536,
-    "onView": false,
-    "objectNumber": "2018.29",
+    "id": 10536,
     "sortNumber": "2018    29",
+    "publicAccess": true,
+    "objectNumber": "2018.29",
     "classification": {
         "area": {
-            "rank": 1,
-            "areacat": {
-                "en": "Design and Architecture",
-                "zh-hant": "設計與建築"
-            }
+            "en": "Design and Architecture",
+            "zh-hant": "設計與建築"
         },
         "category": {
-            "rank": 2,
-            "areacat": {
-                "en": "Poster",
-                "zh-hant": "海報"
-            }
-        }
-    },
-    "consituents": [
-        {
-            "id": 1534,
-            "rank": 1,
-            "roles": {
-                "en": "Designer"
-            },
-            "names": {
-                "en": "Unknown (Europe)",
-                "zh-hant": "佚名（歐洲）"
-            }
+            "en": "Poster",
+            "zh-hant": "海報"
         },
-        {
-            "id": 4048,
-            "rank": 2,
-            "roles": {
-                "en": "Commissioned by"
-            },
-            "names": {
-                "en": "Travellers Official Information Bureau of the Netherland Indies"
-            }
-        }
-    ],
-    "exhibition": {
-        "ids": [
-            92
-        ],
-        "sections": "[]",
-        "exhibitionLabelText": {
-            "en": {
-                "purposes": [
-                    "In Search of Southeast Asia Through the M+ Collections"
-                ],
-                "labels": [
-                    {
-                        "purpose": "In Search of Southeast Asia Through the M+ Collections",
-                        "text": "These tourist posters are reminders of Southeast Asia’s colonial past, in 1930s French Indochina and the Dutch East Indies. The first poster depicts a group of female labourers returning from a farmland characterised by lush vegetation and thatched-roof houses, in a scene that advertises the idyllic landscape of the Tonkin Delta in northern Vietnam. The second poster presents Java and Bali as tourist destinations with an imposing, hand-painted portrait of a Balinese performer of the Djanger dance framed to outline her headdress, and cropped at the chest to conceal her costume. As finely photographed and illustrated graphic works, the posters can be seen as aestheticised colonialist constructions of the tropics as Edenic, exotic, and primitive, legitimising the extraction, promotion, and commodification of natural and cultural resources in the colonies."
-                    }
-                ]
-            },
-            "zh-hant": {
-                "purposes": [
-                    "In Search of Southeast Asia Through the M+ Collections"
-                ],
-                "labels": [
-                    {
-                        "purpose": "In Search of Southeast Asia Through the M+ Collections",
-                        "text": "這些旅遊海報描繪了三十年代法屬印度支那及荷 屬東印度的風情，同時提示東南亞的殖民地歷 史。第一幅海報描繪一群女性勞工正離開農地， 四周可見鬱葱的植被及茅草屋頂的房子，藉以宣 傳越南北部紅河三角洲的田園風光。第二幅海報 以氣勢逼人的手繪峇里姜涅舞者肖像，宣傳旅遊 聖地爪哇和峇里。海報中可見舞者頭飾，邊框下 方亦裁剪至胸前，剛好隱去她的服裝。這些精美 的攝影和插畫作品反映了殖民者如何美化這些熱 帶殖民地，建構出富有異國情調，恍如伊甸園的 原始國度，從而令殖民者榨取、推廣及商品化殖 民地自然和文化資源的行為顯得合理。"
-                    }
-                ]
-            }
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
         }
     },
-    "relatedEventIds": [
-        28
-    ],
-    "relatedConceptIds": null,
-    "allORC": "Unknown (Europe); Travellers Official Information Bureau of the Netherland Indies",
     "title": {
         "en": "Visit Java Bali, Travellers Official Information Bureau of the Netherland Indies poster",
         "zh-hant": "來爪哇和峇里一遊"
-    },
-    "objectStatus": {
-        "en": "Accessioned Object",
-        "zh-hant": "已登錄藏品"
     },
     "displayDate": {
         "en": "1930s",
@@ -93,7 +29,7 @@
     "endDate": 1939,
     "dimension": {
         "en": "frame: 64.2 × 45.7 × 4 cm\r\r\nsheet: 47.8 × 29 cm\r\r\nimage: 36.2 × 24.7 cm",
-        "zh-hant": "框架: 64.2 × 45.7 × 4 厘米\r\r\n紙本: 47.8 × 29 厘米\r\r\n圖像: 36.2 × 24.7 厘米"
+        "zh-hant": "連框: 64.2 × 45.7 × 4 厘米  紙本: 47.8 × 29 厘米  圖像: 36.2 × 24.7 厘米"
     },
     "medium": {
         "en": "photolithography on paper",
@@ -103,108 +39,121 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "inscription": {},
-    "archiveDescription": {},
-    "objectName": {},
-    "scopeNContent": {},
-    "baselineDescription": {},
-    "images": [
+    "constituents": [
         {
-            "src": "010501_011000/010536_001.jpg",
-            "rank": "0",
-            "primaryDisplay": true,
-            "publicAccess": false
+            "id": 1534,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
         },
         {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010536_002.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
-        },
-        {
-            "Copyright": "photo: M+",
-            "src": "010501_011000/010536_003.tif",
-            "rank": "1",
-            "primaryDisplay": false,
-            "publicAccess": false
+            "id": 4048,
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
+            }
         }
     ],
-    "objectRights": {
-        "type": "© expired",
-        "concatRights": "M+/WKCDA exhibition/© expired = OK; M+/WKCDA website/© expired = OK; M+/WKCDA internal use/© expired = OK; M+/WKCDA publications/© expired = OK; M+/WKCDA press/publicity/© expired = OK; M+/WKCDA press packs/© expired = OK; M+/WKCDA advertising/© expired = OK; M+/WKCDA learning team activities/© expired = OK; 3rd-party exhibition (LOANS)/© expired = OK; 3rd-party non-commercial research/academic/© expired = OK; 3rd-party non-commercial educational/© expired = OK; 3rd-party non-commercial publication/© expired = OK; other 3rd-party non-commercial use/© expired = OK; social media/© expired = OK; commercial advertising/© expired = OK; commercial merchandise/© expired = OK; commercial publishing/© expired = OK; Current status/© expired",
-        "concatRemark": "",
-        "currentStatus": "© expired",
-        "rights": [
+    "images": [
+        {
+            "altText": null
+        }
+    ],
+    "color": {
+        "predominant": [
             {
-                "title": "© expired = OK",
-                "group": "M+/WKCDA exhibition"
+                "color": "#EEE2D2",
+                "value": 37.5
             },
             {
-                "title": "© expired = OK",
-                "group": "M+/WKCDA website"
+                "color": "#1E1411",
+                "value": 12.3
             },
             {
-                "title": "© expired = OK",
-                "group": "M+/WKCDA internal use"
+                "color": "#CA9467",
+                "value": 12
             },
             {
-                "title": "© expired = OK",
-                "group": "M+/WKCDA publications"
+                "color": "#8C959C",
+                "value": 6.5
             },
             {
-                "title": "© expired = OK",
-                "group": "M+/WKCDA press/publicity"
+                "color": "#8C5E39",
+                "value": 4.9
             },
             {
-                "title": "© expired = OK",
-                "group": "M+/WKCDA press packs"
+                "color": "#0B0401",
+                "value": 4.3
             },
             {
-                "title": "© expired = OK",
-                "group": "M+/WKCDA advertising"
+                "color": "#221E1C",
+                "value": 2.8
             },
             {
-                "title": "© expired = OK",
-                "group": "M+/WKCDA learning team activities"
+                "color": "#1B160E",
+                "value": 2.4
             },
             {
-                "title": "© expired = OK",
-                "group": "3rd-party exhibition (LOANS)"
+                "color": "#DBD9C8",
+                "value": 2.4
             },
             {
-                "title": "© expired = OK",
-                "group": "3rd-party non-commercial research/academic"
+                "color": "#93979E",
+                "value": 2.3
             },
             {
-                "title": "© expired = OK",
-                "group": "3rd-party non-commercial educational"
+                "color": "#8B847E",
+                "value": 1.9
             },
             {
-                "title": "© expired = OK",
-                "group": "3rd-party non-commercial publication"
+                "color": "#19181B",
+                "value": 1.4
             },
             {
-                "title": "© expired = OK",
-                "group": "other 3rd-party non-commercial use"
+                "color": "#090601",
+                "value": 1.2
             },
             {
-                "title": "© expired = OK",
-                "group": "social media"
+                "color": "#A6ACB1",
+                "value": 1
             },
             {
-                "title": "© expired = OK",
-                "group": "commercial advertising"
+                "color": "#CEA172",
+                "value": 0.9
             },
             {
-                "title": "© expired = OK",
-                "group": "commercial merchandise"
+                "color": "#0A0609",
+                "value": 0.8
             },
             {
-                "title": "© expired = OK",
-                "group": "commercial publishing"
+                "color": "#0A0A0F",
+                "value": 0.8
             }
-        ]
-    },
-    "id": 10536
+        ],
+        "search": {
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 12.9
+                },
+                {
+                    "color": "gray",
+                    "value": 11.8
+                },
+                {
+                    "color": "white",
+                    "value": 39.9
+                },
+                {
+                    "color": "black",
+                    "value": 26.1
+                },
+                {
+                    "color": "brown",
+                    "value": 4.9
+                }
+            ]
+        }
+    }
 }
