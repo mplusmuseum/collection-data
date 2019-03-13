@@ -18,12 +18,12 @@
         }
     },
     "title": {
-        "en": "矮椅",
-        "zh-hant": "Low Chair"
+        "en": "Low Chair",
+        "zh-hant": "矮椅"
     },
     "displayDate": {
-        "en": "1946年，2012年重製",
-        "zh-hant": "1946, reproduced 2012"
+        "en": "1946, reproduced 2012",
+        "zh-hant": "1946年，2012年重製"
     },
     "beginDate": 1946,
     "endDate": 2012,
@@ -39,7 +39,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 821,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": null,

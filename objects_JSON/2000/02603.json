@@ -18,12 +18,12 @@
         }
     },
     "title": {
-        "en": "無題",
-        "zh-hant": "Untitled"
+        "en": "Untitled",
+        "zh-hant": "無題"
     },
     "displayDate": {
         "en": "2001",
-        "zh-hant": null
+        "zh-hant": "2001"
     },
     "beginDate": 2001,
     "endDate": 2001,
@@ -39,7 +39,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 489,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
