@@ -56,24 +56,24 @@
     "color": {
         "predominant": [
             {
-                "color": "#928E88",
-                "value": 47.6
+                "color": "#AFB5B9",
+                "value": 31.6
             },
             {
-                "color": "#BDBEBA",
-                "value": 21.9
+                "color": "#949A9C",
+                "value": 26.7
             },
             {
-                "color": "#C3C7C3",
-                "value": 13.1
+                "color": "#84847B",
+                "value": 21.3
             },
             {
-                "color": "#BFBDBA",
-                "value": 6.9
+                "color": "#939795",
+                "value": 8.4
             },
             {
-                "color": "#959490",
-                "value": 6
+                "color": "#858278",
+                "value": 7.6
             }
         ],
         "search": {
@@ -96,5 +96,12 @@
                 }
             ]
         }
+    },
+    "dimensionDetails": {
+        "element": "each",
+        "unit": "cm",
+        "width": 46,
+        "height": 27.5,
+        "depth": 13
     }
 }

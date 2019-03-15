@@ -48,45 +48,44 @@
     "color": {
         "predominant": [
             {
-                "color": "#848579",
-                "value": 23.2
+                "color": "#CBC5B5",
+                "value": 80.8
             },
             {
-                "color": "#8B928C",
-                "value": 19.5
+                "color": "#D3D2CA",
+                "value": 7.2
             },
             {
-                "color": "#B3B7C3",
-                "value": 14.9
+                "color": "#989285",
+                "value": 7
             },
             {
-                "color": "#A7B1B5",
-                "value": 10.4
-            },
-            {
-                "color": "#949D9E",
-                "value": 10.3
-            },
-            {
-                "color": "#98928A",
-                "value": 9.4
-            },
-            {
-                "color": "#95969C",
-                "value": 3.8
-            },
-            {
-                "color": "#B2ACA8",
-                "value": 3.6
+                "color": "#BFAB89",
+                "value": 2.3
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 95.2
+                    "value": 87.7
+                },
+                {
+                    "color": "orange",
+                    "value": 2.3
+                },
+                {
+                    "color": "white",
+                    "value": 7.2
                 }
             ]
         }
+    },
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 103,
+        "height": 83,
+        "depth": null
     }
 }

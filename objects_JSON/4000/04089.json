@@ -48,33 +48,40 @@
     "color": {
         "predominant": [
             {
-                "color": "#161616",
-                "value": 37.4
+                "color": "#171516",
+                "value": 38.7
             },
             {
-                "color": "#FDFCFC",
-                "value": 34.3
+                "color": "#E5E5D9",
+                "value": 28
             },
             {
-                "color": "#EBECE6",
-                "value": 19.1
+                "color": "#181616",
+                "value": 27.4
             },
             {
-                "color": "#141416",
-                "value": 6.7
+                "color": "#E1DFD7",
+                "value": 2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "white",
-                    "value": 53.4
+                    "value": 30
                 },
                 {
                     "color": "black",
-                    "value": 44.1
+                    "value": 66.2
                 }
             ]
         }
+    },
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 44,
+        "height": 30,
+        "depth": 0.4
     }
 }

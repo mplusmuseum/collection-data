@@ -48,21 +48,36 @@
     "color": {
         "predominant": [
             {
-                "color": "#CEC4B1",
-                "value": 90.6
+                "color": "#D4C6AB",
+                "value": 87.7
             },
             {
-                "color": "#8E8677",
-                "value": 4.4
+                "color": "#C3AE8C",
+                "value": 5.3
+            },
+            {
+                "color": "#8D8373",
+                "value": 4.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 95
+                    "value": 4.8
+                },
+                {
+                    "color": "orange",
+                    "value": 93
                 }
             ]
         }
+    },
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 109,
+        "height": 76,
+        "depth": null
     }
 }
