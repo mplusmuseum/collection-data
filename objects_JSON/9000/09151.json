@@ -48,63 +48,27 @@
     "color": {
         "predominant": [
             {
-                "color": "#87897A",
-                "value": 26.3
+                "color": "#D0CBB9",
+                "value": 60.5
             },
             {
-                "color": "#929993",
-                "value": 16.6
+                "color": "#D5D2C4",
+                "value": 26.5
             },
             {
-                "color": "#B6BAC6",
-                "value": 11.6
-            },
-            {
-                "color": "#ABB2B7",
-                "value": 6.2
-            },
-            {
-                "color": "#3C3725",
-                "value": 5.6
-            },
-            {
-                "color": "#BAB5AF",
-                "value": 5.5
-            },
-            {
-                "color": "#979187",
+                "color": "#7C7567",
                 "value": 5.2
             },
             {
-                "color": "#969DA0",
-                "value": 5.2
-            },
-            {
-                "color": "#666344",
-                "value": 4.1
-            },
-            {
-                "color": "#24241E",
-                "value": 3.2
-            },
-            {
-                "color": "#9799A0",
-                "value": 3.1
-            },
-            {
-                "color": "#746848",
-                "value": 2.3
-            },
-            {
-                "color": "#A9AFAB",
-                "value": 1.2
+                "color": "#8C775C",
+                "value": 3.4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 81
+                    "value": 5.2
                 },
                 {
                     "color": "black",
@@ -112,9 +76,20 @@
                 },
                 {
                     "color": "brown",
-                    "value": 12
+                    "value": 3.4
+                },
+                {
+                    "color": "white",
+                    "value": 87
                 }
             ]
         }
+    },
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 103,
+        "height": 75.5,
+        "depth": null
     }
 }

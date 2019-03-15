@@ -48,40 +48,20 @@
     "color": {
         "predominant": [
             {
-                "color": "#88887E",
-                "value": 22.4
+                "color": "#CAB48C",
+                "value": 72.9
             },
             {
-                "color": "#B2C5CE",
-                "value": 17.6
+                "color": "#D4CAB3",
+                "value": 16.1
             },
             {
-                "color": "#847E70",
-                "value": 15
+                "color": "#988669",
+                "value": 5
             },
             {
-                "color": "#7C6F54",
-                "value": 14.4
-            },
-            {
-                "color": "#858D90",
-                "value": 8.8
-            },
-            {
-                "color": "#8A8F8B",
-                "value": 8.2
-            },
-            {
-                "color": "#8D9096",
-                "value": 3.8
-            },
-            {
-                "color": "#A3ADBB",
-                "value": 3.3
-            },
-            {
-                "color": "#ABB5AF",
-                "value": 2.2
+                "color": "#DCDCD5",
+                "value": 2.5
             }
         ],
         "search": {
@@ -92,9 +72,24 @@
                 },
                 {
                     "color": "brown",
-                    "value": 14.4
+                    "value": 5
+                },
+                {
+                    "color": "orange",
+                    "value": 89
+                },
+                {
+                    "color": "white",
+                    "value": 2.5
                 }
             ]
         }
+    },
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 109,
+        "height": 75.5,
+        "depth": null
     }
 }
