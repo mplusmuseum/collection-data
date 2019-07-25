@@ -18,8 +18,8 @@
         }
     },
     "title": {
-        "en": "Boats: Towards Abstraction",
-        "zh-hant": "船：通往抽象"
+        "en": null,
+        "zh-hant": null
     },
     "displayDate": {
         "en": "1962",
@@ -28,11 +28,11 @@
     "beginDate": 1962,
     "endDate": 1962,
     "dimension": {
-        "en": "frame: 59.2 × 59.2 × 3 cm\r\r\nimage (sight): 20.8 × 37 cm",
-        "zh-hant": "連框： 59.2 × 59.2 × 3 厘米\r\n圖像 （目測量度）： 20.8 × 37 厘米"
+        "en": "sheet: 21.7 × 38.2 cm",
+        "zh-hant": "連框： 59.2 × 59.2 × 3 厘米\r\n圖像 （目測）： 20.8 × 37 厘米"
     },
     "medium": {
-        "en": "gouache and black ink on paper",
+        "en": "gouache and ink on paper",
         "zh-hant": "水粉墨水紙本"
     },
     "creditLine": {
@@ -130,10 +130,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "frame",
+        "element": "sheet",
         "unit": "cm",
-        "width": 59.2,
-        "height": 59.2,
-        "depth": 3
+        "width": 38.2,
+        "height": 21.7,
+        "depth": null
     }
 }

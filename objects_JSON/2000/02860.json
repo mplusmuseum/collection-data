@@ -55,71 +55,63 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Sculpture. An orange, four metre tall pillar made of wax and human fat stands erect on a round, black plinth."
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#D0D5BE",
-                "value": 40.6
+                "color": "#1C2833",
+                "value": 41
             },
             {
-                "color": "#84856E",
-                "value": 10
+                "color": "#1D2733",
+                "value": 18.9
             },
             {
-                "color": "#876734",
-                "value": 10
+                "color": "#212729",
+                "value": 12.5
             },
             {
-                "color": "#CDD7C9",
-                "value": 8
+                "color": "#18191D",
+                "value": 7.1
             },
             {
-                "color": "#C2924F",
-                "value": 5.8
+                "color": "#040303",
+                "value": 4.3
             },
             {
-                "color": "#38372E",
-                "value": 5.8
+                "color": "#7E4626",
+                "value": 3
             },
             {
-                "color": "#3A3526",
-                "value": 5.3
+                "color": "#CE7D47",
+                "value": 2.4
             },
             {
-                "color": "#8B5B1E",
-                "value": 3.2
+                "color": "#3F4B5E",
+                "value": 2
             },
             {
-                "color": "#1F2421",
-                "value": 1.6
+                "color": "#EDBC6B",
+                "value": 1.9
             },
             {
-                "color": "#8A9689",
-                "value": 1.4
+                "color": "#442A1B",
+                "value": 1.7
             },
             {
-                "color": "#87816D",
-                "value": 1.2
-            },
-            {
-                "color": "#C2BAA1",
-                "value": 1.1
-            },
-            {
-                "color": "#706E50",
+                "color": "#D36B2F",
                 "value": 0.9
-            },
-            {
-                "color": "#343725",
-                "value": 0.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "orange",
-                    "value": 6.9
+                    "value": 5.3
                 },
                 {
                     "color": "gray",
@@ -135,11 +127,15 @@
                 },
                 {
                     "color": "black",
-                    "value": 13.5
+                    "value": 83.8
                 },
                 {
                     "color": "brown",
-                    "value": 24
+                    "value": 4.7
+                },
+                {
+                    "color": "blue",
+                    "value": 2
                 }
             ]
         }

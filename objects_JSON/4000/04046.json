@@ -29,7 +29,7 @@
     "endDate": 2012,
     "dimension": {
         "en": "overall (closed): 2.8 × 22.2 × 30.5 cm",
-        "zh-hant": "整體 (合上): 2.8 × 22.2 × 30.5 厘米"
+        "zh-hant": "整體 （合上）: 2.8 × 22.2 × 30.5 厘米"
     },
     "medium": {
         "en": "offset print on paper",
@@ -48,20 +48,20 @@
     "color": {
         "predominant": [
             {
-                "color": "#F9F9FC",
-                "value": 40.4
+                "color": "#F4F2F0",
+                "value": 46.2
             },
             {
-                "color": "#FAB891",
-                "value": 39.5
+                "color": "#99D1E6",
+                "value": 22
             },
             {
-                "color": "#FBD8AA",
-                "value": 11.6
+                "color": "#F0F0EC",
+                "value": 18.5
             },
             {
-                "color": "#F3E6DD",
-                "value": 6
+                "color": "#BBDEE9",
+                "value": 8.9
             }
         ],
         "search": {
@@ -72,7 +72,11 @@
                 },
                 {
                     "color": "white",
-                    "value": 46.5
+                    "value": 64.7
+                },
+                {
+                    "color": "teal",
+                    "value": 30.9
                 }
             ]
         }

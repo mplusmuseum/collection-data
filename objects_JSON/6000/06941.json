@@ -28,8 +28,8 @@
     "beginDate": 2005,
     "endDate": 2006,
     "dimension": {
-        "en": "overall (sight): 10.8 × 8.9 cm\r\r\nimage (sight): 7.9 × 7.7 cm",
-        "zh-hant": "整體 （目測量度）: 10.8 × 8.9 厘米  圖像 （目測量度）: 7.9 × 7.7 厘米"
+        "en": "sheet: 10.8 × 8.9 cm\r\r\nimage: 7.9 × 7.7 cm",
+        "zh-hant": "整體 （目測）: 10.8 × 8.9 厘米  圖像 （目測）: 7.9 × 7.7 厘米"
     },
     "medium": {
         "en": "instant print",
@@ -102,7 +102,7 @@
         }
     },
     "dimensionDetails": {
-        "element": "overall",
+        "element": "sheet",
         "unit": "cm",
         "width": 8.9,
         "height": 10.8,

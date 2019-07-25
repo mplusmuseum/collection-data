@@ -55,36 +55,24 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#F9F8F6",
-                "value": 44.2
+                "color": "#E2E0DA",
+                "value": 75.5
             },
             {
-                "color": "#FCFCF8",
-                "value": 20.5
+                "color": "#E1E0DA",
+                "value": 19.1
             },
             {
-                "color": "#EDEDEF",
-                "value": 11.4
-            },
-            {
-                "color": "#F5F3F5",
-                "value": 8.3
-            },
-            {
-                "color": "#EDEEEE",
-                "value": 4.3
-            },
-            {
-                "color": "#F8FBF8",
-                "value": 3.9
-            },
-            {
-                "color": "#343135",
-                "value": 2.4
+                "color": "#3B281F",
+                "value": 1.3
             }
         ],
         "search": {
@@ -95,11 +83,15 @@
                 },
                 {
                     "color": "white",
-                    "value": 92.6
+                    "value": 94.6
                 },
                 {
                     "color": "black",
                     "value": 2.4
+                },
+                {
+                    "color": "brown",
+                    "value": 1.3
                 }
             ]
         }

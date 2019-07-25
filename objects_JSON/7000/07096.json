@@ -28,7 +28,7 @@
     "beginDate": 1987,
     "endDate": 1987,
     "dimension": {
-        "en": "sheet: 200 × 400 cm",
+        "en": "overall (approx.): 210 × 402 × 7 cm",
         "zh-hant": "紙本: 200 × 400  厘米"
     },
     "medium": {
@@ -56,40 +56,40 @@
     "color": {
         "predominant": [
             {
-                "color": "#807972",
-                "value": 38.3
+                "color": "#7E7873",
+                "value": 44.3
             },
             {
-                "color": "#373330",
-                "value": 35.5
+                "color": "#454141",
+                "value": 26.5
             },
             {
-                "color": "#C9C2BA",
-                "value": 19
+                "color": "#CAC4B9",
+                "value": 19.5
             },
             {
-                "color": "#292728",
-                "value": 2.5
+                "color": "#3D393C",
+                "value": 5.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 57.3
+                    "value": 63.8
                 },
                 {
                     "color": "black",
-                    "value": 38
+                    "value": 32.2
                 }
             ]
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "overall",
         "unit": "cm",
-        "width": 400,
-        "height": 200,
-        "depth": null
+        "width": 402,
+        "height": 210,
+        "depth": 7
     }
 }

@@ -29,7 +29,7 @@
     "endDate": 1975,
     "dimension": {
         "en": "overall (mounted): 15.2 × 23.7 cm\r\r\nimage: 12.8 × 18.3 cm",
-        "zh-hant": "整體 (托裱): 15.2 × 23.7 厘米\r\n圖像: 12.8 × 18.3 厘米"
+        "zh-hant": "整體 （托裱）: 15.2 × 23.7 厘米\r\n圖像: 12.8 × 18.3 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -39,7 +39,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a person crouching on a flat patch of dirt, holding a string that is strung between a nail stuck in the dirt by their feet and another nail further away. A paper towel with a pile of dirt lies next to each nail."

@@ -9,8 +9,8 @@
             "zh-hant": "視覺藝術"
         },
         "category": {
-            "en": "Work on Paper",
-            "zh-hant": "紙本作品"
+            "en": "Photography",
+            "zh-hant": "攝影"
         },
         "archivalLevel": {
             "en": null,
@@ -32,14 +32,22 @@
         "zh-hant": "尺寸不一"
     },
     "medium": {
-        "en": "photographic installation",
+        "en": "photographs",
         "zh-hant": "攝影裝置"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 360,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Photographic installation documenting a performance. One group of photos shows an apartment building in various stages of darkness. Other photos show people waiting at an underground station in Kowloon. Beside the time marker 16:38, a snapshot shows artist Pak Sheung Chuen posing with a smiling man."

@@ -29,7 +29,7 @@
     "endDate": 1976,
     "dimension": {
         "en": "overall (mounted): 23 × 14.8 cm\r\r\nimage: 19.3 × 12.8 cm",
-        "zh-hant": "整體 (托裱): 23 × 14.8 厘米\r\n圖像: 19.3 × 12.8 厘米"
+        "zh-hant": "整體 （托裱）: 23 × 14.8 厘米\r\n圖像: 19.3 × 12.8 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -39,7 +39,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a branch with three sticks standing on top of three rocks lying on the floor."

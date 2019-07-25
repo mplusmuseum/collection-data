@@ -29,7 +29,7 @@
     "endDate": 2015,
     "dimension": {
         "en": "overall (closed): 24.1 × 27.3 × 2.5 cm\r\r\noverall (open): 27.2 × 47.9 cm",
-        "zh-hant": "整體 （合上）: 24.1 × 27.3 × 2.5 厘米  整體 (打開): 27.2 × 47.9 厘米"
+        "zh-hant": "整體 （合上）: 24.1 × 27.3 × 2.5 厘米  整體 （打開）: 27.2 × 47.9 厘米"
     },
     "medium": {
         "en": "ink and watercolour on paper",
@@ -39,7 +39,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1738,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

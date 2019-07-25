@@ -29,7 +29,7 @@
     "endDate": 1975,
     "dimension": {
         "en": "overall (mounted): 25.8 × 20.1 cm\r\r\nimage: 24.6 × 16.4 cm",
-        "zh-hant": "整體 (托裱): 25.8 × 20.1 厘米\r\n圖像: 24.6 × 16.4 厘米"
+        "zh-hant": "整體 （托裱）: 25.8 × 20.1 厘米\r\n圖像: 24.6 × 16.4 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -39,7 +39,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a circle drawn in a patch of dirt. Small rocks are scattered in and around the circle, with a larger rock in the middle of it. A person is crouching down and picking up one of the smaller rocks."

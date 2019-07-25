@@ -28,7 +28,7 @@
     "beginDate": 1995,
     "endDate": 1995,
     "dimension": {
-        "en": "sheet (color print): 35 × 50 cm\r\r\nsheet (sketch): 30 × 40 cm\r\r\nduration: 3 min.",
+        "en": "dimensions variable",
         "zh-hant": "彩色照片四張（50 x 35厘米， 無框）；手繪草圖（40×30厘米，無框）；錄像（3分鐘）"
     },
     "medium": {
@@ -56,56 +56,64 @@
     "color": {
         "predominant": [
             {
-                "color": "#1F1210",
-                "value": 51.7
+                "color": "#CFC3B3",
+                "value": 53.5
             },
             {
-                "color": "#0B0909",
-                "value": 17.2
+                "color": "#898075",
+                "value": 17.9
             },
             {
-                "color": "#0D0403",
-                "value": 8.1
+                "color": "#7F7155",
+                "value": 9
             },
             {
-                "color": "#2E2730",
-                "value": 7.7
+                "color": "#3D3D5F",
+                "value": 5.5
             },
             {
-                "color": "#150E13",
-                "value": 3.7
+                "color": "#5D5867",
+                "value": 3.4
             },
             {
-                "color": "#040003",
-                "value": 1.9
+                "color": "#3D3732",
+                "value": 2.5
             },
             {
-                "color": "#22202E",
-                "value": 1.8
+                "color": "#766F75",
+                "value": 1.7
             },
             {
-                "color": "#010104",
-                "value": 1.8
-            },
-            {
-                "color": "#1D161F",
-                "value": 1.4
+                "color": "#3F382B",
+                "value": 1.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "black",
-                    "value": 95.2
+                    "value": 4.2
+                },
+                {
+                    "color": "gray",
+                    "value": 76.5
+                },
+                {
+                    "color": "blue",
+                    "value": 5.5
+                },
+                {
+                    "color": "brown",
+                    "value": 9
                 }
             ]
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
-        "unit": "cm",
-        "width": 50,
-        "height": 35,
+        "element": "duration",
+        "unit": null,
+        "width": null,
+        "height": null,
         "depth": null
     }
 }
