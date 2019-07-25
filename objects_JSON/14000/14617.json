@@ -28,8 +28,8 @@
     "beginDate": 1964,
     "endDate": 1968,
     "dimension": {
-        "en": "each: 5 x 5 cm",
-        "zh-hant": "each: 5 x 5 cm"
+        "en": "sheet: 5 × 5 cm",
+        "zh-hant": "sheet: 5 × 5 cm"
     },
     "medium": {
         "en": "colour slide",
@@ -134,9 +134,9 @@
         }
     },
     "dimensionDetails": {
-        "element": "each",
+        "element": "sheet",
         "unit": "cm",
-        "width": null,
+        "width": 5,
         "height": 5,
         "depth": null
     }

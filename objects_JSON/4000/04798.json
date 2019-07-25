@@ -28,7 +28,7 @@
     "beginDate": 1987,
     "endDate": 1987,
     "dimension": {
-        "en": "sheet: 149 × 218.2 × 2 cm",
+        "en": "overall: 149 × 218.2 × 2 cm",
         "zh-hant": "紙本: 149 × 218.2 × 2 厘米"
     },
     "medium": {
@@ -39,7 +39,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 927,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -158,7 +166,7 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "overall",
         "unit": "cm",
         "width": 218.2,
         "height": 149,

@@ -29,7 +29,7 @@
     "endDate": 2008,
     "dimension": {
         "en": "overall (closed): 2.6 × 22.1 × 30.5 cm",
-        "zh-hant": "整體 (合上): 2.6 × 22.1 × 30.5 厘米"
+        "zh-hant": "整體 （合上）: 2.6 × 22.1 × 30.5 厘米"
     },
     "medium": {
         "en": "offset print on paper",
@@ -48,19 +48,27 @@
     "color": {
         "predominant": [
             {
-                "color": "#F8F7F5",
-                "value": 86.7
+                "color": "#F0EEEB",
+                "value": 57.8
             },
             {
-                "color": "#DDDDD5",
-                "value": 11
+                "color": "#E8E8E3",
+                "value": 35.2
+            },
+            {
+                "color": "#8F8876",
+                "value": 2.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "white",
-                    "value": 97.7
+                    "value": 92.9
+                },
+                {
+                    "color": "gray",
+                    "value": 2.6
                 }
             ]
         }
