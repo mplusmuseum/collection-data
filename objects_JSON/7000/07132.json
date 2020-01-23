@@ -5,12 +5,22 @@
     "objectNumber": "2017.2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Craft Object",
-            "zh-hant": "Craft Object"
+            "en": [
+                "Signage",
+                "Craft Object"
+            ],
+            "zh-hant": [
+                "標牌",
+                "工藝物品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -18,8 +28,8 @@
         }
     },
     "title": {
-        "en": "Neon sign, Shun Hing Restaurant",
-        "zh-hant": "信興酒樓霓虹招牌"
+        "en": "Shun Hing Restaurant neon sign",
+        "zh-hant": "「信興酒樓」霓虹招牌"
     },
     "displayDate": {
         "en": "1984",
@@ -39,7 +49,15 @@
         "en": "M+, Hong Kong. Gift of Shun Hing Restaurant (Kowloon) Limited, 2017",
         "zh-hant": "M+，香港，信興酒樓捐贈，2017年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1135,
+            "role": {
+                "en": "Maker",
+                "zh-hant": "創作者"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

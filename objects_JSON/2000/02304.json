@@ -5,12 +5,20 @@
     "objectNumber": "2012.729",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,37 +58,25 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on canvas rendered largely in grey tones depicting a man's portrait. His eyes are closed, and his chin is tilted slightly upwards."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#787570",
-                "value": 54.2
+                "color": "#9E988C",
+                "value": 49
             },
             {
-                "color": "#72736D",
-                "value": 26.8
-            },
-            {
-                "color": "#6D706E",
-                "value": 9.4
-            },
-            {
-                "color": "#6C6D6F",
-                "value": 4.5
-            },
-            {
-                "color": "#6D6B6C",
-                "value": 2.6
+                "color": "#B8B0A2",
+                "value": 47.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 97.4
+                    "value": 96.5
                 }
             ]
         }

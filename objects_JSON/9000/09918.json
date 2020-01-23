@@ -5,16 +5,28 @@
     "objectNumber": "CA28/3/6",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -23,17 +35,17 @@
     },
     "displayDate": {
         "en": "[circa 1973]",
-        "zh-hant": "[circa 1973]"
+        "zh-hant": "[約1973年]"
     },
     "beginDate": 1971,
     "endDate": 1975,
     "dimension": {
         "en": "4 items",
-        "zh-hant": "4 items"
+        "zh-hant": "4 份/張/件"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": "gelatin silver print"
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -48,11 +60,49 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D0D4D7",
+                "value": 47.4
+            },
+            {
+                "color": "#D2D4D8",
+                "value": 21.5
+            },
+            {
+                "color": "#3D3E42",
+                "value": 14.3
+            },
+            {
+                "color": "#3B3E40",
+                "value": 8.8
+            },
+            {
+                "color": "#6B6E73",
+                "value": 3.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 3.6
+                },
+                {
+                    "color": "white",
+                    "value": 68.9
+                },
+                {
+                    "color": "black",
+                    "value": 23.1
+                }
+            ]
         }
     },
     "dimensionDetails": null

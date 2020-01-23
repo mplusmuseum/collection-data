@@ -5,12 +5,20 @@
     "objectNumber": "2016.627",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,7 +30,7 @@
         "zh-hant": "Utsurun Desu Super HR100 即用即棄相機"
     },
     "displayDate": {
-        "en": "1940s–1950s",
+        "en": "1986",
         "zh-hant": "1940至1950年代"
     },
     "beginDate": 1986,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2974,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,55 +64,55 @@
     "color": {
         "predominant": [
             {
-                "color": "#D7D7D7",
-                "value": 51.5
+                "color": "#CBCECF",
+                "value": 67.4
             },
             {
-                "color": "#B0B7BD",
-                "value": 17.2
+                "color": "#C9CACD",
+                "value": 7.5
             },
             {
-                "color": "#BDBEC4",
-                "value": 9
+                "color": "#9FA3A5",
+                "value": 3.6
             },
             {
-                "color": "#989FA5",
-                "value": 4.6
+                "color": "#D9DCDA",
+                "value": 3.6
             },
             {
-                "color": "#389659",
+                "color": "#369657",
                 "value": 3.4
             },
             {
-                "color": "#B2A374",
-                "value": 2.8
+                "color": "#B1A372",
+                "value": 3.2
             },
             {
-                "color": "#C8D1CB",
-                "value": 2.5
+                "color": "#DFDFDC",
+                "value": 2.2
             },
             {
-                "color": "#9A8E66",
+                "color": "#988B63",
                 "value": 2
             },
             {
-                "color": "#D9DAD3",
-                "value": 1.2
+                "color": "#3D3B38",
+                "value": 1.5
             },
             {
-                "color": "#3E3C39",
-                "value": 0.9
+                "color": "#DBD8D5",
+                "value": 1.4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "orange",
-                    "value": 4.8
+                    "value": 5.2
                 },
                 {
                     "color": "gray",
-                    "value": 30.8
+                    "value": 11.1
                 },
                 {
                     "color": "green",
@@ -104,11 +120,11 @@
                 },
                 {
                     "color": "white",
-                    "value": 55.3
+                    "value": 74.5
                 },
                 {
                     "color": "black",
-                    "value": 0.9
+                    "value": 1.5
                 }
             ]
         }

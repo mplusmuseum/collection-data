@@ -5,12 +5,22 @@
     "objectNumber": "2013.247",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Work on Paper",
-            "zh-hant": "紙本作品"
+            "en": [
+                "Drawing",
+                "Work on Paper"
+            ],
+            "zh-hant": [
+                "繪圖",
+                "紙本作品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -28,7 +38,7 @@
     "beginDate": 1995,
     "endDate": 2007,
     "dimension": {
-        "en": "sheet (sight): 38 × 68.7 cm",
+        "en": "sheet: 34.8 × 68.5 cm",
         "zh-hant": "圖像 （目測）: 35 × 68.7 厘米"
     },
     "medium": {
@@ -104,8 +114,8 @@
     "dimensionDetails": {
         "element": "sheet",
         "unit": "cm",
-        "width": 68.7,
-        "height": 38,
+        "width": 68.5,
+        "height": 34.8,
         "depth": null
     }
 }

@@ -5,12 +5,20 @@
     "objectNumber": "2017.351",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Model",
-            "zh-hant": "建築模型"
+            "en": [
+                "Architectural Model"
+            ],
+            "zh-hant": [
+                "建築模型"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,8 +47,20 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 1612,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Wooden model of a building surrounded by parkland. The building has a courtyard and several rounded parts."
+        }
+    ],
     "color": {
         "predominant": [
             {
@@ -72,7 +92,7 @@
                 "value": 6.7
             },
             {
-                "color": "#D0D0C2",
+                "color": "#D0D0C3",
                 "value": 3.1
             },
             {

@@ -5,12 +5,20 @@
     "objectNumber": "2018.308",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,44 +47,48 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 2902,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#6F3A36",
-                "value": 30.4
+                "color": "#6E342F",
+                "value": 31.5
             },
             {
-                "color": "#422122",
-                "value": 24.6
+                "color": "#E6E7DF",
+                "value": 26.9
             },
             {
-                "color": "#864B36",
-                "value": 19.5
+                "color": "#935F4D",
+                "value": 15.2
             },
             {
-                "color": "#E8D6CC",
-                "value": 11.9
+                "color": "#491D1C",
+                "value": 15
             },
             {
-                "color": "#C28C70",
-                "value": 7.1
-            },
-            {
-                "color": "#43140D",
-                "value": 1
-            },
-            {
-                "color": "#743119",
-                "value": 0.9
+                "color": "#D2C6B7",
+                "value": 9.1
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 76.3
+                    "value": 61.6
                 },
                 {
                     "color": "orange",
@@ -84,7 +96,11 @@
                 },
                 {
                     "color": "white",
-                    "value": 11.9
+                    "value": 26.9
+                },
+                {
+                    "color": "gray",
+                    "value": 9.1
                 }
             ]
         }

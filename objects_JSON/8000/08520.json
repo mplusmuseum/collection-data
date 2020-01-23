@@ -5,12 +5,20 @@
     "objectNumber": "2017.236",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Model",
-            "zh-hant": "建築模型"
+            "en": [
+                "Architectural Model"
+            ],
+            "zh-hant": [
+                "建築模型"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,10 +30,10 @@
         "zh-hant": "新加坡大會堂和職工會大廈（1961至1965年）模型"
     },
     "displayDate": {
-        "en": "1964",
-        "zh-hant": "1964"
+        "en": "1964/2017",
+        "zh-hant": "1964/2017"
     },
-    "beginDate": 1965,
+    "beginDate": 1964,
     "endDate": 2017,
     "dimension": {
         "en": "overall: 44.8 × 154 × 124 cm",
@@ -39,7 +47,22 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1208,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        },
+        {
+            "id": 1205,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Architectural model depicting a low rectangular building with a glass facade and large rectangular white columns. There is a rectangular artificial pond in front of it, and awalkway lined with flags goes through the water to the front doors."
@@ -48,43 +71,79 @@
     "color": {
         "predominant": [
             {
-                "color": "#7D7970",
-                "value": 23.9
+                "color": "#DDE0DE",
+                "value": 45.4
             },
             {
-                "color": "#797972",
-                "value": 20.8
+                "color": "#CCCDC7",
+                "value": 24.2
             },
             {
-                "color": "#D7D0BF",
-                "value": 18.6
+                "color": "#464C4D",
+                "value": 4.4
             },
             {
-                "color": "#484944",
-                "value": 16.7
+                "color": "#646C6E",
+                "value": 4.1
             },
             {
-                "color": "#393C3B",
-                "value": 8.6
+                "color": "#778F7F",
+                "value": 2.7
             },
             {
-                "color": "#D8D6C7",
-                "value": 8
+                "color": "#8F8F82",
+                "value": 2.6
+            },
+            {
+                "color": "#C5CBCD",
+                "value": 2.6
+            },
+            {
+                "color": "#6B9179",
+                "value": 2.2
+            },
+            {
+                "color": "#CAC7BD",
+                "value": 2.1
+            },
+            {
+                "color": "#423E35",
+                "value": 1.6
+            },
+            {
+                "color": "#66A8C9",
+                "value": 1.5
+            },
+            {
+                "color": "#878276",
+                "value": 1.3
+            },
+            {
+                "color": "#3F3A2E",
+                "value": 1.3
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 44.7
+                    "value": 17.3
                 },
                 {
                     "color": "white",
-                    "value": 26.7
+                    "value": 69.6
                 },
                 {
                     "color": "black",
-                    "value": 25.3
+                    "value": 2.9
+                },
+                {
+                    "color": "green",
+                    "value": 4.9
+                },
+                {
+                    "color": "teal",
+                    "value": 1.5
                 }
             ]
         }

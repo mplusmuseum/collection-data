@@ -5,12 +5,20 @@
     "objectNumber": "2018.21",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Ephemera",
-            "zh-hant": "Ephemera"
+            "en": [
+                "Ephemera"
+            ],
+            "zh-hant": [
+                "暫時性的媒材"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,7 +30,7 @@
         "zh-hant": "斯海弗寧恩峇里島酒店行李標籤"
     },
     "displayDate": {
-        "en": "1946",
+        "en": "1940s–1950s",
         "zh-hant": "1940年代–1950年代"
     },
     "beginDate": 1940,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 4069,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,55 +64,51 @@
     "color": {
         "predominant": [
             {
-                "color": "#29272A",
-                "value": 34.3
+                "color": "#2A2525",
+                "value": 45.6
             },
             {
-                "color": "#CC3D3E",
-                "value": 30
+                "color": "#B7333C",
+                "value": 28.3
             },
             {
-                "color": "#3A5094",
-                "value": 7.9
+                "color": "#525B8B",
+                "value": 7.8
             },
             {
-                "color": "#2E2A29",
-                "value": 7.1
+                "color": "#CDC3AF",
+                "value": 5.1
             },
             {
-                "color": "#703134",
-                "value": 6.4
+                "color": "#792D34",
+                "value": 4
             },
             {
-                "color": "#D1C6B7",
-                "value": 5
+                "color": "#3E2123",
+                "value": 3
             },
             {
-                "color": "#402224",
-                "value": 3.7
-            },
-            {
-                "color": "#21273B",
-                "value": 1.2
+                "color": "#B22B38",
+                "value": 2.1
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 40.1
+                    "value": 37.3
                 },
                 {
                     "color": "gray",
-                    "value": 5
+                    "value": 5.1
                 },
                 {
                     "color": "blue",
-                    "value": 9.1
+                    "value": 7.8
                 },
                 {
                     "color": "black",
-                    "value": 41.4
+                    "value": 45.6
                 }
             ]
         }

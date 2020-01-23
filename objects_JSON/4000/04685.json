@@ -5,12 +5,20 @@
     "objectNumber": "2015.220",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a piece of wavy sheet metal lying on the floor of a large building."
@@ -48,31 +64,47 @@
     "color": {
         "predominant": [
             {
-                "color": "#2D2D2D",
-                "value": 58.3
-            },
-            {
-                "color": "#777777",
+                "color": "#7C7674",
                 "value": 26.2
             },
             {
-                "color": "#DCDCDC",
-                "value": 15.4
+                "color": "#332E2C",
+                "value": 25
+            },
+            {
+                "color": "#CCCAC9",
+                "value": 19.1
+            },
+            {
+                "color": "#D9D8D9",
+                "value": 11.5
+            },
+            {
+                "color": "#D9D8DA",
+                "value": 9.4
+            },
+            {
+                "color": "#D6D8D8",
+                "value": 3.2
+            },
+            {
+                "color": "#1F1816",
+                "value": 3
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 26.2
+                    "value": 45.3
                 },
                 {
                     "color": "white",
-                    "value": 15.4
+                    "value": 24.1
                 },
                 {
                     "color": "black",
-                    "value": 58.3
+                    "value": 28.1
                 }
             ]
         }

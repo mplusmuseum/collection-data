@@ -5,12 +5,20 @@
     "objectNumber": "2017.46",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Ink Art",
-            "zh-hant": "水墨"
+            "en": [
+                "Ink Art"
+            ],
+            "zh-hant": [
+                "水墨"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,15 +47,7 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [
-        {
-            "id": 1632,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": "Ink on landscape-oriented beige paper featuring a Kanji character meaning 'chopping board' written in an abstract manner with rough and cursive brushstrokes. The ink has varying shades of brown."

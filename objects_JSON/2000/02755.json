@@ -5,12 +5,20 @@
     "objectNumber": "2012.291",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,46 +58,34 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Acrylic painting on square canvas covered in extremely small and detailed squiggly red lines against a blue background."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#82CA6F",
-                "value": 31.1
+                "color": "#744443",
+                "value": 38.8
             },
             {
-                "color": "#688632",
-                "value": 22.9
+                "color": "#747388",
+                "value": 27.2
             },
             {
-                "color": "#59610F",
-                "value": 13.1
+                "color": "#746370",
+                "value": 10.4
             },
             {
-                "color": "#CAB9B3",
-                "value": 8
+                "color": "#71829E",
+                "value": 9.3
             },
             {
-                "color": "#556914",
+                "color": "#725A62",
                 "value": 7.4
             },
             {
-                "color": "#6EA048",
-                "value": 6.9
-            },
-            {
-                "color": "#677022",
-                "value": 2.8
-            },
-            {
-                "color": "#4B5001",
-                "value": 2.1
-            },
-            {
-                "color": "#5C590A",
-                "value": 1.9
+                "color": "#6F3528",
+                "value": 2.4
             }
         ],
         "search": {
@@ -100,11 +96,23 @@
                 },
                 {
                     "color": "gray",
-                    "value": 8
+                    "value": 17.8
                 },
                 {
                     "color": "brown",
                     "value": 27.3
+                },
+                {
+                    "color": "red",
+                    "value": 41.2
+                },
+                {
+                    "color": "purple",
+                    "value": 27.2
+                },
+                {
+                    "color": "teal",
+                    "value": 9.3
                 }
             ]
         }

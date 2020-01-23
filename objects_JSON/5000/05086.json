@@ -5,12 +5,20 @@
     "objectNumber": "2016.810",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1061,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,115 +64,67 @@
     "color": {
         "predominant": [
             {
-                "color": "#787D8E",
-                "value": 18.7
+                "color": "#B0B5CB",
+                "value": 30.4
             },
             {
-                "color": "#758992",
-                "value": 13
+                "color": "#B9CED7",
+                "value": 18.6
             },
             {
-                "color": "#0A8F3E",
-                "value": 12
+                "color": "#AED2B4",
+                "value": 11
             },
             {
-                "color": "#648291",
-                "value": 6.2
+                "color": "#7CBF93",
+                "value": 9.7
             },
             {
-                "color": "#63B753",
+                "color": "#E4E6D8",
+                "value": 6.3
+            },
+            {
+                "color": "#98CA91",
                 "value": 5.1
             },
             {
-                "color": "#76AEC5",
-                "value": 4.7
+                "color": "#84869E",
+                "value": 4.8
             },
             {
-                "color": "#DDDEB3",
-                "value": 4.7
+                "color": "#8BA0CC",
+                "value": 4.1
             },
             {
-                "color": "#5D718D",
-                "value": 4.2
-            },
-            {
-                "color": "#3F9B5E",
-                "value": 3.2
-            },
-            {
-                "color": "#92ACB5",
-                "value": 3.1
-            },
-            {
-                "color": "#0D8F56",
-                "value": 2.8
-            },
-            {
-                "color": "#469176",
-                "value": 2.6
-            },
-            {
-                "color": "#4BB56B",
-                "value": 2.2
-            },
-            {
-                "color": "#4B9F48",
-                "value": 1.9
-            },
-            {
-                "color": "#628F93",
+                "color": "#C3DB97",
                 "value": 1.8
             },
             {
-                "color": "#9FA3B2",
-                "value": 1.5
+                "color": "#67A063",
+                "value": 1.3
             },
             {
-                "color": "#578E8A",
-                "value": 1.2
+                "color": "#58A574",
+                "value": 1.3
             },
             {
-                "color": "#799084",
+                "color": "#C9BCB6",
                 "value": 1.1
-            },
-            {
-                "color": "#7AB0B6",
-                "value": 1
-            },
-            {
-                "color": "#ADC9B3",
-                "value": 1
-            },
-            {
-                "color": "#93C24B",
-                "value": 0.9
-            },
-            {
-                "color": "#61B79A",
-                "value": 0.9
-            },
-            {
-                "color": "#DFD4B6",
-                "value": 0.8
-            },
-            {
-                "color": "#8C644F",
-                "value": 0.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 37.4
+                    "value": 50.2
                 },
                 {
                     "color": "green",
-                    "value": 29
+                    "value": 30.1
                 },
                 {
                     "color": "blue",
-                    "value": 4.2
+                    "value": 4.8
                 },
                 {
                     "color": "yellow",
@@ -164,11 +132,15 @@
                 },
                 {
                     "color": "teal",
-                    "value": 18.3
+                    "value": 4.1
                 },
                 {
                     "color": "brown",
                     "value": 0.7
+                },
+                {
+                    "color": "white",
+                    "value": 6.3
                 }
             ]
         }

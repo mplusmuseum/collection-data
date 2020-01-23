@@ -5,16 +5,28 @@
     "objectNumber": "CA28/19/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "2 October 1989",
-        "zh-hant": "2 October 1989"
+        "zh-hant": "1989年10月2日"
     },
     "beginDate": 1989,
     "endDate": 1989,
     "dimension": {
         "en": "sheet: 29.7 x 42 cm",
-        "zh-hant": "sheet: 29.7 x 42 cm"
+        "zh-hant": "紙本: 29.7 x 42 厘米"
     },
     "medium": {
         "en": "graphite and crayon on paper",
@@ -48,11 +60,29 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E7E3DC",
+                "value": 93.3
+            },
+            {
+                "color": "#E6E5DE",
+                "value": 4.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 98
+                }
+            ]
         }
     },
     "dimensionDetails": {

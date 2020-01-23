@@ -5,12 +5,24 @@
     "objectNumber": "2017.110",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Drawing",
-            "zh-hant": "繪圖"
+            "en": [
+                "Performance",
+                "Photography",
+                "Drawing"
+            ],
+            "zh-hant": [
+                "行為",
+                "攝影",
+                "繪圖"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1659,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Photograph of a walking person's silhouette against a mountainside. Below the photograph, a sketch in black and red depicts a two stars with text that reads, 'I dream that I woke up in another dream'."
@@ -48,55 +68,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#D6D2CD",
-                "value": 35.2
+                "color": "#D8D2C6",
+                "value": 34.5
             },
             {
-                "color": "#C3A77F",
-                "value": 21.8
+                "color": "#B79C71",
+                "value": 25.2
             },
             {
-                "color": "#07060B",
-                "value": 13
+                "color": "#997A50",
+                "value": 14.2
             },
             {
-                "color": "#927650",
-                "value": 6.7
+                "color": "#0E1115",
+                "value": 11.6
             },
             {
-                "color": "#413837",
-                "value": 4.5
+                "color": "#0F1316",
+                "value": 5.8
             },
             {
-                "color": "#DFDEE2",
-                "value": 4.4
+                "color": "#805B3C",
+                "value": 2.7
             },
             {
-                "color": "#756A69",
-                "value": 3.9
-            },
-            {
-                "color": "#D8D8D2",
-                "value": 2.3
-            },
-            {
-                "color": "#DAD6D9",
-                "value": 1.6
-            },
-            {
-                "color": "#88684E",
-                "value": 1.3
-            },
-            {
-                "color": "#2C1F1B",
-                "value": 1.3
+                "color": "#141518",
+                "value": 1.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "orange",
-                    "value": 21.8
+                    "value": 25.2
                 },
                 {
                     "color": "gray",
@@ -104,15 +108,15 @@
                 },
                 {
                     "color": "white",
-                    "value": 43.5
+                    "value": 34.5
                 },
                 {
                     "color": "black",
-                    "value": 18.7
+                    "value": 19.3
                 },
                 {
                     "color": "brown",
-                    "value": 8
+                    "value": 16.9
                 }
             ]
         }

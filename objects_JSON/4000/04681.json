@@ -5,12 +5,20 @@
     "objectNumber": "2015.216",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a man wearing a dark shirt and glasses. Behind him is a gallery space with a large wooden box on the floor with a thick pole-shaped object sticking out of it."
@@ -48,31 +64,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#2B2B2B",
-                "value": 54.1
+                "color": "#D9CFC1",
+                "value": 43.7
             },
             {
-                "color": "#757575",
-                "value": 28.4
+                "color": "#8A7C6E",
+                "value": 18.3
             },
             {
-                "color": "#DCDCDC",
-                "value": 17.4
+                "color": "#211A15",
+                "value": 17.2
+            },
+            {
+                "color": "#2F271F",
+                "value": 9.4
+            },
+            {
+                "color": "#6B5D4E",
+                "value": 4.3
+            },
+            {
+                "color": "#342E2A",
+                "value": 3.4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 28.4
+                    "value": 22.6
                 },
                 {
                     "color": "white",
-                    "value": 17.4
+                    "value": 43.7
                 },
                 {
                     "color": "black",
-                    "value": 54.1
+                    "value": 30.1
                 }
             ]
         }

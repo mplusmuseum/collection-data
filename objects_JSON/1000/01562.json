@@ -5,12 +5,20 @@
     "objectNumber": "2013.63",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,8 +30,8 @@
         "zh-hant": "雲根"
     },
     "displayDate": {
-        "en": "designed 2001, made 2008",
-        "zh-hant": "2001年設計，2008年製造"
+        "en": "2012",
+        "zh-hant": "2012"
     },
     "beginDate": 2012,
     "endDate": 2012,
@@ -39,12 +47,64 @@
         "en": "M+, Hong Kong. Gift of Alessi, 2013",
         "zh-hant": "M+，香港，Alessi捐贈，2013年"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 460,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 15,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        },
+        {
+            "id": 14,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E9EAEC",
+                "value": 72.4
+            },
+            {
+                "color": "#D9D9D8",
+                "value": 18.3
+            },
+            {
+                "color": "#D6D4D5",
+                "value": 2.6
+            },
+            {
+                "color": "#E3E5E4",
+                "value": 1.5
+            },
+            {
+                "color": "#D5D5D1",
+                "value": 1.3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 96
+                }
+            ]
         }
     },
     "dimensionDetails": {

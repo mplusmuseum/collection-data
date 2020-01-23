@@ -5,12 +5,20 @@
     "objectNumber": "2015.219",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of hollow wooden poles lying in a row along a floor. A roll of barbed wire stands next to the first pole. A string of barbed wire goes from the roll, and lies atop all of the wooden poles."
@@ -48,31 +64,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#D4D4D4",
-                "value": 37.9
+                "color": "#C9C6C1",
+                "value": 58.2
             },
             {
-                "color": "#171717",
-                "value": 31.5
+                "color": "#16100D",
+                "value": 12.4
             },
             {
-                "color": "#858585",
-                "value": 30.6
+                "color": "#91897F",
+                "value": 10.1
+            },
+            {
+                "color": "#2A241C",
+                "value": 9.7
+            },
+            {
+                "color": "#D4D4D1",
+                "value": 5.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 30.6
+                    "value": 68.3
                 },
                 {
                     "color": "white",
-                    "value": 37.9
+                    "value": 5.7
                 },
                 {
                     "color": "black",
-                    "value": 31.5
+                    "value": 22.1
                 }
             ]
         }

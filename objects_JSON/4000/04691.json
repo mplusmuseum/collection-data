@@ -5,12 +5,20 @@
     "objectNumber": "2015.226",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of multiple long, narrow, wooden poles sticking up on a concrete rooftop. Each pole has a white string tied to the tip, which is then tied to a brick lying on the ground. The poles are curved due to the pressure exerted by the string and brick."
@@ -48,31 +64,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#141414",
-                "value": 84
+                "color": "#120D0C",
+                "value": 38
             },
             {
-                "color": "#838383",
-                "value": 8.8
+                "color": "#D7D5D2",
+                "value": 35.4
             },
             {
-                "color": "#D6D6D6",
-                "value": 7.2
+                "color": "#1B1717",
+                "value": 15.3
+            },
+            {
+                "color": "#837D7A",
+                "value": 3.3
+            },
+            {
+                "color": "#272427",
+                "value": 2.6
+            },
+            {
+                "color": "#DAD9D6",
+                "value": 1.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 8.8
+                    "value": 3.3
                 },
                 {
                     "color": "white",
-                    "value": 7.2
+                    "value": 37.4
                 },
                 {
                     "color": "black",
-                    "value": 84
+                    "value": 55.9
                 }
             ]
         }

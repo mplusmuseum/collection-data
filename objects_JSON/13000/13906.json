@@ -5,12 +5,20 @@
     "objectNumber": "2017.481",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong. Gift of Francis M. Naumann, 2017",
         "zh-hant": "M+，香港，Francis M. Naumann捐贈，2017年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2827,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": null,
     "color": {
         "predominant": null,

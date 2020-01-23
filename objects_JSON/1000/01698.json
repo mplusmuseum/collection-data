@@ -5,12 +5,20 @@
     "objectNumber": "2013.300",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,15 +47,7 @@
         "en": "M+, Hong Kong. Gift of Guan Yi, 2013",
         "zh-hant": "M+，香港，管藝捐贈，2013年"
     },
-    "constituents": [
-        {
-            "id": 483,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": null
@@ -56,15 +56,15 @@
     "color": {
         "predominant": [
             {
-                "color": "#800B10",
-                "value": 88.3
+                "color": "#7B1518",
+                "value": 81.3
             },
             {
-                "color": "#862D2E",
-                "value": 4.4
+                "color": "#7E2526",
+                "value": 11.7
             },
             {
-                "color": "#C9C2AF",
+                "color": "#C2BDAB",
                 "value": 3.7
             }
         ],
@@ -72,7 +72,7 @@
             "google": [
                 {
                     "color": "red",
-                    "value": 92.7
+                    "value": 93
                 },
                 {
                     "color": "gray",

@@ -5,12 +5,20 @@
     "objectNumber": "2015.222",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a row of small stones lying across a sheet of chicken wire, viewed from floor-level."
@@ -48,31 +64,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#DCDCDC",
-                "value": 58.3
+                "color": "#D0CECA",
+                "value": 67.1
             },
             {
-                "color": "#888888",
-                "value": 30.2
+                "color": "#88827E",
+                "value": 14.4
             },
             {
-                "color": "#2D2D2D",
-                "value": 11.4
+                "color": "#3B3532",
+                "value": 6
+            },
+            {
+                "color": "#1D1511",
+                "value": 4.9
+            },
+            {
+                "color": "#D6D6D3",
+                "value": 4.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 30.2
+                    "value": 14.4
                 },
                 {
                     "color": "white",
-                    "value": 58.3
+                    "value": 72
                 },
                 {
                     "color": "black",
-                    "value": 11.4
+                    "value": 11
                 }
             ]
         }

@@ -5,12 +5,20 @@
     "objectNumber": "2012.1364",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Textile",
-            "zh-hant": "紡織品"
+            "en": [
+                "Textile"
+            ],
+            "zh-hant": [
+                "紡織品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,15 +47,7 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [
-        {
-            "id": 581,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": null
@@ -60,23 +60,23 @@
                 "value": 53.6
             },
             {
-                "color": "#78736C",
-                "value": 39.6
+                "color": "#77726C",
+                "value": 40.4
             },
             {
-                "color": "#494746",
-                "value": 4.4
+                "color": "#4A4847",
+                "value": 4.2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 93.2
+                    "value": 94
                 },
                 {
                     "color": "black",
-                    "value": 4.4
+                    "value": 4.2
                 }
             ]
         }

@@ -5,12 +5,20 @@
     "objectNumber": "2012.734",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,18 +58,18 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on canvas depicting a portrait of a smiling man rendered in black and white tones. The man has a hat and appears to be in overalls."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#1F1F1F",
-                "value": 94.4
+                "color": "#2B2826",
+                "value": 88.1
             },
             {
-                "color": "#616161",
-                "value": 5.4
+                "color": "#252324",
+                "value": 10.7
             }
         ],
         "search": {
@@ -72,7 +80,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 94.4
+                    "value": 98.8
                 }
             ]
         }

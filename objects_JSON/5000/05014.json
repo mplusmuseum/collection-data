@@ -5,12 +5,20 @@
     "objectNumber": "2015.458",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,12 +47,50 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 916,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CBCCD9",
+                "value": 52.4
+            },
+            {
+                "color": "#7C7C8A",
+                "value": 33
+            },
+            {
+                "color": "#38373E",
+                "value": 13.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 33
+                },
+                {
+                    "color": "white",
+                    "value": 52.4
+                },
+                {
+                    "color": "black",
+                    "value": 13.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -5,12 +5,20 @@
     "objectNumber": "2012.388",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,61 +58,57 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on canvas depicting three bald figures on chairs. The large figure on the left kneels on the chair. The smaller figures lean forwards on the chair backs."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#B18870",
-                "value": 35.2
+                "color": "#C19C7E",
+                "value": 41
             },
             {
-                "color": "#845A49",
-                "value": 19
+                "color": "#845846",
+                "value": 25.7
             },
             {
-                "color": "#703B35",
-                "value": 11.4
+                "color": "#6C5F5C",
+                "value": 10.2
             },
             {
-                "color": "#452721",
-                "value": 8.9
+                "color": "#C8B7A6",
+                "value": 6.7
             },
             {
-                "color": "#3E3837",
-                "value": 8.7
+                "color": "#76423B",
+                "value": 4.9
             },
             {
-                "color": "#7E6F67",
-                "value": 6
+                "color": "#484141",
+                "value": 3.9
             },
             {
-                "color": "#BCAA9C",
-                "value": 4.2
-            },
-            {
-                "color": "#2F2E31",
-                "value": 2.8
+                "color": "#4E362F",
+                "value": 2.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 39.3
+                    "value": 33.3
                 },
                 {
                     "color": "orange",
-                    "value": 35.2
+                    "value": 41
                 },
                 {
                     "color": "gray",
-                    "value": 10.1
+                    "value": 16.9
                 },
                 {
                     "color": "black",
-                    "value": 11.6
+                    "value": 3.9
                 }
             ]
         }

@@ -5,12 +5,20 @@
     "objectNumber": "2017.298",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -32,22 +40,14 @@
         "zh-hant": "框架: 35.5 × 33 × 2 厘米\r\n圖像 （目測）: 27.5 × 25.1 厘米"
     },
     "medium": {
-        "en": "instant print",
-        "zh-hant": "即影即有照片"
+        "en": "dye diffusion transfer print",
+        "zh-hant": "染料擴散轉印相片"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [
-        {
-            "id": 1627,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": null
@@ -56,83 +56,87 @@
     "color": {
         "predominant": [
             {
-                "color": "#F6F0ED",
-                "value": 13.7
+                "color": "#DBDEE1",
+                "value": 15.9
             },
             {
-                "color": "#EBEEEC",
-                "value": 13
+                "color": "#3A5085",
+                "value": 11.1
             },
             {
-                "color": "#813840",
-                "value": 9.6
+                "color": "#382622",
+                "value": 10.8
             },
             {
-                "color": "#314777",
-                "value": 7.8
+                "color": "#28252C",
+                "value": 10.7
             },
             {
-                "color": "#3A2424",
-                "value": 6.1
+                "color": "#262120",
+                "value": 9.5
             },
             {
-                "color": "#161A1A",
-                "value": 5
+                "color": "#D3D3DA",
+                "value": 5.8
             },
             {
-                "color": "#0D1517",
-                "value": 4.9
+                "color": "#754445",
+                "value": 4.3
             },
             {
-                "color": "#221E1E",
-                "value": 4.9
-            },
-            {
-                "color": "#242126",
-                "value": 4.5
-            },
-            {
-                "color": "#0D1514",
+                "color": "#2D2E42",
                 "value": 3.8
             },
             {
-                "color": "#CA232A",
-                "value": 3.8
-            },
-            {
-                "color": "#EFEFEB",
+                "color": "#7D0E0F",
                 "value": 3.6
             },
             {
-                "color": "#BF6067",
-                "value": 3.2
+                "color": "#1F2323",
+                "value": 3
             },
             {
-                "color": "#ECC593",
-                "value": 2.6
+                "color": "#C3B3A4",
+                "value": 2.5
             },
             {
-                "color": "#272C3F",
-                "value": 2.3
+                "color": "#CBC8AA",
+                "value": 2.4
             },
             {
-                "color": "#DE9E7F",
+                "color": "#C5A972",
                 "value": 2.1
             },
             {
-                "color": "#F0F5F5",
-                "value": 2.1
+                "color": "#87533A",
+                "value": 1.8
             },
             {
-                "color": "#F5F1F4",
-                "value": 0.8
+                "color": "#594D70",
+                "value": 1.7
             },
             {
-                "color": "#DD682B",
+                "color": "#7D506D",
+                "value": 1.6
+            },
+            {
+                "color": "#6B527C",
+                "value": 1.5
+            },
+            {
+                "color": "#80748E",
+                "value": 1.4
+            },
+            {
+                "color": "#AFC6B7",
                 "value": 0.7
             },
             {
-                "color": "#7B4E6A",
+                "color": "#B58569",
+                "value": 0.6
+            },
+            {
+                "color": "#493041",
                 "value": 0.6
             }
         ],
@@ -140,27 +144,39 @@
             "google": [
                 {
                     "color": "red",
-                    "value": 16.6
+                    "value": 7.9
                 },
                 {
                     "color": "orange",
-                    "value": 5.4
+                    "value": 2.7
                 },
                 {
                     "color": "white",
-                    "value": 33.2
+                    "value": 21.7
                 },
                 {
                     "color": "blue",
-                    "value": 10.1
+                    "value": 14.8
                 },
                 {
                     "color": "black",
-                    "value": 29.3
+                    "value": 33.9
                 },
                 {
                     "color": "purple",
-                    "value": 0.6
+                    "value": 6.7
+                },
+                {
+                    "color": "gray",
+                    "value": 3.2
+                },
+                {
+                    "color": "yellow",
+                    "value": 2.4
+                },
+                {
+                    "color": "brown",
+                    "value": 1.8
                 }
             ]
         }

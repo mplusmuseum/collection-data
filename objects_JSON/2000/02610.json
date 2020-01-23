@@ -5,12 +5,20 @@
     "objectNumber": "2012.82",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -48,7 +56,11 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Photograph of a bearded man floating face up in the middle of a body of water filled with a profusion of lotus leaves and flowers."
+        }
+    ],
     "color": {
         "predominant": [
             {

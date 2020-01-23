@@ -5,12 +5,22 @@
     "objectNumber": "2016.264",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Collage",
+                "Photography"
+            ],
+            "zh-hant": [
+                "拼貼",
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -32,14 +42,22 @@
         "zh-hant": "紙本： 17.9 × 24.1 厘米"
     },
     "medium": {
-        "en": "photo collage",
+        "en": "letterpress halftone print collage on paper",
         "zh-hant": "照片拼貼"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 925,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

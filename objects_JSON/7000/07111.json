@@ -5,12 +5,22 @@
     "objectNumber": "2016.776",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Textile",
-            "zh-hant": "紡織品"
+            "en": [
+                "Design Object",
+                "Textile"
+            ],
+            "zh-hant": [
+                "設計物件",
+                "紡織品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,11 +32,11 @@
         "zh-hant": "A-POC 皇后"
     },
     "displayDate": {
-        "en": "designed 1999, made 2003",
-        "zh-hant": "1999年設計，2003年製造"
+        "en": "designed 1998, made 2003",
+        "zh-hant": "1998年設計, 2003年製造"
     },
-    "beginDate": 1999,
-    "endDate": 1999,
+    "beginDate": 1998,
+    "endDate": 2003,
     "dimension": {
         "en": "overall: 370 × 44 cm",
         "zh-hant": "整體: 370 × 44 厘米"
@@ -41,13 +51,6 @@
     },
     "constituents": [
         {
-            "id": 1698,
-            "role": {
-                "en": "Manufacturer",
-                "zh-hant": "製造商"
-            }
-        },
-        {
             "id": 1699,
             "role": {
                 "en": "Designer",
@@ -59,6 +62,13 @@
             "role": {
                 "en": "Designer",
                 "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 1698,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
             }
         }
     ],

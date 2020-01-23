@@ -5,12 +5,24 @@
     "objectNumber": "2017.111",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Drawing",
-            "zh-hant": "繪圖"
+            "en": [
+                "Performance",
+                "Photography",
+                "Drawing"
+            ],
+            "zh-hant": [
+                "行為",
+                "攝影",
+                "繪圖"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1659,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Photograph of a figure in red on a walkway at the Great Wall of China. Below the photograph, a sketch depicts two similarly shaped vessels, one outlined and the other shaded in black."
@@ -48,111 +68,79 @@
     "color": {
         "predominant": [
             {
-                "color": "#F1EFF3",
-                "value": 22.5
+                "color": "#D6D1C6",
+                "value": 34.5
             },
             {
-                "color": "#DFD9D5",
-                "value": 14.9
+                "color": "#3E2B27",
+                "value": 11.3
             },
             {
-                "color": "#F6F1F5",
-                "value": 10.7
+                "color": "#242226",
+                "value": 10.5
             },
             {
-                "color": "#7B6E6C",
+                "color": "#7D5A46",
+                "value": 9.8
+            },
+            {
+                "color": "#D4D2C8",
+                "value": 8.3
+            },
+            {
+                "color": "#332C2C",
                 "value": 7.6
             },
             {
-                "color": "#383130",
-                "value": 7.5
+                "color": "#746562",
+                "value": 3.9
             },
             {
-                "color": "#261915",
-                "value": 7.1
+                "color": "#B79A77",
+                "value": 3
             },
             {
-                "color": "#CBA272",
-                "value": 3.7
-            },
-            {
-                "color": "#7F5C44",
-                "value": 3.2
-            },
-            {
-                "color": "#CC9D77",
-                "value": 2.8
-            },
-            {
-                "color": "#231E13",
-                "value": 2.6
-            },
-            {
-                "color": "#1B0903",
-                "value": 2.6
-            },
-            {
-                "color": "#846947",
+                "color": "#783B39",
                 "value": 2.4
             },
             {
-                "color": "#1F1D20",
-                "value": 1.7
+                "color": "#937A5B",
+                "value": 1.9
             },
             {
-                "color": "#0D080B",
-                "value": 1.4
+                "color": "#7A181B",
+                "value": 1.2
             },
             {
-                "color": "#921717",
-                "value": 1.1
-            },
-            {
-                "color": "#100B02",
+                "color": "#625F67",
                 "value": 1
-            },
-            {
-                "color": "#BEC5C9",
-                "value": 0.7
-            },
-            {
-                "color": "#DBDCD8",
-                "value": 0.7
-            },
-            {
-                "color": "#2C3230",
-                "value": 0.6
-            },
-            {
-                "color": "#09080C",
-                "value": 0.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "orange",
-                    "value": 6.4
+                    "value": 3
                 },
                 {
                     "color": "red",
-                    "value": 1.1
+                    "value": 3.6
                 },
                 {
                     "color": "gray",
-                    "value": 8.3
+                    "value": 5
                 },
                 {
                     "color": "white",
-                    "value": 48.8
+                    "value": 42.8
                 },
                 {
                     "color": "black",
-                    "value": 25.1
+                    "value": 29.4
                 },
                 {
                     "color": "brown",
-                    "value": 5.6
+                    "value": 11.7
                 }
             ]
         }

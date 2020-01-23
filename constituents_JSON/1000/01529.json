@@ -12,16 +12,19 @@
     "type": "Individual",
     "roles": [
         "Author",
-        "Publisher",
-        "Design Firm",
-        "Maker",
         "作者",
+        "Publisher",
         "出版社",
-        "設計師事務所"
+        "Design Firm",
+        "設計師事務所",
+        "Maker",
+        "創作者",
+        "Designer",
+        "設計師"
     ],
     "displayBio": {
-        "en": null,
-        "zh-hant": null
+        "en": "unknown",
+        "zh-hant": "不詳"
     },
     "gender": {
         "en": "Unknown",
@@ -30,7 +33,7 @@
     "beginDate": null,
     "endDate": null,
     "nationality": {
-        "en": null,
-        "zh-hant": null
+        "en": "Hong Kong",
+        "zh-hant": "香港"
     }
 }

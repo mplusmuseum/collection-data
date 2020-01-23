@@ -5,16 +5,28 @@
     "objectNumber": "CA39/1/1/2/6",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "10 October 1962",
-        "zh-hant": "10 October 1962"
+        "zh-hant": "1962年10月10日"
     },
     "beginDate": 1962,
     "endDate": 1962,
     "dimension": {
         "en": "sheet: 86.5 x 137.5 cm",
-        "zh-hant": "sheet: 86.5 x 137.5 cm"
+        "zh-hant": "紙本: 86.5 x 137.5 厘米"
     },
     "medium": {
         "en": "graphite and blackline print on acetate film",
@@ -37,11 +49,18 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
-        "zh-hant": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017"
+        "zh-hant": "M+，香港，王秋華捐贈，2017年"
     },
     "constituents": [
         {
             "id": 2822,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 2823,
             "role": {
                 "en": "Architect",
                 "zh-hant": "建築師"

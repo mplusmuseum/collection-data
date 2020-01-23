@@ -5,12 +5,20 @@
     "objectNumber": "2015.217",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a person standing with the back towards us. They are look at the blocky, concrete building in front of them. The sky is cloudy."
@@ -48,31 +64,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#202020",
-                "value": 46.9
+                "color": "#D9D8D7",
+                "value": 39.2
             },
             {
-                "color": "#F5F5F5",
-                "value": 39.4
+                "color": "#332C28",
+                "value": 13.9
             },
             {
-                "color": "#6F6F6F",
-                "value": 13.7
+                "color": "#857D78",
+                "value": 12.9
+            },
+            {
+                "color": "#2A231F",
+                "value": 11.1
+            },
+            {
+                "color": "#DAD8D9",
+                "value": 10.5
+            },
+            {
+                "color": "#DADAD8",
+                "value": 7.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 13.7
+                    "value": 12.9
                 },
                 {
                     "color": "white",
-                    "value": 39.4
+                    "value": 57.3
                 },
                 {
                     "color": "black",
-                    "value": 46.9
+                    "value": 25
                 }
             ]
         }

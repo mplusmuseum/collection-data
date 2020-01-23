@@ -5,16 +5,24 @@
     "objectNumber": "CA40",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
             "en": null,
             "zh-hant": null
         },
         "archivalLevel": {
-            "en": "Fonds",
-            "zh-hant": "全宗"
+            "en": [
+                "Fonds"
+            ],
+            "zh-hant": [
+                "全宗"
+            ]
         }
     },
     "title": {
@@ -23,13 +31,13 @@
     },
     "displayDate": {
         "en": "[circa 1905–circa 1918]",
-        "zh-hant": "[circa 1905–circa 1918]"
+        "zh-hant": "[約1905至約1918年]"
     },
     "beginDate": 1904,
     "endDate": 1920,
     "dimension": {
         "en": "10 items",
-        "zh-hant": "10 items"
+        "zh-hant": "10 份/張/件"
     },
     "medium": {
         "en": null,
@@ -48,11 +56,41 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#1C1C1C",
+                "value": 37.3
+            },
+            {
+                "color": "#D1D1D1",
+                "value": 35.8
+            },
+            {
+                "color": "#878787",
+                "value": 26.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 26.9
+                },
+                {
+                    "color": "white",
+                    "value": 35.8
+                },
+                {
+                    "color": "black",
+                    "value": 37.3
+                }
+            ]
         }
     },
     "dimensionDetails": null

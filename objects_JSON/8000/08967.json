@@ -5,12 +5,20 @@
     "objectNumber": "2017.381",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -18,8 +26,8 @@
         }
     },
     "title": {
-        "en": "Docker, Shanghai, 1957",
-        "zh-hant": "1957年上海碼頭工人"
+        "en": "Docker, Shanghai",
+        "zh-hant": "上海碼頭工人"
     },
     "displayDate": {
         "en": "1957",
@@ -32,7 +40,7 @@
         "zh-hant": "圖像：50 × 60厘米"
     },
     "medium": {
-        "en": "gelatin silver plate",
+        "en": "gelatin silver print",
         "zh-hant": "銀鹽照片"
     },
     "creditLine": {
@@ -56,27 +64,31 @@
     "color": {
         "predominant": [
             {
-                "color": "#333333",
-                "value": 56.2
+                "color": "#CDCFD5",
+                "value": 35.3
             },
             {
-                "color": "#7F7F7F",
-                "value": 28.7
+                "color": "#7E8087",
+                "value": 31.1
             },
             {
-                "color": "#C6C6C6",
-                "value": 15.1
+                "color": "#35363A",
+                "value": 29.2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 43.8
+                    "value": 31.1
                 },
                 {
                     "color": "black",
-                    "value": 56.2
+                    "value": 29.2
+                },
+                {
+                    "color": "white",
+                    "value": 35.3
                 }
             ]
         }

@@ -5,12 +5,24 @@
     "objectNumber": "2015.16",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Moving Image",
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "流動影像",
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Installation",
-            "zh-hant": "裝置藝術"
+            "en": [
+                "Digital",
+                "Installation"
+            ],
+            "zh-hant": [
+                "數碼",
+                "裝置藝術"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -48,36 +60,32 @@
     "color": {
         "predominant": [
             {
-                "color": "#0D2623",
-                "value": 38.8
-            },
-            {
-                "color": "#071214",
-                "value": 22.2
+                "color": "#0C2622",
+                "value": 35.4
             },
             {
                 "color": "#061D1C",
-                "value": 17.5
+                "value": 24.3
             },
             {
-                "color": "#05181A",
-                "value": 8.1
+                "color": "#050E10",
+                "value": 16.7
             },
             {
-                "color": "#2D5E4D",
-                "value": 3.1
+                "color": "#051617",
+                "value": 11.6
             },
             {
-                "color": "#2E7069",
-                "value": 2.9
+                "color": "#2B5D4D",
+                "value": 3.3
             },
             {
-                "color": "#7ED1C0",
-                "value": 1.9
+                "color": "#2C726C",
+                "value": 2.4
             },
             {
-                "color": "#CCE7E1",
-                "value": 1.1
+                "color": "#81D2C1",
+                "value": 2.3
             }
         ],
         "search": {
@@ -88,7 +96,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 86.5
+                    "value": 88
                 },
                 {
                     "color": "teal",

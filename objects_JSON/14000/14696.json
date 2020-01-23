@@ -5,16 +5,28 @@
     "objectNumber": "CA30/5/1/7",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Archival Documentation",
-            "zh-hant": "檔存文件"
+            "en": [
+                "Archival Documentation"
+            ],
+            "zh-hant": [
+                "檔存文件"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "28 January 1966",
-        "zh-hant": "28 January 1966"
+        "zh-hant": "1966年1月28日"
     },
     "beginDate": 1966,
     "endDate": 1966,
     "dimension": {
         "en": "sheet: 10.6 x 14.6 cm",
-        "zh-hant": "sheet: 10.6 x 14.6 cm"
+        "zh-hant": "紙本: 10.6 x 14.6 厘米"
     },
     "medium": {
         "en": "printing ink and ink on paperboard",
@@ -37,14 +49,67 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+        "zh-hant": "M+，香港，王大閎家屬捐贈，2016年"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 4344,
+            "role": {
+                "en": "Author",
+                "zh-hant": "作者"
+            }
+        },
+        {
+            "id": 4331,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#33332E",
+                "value": 33.2
+            },
+            {
+                "color": "#DED7C9",
+                "value": 31.1
+            },
+            {
+                "color": "#E1DFCF",
+                "value": 16.4
+            },
+            {
+                "color": "#8E8876",
+                "value": 10.7
+            },
+            {
+                "color": "#7D7B6A",
+                "value": 6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 16.6
+                },
+                {
+                    "color": "white",
+                    "value": 47.5
+                },
+                {
+                    "color": "black",
+                    "value": 33.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

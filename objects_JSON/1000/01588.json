@@ -5,12 +5,20 @@
     "objectNumber": "2015.446",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,7 +30,7 @@
         "zh-hant": "陰影"
     },
     "displayDate": {
-        "en": "1954, reprinted in 2013",
+        "en": "1954, reprinted 2013",
         "zh-hant": "1954年，2013年重印"
     },
     "beginDate": 1954,
@@ -32,8 +40,8 @@
         "zh-hant": "紙本: 35.5 × 27.8 厘米  圖像: 30.6 × 21.9 厘米"
     },
     "medium": {
-        "en": "archival pigment print",
-        "zh-hant": "收藏級顏料印相"
+        "en": "pigment print",
+        "zh-hant": "顏料墨水印相"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Ho Fan, 2012",
@@ -48,23 +56,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#CACACA",
-                "value": 42.4
+                "color": "#DCD7D4",
+                "value": 36.5
             },
             {
-                "color": "#323232",
-                "value": 42
+                "color": "#F3F2F4",
+                "value": 23.3
             },
             {
-                "color": "#878787",
-                "value": 15.5
+                "color": "#403933",
+                "value": 19.2
+            },
+            {
+                "color": "#72695E",
+                "value": 6.8
+            },
+            {
+                "color": "#F0EEF0",
+                "value": 4.1
+            },
+            {
+                "color": "#F3F4F4",
+                "value": 3.4
+            },
+            {
+                "color": "#443C32",
+                "value": 2.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 58
+                    "value": 6.8
                 },
                 {
                     "color": "white",
@@ -72,7 +96,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 42
+                    "value": 22.1
                 }
             ]
         }

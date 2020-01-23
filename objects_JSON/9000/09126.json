@@ -5,16 +5,24 @@
     "objectNumber": "CA12",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
             "en": null,
             "zh-hant": null
         },
         "archivalLevel": {
-            "en": "Fonds",
-            "zh-hant": "全宗"
+            "en": [
+                "Fonds"
+            ],
+            "zh-hant": [
+                "全宗"
+            ]
         }
     },
     "title": {
@@ -29,7 +37,7 @@
     "endDate": 1989,
     "dimension": {
         "en": "32 items",
-        "zh-hant": "32 items"
+        "zh-hant": "32 份/張/件"
     },
     "medium": {
         "en": null,
@@ -39,12 +47,150 @@
         "en": "M+, Hong Kong. Gift of Remo Riva, 2013",
         "zh-hant": "M+，香港，Remo Riva捐贈，2013年"
     },
-    "constituents": [],
-    "images": null,
+    "constituents": [
+        {
+            "id": 384,
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CDAE72",
+                "value": 17.7
+            },
+            {
+                "color": "#C2B9AC",
+                "value": 11.5
+            },
+            {
+                "color": "#836D4C",
+                "value": 6.4
+            },
+            {
+                "color": "#342A1C",
+                "value": 6
+            },
+            {
+                "color": "#8B8175",
+                "value": 5.6
+            },
+            {
+                "color": "#C38B66",
+                "value": 5.2
+            },
+            {
+                "color": "#825941",
+                "value": 5.2
+            },
+            {
+                "color": "#302D29",
+                "value": 4.4
+            },
+            {
+                "color": "#C7C7B8",
+                "value": 4.1
+            },
+            {
+                "color": "#CD9C2C",
+                "value": 3.7
+            },
+            {
+                "color": "#260A04",
+                "value": 3.3
+            },
+            {
+                "color": "#8B8C7F",
+                "value": 2.8
+            },
+            {
+                "color": "#B6C5B7",
+                "value": 2.8
+            },
+            {
+                "color": "#332219",
+                "value": 2.8
+            },
+            {
+                "color": "#181D29",
+                "value": 2.5
+            },
+            {
+                "color": "#281A05",
+                "value": 2
+            },
+            {
+                "color": "#738475",
+                "value": 2
+            },
+            {
+                "color": "#252429",
+                "value": 1.6
+            },
+            {
+                "color": "#855A12",
+                "value": 1.2
+            },
+            {
+                "color": "#2B332D",
+                "value": 1
+            },
+            {
+                "color": "#822F2B",
+                "value": 0.8
+            },
+            {
+                "color": "#1C2B28",
+                "value": 0.7
+            },
+            {
+                "color": "#7F3A15",
+                "value": 0.6
+            },
+            {
+                "color": "#121B21",
+                "value": 0.6
+            },
+            {
+                "color": "#D8D091",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 26.6
+                },
+                {
+                    "color": "red",
+                    "value": 4
+                },
+                {
+                    "color": "gray",
+                    "value": 28.9
+                },
+                {
+                    "color": "black",
+                    "value": 19.4
+                },
+                {
+                    "color": "yellow",
+                    "value": 0.6
+                },
+                {
+                    "color": "brown",
+                    "value": 15.4
+                }
+            ]
         }
     },
     "dimensionDetails": null

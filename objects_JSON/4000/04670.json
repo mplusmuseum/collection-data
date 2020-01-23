@@ -5,12 +5,20 @@
     "objectNumber": "2015.205",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph. Several sculptures sit on display in a gallery space, including a polished arch rising out of a rough stone base, and two logs linked by wooden rings, carved out of a single tree stump."
@@ -48,31 +64,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#CDCDCD",
-                "value": 39.8
+                "color": "#CFCDCA",
+                "value": 61.8
             },
             {
-                "color": "#838383",
-                "value": 35.3
+                "color": "#867F7C",
+                "value": 17.2
             },
             {
-                "color": "#2A2A2A",
-                "value": 24.8
+                "color": "#100B0B",
+                "value": 5.9
+            },
+            {
+                "color": "#D8D8D6",
+                "value": 5.4
+            },
+            {
+                "color": "#35302E",
+                "value": 5.1
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 35.3
+                    "value": 17.2
                 },
                 {
                     "color": "white",
-                    "value": 39.8
+                    "value": 67.2
                 },
                 {
                     "color": "black",
-                    "value": 24.8
+                    "value": 11
                 }
             ]
         }

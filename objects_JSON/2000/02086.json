@@ -5,12 +5,20 @@
     "objectNumber": "2012.1314",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -48,55 +56,71 @@
     "color": {
         "predominant": [
             {
-                "color": "#D76C16",
-                "value": 40.2
+                "color": "#BA6300",
+                "value": 36.4
             },
             {
-                "color": "#776568",
-                "value": 15.4
+                "color": "#2E2F33",
+                "value": 14.3
             },
             {
-                "color": "#392E2F",
-                "value": 12.3
+                "color": "#5C6066",
+                "value": 8.8
             },
             {
-                "color": "#649A73",
-                "value": 5.7
+                "color": "#45955F",
+                "value": 8.3
             },
             {
-                "color": "#47503A",
-                "value": 4.6
+                "color": "#344E33",
+                "value": 6.2
             },
             {
-                "color": "#556296",
-                "value": 4.3
+                "color": "#955C0E",
+                "value": 5.1
             },
             {
-                "color": "#83563C",
-                "value": 3.9
+                "color": "#6A6F73",
+                "value": 2.8
             },
             {
-                "color": "#638861",
-                "value": 3.4
+                "color": "#356498",
+                "value": 2
             },
             {
-                "color": "#3D2D2B",
-                "value": 1.4
+                "color": "#4A7648",
+                "value": 2
             },
             {
-                "color": "#453E2E",
+                "color": "#6F552A",
+                "value": 2
+            },
+            {
+                "color": "#355F80",
+                "value": 1.8
+            },
+            {
+                "color": "#625A57",
+                "value": 1.3
+            },
+            {
+                "color": "#2F3433",
                 "value": 1.2
             },
             {
-                "color": "#7E6239",
+                "color": "#3C3937",
                 "value": 1
             },
             {
-                "color": "#A05721",
+                "color": "#76573E",
                 "value": 0.9
             },
             {
-                "color": "#6374B0",
+                "color": "#394029",
+                "value": 0.9
+            },
+            {
+                "color": "#4A4227",
                 "value": 0.8
             }
         ],
@@ -108,23 +132,23 @@
                 },
                 {
                     "color": "gray",
-                    "value": 15.4
+                    "value": 12.9
                 },
                 {
                     "color": "green",
-                    "value": 9.1
+                    "value": 16.5
                 },
                 {
                     "color": "blue",
-                    "value": 5.2
+                    "value": 3.8
                 },
                 {
                     "color": "black",
-                    "value": 14.8
+                    "value": 16.5
                 },
                 {
                     "color": "brown",
-                    "value": 10.4
+                    "value": 46
                 }
             ]
         }

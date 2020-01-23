@@ -5,12 +5,20 @@
     "objectNumber": "2015.254",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,33 +58,53 @@
     ],
     "images": [
         {
-            "altText": "Monochrome photograph of a branch with three sticks standing on top of three rocks lying on the floor."
+            "altText": "Monochrome photograph of a man reaching up towards a treebranch with a piece of string in one hand. A group of people is standing around watching him."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#7E7E7E",
-                "value": 41.4
+                "color": "#CDCAC9",
+                "value": 41.9
             },
             {
-                "color": "#333333",
-                "value": 32.1
+                "color": "#847C78",
+                "value": 27.2
             },
             {
-                "color": "#C8C8C8",
-                "value": 26.5
+                "color": "#261D19",
+                "value": 7
+            },
+            {
+                "color": "#413936",
+                "value": 6.9
+            },
+            {
+                "color": "#DAD9DA",
+                "value": 6.5
+            },
+            {
+                "color": "#D6D6D5",
+                "value": 3.9
+            },
+            {
+                "color": "#D5D5D7",
+                "value": 1.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 67.9
+                    "value": 69.1
                 },
                 {
                     "color": "black",
-                    "value": 32.1
+                    "value": 14
+                },
+                {
+                    "color": "white",
+                    "value": 12.4
                 }
             ]
         }

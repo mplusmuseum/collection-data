@@ -5,12 +5,22 @@
     "objectNumber": "2012.249",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Ink Art",
+                "Painting"
+            ],
+            "zh-hant": [
+                "水墨",
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -18,7 +28,7 @@
         }
     },
     "title": {
-        "en": "Three Top Xing Shu in the History—No. 1 Lan Tingxu",
+        "en": "Three Top Xing Shu in the History—No. 1 Lanting Xu",
         "zh-hant": "天下三大行書：蘭亭序"
     },
     "displayDate": {
@@ -39,10 +49,18 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 146,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Ink painting on Xuan paper of semi-cursive Chinese script. Many of the characters appear to be masked with white paint."
         }
     ],
     "color": {

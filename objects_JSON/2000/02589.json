@@ -5,12 +5,20 @@
     "objectNumber": "2012.230",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,65 +58,61 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Acrylic painting on canvas depicting two curved highways rendered in green tones, against a red background. Two bright flashes of light are portrayed in the sky."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#BB6465",
-                "value": 23.9
+                "color": "#A4C69E",
+                "value": 29.8
             },
             {
-                "color": "#62A278",
-                "value": 20.7
+                "color": "#C06D74",
+                "value": 24.9
             },
             {
-                "color": "#3E9574",
-                "value": 13.9
+                "color": "#7DB791",
+                "value": 14.3
             },
             {
-                "color": "#9A3D3E",
-                "value": 9
-            },
-            {
-                "color": "#0A846A",
+                "color": "#56A189",
                 "value": 8.5
             },
             {
-                "color": "#95B290",
-                "value": 8
+                "color": "#9F484A",
+                "value": 6.2
             },
             {
-                "color": "#83AD81",
-                "value": 5.3
+                "color": "#D0B1B1",
+                "value": 4.9
             },
             {
-                "color": "#78A77B",
-                "value": 3.2
+                "color": "#8DBD8E",
+                "value": 3.7
             },
             {
-                "color": "#C4A8A3",
-                "value": 3
+                "color": "#6AAE90",
+                "value": 3.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 32.9
+                    "value": 31.1
                 },
                 {
                     "color": "green",
-                    "value": 37.1
+                    "value": 47.8
                 },
                 {
                     "color": "gray",
-                    "value": 3
+                    "value": 4.9
                 },
                 {
                     "color": "teal",
-                    "value": 22.4
+                    "value": 12
                 }
             ]
         }

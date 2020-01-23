@@ -5,12 +5,20 @@
     "objectNumber": "2015.128",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -48,31 +56,47 @@
     "color": {
         "predominant": [
             {
-                "color": "#191919",
-                "value": 77.1
+                "color": "#2B2525",
+                "value": 34.4
             },
             {
-                "color": "#757575",
-                "value": 14.8
+                "color": "#DEDCDA",
+                "value": 32.5
             },
             {
-                "color": "#CECECE",
-                "value": 8.1
+                "color": "#7C7674",
+                "value": 15.8
+            },
+            {
+                "color": "#E7E8E6",
+                "value": 5.4
+            },
+            {
+                "color": "#1B1514",
+                "value": 3.5
+            },
+            {
+                "color": "#ECEBEC",
+                "value": 2.8
+            },
+            {
+                "color": "#E4E5E5",
+                "value": 1.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 14.8
+                    "value": 15.8
                 },
                 {
                     "color": "white",
-                    "value": 8.1
+                    "value": 42.5
                 },
                 {
                     "color": "black",
-                    "value": 77.1
+                    "value": 37.9
                 }
             ]
         }

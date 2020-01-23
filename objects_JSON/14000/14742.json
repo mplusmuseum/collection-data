@@ -5,16 +5,28 @@
     "objectNumber": "CA30/5/2/3",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "[circa 1937]",
-        "zh-hant": "[circa 1937]"
+        "zh-hant": "[約1937年]"
     },
     "beginDate": 1935,
     "endDate": 1939,
     "dimension": {
         "en": "2 items",
-        "zh-hant": "2 items"
+        "zh-hant": "2 份/張/件"
     },
     "medium": {
         "en": "medium-format black-and-white negative",
@@ -37,9 +49,17 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+        "zh-hant": "M+，香港，王大閎家屬捐贈，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 813,
+            "role": {
+                "en": "Author",
+                "zh-hant": "作者"
+            }
+        }
+    ],
     "images": null,
     "color": {
         "predominant": null,

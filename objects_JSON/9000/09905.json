@@ -5,16 +5,28 @@
     "objectNumber": "CA28/1/10",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Archival Documentation",
-            "zh-hant": "檔存文件"
+            "en": [
+                "Archival Documentation"
+            ],
+            "zh-hant": [
+                "檔存文件"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "9 November 1968",
-        "zh-hant": "9 November 1968"
+        "zh-hant": "1968年11月9日"
     },
     "beginDate": 1968,
     "endDate": 1968,
     "dimension": {
         "en": "sheet: 15.4 x 19.9 cm",
-        "zh-hant": "sheet: 15.4 x 19.9 cm"
+        "zh-hant": "紙本: 15.4 x 19.9 厘米"
     },
     "medium": {
         "en": "typewriter ink on paper",
@@ -41,18 +53,48 @@
     },
     "constituents": [
         {
-            "id": 1162,
+            "id": 4862,
             "role": {
-                "en": "Designer",
-                "zh-hant": "設計師"
+                "en": "Author",
+                "zh-hant": "作者"
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CBC3B0",
+                "value": 61.8
+            },
+            {
+                "color": "#D2D5D8",
+                "value": 30.3
+            },
+            {
+                "color": "#8A8277",
+                "value": 2.6
+            },
+            {
+                "color": "#D1D3D6",
+                "value": 2.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 64.4
+                },
+                {
+                    "color": "white",
+                    "value": 32.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

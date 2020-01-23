@@ -5,12 +5,20 @@
     "objectNumber": "2016.777",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Object",
-            "zh-hant": "設計物件"
+            "en": [
+                "Design Object"
+            ],
+            "zh-hant": [
+                "設計物件"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -19,7 +27,7 @@
     },
     "title": {
         "en": "National SAGA television, model TC-96G",
-        "zh-hant": "樂聲牌 SAGA 電視機，TC-96G 型"
+        "zh-hant": "樂聲牌「嵯峨」電視機"
     },
     "displayDate": {
         "en": "designed 1965",
@@ -41,17 +49,17 @@
     },
     "constituents": [
         {
-            "id": 1697,
-            "role": {
-                "en": "Manufacturer",
-                "zh-hant": "製造商"
-            }
-        },
-        {
             "id": 3030,
             "role": {
                 "en": "Designer",
                 "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 1697,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
             }
         }
     ],

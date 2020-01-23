@@ -5,12 +5,20 @@
     "objectNumber": "2012.1352",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,15 +47,7 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [
-        {
-            "id": 574,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": null
@@ -56,28 +56,16 @@
     "color": {
         "predominant": [
             {
-                "color": "#151C1F",
-                "value": 44
+                "color": "#312D29",
+                "value": 67.3
             },
             {
-                "color": "#202626",
-                "value": 40.9
+                "color": "#473F33",
+                "value": 22.8
             },
             {
-                "color": "#182221",
-                "value": 3.8
-            },
-            {
-                "color": "#FEFEFA",
-                "value": 3.7
-            },
-            {
-                "color": "#212225",
-                "value": 1.8
-            },
-            {
-                "color": "#14171C",
-                "value": 1.6
+                "color": "#5F5444",
+                "value": 6.5
             }
         ],
         "search": {
@@ -88,7 +76,11 @@
                 },
                 {
                     "color": "black",
-                    "value": 92.1
+                    "value": 90.1
+                },
+                {
+                    "color": "gray",
+                    "value": 6.5
                 }
             ]
         }

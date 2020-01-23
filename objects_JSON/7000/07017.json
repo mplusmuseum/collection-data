@@ -5,12 +5,20 @@
     "objectNumber": "2016.819",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Model",
-            "zh-hant": "建築模型"
+            "en": [
+                "Architectural Model"
+            ],
+            "zh-hant": [
+                "建築模型"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,8 +30,8 @@
         "zh-hant": "中國成都時光閣（2007至2012年）草模"
     },
     "displayDate": {
-        "en": "2008-2010",
-        "zh-hant": "2008-2010"
+        "en": "2008–2010",
+        "zh-hant": "2008–2010"
     },
     "beginDate": 2008,
     "endDate": 2010,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1613,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

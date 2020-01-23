@@ -5,16 +5,28 @@
     "objectNumber": "CA10/2/16",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Photography",
-            "zh-hant": "建築照片"
+            "en": [
+                "Architectural Photography"
+            ],
+            "zh-hant": [
+                "建築照片"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "[1980s]",
-        "zh-hant": "[1980s]"
+        "zh-hant": "[1980年代]"
     },
     "beginDate": 1980,
     "endDate": 1989,
     "dimension": {
         "en": "sheet: 5 x 5 cm",
-        "zh-hant": "sheet: 5 x 5 cm"
+        "zh-hant": "紙本: 5 x 5 厘米"
     },
     "medium": {
         "en": "colour slide",
@@ -39,12 +51,66 @@
         "en": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2014",
         "zh-hant": "M+，香港，鍾華楠建築師有限公司捐贈，2014年"
     },
-    "constituents": [],
-    "images": null,
+    "constituents": [
+        {
+            "id": 27,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#54758E",
+                "value": 34.2
+            },
+            {
+                "color": "#A6BBC6",
+                "value": 21.4
+            },
+            {
+                "color": "#365374",
+                "value": 12.6
+            },
+            {
+                "color": "#7D9EB8",
+                "value": 11.5
+            },
+            {
+                "color": "#809399",
+                "value": 8.2
+            },
+            {
+                "color": "#BFC8C3",
+                "value": 4.3
+            },
+            {
+                "color": "#C4C5BA",
+                "value": 2.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 36.7
+                },
+                {
+                    "color": "blue",
+                    "value": 12.6
+                },
+                {
+                    "color": "teal",
+                    "value": 45.7
+                }
+            ]
         }
     },
     "dimensionDetails": {

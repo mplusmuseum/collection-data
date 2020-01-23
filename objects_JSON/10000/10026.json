@@ -5,16 +5,28 @@
     "objectNumber": "CA28/20/4",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "3 February 1991",
-        "zh-hant": "3 February 1991"
+        "zh-hant": "1991年2月3日"
     },
     "beginDate": 1991,
     "endDate": 1991,
     "dimension": {
         "en": "sheet: 26.1 x 36.9 cm\r\n2 pages",
-        "zh-hant": "sheet: 26.1 x 36.9 cm\r\n2 pages"
+        "zh-hant": "紙本: 26.1 x 36.9 厘米\r\n2 頁"
     },
     "medium": {
         "en": "ink and crayon on paper",
@@ -48,11 +60,53 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CCCDCA",
+                "value": 41.3
+            },
+            {
+                "color": "#CCC5C3",
+                "value": 19.8
+            },
+            {
+                "color": "#CCCDCC",
+                "value": 16.9
+            },
+            {
+                "color": "#CED0D1",
+                "value": 11.4
+            },
+            {
+                "color": "#CCCED3",
+                "value": 4.1
+            },
+            {
+                "color": "#C37777",
+                "value": 1.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 1.9
+                },
+                {
+                    "color": "gray",
+                    "value": 19.8
+                },
+                {
+                    "color": "white",
+                    "value": 73.7
+                }
+            ]
         }
     },
     "dimensionDetails": {

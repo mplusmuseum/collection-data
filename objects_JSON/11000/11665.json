@@ -5,16 +5,24 @@
     "objectNumber": "CA21",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
             "en": null,
             "zh-hant": null
         },
         "archivalLevel": {
-            "en": "Fonds",
-            "zh-hant": "全宗"
+            "en": [
+                "Fonds"
+            ],
+            "zh-hant": [
+                "全宗"
+            ]
         }
     },
     "title": {
@@ -23,13 +31,13 @@
     },
     "displayDate": {
         "en": "[circa 1989–circa 1991]",
-        "zh-hant": "[circa 1989–circa 1991]"
+        "zh-hant": "[約1989年至約1991年]"
     },
     "beginDate": 1987,
     "endDate": 1993,
     "dimension": {
         "en": "91 items",
-        "zh-hant": "91 items"
+        "zh-hant": "91 份/張/件"
     },
     "medium": {
         "en": null,
@@ -39,12 +47,50 @@
         "en": "M+, Hong Kong. Gift of Gaetano Pesce, 2014",
         "zh-hant": "M+，香港，Gaetano Pesce捐贈，2014年"
     },
-    "constituents": [],
-    "images": null,
+    "constituents": [
+        {
+            "id": 836,
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#1C1C1C",
+                "value": 41.6
+            },
+            {
+                "color": "#CBCBCB",
+                "value": 35.9
+            },
+            {
+                "color": "#808080",
+                "value": 21.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 21.5
+                },
+                {
+                    "color": "white",
+                    "value": 35.9
+                },
+                {
+                    "color": "black",
+                    "value": 41.6
+                }
+            ]
         }
     },
     "dimensionDetails": null

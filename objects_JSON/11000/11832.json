@@ -5,16 +5,24 @@
     "objectNumber": "CA3",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
             "en": null,
             "zh-hant": null
         },
         "archivalLevel": {
-            "en": "Fonds",
-            "zh-hant": "全宗"
+            "en": [
+                "Fonds"
+            ],
+            "zh-hant": [
+                "全宗"
+            ]
         }
     },
     "title": {
@@ -29,7 +37,7 @@
     "endDate": 1990,
     "dimension": {
         "en": "8 items",
-        "zh-hant": "8 items"
+        "zh-hant": "8 份/張/件"
     },
     "medium": {
         "en": null,
@@ -48,11 +56,89 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D1D2CC",
+                "value": 13.4
+            },
+            {
+                "color": "#171A18",
+                "value": 12.6
+            },
+            {
+                "color": "#DCDAD8",
+                "value": 11.4
+            },
+            {
+                "color": "#CDD2CD",
+                "value": 10.1
+            },
+            {
+                "color": "#DCDCE0",
+                "value": 9.1
+            },
+            {
+                "color": "#0D130D",
+                "value": 6.4
+            },
+            {
+                "color": "#22231F",
+                "value": 5
+            },
+            {
+                "color": "#121215",
+                "value": 4.8
+            },
+            {
+                "color": "#80827B",
+                "value": 4.1
+            },
+            {
+                "color": "#0C1110",
+                "value": 3.8
+            },
+            {
+                "color": "#7D827C",
+                "value": 3.5
+            },
+            {
+                "color": "#0D1113",
+                "value": 3.4
+            },
+            {
+                "color": "#E0DCDF",
+                "value": 3.3
+            },
+            {
+                "color": "#0E0E14",
+                "value": 2.6
+            },
+            {
+                "color": "#10120C",
+                "value": 2.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 7.5
+                },
+                {
+                    "color": "white",
+                    "value": 47.3
+                },
+                {
+                    "color": "black",
+                    "value": 41
+                }
+            ]
         }
     },
     "dimensionDetails": null

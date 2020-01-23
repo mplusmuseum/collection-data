@@ -5,12 +5,22 @@
     "objectNumber": "2014.100",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Work on Paper",
-            "zh-hant": "紙本作品"
+            "en": [
+                "Painting",
+                "Work on Paper"
+            ],
+            "zh-hant": [
+                "繪畫",
+                "紙本作品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +49,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 191,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Watercolour painting on paper depicting fantasy creatures with lotus flowers and leaves against a blue background. The creatures have multiple breasts, thin strands of hair, and feathered wings."

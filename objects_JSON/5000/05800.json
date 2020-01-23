@@ -5,12 +5,20 @@
     "objectNumber": "2016.78",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Furniture",
-            "zh-hant": "家具"
+            "en": [
+                "Furniture"
+            ],
+            "zh-hant": [
+                "家具"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1279,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Chair with a shiny blue surface. The seat consists of a big hollow roll and the back consists of three separate vertical shapes."
@@ -48,59 +64,55 @@
     "color": {
         "predominant": [
             {
-                "color": "#D3D3D1",
-                "value": 24
+                "color": "#D6D6D8",
+                "value": 41.1
             },
             {
-                "color": "#D5D4D2",
-                "value": 21.2
+                "color": "#DCDDDE",
+                "value": 22.7
             },
             {
-                "color": "#E6E7E9",
-                "value": 21
+                "color": "#DBDBDB",
+                "value": 7.1
             },
             {
-                "color": "#223045",
-                "value": 6.5
+                "color": "#D4D3D4",
+                "value": 5.9
             },
             {
-                "color": "#3A4D70",
-                "value": 5
+                "color": "#3D496B",
+                "value": 5.8
             },
             {
-                "color": "#C1C8CB",
-                "value": 4.9
+                "color": "#252B40",
+                "value": 4.5
             },
             {
-                "color": "#172835",
-                "value": 4.4
+                "color": "#DDDFDD",
+                "value": 4
             },
             {
-                "color": "#7F898C",
-                "value": 3.9
+                "color": "#777781",
+                "value": 3
             },
             {
-                "color": "#071D2D",
-                "value": 2.9
-            },
-            {
-                "color": "#CDCFCE",
-                "value": 2
+                "color": "#8D8D88",
+                "value": 1.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 8.8
+                    "value": 4.7
                 },
                 {
                     "color": "white",
-                    "value": 68.2
+                    "value": 80.8
                 },
                 {
                     "color": "blue",
-                    "value": 14.4
+                    "value": 10.2
                 },
                 {
                     "color": "black",

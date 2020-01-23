@@ -5,16 +5,24 @@
     "objectNumber": "CA25/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
             "en": null,
             "zh-hant": null
         },
         "archivalLevel": {
-            "en": "Series",
-            "zh-hant": "系列"
+            "en": [
+                "Series"
+            ],
+            "zh-hant": [
+                "系列"
+            ]
         }
     },
     "title": {
@@ -29,7 +37,7 @@
     "endDate": 2013,
     "dimension": {
         "en": "35 items",
-        "zh-hant": "35 items"
+        "zh-hant": "35 份/張/件"
     },
     "medium": {
         "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong. Gift of Wong Tung & Partners Limited, 2013",
         "zh-hant": "M+，香港，王董建築師事務捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 92,
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
+        }
+    ],
     "images": null,
     "color": {
         "predominant": null,

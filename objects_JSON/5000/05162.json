@@ -5,12 +5,22 @@
     "objectNumber": "2015.283",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Ink Art",
-            "zh-hant": "水墨"
+            "en": [
+                "Painting",
+                "Ink Art"
+            ],
+            "zh-hant": [
+                "繪畫",
+                "水墨"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,17 +32,17 @@
         "zh-hant": "無題"
     },
     "displayDate": {
-        "en": "1964–66",
-        "zh-hant": "1964–66"
+        "en": "1964–1966",
+        "zh-hant": "1964–1966"
     },
     "beginDate": 1964,
     "endDate": 1966,
     "dimension": {
-        "en": "frame: 211 × 177.5 × 4.5 cm\r\r\noverall: 209.5 × 175.5 × 4 cm",
+        "en": "sheet: 215 × 178.2 cm",
         "zh-hant": "連框: 211 × 177.5 × 4.5 厘米  整體: 209.5 × 175.5 × 4 厘米"
     },
     "medium": {
-        "en": "ink and acrylic on cotton canvas",
+        "en": "ink and acrylic on canvas",
         "zh-hant": "墨水塑膠彩棉布本"
     },
     "creditLine": {
@@ -56,10 +66,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "frame",
+        "element": "sheet",
         "unit": "cm",
-        "width": 177.5,
-        "height": 211,
-        "depth": 4.5
+        "width": 178.2,
+        "height": 215,
+        "depth": null
     }
 }

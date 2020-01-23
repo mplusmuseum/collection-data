@@ -5,12 +5,20 @@
     "objectNumber": "2016.525",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,39 +64,59 @@
     "color": {
         "predominant": [
             {
-                "color": "#BEBEBD",
-                "value": 64.8
+                "color": "#B7B9B7",
+                "value": 30.9
             },
             {
-                "color": "#87827A",
-                "value": 16.7
+                "color": "#CBCCCC",
+                "value": 15.3
             },
             {
-                "color": "#43423F",
-                "value": 8
+                "color": "#858176",
+                "value": 12.7
             },
             {
-                "color": "#84857D",
-                "value": 3.7
+                "color": "#B5B5B3",
+                "value": 12.3
             },
             {
-                "color": "#C8C9C2",
-                "value": 1.7
+                "color": "#CBC6BF",
+                "value": 6.9
             },
             {
-                "color": "#3F4445",
-                "value": 1.7
+                "color": "#46484A",
+                "value": 5.4
+            },
+            {
+                "color": "#3B3934",
+                "value": 5.1
+            },
+            {
+                "color": "#8A8A83",
+                "value": 4.7
+            },
+            {
+                "color": "#9FA09F",
+                "value": 2
+            },
+            {
+                "color": "#646667",
+                "value": 1.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 86.9
+                    "value": 71.1
                 },
                 {
                     "color": "black",
-                    "value": 9.7
+                    "value": 10.4
+                },
+                {
+                    "color": "white",
+                    "value": 15.3
                 }
             ]
         }

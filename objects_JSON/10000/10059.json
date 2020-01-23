@@ -5,16 +5,28 @@
     "objectNumber": "CA28/24/4",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Ephemera",
-            "zh-hant": "Ephemera"
+            "en": [
+                "Ephemera"
+            ],
+            "zh-hant": [
+                "暫時性的媒材"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1999,
     "dimension": {
         "en": "overall: 17 x 18.4\r\n34 pages",
-        "zh-hant": "overall: 17 x 18.4\r\n34 pages"
+        "zh-hant": "整體: 17 x 18.4\r\n34 頁"
     },
     "medium": {
         "en": "printing ink on paper",
@@ -40,6 +52,13 @@
         "zh-hant": "M+，香港"
     },
     "constituents": [
+        {
+            "id": 1168,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        },
         {
             "id": 1162,
             "role": {

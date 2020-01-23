@@ -5,16 +5,28 @@
     "objectNumber": "CA33/3",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Ephemera",
-            "zh-hant": "Ephemera"
+            "en": [
+                "Ephemera"
+            ],
+            "zh-hant": [
+                "暫時性的媒材"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -28,8 +40,8 @@
     "beginDate": 1960,
     "endDate": 1960,
     "dimension": {
-        "en": "overall: 36.5 × 25.7 cm, 2 pp",
-        "zh-hant": "overall: 36.5 × 25.7 cm, 2 pp"
+        "en": "overall: 36.5 × 25.7 cm, 2 pages",
+        "zh-hant": "整體: 36.5 × 25.7 厘米, 2 頁"
     },
     "medium": {
         "en": "photocopy on paper",
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 4046,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": [

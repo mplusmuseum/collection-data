@@ -5,12 +5,20 @@
     "objectNumber": "2015.199",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph. In gravel lot occupied by trucks and cranes, a man stands on a large boulder, which itself is balanced atop a tall pillar."
@@ -48,31 +64,47 @@
     "color": {
         "predominant": [
             {
-                "color": "#212121",
-                "value": 53.3
+                "color": "#DBD9D7",
+                "value": 51.5
             },
             {
-                "color": "#D9D9D9",
-                "value": 35.3
+                "color": "#383538",
+                "value": 13.3
             },
             {
-                "color": "#747474",
-                "value": 11.4
+                "color": "#272323",
+                "value": 10.1
+            },
+            {
+                "color": "#857F7F",
+                "value": 9.8
+            },
+            {
+                "color": "#DCDCD9",
+                "value": 5.5
+            },
+            {
+                "color": "#767275",
+                "value": 3.7
+            },
+            {
+                "color": "#77767B",
+                "value": 2.3
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 11.4
+                    "value": 15.9
                 },
                 {
                     "color": "white",
-                    "value": 35.3
+                    "value": 57
                 },
                 {
                     "color": "black",
-                    "value": 53.3
+                    "value": 23.4
                 }
             ]
         }

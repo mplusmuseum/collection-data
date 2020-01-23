@@ -5,12 +5,20 @@
     "objectNumber": "2012.985",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Sculpture",
-            "zh-hant": "雕塑"
+            "en": [
+                "Sculpture"
+            ],
+            "zh-hant": [
+                "雕塑"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,40 +64,40 @@
     "color": {
         "predominant": [
             {
-                "color": "#80768D",
-                "value": 28.9
+                "color": "#C0BAAA",
+                "value": 30.4
             },
             {
-                "color": "#170D0C",
-                "value": 21.1
+                "color": "#1C1C1E",
+                "value": 24.7
             },
             {
-                "color": "#AA9FB9",
-                "value": 17.1
+                "color": "#BBBAAA",
+                "value": 10.8
             },
             {
-                "color": "#222039",
-                "value": 11.8
+                "color": "#2A2E2F",
+                "value": 9.3
             },
             {
-                "color": "#20141D",
-                "value": 4.9
+                "color": "#292827",
+                "value": 6
             },
             {
-                "color": "#474B6F",
-                "value": 4.2
+                "color": "#8C8D80",
+                "value": 5.8
             },
             {
-                "color": "#221827",
-                "value": 3.5
+                "color": "#8A8478",
+                "value": 3.3
             },
             {
-                "color": "#715E71",
-                "value": 3.2
+                "color": "#727A73",
+                "value": 2.7
             },
             {
-                "color": "#38313D",
-                "value": 1.9
+                "color": "#26343D",
+                "value": 2.5
             }
         ],
         "search": {
@@ -100,11 +108,15 @@
                 },
                 {
                     "color": "black",
-                    "value": 27.9
+                    "value": 42.6
                 },
                 {
                     "color": "purple",
                     "value": 52.7
+                },
+                {
+                    "color": "gray",
+                    "value": 53.1
                 }
             ]
         }

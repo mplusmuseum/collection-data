@@ -5,12 +5,20 @@
     "objectNumber": "2018.27",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Poster",
-            "zh-hant": "海報"
+            "en": [
+                "Poster"
+            ],
+            "zh-hant": [
+                "海報"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,8 +30,8 @@
         "zh-hant": "荷蘭皇家航空海報──「紐約、遠東」"
     },
     "displayDate": {
-        "en": "1948",
-        "zh-hant": "約1950年"
+        "en": "circa 1950",
+        "zh-hant": "約 1950年"
     },
     "beginDate": 1945,
     "endDate": 1955,
@@ -46,6 +54,13 @@
                 "en": "Designer",
                 "zh-hant": "設計師"
             }
+        },
+        {
+            "id": 4049,
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
+            }
         }
     ],
     "images": [
@@ -56,75 +71,47 @@
     "color": {
         "predominant": [
             {
-                "color": "#2751B1",
-                "value": 24.5
+                "color": "#2B5598",
+                "value": 38.4
             },
             {
-                "color": "#2049A3",
-                "value": 23
+                "color": "#24569C",
+                "value": 32.6
             },
             {
-                "color": "#335096",
-                "value": 12.2
+                "color": "#E9C745",
+                "value": 11.6
             },
             {
-                "color": "#EED51F",
-                "value": 10.3
+                "color": "#8C9336",
+                "value": 3.1
             },
             {
-                "color": "#3055B2",
-                "value": 9
+                "color": "#934A40",
+                "value": 3.1
             },
             {
-                "color": "#EBEACB",
-                "value": 2.4
+                "color": "#E3D457",
+                "value": 2.7
             },
             {
-                "color": "#7B9343",
-                "value": 2.2
-            },
-            {
-                "color": "#DDA51C",
-                "value": 1.7
-            },
-            {
-                "color": "#3B515F",
+                "color": "#334F51",
                 "value": 1.5
             },
             {
-                "color": "#EFE5C9",
+                "color": "#38363B",
                 "value": 1.4
             },
             {
-                "color": "#E7DC58",
-                "value": 1.2
-            },
-            {
-                "color": "#CA5A2A",
+                "color": "#344F4D",
                 "value": 0.9
-            },
-            {
-                "color": "#C1583B",
-                "value": 0.9
-            },
-            {
-                "color": "#D1D95B",
-                "value": 0.8
-            },
-            {
-                "color": "#5E7160",
-                "value": 0.6
-            },
-            {
-                "color": "#99553B",
-                "value": 0.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 2.3
+                    "value": 3.1
                 },
                 {
                     "color": "orange",
@@ -140,11 +127,15 @@
                 },
                 {
                     "color": "blue",
-                    "value": 68.7
+                    "value": 71
                 },
                 {
                     "color": "yellow",
-                    "value": 16
+                    "value": 17.5
+                },
+                {
+                    "color": "black",
+                    "value": 3.8
                 }
             ]
         }

@@ -5,16 +5,28 @@
     "objectNumber": "CA35/3/6",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Photography",
-            "zh-hant": "建築照片"
+            "en": [
+                "Architectural Photography"
+            ],
+            "zh-hant": [
+                "建築照片"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1970,
     "dimension": {
         "en": "2 items",
-        "zh-hant": "2 items"
+        "zh-hant": "2 份/張/件"
     },
     "medium": {
         "en": "chromogenic colour print, gelatin silver print",
@@ -55,11 +67,53 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C8C6C2",
+                "value": 44.2
+            },
+            {
+                "color": "#91908D",
+                "value": 23.4
+            },
+            {
+                "color": "#302F2E",
+                "value": 8.4
+            },
+            {
+                "color": "#92928F",
+                "value": 6.1
+            },
+            {
+                "color": "#363537",
+                "value": 5.8
+            },
+            {
+                "color": "#C5C5C1",
+                "value": 5.3
+            },
+            {
+                "color": "#737376",
+                "value": 2.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 81.1
+                },
+                {
+                    "color": "black",
+                    "value": 14.2
+                }
+            ]
         }
     },
     "dimensionDetails": null

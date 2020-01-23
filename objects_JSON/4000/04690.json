@@ -5,12 +5,20 @@
     "objectNumber": "2015.225",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of multiple long, narrow, wooden poles silhouetted against a grey sky. Each pole has a white string tied to the tip, which is tightly held down by something on the ground."
@@ -48,31 +64,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#CFCFCF",
-                "value": 58.2
+                "color": "#CECCCA",
+                "value": 71.1
             },
             {
-                "color": "#252525",
-                "value": 22
+                "color": "#857E7A",
+                "value": 7.4
             },
             {
-                "color": "#8C8C8C",
-                "value": 19.8
+                "color": "#322C2B",
+                "value": 7.2
+            },
+            {
+                "color": "#160F0F",
+                "value": 7.1
+            },
+            {
+                "color": "#D6D6D4",
+                "value": 3.1
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 19.8
+                    "value": 7.4
                 },
                 {
                     "color": "white",
-                    "value": 58.2
+                    "value": 74.1
                 },
                 {
                     "color": "black",
-                    "value": 22
+                    "value": 14.3
                 }
             ]
         }

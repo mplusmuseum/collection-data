@@ -5,12 +5,22 @@
     "objectNumber": "2017.173",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Furniture",
+                "Product Design"
+            ],
+            "zh-hant": [
+                "家具",
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +49,15 @@
         "en": "M+, Hong Kong. Gift of Yu Wang and Xiao Lu, 2017",
         "zh-hant": "M+，香港，王愚和陸驍捐贈，2017年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1333,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

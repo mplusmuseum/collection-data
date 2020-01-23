@@ -5,12 +5,20 @@
     "objectNumber": "2016.320",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -18,12 +26,12 @@
         }
     },
     "title": {
-        "en": "Prototype, Medusa",
-        "zh-hant": "美杜莎原型"
+        "en": "Medusa, prototype",
+        "zh-hant": "美杜莎（原型）"
     },
     "displayDate": {
-        "en": "2012",
-        "zh-hant": "2012"
+        "en": "1982",
+        "zh-hant": "1982"
     },
     "beginDate": 1982,
     "endDate": 1982,
@@ -46,6 +54,13 @@
                 "en": "Designer",
                 "zh-hant": "設計師"
             }
+        },
+        {
+            "id": 1291,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [
@@ -56,19 +71,19 @@
     "color": {
         "predominant": [
             {
-                "color": "#DDDEE3",
-                "value": 86.7
+                "color": "#DEDFE3",
+                "value": 73.4
             },
             {
-                "color": "#CDDADD",
-                "value": 8.7
+                "color": "#D8DEE1",
+                "value": 22.1
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "white",
-                    "value": 95.4
+                    "value": 95.5
                 }
             ]
         }

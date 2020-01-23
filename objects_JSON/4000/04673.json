@@ -5,12 +5,20 @@
     "objectNumber": "2015.208",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a canvas on the wall. A piece of nylon has been placed over the canvas and drawn together into a bun on the front. From the bun hangs a string with a small round package on the end."
@@ -48,31 +64,47 @@
     "color": {
         "predominant": [
             {
-                "color": "#282828",
-                "value": 52.8
+                "color": "#D7D7D8",
+                "value": 29.3
             },
             {
-                "color": "#818181",
-                "value": 36.7
+                "color": "#D6D5D6",
+                "value": 24.7
             },
             {
-                "color": "#D5D5D5",
-                "value": 10.5
+                "color": "#CCCACA",
+                "value": 19.2
+            },
+            {
+                "color": "#858080",
+                "value": 11.1
+            },
+            {
+                "color": "#383334",
+                "value": 5
+            },
+            {
+                "color": "#D6D7D8",
+                "value": 4.7
+            },
+            {
+                "color": "#150F0F",
+                "value": 2.2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 36.7
+                    "value": 30.4
                 },
                 {
                     "color": "white",
-                    "value": 10.5
+                    "value": 58.7
                 },
                 {
                     "color": "black",
-                    "value": 52.8
+                    "value": 7.2
                 }
             ]
         }

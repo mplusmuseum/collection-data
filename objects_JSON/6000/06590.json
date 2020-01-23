@@ -5,12 +5,20 @@
     "objectNumber": "2016.828",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,33 +58,53 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Chromogenic print under Plexiglas depicting a red sky viewed from below. A black silhouetted urban landscape, featuring skyscrapers and lampposts, rises up all around the viewer to frame the sky."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#000000",
-                "value": 69
+                "color": "#070706",
+                "value": 31.1
             },
             {
-                "color": "#1C0103",
-                "value": 15.7
+                "color": "#070708",
+                "value": 27.1
             },
             {
-                "color": "#8A0410",
-                "value": 11.7
+                "color": "#060707",
+                "value": 11.2
+            },
+            {
+                "color": "#7B0000",
+                "value": 11.1
+            },
+            {
+                "color": "#380306",
+                "value": 5.8
+            },
+            {
+                "color": "#0F0809",
+                "value": 4.3
+            },
+            {
+                "color": "#050507",
+                "value": 2.4
+            },
+            {
+                "color": "#050607",
+                "value": 2.2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 11.7
+                    "value": 16.9
                 },
                 {
                     "color": "black",
-                    "value": 84.8
+                    "value": 78.4
                 }
             ]
         }

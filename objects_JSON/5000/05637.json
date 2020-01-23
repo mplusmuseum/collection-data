@@ -5,12 +5,20 @@
     "objectNumber": "2016.517",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Installation",
-            "zh-hant": "裝置藝術"
+            "en": [
+                "Installation"
+            ],
+            "zh-hant": [
+                "裝置藝術"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -28,7 +36,7 @@
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
-        "en": "overall: 25 × 36 × 41 cm",
+        "en": "overall: 25.7 × 43.5 × 35 cm",
         "zh-hant": "25 × 36 × 41 厘米"
     },
     "medium": {
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1188,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -88,8 +104,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 36,
-        "height": 25,
-        "depth": 41
+        "width": 43.5,
+        "height": 25.7,
+        "depth": 35
     }
 }

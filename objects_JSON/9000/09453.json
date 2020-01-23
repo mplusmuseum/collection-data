@@ -5,12 +5,20 @@
     "objectNumber": "2018.305",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2902,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,83 +64,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#2B1815",
-                "value": 22
+                "color": "#E9E2D3",
+                "value": 48.3
             },
             {
-                "color": "#151317",
-                "value": 16.6
+                "color": "#2C1B14",
+                "value": 20.3
             },
             {
-                "color": "#CB9177",
-                "value": 13.1
+                "color": "#1A1716",
+                "value": 8.3
             },
             {
-                "color": "#F2E8E3",
-                "value": 8.8
+                "color": "#82442A",
+                "value": 6.5
             },
             {
-                "color": "#894E38",
-                "value": 8.8
+                "color": "#1B191C",
+                "value": 5.3
             },
             {
-                "color": "#202736",
-                "value": 5.9
+                "color": "#BB744C",
+                "value": 3.3
             },
             {
-                "color": "#78403A",
-                "value": 4.7
-            },
-            {
-                "color": "#1A1616",
-                "value": 3.1
-            },
-            {
-                "color": "#320E08",
-                "value": 2.8
-            },
-            {
-                "color": "#732E17",
-                "value": 1.6
-            },
-            {
-                "color": "#140D12",
-                "value": 1.4
-            },
-            {
-                "color": "#242E36",
-                "value": 1.2
-            },
-            {
-                "color": "#FBF9FA",
-                "value": 1.2
-            },
-            {
-                "color": "#0C1F44",
-                "value": 0.9
-            },
-            {
-                "color": "#FBFBF7",
-                "value": 0.9
-            },
-            {
-                "color": "#0E0A0F",
-                "value": 0.9
-            },
-            {
-                "color": "#847671",
-                "value": 0.9
-            },
-            {
-                "color": "#C3877F",
-                "value": 0.7
+                "color": "#743019",
+                "value": 3.3
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 18.7
+                    "value": 3.3
                 },
                 {
                     "color": "orange",
@@ -136,7 +108,7 @@
                 },
                 {
                     "color": "white",
-                    "value": 10.9
+                    "value": 48.3
                 },
                 {
                     "color": "blue",
@@ -144,7 +116,11 @@
                 },
                 {
                     "color": "black",
-                    "value": 51
+                    "value": 34
+                },
+                {
+                    "color": "brown",
+                    "value": 9.8
                 }
             ]
         }

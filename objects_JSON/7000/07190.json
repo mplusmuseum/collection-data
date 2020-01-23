@@ -5,12 +5,22 @@
     "objectNumber": "2017.260",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Work on Paper",
-            "zh-hant": "紙本作品"
+            "en": [
+                "Ink Art",
+                "Work on Paper"
+            ],
+            "zh-hant": [
+                "水墨",
+                "紙本作品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,39 +66,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#DFDFDF",
-                "value": 78.2
+                "color": "#CACDCE",
+                "value": 62.3
             },
             {
-                "color": "#898988",
-                "value": 6.9
+                "color": "#C8CCCB",
+                "value": 15
             },
             {
-                "color": "#DCDCDF",
-                "value": 4.7
+                "color": "#D1CECC",
+                "value": 11.2
             },
             {
-                "color": "#E0E0DE",
-                "value": 4.4
+                "color": "#D9D9DB",
+                "value": 4.3
             },
             {
-                "color": "#403E3D",
-                "value": 3.3
+                "color": "#3B3836",
+                "value": 2.1
+            },
+            {
+                "color": "#8B8683",
+                "value": 1.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 6.9
+                    "value": 1.7
                 },
                 {
                     "color": "white",
-                    "value": 87.3
+                    "value": 92.8
                 },
                 {
                     "color": "black",
-                    "value": 3.3
+                    "value": 2.1
                 }
             ]
         }

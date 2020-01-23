@@ -5,16 +5,28 @@
     "objectNumber": "CA29/2/3/13",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Archival Documentation",
-            "zh-hant": "檔存文件"
+            "en": [
+                "Archival Documentation"
+            ],
+            "zh-hant": [
+                "檔存文件"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1975,
     "dimension": {
         "en": "sheet: 60.8 x 72 cm\r\n2 pages",
-        "zh-hant": "sheet: 60.8 x 72 cm\r\n2 pages"
+        "zh-hant": "紙本: 60.8 x 72 厘米\r\n2 頁"
     },
     "medium": {
         "en": "printing ink on paper",
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong. Gift of Architects Team 3, 2015",
         "zh-hant": "M+，香港，建築三人小組捐贈，2015年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 4043,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,27 +68,35 @@
     "color": {
         "predominant": [
             {
-                "color": "#F2E6D5",
-                "value": 85.7
+                "color": "#E3E0DB",
+                "value": 45
             },
             {
-                "color": "#D65A5D",
-                "value": 6.7
+                "color": "#E4E3DD",
+                "value": 42
             },
             {
-                "color": "#8A4345",
-                "value": 2.3
+                "color": "#C70E32",
+                "value": 4
             },
             {
-                "color": "#83796E",
+                "color": "#880F27",
                 "value": 2.1
+            },
+            {
+                "color": "#2A2626",
+                "value": 1.6
+            },
+            {
+                "color": "#C87B7D",
+                "value": 1.4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 8.9
+                    "value": 7.5
                 },
                 {
                     "color": "gray",
@@ -76,7 +104,11 @@
                 },
                 {
                     "color": "white",
-                    "value": 85.7
+                    "value": 87
+                },
+                {
+                    "color": "black",
+                    "value": 1.6
                 }
             ]
         }

@@ -5,16 +5,28 @@
     "objectNumber": "CA35/1/5",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Book/Periodical",
-            "zh-hant": "書藉/期刊"
+            "en": [
+                "Book/Periodical"
+            ],
+            "zh-hant": [
+                "書藉/期刊"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "November 1963",
-        "zh-hant": "November 1963"
+        "zh-hant": "1963年11月"
     },
     "beginDate": 1963,
     "endDate": 1963,
     "dimension": {
-        "en": "10 pp",
-        "zh-hant": "10 pp"
+        "en": "10 pages",
+        "zh-hant": "10 頁"
     },
     "medium": {
         "en": "printing ink on paper",
@@ -46,13 +58,41 @@
                 "en": "Architect",
                 "zh-hant": "建築師"
             }
+        },
+        {
+            "id": 1412,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 1413,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E7DFCD",
+                "value": 98.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 98.4
+                }
+            ]
         }
     },
     "dimensionDetails": null

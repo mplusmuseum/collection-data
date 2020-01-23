@@ -5,12 +5,22 @@
     "objectNumber": "2015.606",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Ink Art",
+                "Painting"
+            ],
+            "zh-hant": [
+                "水墨",
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,16 +66,12 @@
     "color": {
         "predominant": [
             {
-                "color": "#E1C8B3",
-                "value": 64.6
+                "color": "#D6C6BB",
+                "value": 74.3
             },
             {
-                "color": "#D7908A",
-                "value": 24.1
-            },
-            {
-                "color": "#DCB19E",
-                "value": 10.4
+                "color": "#C58D88",
+                "value": 21.5
             }
         ],
         "search": {
@@ -76,7 +82,11 @@
                 },
                 {
                     "color": "red",
-                    "value": 24.1
+                    "value": 21.5
+                },
+                {
+                    "color": "gray",
+                    "value": 74.3
                 }
             ]
         }

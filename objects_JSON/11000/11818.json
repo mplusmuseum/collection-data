@@ -5,16 +5,28 @@
     "objectNumber": "CA17/1/6",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Video",
-            "zh-hant": "錄像"
+            "en": [
+                "Video"
+            ],
+            "zh-hant": [
+                "錄像"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "15 November 1989–22 October 1991",
-        "zh-hant": "15 November 1989–22 October 1991"
+        "zh-hant": "1989年11月15日至1991年10月22日"
     },
     "beginDate": 1989,
     "endDate": 1991,
     "dimension": {
-        "en": "duration: 1 hrs. 29 minutes",
-        "zh-hant": "duration: 1 hrs. 29 minutes"
+        "en": "duration: 1 hrs. 29 min.",
+        "zh-hant": "影片長度: 1 小時 29 分"
     },
     "medium": {
         "en": "VHS",
@@ -39,7 +51,22 @@
         "en": "M+, Hong Kong. Gift of Suenn Ho, 2015",
         "zh-hant": "M+，香港，何巽捐贈，2015年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1134,
+            "role": {
+                "en": "Filmmaker",
+                "zh-hant": "導演"
+            }
+        },
+        {
+            "id": 4087,
+            "role": {
+                "en": "Filmmaker",
+                "zh-hant": "導演"
+            }
+        }
+    ],
     "images": null,
     "color": {
         "predominant": null,

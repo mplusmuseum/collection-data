@@ -5,16 +5,24 @@
     "objectNumber": "CA25",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
             "en": null,
             "zh-hant": null
         },
         "archivalLevel": {
-            "en": "Fonds",
-            "zh-hant": "全宗"
+            "en": [
+                "Fonds"
+            ],
+            "zh-hant": [
+                "全宗"
+            ]
         }
     },
     "title": {
@@ -29,7 +37,7 @@
     "endDate": 2013,
     "dimension": {
         "en": "133 items",
-        "zh-hant": "133 items"
+        "zh-hant": "133 份/張/件"
     },
     "medium": {
         "en": null,
@@ -39,12 +47,98 @@
         "en": "M+, Hong Kong. Gift of Wong Tung & Partners Limited, 2013",
         "zh-hant": "M+，香港，王董建築師事務捐贈，2013年"
     },
-    "constituents": [],
-    "images": null,
+    "constituents": [
+        {
+            "id": 92,
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#F5F6FF",
+                "value": 23.4
+            },
+            {
+                "color": "#E3D6CC",
+                "value": 16.6
+            },
+            {
+                "color": "#371921",
+                "value": 16
+            },
+            {
+                "color": "#301725",
+                "value": 6.6
+            },
+            {
+                "color": "#6F4143",
+                "value": 6.4
+            },
+            {
+                "color": "#B6BEA4",
+                "value": 5.7
+            },
+            {
+                "color": "#92987A",
+                "value": 4.4
+            },
+            {
+                "color": "#8D6557",
+                "value": 3.6
+            },
+            {
+                "color": "#C6CEC4",
+                "value": 3.4
+            },
+            {
+                "color": "#C4967B",
+                "value": 3.2
+            },
+            {
+                "color": "#6D714E",
+                "value": 3
+            },
+            {
+                "color": "#3A371F",
+                "value": 2.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 26
+                },
+                {
+                    "color": "orange",
+                    "value": 3.2
+                },
+                {
+                    "color": "green",
+                    "value": 10.1
+                },
+                {
+                    "color": "white",
+                    "value": 43.4
+                },
+                {
+                    "color": "purple",
+                    "value": 6.6
+                },
+                {
+                    "color": "brown",
+                    "value": 5.7
+                }
+            ]
         }
     },
     "dimensionDetails": null

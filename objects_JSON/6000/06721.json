@@ -5,12 +5,22 @@
     "objectNumber": "2016.785",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Sculpture",
+                "Photography"
+            ],
+            "zh-hant": [
+                "雕塑",
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -28,7 +38,7 @@
     "beginDate": 1991,
     "endDate": 1991,
     "dimension": {
-        "en": "each (Tray 1, 2, 3 photograph): 91.3 × 91.3 cm \r\r\neach (Tray 4 photographs): 15.2 × 15.2 cm \r\r\neach (Metal tray): 10.1 × 102 × 102 cm",
+        "en": "each (tray 1, 2, 3 photograph): 91.3 × 91.3 cm \r\r\neach (tray 4 photographs): 15.2 × 15.2 cm \r\r\neach (metal tray): 10.1 × 102 × 102 cm",
         "zh-hant": "各（盤一二三照片）：91.3 × 91.3厘米 \r\n各（盤四照片）：15.2 × 15.2厘米 \r\n各（金屬盆）：10.1 × 102 × 102厘米"
     },
     "medium": {
@@ -39,7 +49,15 @@
         "en": "M+, Hong Kong. Gift of the Artist in honour of Dr. Lars Nittve, 2016",
         "zh-hant": "M+，香港，藝術家向李立偉博士致意的捐贈，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1511,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

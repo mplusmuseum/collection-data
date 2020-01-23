@@ -5,12 +5,20 @@
     "objectNumber": "2012.196",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,77 +58,73 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on canvas depicting a porcelain doll-like figure with long, blonde hair lying on a green sofa in the bottom half. Her left leg is raised and placed on the top of the sofa back."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#849BA0",
-                "value": 44.5
+                "color": "#B8B9B0",
+                "value": 44.6
             },
             {
-                "color": "#57807B",
-                "value": 13.8
+                "color": "#81917F",
+                "value": 21.4
             },
             {
-                "color": "#02291C",
-                "value": 10.9
+                "color": "#234530",
+                "value": 6.1
             },
             {
-                "color": "#97ABB4",
-                "value": 9.7
+                "color": "#3D3627",
+                "value": 6
             },
             {
-                "color": "#4D786F",
-                "value": 4.4
+                "color": "#74694B",
+                "value": 4.5
             },
             {
-                "color": "#25261F",
-                "value": 4.2
+                "color": "#C2BCB4",
+                "value": 4.3
             },
             {
-                "color": "#1B1F1B",
-                "value": 1.9
+                "color": "#1F4836",
+                "value": 3.7
             },
             {
-                "color": "#2E3222",
-                "value": 1.6
+                "color": "#AFB6AC",
+                "value": 2.6
             },
             {
-                "color": "#302E21",
-                "value": 1.3
+                "color": "#989D8C",
+                "value": 1.4
             },
             {
-                "color": "#10241F",
-                "value": 1.2
-            },
-            {
-                "color": "#646954",
+                "color": "#365F46",
                 "value": 1
-            },
-            {
-                "color": "#A9ABB8",
-                "value": 0.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 54.9
+                    "value": 52.8
                 },
                 {
                     "color": "black",
-                    "value": 10.3
+                    "value": 6
                 },
                 {
                     "color": "teal",
-                    "value": 29
+                    "value": 3.7
                 },
                 {
                     "color": "brown",
-                    "value": 1
+                    "value": 4.5
+                },
+                {
+                    "color": "green",
+                    "value": 28.5
                 }
             ]
         }

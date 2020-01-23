@@ -5,12 +5,24 @@
     "objectNumber": "2017.107",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Drawing",
-            "zh-hant": "繪圖"
+            "en": [
+                "Performance",
+                "Photography",
+                "Drawing"
+            ],
+            "zh-hant": [
+                "行為",
+                "攝影",
+                "繪圖"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1659,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Photograph taken from a distance of a person walking the Great Wall of China. A sketch below the photograph depicts a figure on a path, flanked by the words 'spirit' and 'exit' written multiple times on either side."
@@ -48,119 +68,111 @@
     "color": {
         "predominant": [
             {
-                "color": "#F2F0F5",
-                "value": 24.9
+                "color": "#DDD9CF",
+                "value": 35.1
             },
             {
-                "color": "#DBD8D6",
-                "value": 13.6
+                "color": "#8C7451",
+                "value": 12.4
             },
             {
-                "color": "#1F3324",
-                "value": 9.3
+                "color": "#7D5C44",
+                "value": 10.9
             },
             {
-                "color": "#897251",
-                "value": 7.8
+                "color": "#2C433F",
+                "value": 10.6
             },
             {
-                "color": "#322D2B",
-                "value": 7.6
+                "color": "#536556",
+                "value": 4.6
             },
             {
-                "color": "#766C69",
-                "value": 4.5
+                "color": "#354039",
+                "value": 4.1
             },
             {
-                "color": "#89674C",
-                "value": 4.3
+                "color": "#415D53",
+                "value": 2.2
             },
             {
-                "color": "#EAE6EA",
-                "value": 3.7
+                "color": "#B09673",
+                "value": 1.9
             },
             {
-                "color": "#BA9A74",
-                "value": 3.3
+                "color": "#3A3931",
+                "value": 1.8
             },
             {
-                "color": "#203D30",
-                "value": 2.5
+                "color": "#4A4331",
+                "value": 1.7
             },
             {
-                "color": "#BB9472",
-                "value": 2.1
-            },
-            {
-                "color": "#3B3321",
-                "value": 1.6
-            },
-            {
-                "color": "#283029",
-                "value": 1.6
-            },
-            {
-                "color": "#3E6457",
+                "color": "#1F3032",
                 "value": 1.5
             },
             {
-                "color": "#382923",
+                "color": "#706C43",
+                "value": 1.5
+            },
+            {
+                "color": "#5E6945",
                 "value": 1.2
             },
             {
-                "color": "#DDDDD9",
+                "color": "#6A6E44",
                 "value": 1.1
             },
             {
-                "color": "#41624D",
+                "color": "#476251",
                 "value": 1.1
             },
             {
-                "color": "#2F3420",
+                "color": "#DDDBD3",
+                "value": 1.1
+            },
+            {
+                "color": "#454B33",
                 "value": 1
             },
             {
-                "color": "#617262",
-                "value": 0.9
+                "color": "#4B392F",
+                "value": 1
             },
             {
-                "color": "#DADDDB",
-                "value": 0.9
-            },
-            {
-                "color": "#787A67",
-                "value": 0.9
+                "color": "#6D715D",
+                "value": 1
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "orange",
-                    "value": 5.4
+                    "value": 1.9
                 },
                 {
                     "color": "green",
-                    "value": 10.4
+                    "value": 1.1
                 },
                 {
                     "color": "gray",
-                    "value": 6.3
+                    "value": 5.5
                 },
                 {
                     "color": "white",
-                    "value": 44.3
+                    "value": 36.1
                 },
                 {
                     "color": "black",
-                    "value": 10.4
+                    "value": 19.1
                 },
                 {
                     "color": "teal",
-                    "value": 4
+                    "value": 2.2
                 },
                 {
                     "color": "brown",
-                    "value": 14.7
+                    "value": 29.8
                 }
             ]
         }

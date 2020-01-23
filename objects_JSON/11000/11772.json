@@ -5,16 +5,24 @@
     "objectNumber": "CA21/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
             "en": null,
             "zh-hant": null
         },
         "archivalLevel": {
-            "en": "Series",
-            "zh-hant": "系列"
+            "en": [
+                "Series"
+            ],
+            "zh-hant": [
+                "系列"
+            ]
         }
     },
     "title": {
@@ -23,13 +31,13 @@
     },
     "displayDate": {
         "en": "[circa 1989]",
-        "zh-hant": "[circa 1989]"
+        "zh-hant": "[約1989年]"
     },
     "beginDate": 1987,
     "endDate": 1991,
     "dimension": {
         "en": "30 items",
-        "zh-hant": "30 items"
+        "zh-hant": "30 份/張/件"
     },
     "medium": {
         "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong. Gift of Gaetano Pesce, 2014",
         "zh-hant": "M+，香港，Gaetano Pesce捐贈，2014年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 836,
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
+        }
+    ],
     "images": null,
     "color": {
         "predominant": null,

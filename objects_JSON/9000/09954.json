@@ -5,16 +5,28 @@
     "objectNumber": "CA28/9/5",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Ephemera",
-            "zh-hant": "Ephemera"
+            "en": [
+                "Ephemera"
+            ],
+            "zh-hant": [
+                "暫時性的媒材"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1982,
     "dimension": {
         "en": "overall: 14.9 x 21 cm\r\n10 pages",
-        "zh-hant": "overall: 14.9 x 21 cm\r\n10 pages"
+        "zh-hant": "整體: 14.9 x 21 厘米\r\n10 頁"
     },
     "medium": {
         "en": "printing ink on paper",
@@ -48,11 +60,93 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#1D9778",
+                "value": 21.1
+            },
+            {
+                "color": "#958885",
+                "value": 14.3
+            },
+            {
+                "color": "#359678",
+                "value": 13.2
+            },
+            {
+                "color": "#B4B1AC",
+                "value": 9.1
+            },
+            {
+                "color": "#2C3774",
+                "value": 7.1
+            },
+            {
+                "color": "#B1B1AA",
+                "value": 5.9
+            },
+            {
+                "color": "#A4A59E",
+                "value": 5.4
+            },
+            {
+                "color": "#ABB4AE",
+                "value": 5
+            },
+            {
+                "color": "#C1C2C5",
+                "value": 4.7
+            },
+            {
+                "color": "#8D504F",
+                "value": 3.2
+            },
+            {
+                "color": "#98A29B",
+                "value": 2.2
+            },
+            {
+                "color": "#B3894D",
+                "value": 1.9
+            },
+            {
+                "color": "#B19321",
+                "value": 1.4
+            },
+            {
+                "color": "#B2B8B9",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 3.3
+                },
+                {
+                    "color": "red",
+                    "value": 3.2
+                },
+                {
+                    "color": "gray",
+                    "value": 47.5
+                },
+                {
+                    "color": "blue",
+                    "value": 7.1
+                },
+                {
+                    "color": "teal",
+                    "value": 34.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

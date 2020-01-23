@@ -5,12 +5,20 @@
     "objectNumber": "2016.26",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -28,18 +36,26 @@
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
-        "en": "Image Size: 50.8 × 76.2 cm",
+        "en": "image: 50.8 × 76.2 cm",
         "zh-hant": "圖像： 50.8 × 76.2 厘米"
     },
     "medium": {
         "en": "pigment print",
-        "zh-hant": "噴墨打印"
+        "zh-hant": "顏料印相"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1029,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

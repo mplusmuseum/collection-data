@@ -5,16 +5,30 @@
     "objectNumber": "CA30/2/6/2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Photography",
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築照片",
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,23 +37,38 @@
     },
     "displayDate": {
         "en": "[circa 1961]",
-        "zh-hant": "[circa 1961]"
+        "zh-hant": "[約1961年]"
     },
     "beginDate": 1959,
     "endDate": 1963,
     "dimension": {
         "en": "2 items",
-        "zh-hant": "2 items"
+        "zh-hant": "2 份/張/件"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": "gelatin silver print"
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+        "zh-hant": "M+，香港，王大閎家屬捐贈，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 813,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 865,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Photograph of a sepia-toned architectural drawing of a long building with a flat roof. The building is in a park-like area, with a few people walking around it. The walls of the building sit on top of a wooden framework, supported by poles on two sides. There is a small pond with concrete bridges in front of the building."
@@ -48,20 +77,16 @@
     "color": {
         "predominant": [
             {
-                "color": "#CFC6A8",
-                "value": 61.4
+                "color": "#E9E4DA",
+                "value": 92
             },
             {
-                "color": "#E5E0C2",
-                "value": 19.4
+                "color": "#957959",
+                "value": 2.4
             },
             {
-                "color": "#887A5D",
-                "value": 11.6
-            },
-            {
-                "color": "#A69C7E",
-                "value": 3.9
+                "color": "#B9A182",
+                "value": 2.2
             }
         ],
         "search": {
@@ -76,11 +101,11 @@
                 },
                 {
                     "color": "white",
-                    "value": 74.7
+                    "value": 92
                 },
                 {
                     "color": "orange",
-                    "value": 3.9
+                    "value": 2.2
                 },
                 {
                     "color": "yellow",
@@ -88,7 +113,7 @@
                 },
                 {
                     "color": "brown",
-                    "value": 11.6
+                    "value": 2.4
                 }
             ]
         }

@@ -5,12 +5,20 @@
     "objectNumber": "2012.570",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Sculpture",
-            "zh-hant": "雕塑"
+            "en": [
+                "Sculpture"
+            ],
+            "zh-hant": [
+                "雕塑"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,66 +58,58 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Bronze sculpture of a surgeon performing circumcision on a figure, whose groin is covered with white cloth. He lies on a black rectangular structure. Nurses in blue uniforms stand around."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#C2C7C4",
-                "value": 24.5
+                "color": "#D8D5D3",
+                "value": 45.3
             },
             {
-                "color": "#B1C0C5",
-                "value": 21.8
+                "color": "#D8D9D6",
+                "value": 17.5
             },
             {
-                "color": "#213338",
-                "value": 12.6
-            },
-            {
-                "color": "#8CB4C6",
+                "color": "#BCCFD8",
                 "value": 12.5
             },
             {
-                "color": "#8C8171",
+                "color": "#615F6B",
                 "value": 4
             },
             {
-                "color": "#3B475D",
-                "value": 3.6
+                "color": "#444945",
+                "value": 3.5
             },
             {
-                "color": "#2F3D50",
-                "value": 3.6
+                "color": "#40414E",
+                "value": 3.1
             },
             {
-                "color": "#748186",
-                "value": 3.4
-            },
-            {
-                "color": "#56707F",
+                "color": "#585D57",
                 "value": 2.9
             },
             {
-                "color": "#7F8981",
-                "value": 2.2
+                "color": "#7F766F",
+                "value": 2
             },
             {
-                "color": "#3D4646",
+                "color": "#D8DAD8",
                 "value": 1.5
             },
             {
-                "color": "#908067",
+                "color": "#C4A289",
                 "value": 1.3
             },
             {
-                "color": "#5C6572",
-                "value": 1
+                "color": "#7F6856",
+                "value": 1.1
             },
             {
-                "color": "#BAAB9A",
-                "value": 1
+                "color": "#393834",
+                "value": 1.1
             }
         ],
         "search": {
@@ -120,19 +120,19 @@
                 },
                 {
                     "color": "orange",
-                    "value": 0.8
+                    "value": 1.3
                 },
                 {
                     "color": "gray",
-                    "value": 57.9
+                    "value": 8.8
                 },
                 {
                     "color": "white",
-                    "value": 28
+                    "value": 76.8
                 },
                 {
                     "color": "black",
-                    "value": 14.1
+                    "value": 7.7
                 },
                 {
                     "color": "blue",
@@ -144,7 +144,7 @@
                 },
                 {
                     "color": "brown",
-                    "value": 1.3
+                    "value": 1.1
                 }
             ]
         }

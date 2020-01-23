@@ -5,16 +5,24 @@
     "objectNumber": "CA4",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
             "en": null,
             "zh-hant": null
         },
         "archivalLevel": {
-            "en": "Fonds",
-            "zh-hant": "全宗"
+            "en": [
+                "Fonds"
+            ],
+            "zh-hant": [
+                "全宗"
+            ]
         }
     },
     "title": {
@@ -29,7 +37,7 @@
     "endDate": 2008,
     "dimension": {
         "en": "11 items",
-        "zh-hant": "11 items"
+        "zh-hant": "11 份/張/件"
     },
     "medium": {
         "en": null,
@@ -48,11 +56,45 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#6E6E71",
+                "value": 56.8
+            },
+            {
+                "color": "#1E1D22",
+                "value": 23.7
+            },
+            {
+                "color": "#8A7C79",
+                "value": 6.7
+            },
+            {
+                "color": "#BFB1AF",
+                "value": 5.3
+            },
+            {
+                "color": "#0F0E13",
+                "value": 4.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 68.8
+                },
+                {
+                    "color": "black",
+                    "value": 28.2
+                }
+            ]
         }
     },
     "dimensionDetails": null

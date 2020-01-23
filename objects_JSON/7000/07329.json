@@ -5,12 +5,20 @@
     "objectNumber": "2016.618",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -28,7 +36,7 @@
     "beginDate": 1990,
     "endDate": 1990,
     "dimension": {
-        "en": "overall (open): 16.5 × 19.8 × 22.8 cm\r\noverall (close): 5.5 × 19.8 × 22.8 cm",
+        "en": "overall (open): 16.5 × 19.8 × 22.8 cm\r\noverall (closed): 5.5 × 19.8 × 22.8 cm",
         "zh-hant": "整體 （打開）： 16.5 × 19.8 × 22.8 厘米\r\n整體 （合上）： 5.5 × 19.8 × 22.8 厘米"
     },
     "medium": {
@@ -46,6 +54,13 @@
                 "en": "Designer",
                 "zh-hant": "設計師"
             }
+        },
+        {
+            "id": 1668,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [
@@ -56,71 +71,63 @@
     "color": {
         "predominant": [
             {
-                "color": "#E2E1E1",
-                "value": 43.5
+                "color": "#DDE0DF",
+                "value": 53.4
             },
             {
-                "color": "#D6DDDB",
-                "value": 23.7
+                "color": "#DBDFDF",
+                "value": 17
             },
             {
-                "color": "#7C7567",
-                "value": 9.3
+                "color": "#7C7667",
+                "value": 9.1
             },
             {
-                "color": "#615C7C",
-                "value": 4.1
+                "color": "#665E75",
+                "value": 4.4
             },
             {
-                "color": "#34421D",
-                "value": 3.4
+                "color": "#615A7A",
+                "value": 3.3
             },
             {
-                "color": "#675F72",
-                "value": 2.9
+                "color": "#36451D",
+                "value": 3.3
             },
             {
-                "color": "#D8DFDF",
-                "value": 2.7
+                "color": "#383731",
+                "value": 1.8
             },
             {
-                "color": "#3E3D39",
-                "value": 2.3
+                "color": "#65645A",
+                "value": 1.7
             },
             {
-                "color": "#696960",
-                "value": 1.6
-            },
-            {
-                "color": "#DAD8C8",
-                "value": 1.4
-            },
-            {
-                "color": "#DCDDDF",
-                "value": 1
+                "color": "#474449",
+                "value": 1.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 13.8
+                    "value": 10.9
                 },
                 {
                     "color": "white",
-                    "value": 72.2
+                    "value": 70.4
                 },
                 {
                     "color": "black",
-                    "value": 2.3
+                    "value": 3.3
                 },
                 {
                     "color": "purple",
-                    "value": 4.1
+                    "value": 7.8
                 },
                 {
                     "color": "brown",
-                    "value": 3.4
+                    "value": 3.3
                 }
             ]
         }

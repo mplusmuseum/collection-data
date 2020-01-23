@@ -5,12 +5,20 @@
     "objectNumber": "2018.19",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Ephemera",
-            "zh-hant": "Ephemera"
+            "en": [
+                "Ephemera"
+            ],
+            "zh-hant": [
+                "暫時性的媒材"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -45,6 +53,13 @@
             "role": {
                 "en": "Designer",
                 "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 4070,
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
             }
         }
     ],

@@ -5,16 +5,32 @@
     "objectNumber": "CA10/2/26/2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Digital",
-            "zh-hant": "數碼"
+            "en": [
+                "Archival Documentation",
+                "Architectural Drawing",
+                "Digital"
+            ],
+            "zh-hant": [
+                "檔存文件",
+                "建築圖",
+                "數碼"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +45,7 @@
     "endDate": 2009,
     "dimension": {
         "en": "file size: 21764 kb",
-        "zh-hant": "file size: 21764 kb"
+        "zh-hant": "文件大小: 21764 kb"
     },
     "medium": {
         "en": "Microsoft Word 1997-2003 document",
@@ -39,7 +55,15 @@
         "en": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2013",
         "zh-hant": "M+，香港，鍾華楠建築師有限公司捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 27,
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

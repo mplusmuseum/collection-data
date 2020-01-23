@@ -5,12 +5,20 @@
     "objectNumber": "2017.440",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Model",
-            "zh-hant": "建築模型"
+            "en": [
+                "Architectural Model"
+            ],
+            "zh-hant": [
+                "建築模型"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,22 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1407,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        },
+        {
+            "id": 1358,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

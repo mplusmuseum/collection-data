@@ -5,12 +5,24 @@
     "objectNumber": "2017.3",
     "classification": {
         "area": {
-            "en": "Moving Image",
-            "zh-hant": "流動影像"
+            "en": [
+                "Visual Art",
+                "Moving Image"
+            ],
+            "zh-hant": [
+                "視覺藝術",
+                "流動影像"
+            ]
         },
         "category": {
-            "en": "Video Installation",
-            "zh-hant": "錄像裝置"
+            "en": [
+                "Installation",
+                "Video Installation"
+            ],
+            "zh-hant": [
+                "裝置藝術",
+                "錄像裝置"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong. Brown Family Annual Acquisition Fund, 2016",
         "zh-hant": "M+，香港，Brown家族年度購藏基金購置，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1583,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

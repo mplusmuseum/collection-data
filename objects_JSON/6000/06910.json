@@ -5,12 +5,22 @@
     "objectNumber": "2016.887",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Ink Art",
+                "Painting"
+            ],
+            "zh-hant": [
+                "水墨",
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,20 +49,42 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [
+    "constituents": [],
+    "images": [
         {
-            "id": 1599,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
+            "altText": null
         }
     ],
-    "images": [],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E3DBD4",
+                "value": 84.5
+            },
+            {
+                "color": "#877F7B",
+                "value": 9.4
+            },
+            {
+                "color": "#332D2D",
+                "value": 4.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 9.4
+                },
+                {
+                    "color": "white",
+                    "value": 84.5
+                },
+                {
+                    "color": "black",
+                    "value": 4.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

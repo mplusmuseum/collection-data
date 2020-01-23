@@ -5,12 +5,20 @@
     "objectNumber": "2015.204",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph. On a grassy lawn, a polished dark cone rises out of a rough stone base."
@@ -48,31 +64,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#E1E1E1",
-                "value": 40.6
+                "color": "#D5D3D0",
+                "value": 61.1
             },
             {
-                "color": "#818181",
-                "value": 30.7
+                "color": "#877F7A",
+                "value": 12
             },
             {
-                "color": "#232323",
-                "value": 28.7
+                "color": "#2B2625",
+                "value": 9
+            },
+            {
+                "color": "#16100E",
+                "value": 7.8
+            },
+            {
+                "color": "#D5D5D2",
+                "value": 5.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 30.7
+                    "value": 12
                 },
                 {
                     "color": "white",
-                    "value": 40.6
+                    "value": 66.9
                 },
                 {
                     "color": "black",
-                    "value": 28.7
+                    "value": 16.8
                 }
             ]
         }

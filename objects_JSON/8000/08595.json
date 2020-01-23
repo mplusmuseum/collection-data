@@ -5,12 +5,22 @@
     "objectNumber": "2017.284",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Work on Paper",
-            "zh-hant": "紙本作品"
+            "en": [
+                "Print",
+                "Work on Paper"
+            ],
+            "zh-hant": [
+                "版畫",
+                "紙本作品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +49,22 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1444,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        },
+        {
+            "id": 2793,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,48 +73,16 @@
     "color": {
         "predominant": [
             {
-                "color": "#27262A",
-                "value": 66.8
+                "color": "#2D2D33",
+                "value": 91
             },
             {
-                "color": "#302B2B",
-                "value": 10.3
+                "color": "#4B5F80",
+                "value": 3.5
             },
             {
-                "color": "#F6F5F5",
-                "value": 3.8
-            },
-            {
-                "color": "#292F2F",
-                "value": 3.1
-            },
-            {
-                "color": "#39272A",
-                "value": 2.8
-            },
-            {
-                "color": "#455A77",
-                "value": 1.9
-            },
-            {
-                "color": "#262E3D",
-                "value": 1.8
-            },
-            {
-                "color": "#EFEFF3",
-                "value": 1.8
-            },
-            {
-                "color": "#506D82",
-                "value": 1.2
-            },
-            {
-                "color": "#233039",
-                "value": 1.1
-            },
-            {
-                "color": "#F5F2F4",
-                "value": 0.8
+                "color": "#41393B",
+                "value": 2.1
             }
         ],
         "search": {
@@ -100,11 +93,11 @@
                 },
                 {
                     "color": "blue",
-                    "value": 1.9
+                    "value": 3.5
                 },
                 {
                     "color": "black",
-                    "value": 85.9
+                    "value": 93.1
                 },
                 {
                     "color": "teal",

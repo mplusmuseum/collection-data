@@ -5,12 +5,20 @@
     "objectNumber": "2017.224",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,31 +64,51 @@
     "color": {
         "predominant": [
             {
-                "color": "#141414",
-                "value": 47.3
+                "color": "#1E1C1B",
+                "value": 34.4
             },
             {
-                "color": "#D7D7D7",
-                "value": 29.3
+                "color": "#CFCDCC",
+                "value": 21.3
             },
             {
-                "color": "#828282",
-                "value": 23.3
+                "color": "#858281",
+                "value": 17.7
+            },
+            {
+                "color": "#2A282A",
+                "value": 13.8
+            },
+            {
+                "color": "#D7D7D5",
+                "value": 3.1
+            },
+            {
+                "color": "#727071",
+                "value": 2.5
+            },
+            {
+                "color": "#DFDEDF",
+                "value": 1.6
+            },
+            {
+                "color": "#E7E7E9",
+                "value": 1.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 23.3
+                    "value": 20.2
                 },
                 {
                     "color": "white",
-                    "value": 29.3
+                    "value": 27.5
                 },
                 {
                     "color": "black",
-                    "value": 47.3
+                    "value": 48.2
                 }
             ]
         }

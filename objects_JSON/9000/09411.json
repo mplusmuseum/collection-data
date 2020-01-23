@@ -5,12 +5,22 @@
     "objectNumber": "2018.221",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Visual Art",
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "視覺藝術",
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,23 +66,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#3B393D",
-                "value": 41.3
+                "color": "#7A7D7D",
+                "value": 23.7
             },
             {
-                "color": "#77757A",
-                "value": 30.2
+                "color": "#3E3E40",
+                "value": 22.5
             },
             {
-                "color": "#D7D8DB",
-                "value": 27.4
+                "color": "#404243",
+                "value": 21.2
+            },
+            {
+                "color": "#C5C7C7",
+                "value": 12.4
+            },
+            {
+                "color": "#666769",
+                "value": 6.8
+            },
+            {
+                "color": "#C8CAC9",
+                "value": 5.3
+            },
+            {
+                "color": "#818482",
+                "value": 4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 30.2
+                    "value": 52.3
                 },
                 {
                     "color": "white",
@@ -80,7 +106,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 41.3
+                    "value": 43.7
                 }
             ]
         }

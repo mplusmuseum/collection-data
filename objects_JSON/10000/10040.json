@@ -5,16 +5,28 @@
     "objectNumber": "CA28/22/2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1993,
     "dimension": {
         "en": "sheet: 29.7 x 21 cm\r\n2 pages",
-        "zh-hant": "sheet: 29.7 x 21 cm\r\n2 pages"
+        "zh-hant": "紙本: 29.7 x 21 厘米\r\n2 頁"
     },
     "medium": {
         "en": "graphite, ink, and crayon on paper",
@@ -48,11 +60,29 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CDD0D6",
+                "value": 59.7
+            },
+            {
+                "color": "#CED2D6",
+                "value": 36.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 95.9
+                }
+            ]
         }
     },
     "dimensionDetails": {

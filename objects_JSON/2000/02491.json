@@ -5,12 +5,22 @@
     "objectNumber": "2012.99",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Textile",
+                "Painting"
+            ],
+            "zh-hant": [
+                "紡織品",
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,137 +60,101 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Embroidery on cotton depicting three identical grinning men in pink shirts and green blazers with coloured rays emanating from them. The man in front wears a green ring and holds a Pomeranian."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#B4E0C8",
-                "value": 13.5
+                "color": "#C8C6D0",
+                "value": 9.7
             },
             {
-                "color": "#8DE1CA",
-                "value": 9.6
+                "color": "#CAB073",
+                "value": 9.5
             },
             {
-                "color": "#000000",
-                "value": 8.3
+                "color": "#C5B4A9",
+                "value": 9.4
             },
             {
-                "color": "#0E7F19",
-                "value": 7.7
+                "color": "#387646",
+                "value": 8.6
             },
             {
-                "color": "#B75754",
+                "color": "#B86262",
+                "value": 7.6
+            },
+            {
+                "color": "#BC7D60",
+                "value": 7.1
+            },
+            {
+                "color": "#21201E",
+                "value": 6.1
+            },
+            {
+                "color": "#4C8C53",
                 "value": 5.4
             },
             {
-                "color": "#003900",
-                "value": 4.9
+                "color": "#9A3F3F",
+                "value": 4.8
             },
             {
-                "color": "#BFB659",
-                "value": 3.3
+                "color": "#77AABC",
+                "value": 3.9
             },
             {
-                "color": "#9A1723",
+                "color": "#991A22",
+                "value": 3.7
+            },
+            {
+                "color": "#A1B7C2",
                 "value": 3.2
             },
             {
-                "color": "#6FDCCE",
+                "color": "#6DB775",
                 "value": 3.2
             },
             {
-                "color": "#9B4442",
-                "value": 3.2
-            },
-            {
-                "color": "#B77356",
-                "value": 2.9
-            },
-            {
-                "color": "#B2C684",
-                "value": 2.8
-            },
-            {
-                "color": "#59C35C",
-                "value": 2.7
-            },
-            {
-                "color": "#9A624A",
+                "color": "#9B5941",
                 "value": 2.5
             },
             {
-                "color": "#B9C070",
-                "value": 2.4
+                "color": "#C8BFC6",
+                "value": 2.1
             },
             {
-                "color": "#B51F25",
-                "value": 2.3
+                "color": "#CB70A2",
+                "value": 2
             },
             {
-                "color": "#BC9F5A",
-                "value": 1.8
-            },
-            {
-                "color": "#21D7C1",
-                "value": 1.7
-            },
-            {
-                "color": "#28B339",
-                "value": 1.5
-            },
-            {
-                "color": "#14892C",
+                "color": "#2D2B2E",
                 "value": 1.4
             },
             {
-                "color": "#AACECF",
-                "value": 1.3
+                "color": "#8B7D7D",
+                "value": 1.1
             },
             {
-                "color": "#B3BC99",
-                "value": 1.3
+                "color": "#9D366D",
+                "value": 1.1
             },
             {
-                "color": "#B69E9A",
-                "value": 1.2
-            },
-            {
-                "color": "#AC7FC4",
-                "value": 1
-            },
-            {
-                "color": "#98825B",
-                "value": 1
-            },
-            {
-                "color": "#8C5388",
+                "color": "#1D512A",
                 "value": 0.8
             },
             {
-                "color": "#73CA8F",
+                "color": "#68B577",
                 "value": 0.8
             },
             {
-                "color": "#9F8D85",
-                "value": 0.7
+                "color": "#B32925",
+                "value": 0.8
             },
             {
-                "color": "#8C4E7C",
-                "value": 0.6
-            },
-            {
-                "color": "#29DAB7",
-                "value": 0.6
-            },
-            {
-                "color": "#8F5A93",
-                "value": 0.5
-            },
-            {
-                "color": "#999D82",
+                "color": "#2C1C1B",
                 "value": 0.5
             }
         ],
@@ -188,23 +162,23 @@
             "google": [
                 {
                     "color": "red",
-                    "value": 19.6
+                    "value": 19.4
                 },
                 {
                     "color": "orange",
-                    "value": 1.8
+                    "value": 16.6
                 },
                 {
                     "color": "green",
-                    "value": 37.2
+                    "value": 18.9
                 },
                 {
                     "color": "gray",
-                    "value": 1.9
+                    "value": 25.5
                 },
                 {
                     "color": "black",
-                    "value": 8.3
+                    "value": 8.1
                 },
                 {
                     "color": "yellow",
@@ -216,11 +190,15 @@
                 },
                 {
                     "color": "teal",
-                    "value": 16.4
+                    "value": 3.9
                 },
                 {
                     "color": "brown",
                     "value": 1
+                },
+                {
+                    "color": "pink",
+                    "value": 3
                 }
             ]
         }

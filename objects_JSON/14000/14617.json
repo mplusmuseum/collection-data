@@ -5,16 +5,28 @@
     "objectNumber": "CA30/2/19/2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Photography",
-            "zh-hant": "建築照片"
+            "en": [
+                "Architectural Photography"
+            ],
+            "zh-hant": [
+                "建築照片"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "[circa 1966]",
-        "zh-hant": "[circa 1966]"
+        "zh-hant": "[約1966年]"
     },
     "beginDate": 1964,
     "endDate": 1968,
     "dimension": {
         "en": "sheet: 5 × 5 cm",
-        "zh-hant": "sheet: 5 × 5 cm"
+        "zh-hant": "紙本: 5 × 5 厘米"
     },
     "medium": {
         "en": "colour slide",
@@ -37,63 +49,74 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+        "zh-hant": "M+，香港，王大閎家屬捐贈，2016年"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 813,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 865,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#E1CDB7",
-                "value": 33.2
+                "color": "#181425",
+                "value": 29.8
             },
             {
-                "color": "#D3CFB1",
-                "value": 16.4
+                "color": "#B6A9A2",
+                "value": 14.8
             },
             {
-                "color": "#423A43",
-                "value": 11.7
+                "color": "#0C153C",
+                "value": 14.4
             },
             {
-                "color": "#DAC39C",
-                "value": 8.2
+                "color": "#938182",
+                "value": 9.4
             },
             {
-                "color": "#824E56",
-                "value": 6.8
+                "color": "#19121D",
+                "value": 7.5
             },
             {
-                "color": "#3F3E64",
-                "value": 5.9
+                "color": "#7F6F7B",
+                "value": 5
             },
             {
-                "color": "#CA9091",
-                "value": 4.1
+                "color": "#3F181F",
+                "value": 4
             },
             {
-                "color": "#353352",
-                "value": 2.4
+                "color": "#6A6073",
+                "value": 3.5
             },
             {
-                "color": "#423B3B",
-                "value": 1.8
+                "color": "#28222A",
+                "value": 2.8
             },
             {
-                "color": "#8A7375",
-                "value": 1.7
+                "color": "#2C1A27",
+                "value": 2.1
             },
             {
-                "color": "#4A3544",
-                "value": 1.5
-            },
-            {
-                "color": "#D9AB90",
-                "value": 1.2
-            },
-            {
-                "color": "#75606F",
-                "value": 0.9
+                "color": "#724D52",
+                "value": 1.6
             }
         ],
         "search": {
@@ -104,7 +127,7 @@
                 },
                 {
                     "color": "red",
-                    "value": 6.8
+                    "value": 5.6
                 },
                 {
                     "color": "pink",
@@ -112,11 +135,11 @@
                 },
                 {
                     "color": "gray",
-                    "value": 1.7
+                    "value": 29.3
                 },
                 {
                     "color": "blue",
-                    "value": 8.3
+                    "value": 14.4
                 },
                 {
                     "color": "yellow",
@@ -124,11 +147,11 @@
                 },
                 {
                     "color": "black",
-                    "value": 13.5
+                    "value": 10.3
                 },
                 {
                     "color": "purple",
-                    "value": 2.4
+                    "value": 35.5
                 }
             ]
         }

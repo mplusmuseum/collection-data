@@ -5,12 +5,20 @@
     "objectNumber": "2017.258",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Ink Art",
-            "zh-hant": "水墨"
+            "en": [
+                "Ink Art"
+            ],
+            "zh-hant": [
+                "水墨"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,23 +64,19 @@
     "color": {
         "predominant": [
             {
-                "color": "#DED5C7",
-                "value": 88.3
+                "color": "#E7DAC3",
+                "value": 89.9
             },
             {
-                "color": "#898277",
-                "value": 5.2
-            },
-            {
-                "color": "#886842",
-                "value": 1.6
+                "color": "#867D70",
+                "value": 7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 5.2
+                    "value": 7
                 },
                 {
                     "color": "white",
@@ -81,6 +85,10 @@
                 {
                     "color": "brown",
                     "value": 1.6
+                },
+                {
+                    "color": "orange",
+                    "value": 89.9
                 }
             ]
         }

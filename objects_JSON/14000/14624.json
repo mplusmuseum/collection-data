@@ -5,16 +5,28 @@
     "objectNumber": "CA30/2/22/4",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Archival Documentation",
-            "zh-hant": "檔存文件"
+            "en": [
+                "Archival Documentation"
+            ],
+            "zh-hant": [
+                "檔存文件"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "9 September 1993",
-        "zh-hant": "9 September 1993"
+        "zh-hant": "1993年9月9日"
     },
     "beginDate": 1993,
     "endDate": 1993,
     "dimension": {
         "en": "sheet: 29.8 x 42 cm",
-        "zh-hant": "sheet: 29.8 x 42 cm"
+        "zh-hant": "紙本: 29.8 x 42 厘米"
     },
     "medium": {
         "en": "photocopy, graphite, and marker ink on paper",
@@ -37,10 +49,43 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+        "zh-hant": "M+，香港，王大閎家屬捐贈，2016年"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 813,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 865,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        },
+        {
+            "id": 4332,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        },
+        {
+            "id": 4333,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {

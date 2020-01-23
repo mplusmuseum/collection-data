@@ -5,16 +5,24 @@
     "objectNumber": "CA9/4",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
             "en": null,
             "zh-hant": null
         },
         "archivalLevel": {
-            "en": "Series",
-            "zh-hant": "系列"
+            "en": [
+                "Series"
+            ],
+            "zh-hant": [
+                "系列"
+            ]
         }
     },
     "title": {
@@ -29,7 +37,7 @@
     "endDate": 1989,
     "dimension": {
         "en": "5 items",
-        "zh-hant": "5 items"
+        "zh-hant": "5 份/張/件"
     },
     "medium": {
         "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong. Gift of Andrew Lee King Fun & Associates Architects Limited, 2013",
         "zh-hant": "M+，香港，李景勳、雷煥庭建築師事務所捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 16,
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
+        }
+    ],
     "images": null,
     "color": {
         "predominant": null,

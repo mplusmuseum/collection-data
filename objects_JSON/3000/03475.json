@@ -5,12 +5,20 @@
     "objectNumber": "2012.244",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Installation",
-            "zh-hant": "裝置藝術"
+            "en": [
+                "Installation"
+            ],
+            "zh-hant": [
+                "裝置藝術"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -41,6 +49,13 @@
     },
     "constituents": [
         {
+            "id": 143,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        },
+        {
             "id": 144,
             "role": {
                 "en": "Artist",
@@ -51,9 +66,6 @@
     "images": [
         {
             "altText": "Installation consisting of dozens of monochrome photographs placed in a varied formation on a black wall. A few wooden objects are leaning against the wall, and some are hanging on the wall amidst the photographs. Several strings connect the wooden objects together."
-        },
-        {
-            "altText": "Monochrome photograph from an installation of seven adults and eight children gathered together for a formal portrait. The print is tattered and creased at the edges."
         }
     ],
     "color": {

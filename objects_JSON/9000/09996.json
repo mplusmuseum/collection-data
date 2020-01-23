@@ -5,16 +5,28 @@
     "objectNumber": "CA28/13/8",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "1 September 1994",
-        "zh-hant": "1 September 1994"
+        "zh-hant": "1994年9月1日"
     },
     "beginDate": 1994,
     "endDate": 1994,
     "dimension": {
         "en": "sheet: 26 x 36.9 cm",
-        "zh-hant": "sheet: 26 x 36.9 cm"
+        "zh-hant": "紙本: 26 x 36.9 厘米"
     },
     "medium": {
         "en": "ink on paper",
@@ -48,11 +60,37 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D2D5D6",
+                "value": 70.6
+            },
+            {
+                "color": "#D1D3D6",
+                "value": 14.9
+            },
+            {
+                "color": "#D2D4D3",
+                "value": 7.1
+            },
+            {
+                "color": "#CFCFCB",
+                "value": 4.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 97.5
+                }
+            ]
         }
     },
     "dimensionDetails": {

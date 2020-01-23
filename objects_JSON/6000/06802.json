@@ -5,12 +5,20 @@
     "objectNumber": "2016.487",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,83 +64,71 @@
     "color": {
         "predominant": [
             {
-                "color": "#CECAC9",
-                "value": 30.5
+                "color": "#D6D6DA",
+                "value": 45.6
             },
             {
-                "color": "#D5D5DD",
-                "value": 27.2
+                "color": "#C5D0D9",
+                "value": 12.8
             },
             {
-                "color": "#C6D1DA",
-                "value": 11.7
+                "color": "#C1B8B6",
+                "value": 12.1
             },
             {
-                "color": "#4A6383",
-                "value": 8.7
+                "color": "#486282",
+                "value": 8.4
             },
             {
-                "color": "#978B8B",
-                "value": 3.7
+                "color": "#9A908F",
+                "value": 3.8
             },
             {
-                "color": "#C09B7E",
-                "value": 3.2
+                "color": "#BF9B7C",
+                "value": 3.5
             },
             {
-                "color": "#67474B",
+                "color": "#CCC9CB",
+                "value": 2.7
+            },
+            {
+                "color": "#68484C",
+                "value": 2.3
+            },
+            {
+                "color": "#537697",
+                "value": 2.2
+            },
+            {
+                "color": "#739EBE",
                 "value": 2.1
-            },
-            {
-                "color": "#CAC6C9",
-                "value": 1.9
-            },
-            {
-                "color": "#79A3C3",
-                "value": 1.9
-            },
-            {
-                "color": "#507494",
-                "value": 1.9
-            },
-            {
-                "color": "#CDD0CE",
-                "value": 1.2
-            },
-            {
-                "color": "#D3D3D0",
-                "value": 0.9
-            },
-            {
-                "color": "#7F828C",
-                "value": 0.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "orange",
-                    "value": 3.2
+                    "value": 3.5
                 },
                 {
                     "color": "red",
-                    "value": 2.1
+                    "value": 2.3
                 },
                 {
                     "color": "white",
-                    "value": 41.1
+                    "value": 58.4
                 },
                 {
                     "color": "blue",
-                    "value": 8.7
+                    "value": 8.4
                 },
                 {
                     "color": "teal",
-                    "value": 3.8
+                    "value": 4.3
                 },
                 {
                     "color": "gray",
-                    "value": 36.9
+                    "value": 18.6
                 }
             ]
         }

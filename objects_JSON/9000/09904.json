@@ -5,16 +5,28 @@
     "objectNumber": "CA28/1/9",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Ephemera",
-            "zh-hant": "Ephemera"
+            "en": [
+                "Ephemera"
+            ],
+            "zh-hant": [
+                "暫時性的媒材"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1968,
     "dimension": {
         "en": "sheet: 24.4 x 32.5 cm\r\n2 pages",
-        "zh-hant": "sheet: 24.4 x 32.5 cm\r\n2 pages"
+        "zh-hant": "紙本: 24.4 x 32.5 厘米\r\n2 頁"
     },
     "medium": {
         "en": "printing ink on paper",
@@ -48,11 +60,49 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D7DBDC",
+                "value": 68
+            },
+            {
+                "color": "#D1D3D8",
+                "value": 14.5
+            },
+            {
+                "color": "#D6D9D7",
+                "value": 5.7
+            },
+            {
+                "color": "#D2D2CE",
+                "value": 3.8
+            },
+            {
+                "color": "#85878F",
+                "value": 2
+            },
+            {
+                "color": "#CEC5C2",
+                "value": 1.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 4
+                },
+                {
+                    "color": "white",
+                    "value": 92
+                }
+            ]
         }
     },
     "dimensionDetails": {

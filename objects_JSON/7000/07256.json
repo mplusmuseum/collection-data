@@ -5,12 +5,20 @@
     "objectNumber": "2016.606",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,22 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2973,
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
+        },
+        {
+            "id": 2960,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,59 +71,55 @@
     "color": {
         "predominant": [
             {
-                "color": "#D1CFCC",
-                "value": 58.3
+                "color": "#C7C9CA",
+                "value": 50.2
             },
             {
-                "color": "#B8BFBD",
-                "value": 12.5
+                "color": "#D8CEC4",
+                "value": 14.6
             },
             {
-                "color": "#E8C809",
-                "value": 3.2
+                "color": "#CED1D0",
+                "value": 8.8
             },
             {
-                "color": "#7B9CD2",
-                "value": 3.2
+                "color": "#E9C703",
+                "value": 3.9
             },
             {
-                "color": "#C4C6CE",
-                "value": 3
+                "color": "#7A9CD2",
+                "value": 3.3
             },
             {
-                "color": "#877D76",
+                "color": "#C3C5CB",
                 "value": 2.8
             },
             {
-                "color": "#B9C1C3",
+                "color": "#CB8867",
                 "value": 2.3
             },
             {
-                "color": "#CC8B6C",
-                "value": 2.2
+                "color": "#857B73",
+                "value": 2.1
             },
             {
-                "color": "#C75F06",
-                "value": 2
+                "color": "#C66002",
+                "value": 2.1
             },
             {
-                "color": "#443D38",
-                "value": 1.6
+                "color": "#413C3A",
+                "value": 1.9
             },
             {
-                "color": "#DCAB10",
-                "value": 0.9
+                "color": "#304A43",
+                "value": 1.1
             },
             {
-                "color": "#314A43",
-                "value": 0.9
+                "color": "#D0D0CD",
+                "value": 1
             },
             {
-                "color": "#CECEC9",
-                "value": 0.8
-            },
-            {
-                "color": "#2C6454",
+                "color": "#2F6454",
                 "value": 0.5
             }
         ],
@@ -108,31 +127,31 @@
             "google": [
                 {
                     "color": "orange",
-                    "value": 3.1
+                    "value": 2.3
                 },
                 {
                     "color": "gray",
-                    "value": 20.6
+                    "value": 55
                 },
                 {
                     "color": "white",
-                    "value": 59.2
+                    "value": 24.4
                 },
                 {
                     "color": "yellow",
-                    "value": 3.2
+                    "value": 3.9
                 },
                 {
                     "color": "black",
-                    "value": 2.5
+                    "value": 2.9
                 },
                 {
                     "color": "teal",
-                    "value": 3.7
+                    "value": 3.8
                 },
                 {
                     "color": "brown",
-                    "value": 2
+                    "value": 2.1
                 }
             ]
         }

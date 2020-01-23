@@ -5,12 +5,24 @@
     "objectNumber": "2013.500",
     "classification": {
         "area": {
-            "en": "Moving Image",
-            "zh-hant": "流動影像"
+            "en": [
+                "Visual Art",
+                "Moving Image"
+            ],
+            "zh-hant": [
+                "視覺藝術",
+                "流動影像"
+            ]
         },
         "category": {
-            "en": "Video",
-            "zh-hant": "錄像"
+            "en": [
+                "Installation",
+                "Video"
+            ],
+            "zh-hant": [
+                "裝置藝術",
+                "錄像"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong. Gift of Guan Yi, 2013",
         "zh-hant": "M+，香港，管藝捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 82,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": [

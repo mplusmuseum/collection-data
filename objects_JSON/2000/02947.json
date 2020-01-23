@@ -5,12 +5,20 @@
     "objectNumber": "2012.489",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,33 +58,33 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on canvas depicting a mushroom covered in circles containing black dots that look like eyes. The mushroom's cap is rendered in pink, white and brown; and the stem in cream, white, and blue."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#F9EFE5",
-                "value": 92
+                "color": "#DCD9D4",
+                "value": 90.3
             },
             {
-                "color": "#CBB487",
-                "value": 2.6
+                "color": "#DBDAD2",
+                "value": 4.1
             },
             {
-                "color": "#FBF9EC",
-                "value": 1.6
+                "color": "#C2B289",
+                "value": 0.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "orange",
-                    "value": 2.6
+                    "value": 0.9
                 },
                 {
                     "color": "white",
-                    "value": 93.6
+                    "value": 94.4
                 }
             ]
         }

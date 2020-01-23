@@ -5,12 +5,20 @@
     "objectNumber": "2016.636",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -46,6 +54,13 @@
                 "en": "Designer",
                 "zh-hant": "設計師"
             }
+        },
+        {
+            "id": 2934,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [
@@ -56,23 +71,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#D6D6D6",
-                "value": 92.2
+                "color": "#D2D4D4",
+                "value": 57.4
             },
             {
-                "color": "#BEBFB9",
-                "value": 3.5
+                "color": "#D4D6D5",
+                "value": 13.2
+            },
+            {
+                "color": "#D6D6D8",
+                "value": 9.2
+            },
+            {
+                "color": "#E0E0E0",
+                "value": 6.9
+            },
+            {
+                "color": "#C9CAC7",
+                "value": 6.9
+            },
+            {
+                "color": "#6F7169",
+                "value": 3
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 3.5
+                    "value": 9.9
                 },
                 {
                     "color": "white",
-                    "value": 92.2
+                    "value": 86.8
                 }
             ]
         }

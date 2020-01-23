@@ -5,12 +5,20 @@
     "objectNumber": "2015.231",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph with a black border showing rows of rope strung up between two poles at the opposite ends of a room. A large pile of short pieces of rope lies on top of the strung up rope. A tall stack of woven baskets stands in a corner."
@@ -48,27 +64,35 @@
     "color": {
         "predominant": [
             {
-                "color": "#838383",
-                "value": 37.1
+                "color": "#D1CDC9",
+                "value": 77.9
             },
             {
-                "color": "#C9C9C9",
-                "value": 33.1
+                "color": "#88807B",
+                "value": 10.8
             },
             {
-                "color": "#272727",
-                "value": 29.8
+                "color": "#352F2D",
+                "value": 4.8
+            },
+            {
+                "color": "#1D1512",
+                "value": 3
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 70.2
+                    "value": 10.8
                 },
                 {
                     "color": "black",
-                    "value": 29.8
+                    "value": 7.8
+                },
+                {
+                    "color": "white",
+                    "value": 77.9
                 }
             ]
         }

@@ -5,12 +5,20 @@
     "objectNumber": "2012.1410",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,15 +47,7 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [
-        {
-            "id": 601,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": null
@@ -56,43 +56,55 @@
     "color": {
         "predominant": [
             {
-                "color": "#4AC503",
-                "value": 71.7
+                "color": "#70B027",
+                "value": 28.6
             },
             {
-                "color": "#0149C4",
-                "value": 13.4
+                "color": "#68A624",
+                "value": 14.7
             },
             {
-                "color": "#B40405",
-                "value": 7.8
+                "color": "#005892",
+                "value": 14.1
             },
             {
-                "color": "#E0E7DF",
-                "value": 2
+                "color": "#6AAF29",
+                "value": 13.7
             },
             {
-                "color": "#DAE0E3",
-                "value": 1.4
+                "color": "#65A726",
+                "value": 7.9
+            },
+            {
+                "color": "#B1021B",
+                "value": 7
+            },
+            {
+                "color": "#DEDAD4",
+                "value": 5.6
+            },
+            {
+                "color": "#6CB22E",
+                "value": 4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 7.8
+                    "value": 7
                 },
                 {
                     "color": "green",
-                    "value": 71.7
+                    "value": 69
                 },
                 {
                     "color": "blue",
-                    "value": 13.4
+                    "value": 14.1
                 },
                 {
                     "color": "white",
-                    "value": 3.5
+                    "value": 5.6
                 }
             ]
         }

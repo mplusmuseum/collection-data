@@ -5,16 +5,30 @@
     "objectNumber": "CA30/1/3",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Book/Periodical",
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "書藉/期刊",
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +37,13 @@
     },
     "displayDate": {
         "en": "January 1945",
-        "zh-hant": "January 1945"
+        "zh-hant": "1945年1月"
     },
     "beginDate": 1945,
     "endDate": 1945,
     "dimension": {
         "en": "sheet: 28.5 x 20.5 cm\r\r\n8 pages",
-        "zh-hant": "sheet: 28.5 x 20.5 cm\r\r\n8 pages"
+        "zh-hant": "紙本: 28.5 x 20.5 厘米\r\r\n8 頁"
     },
     "medium": {
         "en": "printing ink on paper",
@@ -37,9 +51,24 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+        "zh-hant": "M+，香港，王大閎家屬捐贈，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 813,
+            "role": {
+                "en": "Author",
+                "zh-hant": "作者"
+            }
+        },
+        {
+            "id": 5018,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,24 +77,16 @@
     "color": {
         "predominant": [
             {
-                "color": "#E4DCC9",
-                "value": 65.6
+                "color": "#E3D9D0",
+                "value": 92.3
             },
             {
-                "color": "#E5B49B",
-                "value": 17.5
+                "color": "#332E2D",
+                "value": 2.2
             },
             {
-                "color": "#E8E6D2",
-                "value": 8.9
-            },
-            {
-                "color": "#222228",
-                "value": 2
-            },
-            {
-                "color": "#847E6F",
-                "value": 1.5
+                "color": "#837973",
+                "value": 2.1
             }
         ],
         "search": {
@@ -76,15 +97,15 @@
                 },
                 {
                     "color": "gray",
-                    "value": 1.5
+                    "value": 2.1
                 },
                 {
                     "color": "white",
-                    "value": 74.6
+                    "value": 92.3
                 },
                 {
                     "color": "black",
-                    "value": 2
+                    "value": 2.2
                 }
             ]
         }

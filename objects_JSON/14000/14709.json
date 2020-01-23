@@ -5,16 +5,28 @@
     "objectNumber": "CA30/5/1/20",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Ephemera",
-            "zh-hant": "Ephemera"
+            "en": [
+                "Ephemera"
+            ],
+            "zh-hant": [
+                "暫時性的媒材"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "[1950s–1990s]",
-        "zh-hant": "[1950s–1990s]"
+        "zh-hant": "[1950年代至1990年代]"
     },
     "beginDate": 1951,
     "endDate": 1999,
     "dimension": {
         "en": "sheet: 29.6 x 21 cm",
-        "zh-hant": "sheet: 29.6 x 21 cm"
+        "zh-hant": "紙本: 29.6 x 21 厘米"
     },
     "medium": {
         "en": "photocopy on paper",
@@ -37,14 +49,40 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+        "zh-hant": "M+，香港，王大閎家屬捐贈，2016年"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 1531,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#FEFEFE",
+                "value": 93.9
+            },
+            {
+                "color": "#F5F5F1",
+                "value": 4.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 98.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

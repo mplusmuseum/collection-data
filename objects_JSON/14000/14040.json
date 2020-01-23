@@ -5,16 +5,30 @@
     "objectNumber": "CA39/1/4/3",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Photography",
-            "zh-hant": "建築照片"
+            "en": [
+                "Architectural Drawing",
+                "Architectural Photography"
+            ],
+            "zh-hant": [
+                "建築圖",
+                "建築照片"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -29,7 +43,7 @@
     "endDate": 1967,
     "dimension": {
         "en": "13 items",
-        "zh-hant": "13 items"
+        "zh-hant": "13 份/張/件"
     },
     "medium": {
         "en": "colour slide, black-and-white slide",
@@ -37,7 +51,7 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
-        "zh-hant": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017"
+        "zh-hant": "M+，香港，王秋華捐贈，2017年"
     },
     "constituents": [
         {
@@ -46,13 +60,82 @@
                 "en": "Architect",
                 "zh-hant": "建築師"
             }
+        },
+        {
+            "id": 2823,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CEDDD1",
+                "value": 47.9
+            },
+            {
+                "color": "#1B1D32",
+                "value": 26.5
+            },
+            {
+                "color": "#B7AF98",
+                "value": 7.4
+            },
+            {
+                "color": "#576381",
+                "value": 4.4
+            },
+            {
+                "color": "#7F8BA0",
+                "value": 3.5
+            },
+            {
+                "color": "#9EAEB6",
+                "value": 2.4
+            },
+            {
+                "color": "#A19683",
+                "value": 1.9
+            },
+            {
+                "color": "#0B0A09",
+                "value": 1.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 7.4
+                },
+                {
+                    "color": "gray",
+                    "value": 4.3
+                },
+                {
+                    "color": "white",
+                    "value": 47.9
+                },
+                {
+                    "color": "blue",
+                    "value": 30.9
+                },
+                {
+                    "color": "black",
+                    "value": 1.5
+                },
+                {
+                    "color": "teal",
+                    "value": 3.5
+                }
+            ]
         }
     },
     "dimensionDetails": null

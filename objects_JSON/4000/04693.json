@@ -5,12 +5,20 @@
     "objectNumber": "2015.228",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of an installation artwork in a gallery consisting of flat pieces of wood layered over each other and nailed together to form four lines. Each line is laid between two blocks of concrete, forming a square."
@@ -48,23 +64,23 @@
     "color": {
         "predominant": [
             {
-                "color": "#3F3F3F",
-                "value": 46.6
+                "color": "#756E6A",
+                "value": 55.8
             },
             {
-                "color": "#737373",
-                "value": 40.7
+                "color": "#C9C4BD",
+                "value": 26.3
             },
             {
-                "color": "#CECECE",
-                "value": 12.6
+                "color": "#433D3A",
+                "value": 13.4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 40.7
+                    "value": 82.1
                 },
                 {
                     "color": "white",
@@ -72,7 +88,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 46.6
+                    "value": 13.4
                 }
             ]
         }

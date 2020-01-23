@@ -5,12 +5,20 @@
     "objectNumber": "2012.23",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Print",
-            "zh-hant": "版畫"
+            "en": [
+                "Print"
+            ],
+            "zh-hant": [
+                "版畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -28,7 +36,7 @@
     "beginDate": 1979,
     "endDate": 1979,
     "dimension": {
-        "en": "sheet: 70 × 72 cm\r\nimage: 12.7 × 26.5 cm",
+        "en": "sheet: 70 × 72 cm\r\r\nimage: 12.7 × 26.5 cm",
         "zh-hant": "紙本: 70 × 72 厘米\r\n圖像: 12.7 × 26.5 厘米"
     },
     "medium": {
@@ -90,10 +98,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "image",
+        "element": "sheet",
         "unit": "cm",
-        "width": 26.5,
-        "height": 12.7,
+        "width": 72,
+        "height": 70,
         "depth": null
     }
 }

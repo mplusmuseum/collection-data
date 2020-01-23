@@ -5,12 +5,20 @@
     "objectNumber": "2012.417",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,49 +58,37 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on canvas depicting loosely painted flowers and leaves on the left and a flowering branch on the right, rendered in green. Large strokes are featured in the middle."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#D9EEEE",
-                "value": 55.3
+                "color": "#C8DEDC",
+                "value": 45
             },
             {
-                "color": "#79E3CC",
-                "value": 10.7
+                "color": "#D3DFDB",
+                "value": 32
             },
             {
-                "color": "#91E7DC",
-                "value": 8.4
+                "color": "#72C4C0",
+                "value": 10.3
             },
             {
-                "color": "#CCECE5",
-                "value": 5.6
+                "color": "#08827A",
+                "value": 6
             },
             {
-                "color": "#F2F4F9",
-                "value": 5.5
-            },
-            {
-                "color": "#1BC197",
-                "value": 3.6
-            },
-            {
-                "color": "#000000",
-                "value": 3.2
-            },
-            {
-                "color": "#038D5B",
-                "value": 2.9
+                "color": "#35908A",
+                "value": 2.1
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "white",
-                    "value": 66.4
+                    "value": 77
                 },
                 {
                     "color": "black",
@@ -100,7 +96,7 @@
                 },
                 {
                     "color": "teal",
-                    "value": 25.7
+                    "value": 18.4
                 }
             ]
         }

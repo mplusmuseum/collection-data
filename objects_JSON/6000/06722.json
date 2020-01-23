@@ -5,12 +5,20 @@
     "objectNumber": "2016.784",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Sculpture",
-            "zh-hant": "雕塑"
+            "en": [
+                "Sculpture"
+            ],
+            "zh-hant": [
+                "雕塑"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong. Gift of the Artist in honour of Dr. Lars Nittve, 2016",
         "zh-hant": "M+，香港，藝術家向李立偉博士致意的捐贈，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1511,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

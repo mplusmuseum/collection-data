@@ -5,12 +5,20 @@
     "objectNumber": "2017.276",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Installation",
-            "zh-hant": "裝置藝術"
+            "en": [
+                "Installation"
+            ],
+            "zh-hant": [
+                "裝置藝術"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,8 +47,26 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1444,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        },
+        {
+            "id": 2793,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        }
+    ],
     "images": [
+        {
+            "altText": null
+        },
         {
             "altText": null
         }
@@ -48,32 +74,32 @@
     "color": {
         "predominant": [
             {
-                "color": "#6A452A",
-                "value": 27.1
+                "color": "#342B1F",
+                "value": 35.3
             },
             {
-                "color": "#FDF9F0",
-                "value": 25.9
+                "color": "#D6D6DA",
+                "value": 25.6
             },
             {
-                "color": "#D1AB7C",
-                "value": 14.4
+                "color": "#645545",
+                "value": 11.7
             },
             {
-                "color": "#432A1B",
-                "value": 10.5
+                "color": "#38281D",
+                "value": 11.4
             },
             {
-                "color": "#FBFAEA",
-                "value": 10.4
+                "color": "#684D3B",
+                "value": 7
             },
             {
-                "color": "#917452",
-                "value": 4.9
+                "color": "#151412",
+                "value": 3.6
             },
             {
-                "color": "#BF8E64",
-                "value": 1.8
+                "color": "#0F1010",
+                "value": 2
             }
         ],
         "search": {
@@ -84,11 +110,15 @@
                 },
                 {
                     "color": "white",
-                    "value": 36.3
+                    "value": 25.6
                 },
                 {
                     "color": "brown",
-                    "value": 42.5
+                    "value": 18.7
+                },
+                {
+                    "color": "black",
+                    "value": 52.3
                 }
             ]
         }

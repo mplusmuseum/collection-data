@@ -5,12 +5,22 @@
     "objectNumber": "2013.257",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Ink Art",
+                "Painting"
+            ],
+            "zh-hant": [
+                "水墨",
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -28,7 +38,7 @@
     "beginDate": 1976,
     "endDate": 1976,
     "dimension": {
-        "en": "sheet: 124 × 240 cm",
+        "en": "sheet: 135.1 × 259.2 cm\r\r\nimage: 124.1 × 239.3 cm",
         "zh-hant": "紙本: 124 × 240 厘米"
     },
     "medium": {
@@ -120,8 +130,8 @@
     "dimensionDetails": {
         "element": "sheet",
         "unit": "cm",
-        "width": 240,
-        "height": 124,
+        "width": 259.2,
+        "height": 135.1,
         "depth": null
     }
 }

@@ -5,12 +5,20 @@
     "objectNumber": "2012.946",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -41,14 +49,14 @@
     },
     "constituents": [
         {
-            "id": 368,
+            "id": 424,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"
             }
         },
         {
-            "id": 424,
+            "id": 368,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"

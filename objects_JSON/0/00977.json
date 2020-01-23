@@ -5,12 +5,20 @@
     "objectNumber": "2013.180",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Drawing",
-            "zh-hant": "繪圖"
+            "en": [
+                "Drawing"
+            ],
+            "zh-hant": [
+                "繪圖"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,8 +30,8 @@
         "zh-hant": "美國俄勒岡州波特蘭公共服務大樓（1979至1982年）繪圖"
     },
     "displayDate": {
-        "en": "designed 2011, made 2015",
-        "zh-hant": "2011年設計，2015年製造"
+        "en": "1980",
+        "zh-hant": "1980"
     },
     "beginDate": 1980,
     "endDate": 1980,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 190,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

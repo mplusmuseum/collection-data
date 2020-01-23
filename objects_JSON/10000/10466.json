@@ -5,16 +5,28 @@
     "objectNumber": "CA22/2/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Book/Periodical",
-            "zh-hant": "書藉/期刊"
+            "en": [
+                "Book/Periodical"
+            ],
+            "zh-hant": [
+                "書藉/期刊"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1967,
     "dimension": {
         "en": "overall: 22.9 x 22.8 cm\r\n39 pages",
-        "zh-hant": "overall: 22.9 x 22.8 cm\r\n39 pages"
+        "zh-hant": "整體: 22.9 x 22.8 厘米\r\n39 頁"
     },
     "medium": {
         "en": "printing ink on paper",
@@ -48,11 +60,53 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#B4AFA3",
+                "value": 41.5
+            },
+            {
+                "color": "#B1B1A8",
+                "value": 20.4
+            },
+            {
+                "color": "#A39C8E",
+                "value": 12.6
+            },
+            {
+                "color": "#A1A097",
+                "value": 5.7
+            },
+            {
+                "color": "#ABB3B7",
+                "value": 5.4
+            },
+            {
+                "color": "#788589",
+                "value": 4
+            },
+            {
+                "color": "#B3B7B4",
+                "value": 3.7
+            },
+            {
+                "color": "#C2C3C5",
+                "value": 2.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 95.5
+                }
+            ]
         }
     },
     "dimensionDetails": {

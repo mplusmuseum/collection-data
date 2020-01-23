@@ -5,12 +5,20 @@
     "objectNumber": "2016.82",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1198,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,51 +64,31 @@
     "color": {
         "predominant": [
             {
-                "color": "#D1CAC4",
-                "value": 54.5
+                "color": "#C1B8A3",
+                "value": 84.7
             },
             {
-                "color": "#C9C9D1",
-                "value": 18.9
-            },
-            {
-                "color": "#D2D2CC",
-                "value": 5.8
-            },
-            {
-                "color": "#978D86",
+                "color": "#928D7F",
                 "value": 5.1
             },
             {
-                "color": "#7F808C",
-                "value": 4
+                "color": "#B7A583",
+                "value": 2.3
             },
             {
-                "color": "#D1CED0",
-                "value": 2.8
+                "color": "#8B8B82",
+                "value": 1.7
             },
             {
-                "color": "#131421",
-                "value": 1.6
-            },
-            {
-                "color": "#151413",
-                "value": 1.1
-            },
-            {
-                "color": "#2F2E35",
-                "value": 1
-            },
-            {
-                "color": "#01020C",
-                "value": 0.7
+                "color": "#BBB9AC",
+                "value": 1.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 27.9
+                    "value": 93
                 },
                 {
                     "color": "white",
@@ -101,6 +97,10 @@
                 {
                     "color": "black",
                     "value": 4.4
+                },
+                {
+                    "color": "orange",
+                    "value": 2.3
                 }
             ]
         }

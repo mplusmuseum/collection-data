@@ -5,16 +5,28 @@
     "objectNumber": "CA35/1/4",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Book/Periodical",
-            "zh-hant": "書藉/期刊"
+            "en": [
+                "Book/Periodical"
+            ],
+            "zh-hant": [
+                "書藉/期刊"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "3 October 1962",
-        "zh-hant": "3 October 1962"
+        "zh-hant": "1962年10月3日"
     },
     "beginDate": 1962,
     "endDate": 1962,
     "dimension": {
-        "en": "6 pp",
-        "zh-hant": "6 pp"
+        "en": "6 pages",
+        "zh-hant": "6 頁"
     },
     "medium": {
         "en": "photocopy on paper",
@@ -45,6 +57,20 @@
             "role": {
                 "en": "Architect",
                 "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 1412,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 1413,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
             }
         }
     ],

@@ -5,12 +5,20 @@
     "objectNumber": "2015.201",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of several men standing in a gravel lot admiring a mirrored pillar rising out of a hole and supporting a large boulder."
@@ -48,31 +64,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#E3E3E3",
-                "value": 50.5
+                "color": "#DBD9D7",
+                "value": 58.3
             },
             {
-                "color": "#1B1B1B",
-                "value": 41.5
+                "color": "#272223",
+                "value": 13.1
             },
             {
-                "color": "#787878",
-                "value": 8
+                "color": "#7F7977",
+                "value": 7.3
+            },
+            {
+                "color": "#333033",
+                "value": 7.1
+            },
+            {
+                "color": "#DCDCD9",
+                "value": 6.8
+            },
+            {
+                "color": "#1A1412",
+                "value": 2.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 8
+                    "value": 7.3
                 },
                 {
                     "color": "white",
-                    "value": 50.5
+                    "value": 65
                 },
                 {
                     "color": "black",
-                    "value": 41.5
+                    "value": 22.8
                 }
             ]
         }

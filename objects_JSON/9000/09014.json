@@ -5,16 +5,28 @@
     "objectNumber": "CA9/5",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Poster",
-            "zh-hant": "海報"
+            "en": [
+                "Poster"
+            ],
+            "zh-hant": [
+                "海報"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 2006,
     "dimension": {
         "en": "sheet: 61 × 84 cm",
-        "zh-hant": "sheet: 61 × 84 cm"
+        "zh-hant": "紙本: 61 × 84 厘米"
     },
     "medium": {
         "en": "offset lithograph on paper",
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong. Gift of Andrew Lee King Fun & Associates Architects Limited, 2013",
         "zh-hant": "M+，香港，李景勳、雷煥庭建築師事務所捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 16,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
     "images": null,
     "color": {
         "predominant": null,

@@ -5,12 +5,20 @@
     "objectNumber": "2013.523",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Drawing",
-            "zh-hant": "繪圖"
+            "en": [
+                "Drawing"
+            ],
+            "zh-hant": [
+                "繪圖"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -28,7 +36,7 @@
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
-        "en": "sheet: 101.5 × 68 cm",
+        "en": "overall: 155 × 100.5 × 10.9 cm",
         "zh-hant": "紙本: 101.5 × 68 厘米"
     },
     "medium": {
@@ -114,10 +122,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "frame",
+        "element": "overall",
         "unit": "cm",
-        "width": 77,
-        "height": 109,
-        "depth": 4
+        "width": 100.5,
+        "height": 155,
+        "depth": 10.9
     }
 }

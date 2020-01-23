@@ -5,12 +5,20 @@
     "objectNumber": "2016.853",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -19,7 +27,7 @@
     },
     "title": {
         "en": "London, England, 1983",
-        "zh-hant": "1984年，英格蘭倫敦"
+        "zh-hant": "1983年，英格蘭倫敦"
     },
     "displayDate": {
         "en": "photographed 1983, printed 2017",
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1462,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph depicting artist Tseng Kwong Chi at the Tower of London, standing between two police guards with folded arms. Tseng wears a Mao suit, sunglasses, and an identification badge."

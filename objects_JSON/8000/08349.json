@@ -5,12 +5,22 @@
     "objectNumber": "2018.4",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Architectural Photography",
+                "Photography"
+            ],
+            "zh-hant": [
+                "建築照片",
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,10 +49,18 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2756,
+            "role": {
+                "en": "Photographer",
+                "zh-hant": "攝影師"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Photograph of a building complex at Kowloon Walled City, showing close living quarters and a mishmash of signs at uneven levels. People walk by shops, and trash litters the ground."
         }
     ],
     "color": {

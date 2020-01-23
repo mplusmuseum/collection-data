@@ -5,12 +5,20 @@
     "objectNumber": "2016.633",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -46,6 +54,13 @@
                 "en": "Designer",
                 "zh-hant": "設計師"
             }
+        },
+        {
+            "id": 2934,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [
@@ -56,19 +71,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#D4D4D4",
-                "value": 84.8
+                "color": "#D1D3D4",
+                "value": 50.7
             },
             {
-                "color": "#CBCCC5",
+                "color": "#D2D4D3",
+                "value": 12.4
+            },
+            {
+                "color": "#D9D8D6",
+                "value": 12.2
+            },
+            {
+                "color": "#C5C5C2",
                 "value": 10.5
+            },
+            {
+                "color": "#D6D7D8",
+                "value": 7.7
+            },
+            {
+                "color": "#E6E4E5",
+                "value": 2.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "white",
-                    "value": 95.3
+                    "value": 86
+                },
+                {
+                    "color": "gray",
+                    "value": 10.5
                 }
             ]
         }

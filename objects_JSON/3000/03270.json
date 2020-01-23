@@ -5,12 +5,22 @@
     "objectNumber": "2012.1433",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Installation",
-            "zh-hant": "裝置藝術"
+            "en": [
+                "Painting",
+                "Installation"
+            ],
+            "zh-hant": [
+                "繪畫",
+                "裝置藝術"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,15 +49,7 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [
-        {
-            "id": 603,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": null

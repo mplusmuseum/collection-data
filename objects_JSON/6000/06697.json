@@ -5,12 +5,24 @@
     "objectNumber": "2016.647",
     "classification": {
         "area": {
-            "en": "Moving Image",
-            "zh-hant": "流動影像"
+            "en": [
+                "Visual Art",
+                "Moving Image"
+            ],
+            "zh-hant": [
+                "視覺藝術",
+                "流動影像"
+            ]
         },
         "category": {
-            "en": "Installation",
-            "zh-hant": "裝置藝術"
+            "en": [
+                "Video",
+                "Installation"
+            ],
+            "zh-hant": [
+                "錄像",
+                "裝置藝術"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1496,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Installation consisting of five projections of a video in a dark room. The video shows artist Araya Rasdjarmrearnsook sitting with her back to the camera between a pair of corpses, which lie on gurneys veiled in white sheets."

@@ -5,12 +5,22 @@
     "objectNumber": "2016.516",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Moving Image",
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "流動影像",
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Video",
-            "zh-hant": "錄像"
+            "en": [
+                "Video"
+            ],
+            "zh-hant": [
+                "錄像"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,10 +49,18 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1288,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Moving image still of three small wooden boats floating in a row on a sea under a blue sky. A person can be seen standing on the first boat. A landscape can be seen against the horizon."
         }
     ],
     "color": {

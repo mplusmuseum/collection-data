@@ -5,16 +5,28 @@
     "objectNumber": "CA8/2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Drawing",
-            "zh-hant": "繪圖"
+            "en": [
+                "Drawing"
+            ],
+            "zh-hant": [
+                "繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1979,
     "dimension": {
         "en": "sheet: 31.1 x 20.6 cm",
-        "zh-hant": "sheet: 31.1 x 20.6 cm"
+        "zh-hant": "紙本: 31.1 x 20.6 厘米"
     },
     "medium": {
         "en": "graphite and coloured pencil on paper",
@@ -48,7 +60,11 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {

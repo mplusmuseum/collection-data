@@ -5,12 +5,20 @@
     "objectNumber": "2015.196",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a figure standing inside a tidy square hole dug in a gravel lot, looking up a squatting man. The image is distorted, as if viewed through a convex lens."
@@ -48,31 +64,51 @@
     "color": {
         "predominant": [
             {
-                "color": "#2C2C2C",
-                "value": 50.8
+                "color": "#D1CECB",
+                "value": 46.3
             },
             {
-                "color": "#7A7A7A",
-                "value": 32.3
+                "color": "#847E7D",
+                "value": 21.4
             },
             {
-                "color": "#D9D9D9",
-                "value": 17
+                "color": "#2E2929",
+                "value": 9.2
+            },
+            {
+                "color": "#343135",
+                "value": 5.3
+            },
+            {
+                "color": "#D2D2CE",
+                "value": 4.5
+            },
+            {
+                "color": "#787577",
+                "value": 3.4
+            },
+            {
+                "color": "#77777B",
+                "value": 3.1
+            },
+            {
+                "color": "#1B1412",
+                "value": 2.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 32.3
+                    "value": 27.8
                 },
                 {
                     "color": "white",
-                    "value": 17
+                    "value": 50.8
                 },
                 {
                     "color": "black",
-                    "value": 50.8
+                    "value": 17.1
                 }
             ]
         }

@@ -5,12 +5,20 @@
     "objectNumber": "2015.253",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,37 +58,53 @@
     ],
     "images": [
         {
-            "altText": "Monochrome photograph of a block of wood with two stones lying on top of it. A band goes around the block of wood, on top of one of the stones and underneath the other stone."
+            "altText": "Monochrome photograph of a branch with three sticks standing on top of three rocks lying on the floor."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#1C1C1C",
-                "value": 62.6
+                "color": "#CBC9C7",
+                "value": 27.3
             },
             {
-                "color": "#838383",
-                "value": 26.9
+                "color": "#231C18",
+                "value": 24.5
             },
             {
-                "color": "#D3D3D3",
-                "value": 10.4
+                "color": "#39322E",
+                "value": 20.1
+            },
+            {
+                "color": "#8E8783",
+                "value": 10.6
+            },
+            {
+                "color": "#DDDBDC",
+                "value": 8.4
+            },
+            {
+                "color": "#DADADB",
+                "value": 3.9
+            },
+            {
+                "color": "#D6D8D9",
+                "value": 1.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 26.9
+                    "value": 38
                 },
                 {
                     "color": "white",
-                    "value": 10.4
+                    "value": 13.9
                 },
                 {
                     "color": "black",
-                    "value": 62.6
+                    "value": 44.6
                 }
             ]
         }

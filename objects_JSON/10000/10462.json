@@ -5,16 +5,28 @@
     "objectNumber": "CA23/1/1/6",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 2006,
     "dimension": {
         "en": "sheet: 41.7 × 29.8 cm",
-        "zh-hant": "sheet: 41.7 × 29.8 cm"
+        "zh-hant": "紙本: 41.7 × 29.8 厘米"
     },
     "medium": {
         "en": "ink, graphite, and coloured pencil on paper",
@@ -48,7 +60,11 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {

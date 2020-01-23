@@ -5,12 +5,20 @@
     "objectNumber": "2017.279",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Installation",
-            "zh-hant": "裝置藝術"
+            "en": [
+                "Installation"
+            ],
+            "zh-hant": [
+                "裝置藝術"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,22 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1444,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        },
+        {
+            "id": 2793,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,28 +71,24 @@
     "color": {
         "predominant": [
             {
-                "color": "#825944",
-                "value": 34.9
+                "color": "#33291D",
+                "value": 37
             },
             {
-                "color": "#FEFCF8",
-                "value": 29
+                "color": "#DBDBDF",
+                "value": 26.1
             },
             {
-                "color": "#E0BF96",
-                "value": 14.5
+                "color": "#6D5D4C",
+                "value": 14.4
             },
             {
-                "color": "#FCFCEE",
-                "value": 8
+                "color": "#3A281C",
+                "value": 13.7
             },
             {
-                "color": "#C6926D",
-                "value": 7
-            },
-            {
-                "color": "#937B60",
-                "value": 2.3
+                "color": "#6E5544",
+                "value": 4.5
             }
         ],
         "search": {
@@ -80,11 +99,15 @@
                 },
                 {
                     "color": "white",
-                    "value": 37
+                    "value": 26.1
                 },
                 {
                     "color": "brown",
-                    "value": 37.3
+                    "value": 32.6
+                },
+                {
+                    "color": "black",
+                    "value": 37
                 }
             ]
         }

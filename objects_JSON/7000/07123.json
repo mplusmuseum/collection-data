@@ -5,12 +5,22 @@
     "objectNumber": "2017.11",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Print",
-            "zh-hant": "版畫"
+            "en": [
+                "Poster",
+                "Print"
+            ],
+            "zh-hant": [
+                "海報",
+                "版畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -41,6 +51,13 @@
     },
     "constituents": [
         {
+            "id": 245,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
             "id": 1710,
             "role": {
                 "en": "Art Director",
@@ -48,10 +65,10 @@
             }
         },
         {
-            "id": 245,
+            "id": 4735,
             "role": {
-                "en": "Designer",
-                "zh-hant": "設計師"
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
             }
         }
     ],

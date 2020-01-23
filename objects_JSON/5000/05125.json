@@ -5,12 +5,20 @@
     "objectNumber": "2015.266",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,7 +30,7 @@
         "zh-hant": "泡茶及咖啡用具"
     },
     "displayDate": {
-        "en": "2012",
+        "en": "designed 1995–1996",
         "zh-hant": "1995–1996年設計"
     },
     "beginDate": 1995,
@@ -46,6 +54,13 @@
                 "en": "Designer",
                 "zh-hant": "設計師"
             }
+        },
+        {
+            "id": 1106,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [
@@ -57,19 +72,23 @@
         "predominant": [
             {
                 "color": "#E8E8E6",
-                "value": 53.2
+                "value": 50.2
             },
             {
                 "color": "#E5E4E3",
-                "value": 24.5
+                "value": 28.9
             },
             {
-                "color": "#E4E6E4",
-                "value": 11.9
+                "color": "#E5E6E5",
+                "value": 10.9
             },
             {
-                "color": "#CCCDCE",
-                "value": 5.5
+                "color": "#EEECED",
+                "value": 4.3
+            },
+            {
+                "color": "#EAEBEB",
+                "value": 2.9
             }
         ],
         "search": {
@@ -80,7 +99,7 @@
                 },
                 {
                     "color": "white",
-                    "value": 95.1
+                    "value": 97.1
                 },
                 {
                     "color": "black",

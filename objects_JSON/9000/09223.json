@@ -5,16 +5,28 @@
     "objectNumber": "CA29/2/4/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Archival Documentation",
-            "zh-hant": "檔存文件"
+            "en": [
+                "Archival Documentation"
+            ],
+            "zh-hant": [
+                "檔存文件"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1969,
     "dimension": {
         "en": "overall: 21 x 30 cm\r\n40 pages",
-        "zh-hant": "overall: 21 x 30 cm\r\n40 pages"
+        "zh-hant": "整體: 21 x 30 厘米\r\n40 頁"
     },
     "medium": {
         "en": "printing ink on paper",
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong. Gift of Architects Team 3, 2015",
         "zh-hant": "M+，香港，建築三人小組捐贈，2015年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1204,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
     "images": null,
     "color": {
         "predominant": null,

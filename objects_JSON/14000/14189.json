@@ -5,16 +5,30 @@
     "objectNumber": "CA39/4/6/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Photography",
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築照片",
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -23,13 +37,13 @@
     },
     "displayDate": {
         "en": "[circa 1986–circa 1989]",
-        "zh-hant": "[circa 1986–circa 1989]"
+        "zh-hant": "[約1986年至約1989年]"
     },
     "beginDate": 1984,
     "endDate": 1991,
     "dimension": {
         "en": "11 items",
-        "zh-hant": "11 items"
+        "zh-hant": "11 份/張/件"
     },
     "medium": {
         "en": "printout on paper; photocopy on paper; chromogenic colour print",
@@ -37,7 +51,7 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
-        "zh-hant": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017"
+        "zh-hant": "M+，香港，王秋華捐贈，2017年"
     },
     "constituents": [
         {
@@ -46,13 +60,150 @@
                 "en": "Architect",
                 "zh-hant": "建築師"
             }
+        },
+        {
+            "id": 2824,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#DACFC3",
+                "value": 21.3
+            },
+            {
+                "color": "#94CBF7",
+                "value": 11
+            },
+            {
+                "color": "#7BB1EE",
+                "value": 8.8
+            },
+            {
+                "color": "#CADDE7",
+                "value": 7.8
+            },
+            {
+                "color": "#877C75",
+                "value": 5.2
+            },
+            {
+                "color": "#C7C9D0",
+                "value": 4.3
+            },
+            {
+                "color": "#6D787D",
+                "value": 4.3
+            },
+            {
+                "color": "#E8E8E1",
+                "value": 3.8
+            },
+            {
+                "color": "#261C16",
+                "value": 2.8
+            },
+            {
+                "color": "#312F2A",
+                "value": 2.7
+            },
+            {
+                "color": "#7D7D73",
+                "value": 2.5
+            },
+            {
+                "color": "#151F26",
+                "value": 2.5
+            },
+            {
+                "color": "#141A24",
+                "value": 2.4
+            },
+            {
+                "color": "#7A7E88",
+                "value": 2.3
+            },
+            {
+                "color": "#D4BC94",
+                "value": 2.1
+            },
+            {
+                "color": "#272218",
+                "value": 1.9
+            },
+            {
+                "color": "#D1C8CF",
+                "value": 1.6
+            },
+            {
+                "color": "#796951",
+                "value": 1.5
+            },
+            {
+                "color": "#767B77",
+                "value": 1.5
+            },
+            {
+                "color": "#D4D8D6",
+                "value": 1.4
+            },
+            {
+                "color": "#2E3334",
+                "value": 1.2
+            },
+            {
+                "color": "#546882",
+                "value": 1
+            },
+            {
+                "color": "#29292E",
+                "value": 0.9
+            },
+            {
+                "color": "#4D6577",
+                "value": 0.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 2.1
+                },
+                {
+                    "color": "gray",
+                    "value": 21.7
+                },
+                {
+                    "color": "white",
+                    "value": 34.2
+                },
+                {
+                    "color": "blue",
+                    "value": 1
+                },
+                {
+                    "color": "black",
+                    "value": 14.5
+                },
+                {
+                    "color": "teal",
+                    "value": 20.5
+                },
+                {
+                    "color": "brown",
+                    "value": 1.5
+                }
+            ]
         }
     },
     "dimensionDetails": null
