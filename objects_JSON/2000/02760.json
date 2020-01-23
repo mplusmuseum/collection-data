@@ -1,0 +1,127 @@
+{
+    "id": 2760,
+    "sortNumber": "2012   345",
+    "publicAccess": true,
+    "objectNumber": "2012.345",
+    "classification": {
+        "area": {
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
+        },
+        "category": {
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "One Day in My Life",
+        "zh-hant": "生命中的一天"
+    },
+    "displayDate": {
+        "en": "2003",
+        "zh-hant": "2005"
+    },
+    "beginDate": 2003,
+    "endDate": 2003,
+    "dimension": {
+        "en": "overall: 154.5 × 197.5 × 3.2 cm",
+        "zh-hant": "整體: 154.5 × 197.5 × 3.2 厘米"
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": "油彩布本"
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "constituents": [
+        {
+            "id": 179,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Oil painting on canvas depicting film negatives arranged in rows. Several figures in the images are represented as outlines. The images are primarily monochrome, and the last image is painted blue."
+        }
+    ],
+    "color": {
+        "predominant": [
+            {
+                "color": "#D4D0C9",
+                "value": 48.4
+            },
+            {
+                "color": "#7A7C87",
+                "value": 25.6
+            },
+            {
+                "color": "#B1B2B7",
+                "value": 10.1
+            },
+            {
+                "color": "#3A3A42",
+                "value": 5.7
+            },
+            {
+                "color": "#938E8B",
+                "value": 4.3
+            },
+            {
+                "color": "#CCCCC7",
+                "value": 1.5
+            }
+        ],
+        "search": {
+            "google": [
+                {
+                    "color": "green",
+                    "value": 3.4
+                },
+                {
+                    "color": "gray",
+                    "value": 40
+                },
+                {
+                    "color": "white",
+                    "value": 49.8
+                },
+                {
+                    "color": "yellow",
+                    "value": 26.1
+                },
+                {
+                    "color": "black",
+                    "value": 5.7
+                },
+                {
+                    "color": "teal",
+                    "value": 31.8
+                }
+            ]
+        }
+    },
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 197.5,
+        "height": 154.5,
+        "depth": 3.2
+    }
+}

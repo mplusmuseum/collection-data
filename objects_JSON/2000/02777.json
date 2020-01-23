@@ -1,0 +1,123 @@
+{
+    "id": 2777,
+    "sortNumber": "2012   632",
+    "publicAccess": true,
+    "objectNumber": "2012.632",
+    "classification": {
+        "area": {
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
+        },
+        "category": {
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "Flowers",
+        "zh-hant": "花"
+    },
+    "displayDate": {
+        "en": "2004",
+        "zh-hant": "2004"
+    },
+    "beginDate": 2004,
+    "endDate": 2004,
+    "dimension": {
+        "en": "overall: 245 × 80 cm",
+        "zh-hant": "整體: 245 × 80 厘米"
+    },
+    "medium": {
+        "en": "oil on canvas",
+        "zh-hant": "油彩布本"
+    },
+    "creditLine": {
+        "en": "M+ Sigg Collection, Hong Kong. By donation",
+        "zh-hant": "M+ 希克藏品（捐贈），香港"
+    },
+    "constituents": [
+        {
+            "id": 310,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": "Oil painting on canvas depicting a plant with green leaves and pink, purple, and orange flowers. Its bottom is covered with cloudy swirls. The background features white paint on grey."
+        }
+    ],
+    "color": {
+        "predominant": [
+            {
+                "color": "#A5C7C3",
+                "value": 36.1
+            },
+            {
+                "color": "#B1D0C8",
+                "value": 35.6
+            },
+            {
+                "color": "#658D8B",
+                "value": 9.2
+            },
+            {
+                "color": "#7CA19E",
+                "value": 4.1
+            },
+            {
+                "color": "#778D81",
+                "value": 3.8
+            },
+            {
+                "color": "#557E80",
+                "value": 1.6
+            },
+            {
+                "color": "#860315",
+                "value": 1.1
+            },
+            {
+                "color": "#568A7A",
+                "value": 0.5
+            }
+        ],
+        "search": {
+            "google": [
+                {
+                    "color": "red",
+                    "value": 1.1
+                },
+                {
+                    "color": "gray",
+                    "value": 39.5
+                },
+                {
+                    "color": "teal",
+                    "value": 51.5
+                }
+            ]
+        }
+    },
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 80,
+        "height": 245,
+        "depth": null
+    }
+}
