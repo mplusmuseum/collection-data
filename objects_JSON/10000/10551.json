@@ -5,12 +5,20 @@
     "objectNumber": "2018.25",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Poster",
-            "zh-hant": "海報"
+            "en": [
+                "Poster"
+            ],
+            "zh-hant": [
+                "海報"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,8 +30,8 @@
         "zh-hant": "香港旅遊協會海報"
     },
     "displayDate": {
-        "en": "1948",
-        "zh-hant": "1948"
+        "en": "1969",
+        "zh-hant": "1969"
     },
     "beginDate": 1969,
     "endDate": 1969,
@@ -32,14 +40,29 @@
         "zh-hant": "整體： 85.7 × 55.9 厘米"
     },
     "medium": {
-        "en": "offset printing on paper mount on canvas",
+        "en": "offset print on paper mounted on canvas",
         "zh-hant": "柯式印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 4064,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        },
+        {
+            "id": 4062,
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

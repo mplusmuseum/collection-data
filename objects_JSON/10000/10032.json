@@ -5,16 +5,28 @@
     "objectNumber": "CA28/21/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1989,
     "dimension": {
         "en": "sheet: 29.7 x 42 cm",
-        "zh-hant": "sheet: 29.7 x 42 cm"
+        "zh-hant": "紙本: 29.7 x 42 厘米"
     },
     "medium": {
         "en": "graphite, ink, and crayon on paper",
@@ -48,11 +60,41 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CACAC6",
+                "value": 56.2
+            },
+            {
+                "color": "#CAC7C3",
+                "value": 31.1
+            },
+            {
+                "color": "#C6C8C6",
+                "value": 4.7
+            },
+            {
+                "color": "#CBCED0",
+                "value": 3.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 92.1
+                },
+                {
+                    "color": "white",
+                    "value": 3.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

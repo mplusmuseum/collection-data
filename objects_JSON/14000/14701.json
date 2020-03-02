@@ -5,16 +5,28 @@
     "objectNumber": "CA30/5/1/12",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Archival Documentation",
-            "zh-hant": "檔存文件"
+            "en": [
+                "Archival Documentation"
+            ],
+            "zh-hant": [
+                "檔存文件"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "[1950s–1990s]",
-        "zh-hant": "[1950s–1990s]"
+        "zh-hant": "[1950年代至1990年代]"
     },
     "beginDate": 1951,
     "endDate": 1999,
     "dimension": {
         "en": "sheet: 21 x 28.7 cm",
-        "zh-hant": "sheet: 21 x 28.7 cm"
+        "zh-hant": "紙本: 21 x 28.7 厘米"
     },
     "medium": {
         "en": "ink on paper",
@@ -37,9 +49,17 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+        "zh-hant": "M+，香港，王大閎家屬捐贈，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 813,
+            "role": {
+                "en": "Subject",
+                "zh-hant": "作品主體"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

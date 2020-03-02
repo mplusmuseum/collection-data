@@ -5,16 +5,28 @@
     "objectNumber": "CA39/2/2/2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Photography",
-            "zh-hant": "建築照片"
+            "en": [
+                "Architectural Photography"
+            ],
+            "zh-hant": [
+                "建築照片"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "[circa 1960]–February 1979",
-        "zh-hant": "[circa 1960]–February 1979"
+        "zh-hant": "[約1960年]至1979年2月"
     },
     "beginDate": 1958,
     "endDate": 1979,
     "dimension": {
         "en": "5 items",
-        "zh-hant": "5 items"
+        "zh-hant": "5 份/張/件"
     },
     "medium": {
         "en": "colour slide",
@@ -37,7 +49,7 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
-        "zh-hant": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017"
+        "zh-hant": "M+，香港，王秋華捐贈，2017年"
     },
     "constituents": [
         {
@@ -46,13 +58,114 @@
                 "en": "Architect",
                 "zh-hant": "建築師"
             }
+        },
+        {
+            "id": 2823,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#161B2B",
+                "value": 18
+            },
+            {
+                "color": "#4A6292",
+                "value": 17.5
+            },
+            {
+                "color": "#3E4447",
+                "value": 14.9
+            },
+            {
+                "color": "#6F8AB1",
+                "value": 9.3
+            },
+            {
+                "color": "#6E6A7A",
+                "value": 6.6
+            },
+            {
+                "color": "#3C3E46",
+                "value": 4.5
+            },
+            {
+                "color": "#0A0A0A",
+                "value": 3.6
+            },
+            {
+                "color": "#242E36",
+                "value": 3.4
+            },
+            {
+                "color": "#BDB3AD",
+                "value": 3.3
+            },
+            {
+                "color": "#7F6F70",
+                "value": 2.9
+            },
+            {
+                "color": "#060B20",
+                "value": 2.6
+            },
+            {
+                "color": "#020302",
+                "value": 2
+            },
+            {
+                "color": "#786B75",
+                "value": 1.5
+            },
+            {
+                "color": "#020404",
+                "value": 1.2
+            },
+            {
+                "color": "#030302",
+                "value": 1
+            },
+            {
+                "color": "#060407",
+                "value": 1
+            },
+            {
+                "color": "#8E9FB5",
+                "value": 1
+            },
+            {
+                "color": "#535C5E",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 15.2
+                },
+                {
+                    "color": "blue",
+                    "value": 20.2
+                },
+                {
+                    "color": "black",
+                    "value": 49.5
+                },
+                {
+                    "color": "teal",
+                    "value": 10.3
+                }
+            ]
         }
     },
     "dimensionDetails": null

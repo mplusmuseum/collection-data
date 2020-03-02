@@ -5,12 +5,20 @@
     "objectNumber": "2015.198",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of several workers gathered in a gravel lot watching two cranes hoist a boulder into the air. The image is distorted, as if viewed through a convex lens."
@@ -48,31 +64,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#DBDBDB",
-                "value": 50.3
+                "color": "#D7D5D3",
+                "value": 67.5
             },
             {
-                "color": "#232323",
-                "value": 28.5
+                "color": "#7F7977",
+                "value": 9.6
             },
             {
-                "color": "#8C8C8C",
-                "value": 21.2
+                "color": "#2E2929",
+                "value": 7.4
+            },
+            {
+                "color": "#DCDCDA",
+                "value": 6.7
+            },
+            {
+                "color": "#2E2B2E",
+                "value": 4.2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 21.2
+                    "value": 9.6
                 },
                 {
                     "color": "white",
-                    "value": 50.3
+                    "value": 74.2
                 },
                 {
                     "color": "black",
-                    "value": 28.5
+                    "value": 11.6
                 }
             ]
         }

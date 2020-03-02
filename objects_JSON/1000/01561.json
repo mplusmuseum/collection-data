@@ -5,12 +5,20 @@
     "objectNumber": "2013.62",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Object",
-            "zh-hant": "設計物件"
+            "en": [
+                "Design Object"
+            ],
+            "zh-hant": [
+                "設計物件"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,8 +30,8 @@
         "zh-hant": "盤景"
     },
     "displayDate": {
-        "en": "designed 2010, made 2013",
-        "zh-hant": "2010年設計，2013年製造"
+        "en": "2012",
+        "zh-hant": "2012"
     },
     "beginDate": 2012,
     "endDate": 2012,
@@ -45,6 +53,13 @@
             "role": {
                 "en": "Designer",
                 "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 14,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
             }
         }
     ],

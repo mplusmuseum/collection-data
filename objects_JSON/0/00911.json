@@ -5,12 +5,20 @@
     "objectNumber": "2013.14",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Furniture",
-            "zh-hant": "家具"
+            "en": [
+                "Furniture"
+            ],
+            "zh-hant": [
+                "家具"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,8 +30,8 @@
         "zh-hant": "結合"
     },
     "displayDate": {
-        "en": "made 1960s–1970s",
-        "zh-hant": "1960至1970年代製造"
+        "en": "designed 2010, made 2013",
+        "zh-hant": "設計於2010年，製於2013"
     },
     "beginDate": 2010,
     "endDate": 2013,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 104,
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

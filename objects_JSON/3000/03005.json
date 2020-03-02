@@ -5,12 +5,20 @@
     "objectNumber": "2012.809",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Drawing",
-            "zh-hant": "繪圖"
+            "en": [
+                "Drawing"
+            ],
+            "zh-hant": [
+                "繪圖"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -48,40 +56,24 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#807E7B",
-                "value": 35.4
+                "color": "#7F7B74",
+                "value": 50.6
             },
             {
-                "color": "#B6B3AD",
-                "value": 18.9
+                "color": "#C9C4BA",
+                "value": 36.3
             },
             {
-                "color": "#7A7A77",
-                "value": 17.2
-            },
-            {
-                "color": "#484847",
-                "value": 14.5
-            },
-            {
-                "color": "#B6B5B0",
-                "value": 4.4
-            },
-            {
-                "color": "#434344",
-                "value": 2.3
-            },
-            {
-                "color": "#454646",
-                "value": 2
-            },
-            {
-                "color": "#9D4C41",
-                "value": 1.8
+                "color": "#494543",
+                "value": 9.1
             }
         ],
         "search": {
@@ -92,11 +84,11 @@
                 },
                 {
                     "color": "gray",
-                    "value": 75.9
+                    "value": 86.8
                 },
                 {
                     "color": "black",
-                    "value": 18.7
+                    "value": 9.1
                 }
             ]
         }

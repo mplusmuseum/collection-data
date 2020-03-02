@@ -5,12 +5,20 @@
     "objectNumber": "2015.209",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a pile of mud in a room. Four walls made of mud form a square on top of the pile."
@@ -48,27 +64,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#2D2D2D",
-                "value": 63.6
+                "color": "#D0CECE",
+                "value": 42.8
             },
             {
-                "color": "#C4C4C4",
-                "value": 23.9
+                "color": "#413935",
+                "value": 19.8
             },
             {
-                "color": "#919191",
-                "value": 12.5
+                "color": "#6C645E",
+                "value": 12.4
+            },
+            {
+                "color": "#D8D7D8",
+                "value": 11.2
+            },
+            {
+                "color": "#2B231F",
+                "value": 5.3
+            },
+            {
+                "color": "#DBDBD9",
+                "value": 3.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 36.4
+                    "value": 12.4
                 },
                 {
                     "color": "black",
-                    "value": 63.6
+                    "value": 25.1
+                },
+                {
+                    "color": "white",
+                    "value": 57.5
                 }
             ]
         }

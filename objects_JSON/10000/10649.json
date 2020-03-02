@@ -5,16 +5,24 @@
     "objectNumber": "CA32",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
             "en": null,
             "zh-hant": null
         },
         "archivalLevel": {
-            "en": "Fonds",
-            "zh-hant": "全宗"
+            "en": [
+                "Fonds"
+            ],
+            "zh-hant": [
+                "全宗"
+            ]
         }
     },
     "title": {
@@ -23,13 +31,13 @@
     },
     "displayDate": {
         "en": "[circa 1972–circa 1991]",
-        "zh-hant": "[circa 1972–circa 1991]"
+        "zh-hant": "[約1972年至約1991年]"
     },
     "beginDate": 1967,
     "endDate": 1996,
     "dimension": {
         "en": "30 items",
-        "zh-hant": "30 items"
+        "zh-hant": "30 份/張/件"
     },
     "medium": {
         "en": null,
@@ -39,12 +47,162 @@
         "en": "M+, Hong Kong. Gift of Raj Rewal, 2017",
         "zh-hant": "M+，香港，Raj Rewal捐贈，2017年"
     },
-    "constituents": [],
-    "images": null,
+    "constituents": [
+        {
+            "id": 1612,
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C3D4E0",
+                "value": 14
+            },
+            {
+                "color": "#C0C1D6",
+                "value": 14
+            },
+            {
+                "color": "#20333B",
+                "value": 10.1
+            },
+            {
+                "color": "#4B5884",
+                "value": 9.7
+            },
+            {
+                "color": "#D29C7A",
+                "value": 6
+            },
+            {
+                "color": "#01050F",
+                "value": 4
+            },
+            {
+                "color": "#03131A",
+                "value": 3.7
+            },
+            {
+                "color": "#E0D4CD",
+                "value": 3.6
+            },
+            {
+                "color": "#7E7A91",
+                "value": 3.3
+            },
+            {
+                "color": "#435C69",
+                "value": 3.3
+            },
+            {
+                "color": "#060605",
+                "value": 2.7
+            },
+            {
+                "color": "#7D8BBD",
+                "value": 2.7
+            },
+            {
+                "color": "#748185",
+                "value": 2.3
+            },
+            {
+                "color": "#885C3F",
+                "value": 2.3
+            },
+            {
+                "color": "#313838",
+                "value": 2.3
+            },
+            {
+                "color": "#1F2842",
+                "value": 2
+            },
+            {
+                "color": "#1C302E",
+                "value": 1.7
+            },
+            {
+                "color": "#507477",
+                "value": 1.4
+            },
+            {
+                "color": "#CFBACC",
+                "value": 1.1
+            },
+            {
+                "color": "#4C7471",
+                "value": 1
+            },
+            {
+                "color": "#89817C",
+                "value": 0.8
+            },
+            {
+                "color": "#78867F",
+                "value": 0.8
+            },
+            {
+                "color": "#8EB8D1",
+                "value": 0.8
+            },
+            {
+                "color": "#6C618A",
+                "value": 0.7
+            },
+            {
+                "color": "#C7CCCA",
+                "value": 0.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 6
+                },
+                {
+                    "color": "pink",
+                    "value": 1.1
+                },
+                {
+                    "color": "gray",
+                    "value": 21.3
+                },
+                {
+                    "color": "white",
+                    "value": 18.2
+                },
+                {
+                    "color": "blue",
+                    "value": 14.4
+                },
+                {
+                    "color": "black",
+                    "value": 24.5
+                },
+                {
+                    "color": "purple",
+                    "value": 4
+                },
+                {
+                    "color": "teal",
+                    "value": 3.2
+                },
+                {
+                    "color": "brown",
+                    "value": 2.3
+                }
+            ]
         }
     },
     "dimensionDetails": null

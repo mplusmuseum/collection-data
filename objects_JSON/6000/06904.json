@@ -5,12 +5,20 @@
     "objectNumber": "2016.508",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Installation",
-            "zh-hant": "裝置藝術"
+            "en": [
+                "Installation"
+            ],
+            "zh-hant": [
+                "裝置藝術"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -32,14 +40,22 @@
         "zh-hant": "尺寸不一"
     },
     "medium": {
-        "en": "paste-up installation",
+        "en": "paste up installation",
         "zh-hant": "黏貼裝置"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Hallam Chow, 2016",
         "zh-hant": "M+，香港，仇浩然捐贈，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1593,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Black and white illustration of a person in a spacesuit standing on a planet. The spacesuit is unusual in many ways: the torso looks like a naked, hairy chest, one of the feet is shaped like a two-toed hoof and the other like a metal shoe, one of the person’s hands has three fingers and the other looks like a pair of scissors, and two smoking pillars stick out of the round helmet. A large variety of fantastic creatures float around in the space around the person, including a octopus-like creature with three eyes and a three-legged robot with human eyes peering out of a narrow box and a long neck."

@@ -5,12 +5,22 @@
     "objectNumber": "2012.706",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Performance",
-            "zh-hant": "行為"
+            "en": [
+                "Photography",
+                "Performance"
+            ],
+            "zh-hant": [
+                "攝影",
+                "行為"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -19,7 +29,7 @@
     },
     "title": {
         "en": "Fen–Ma Liuming walks the Great Wall",
-        "zh-hant": "芬 馬六明在長城行走"
+        "zh-hant": "芬·馬六明在長城行走"
     },
     "displayDate": {
         "en": "1998",
@@ -51,40 +61,55 @@
     "images": [
         {
             "altText": "Monochrome photograph of artist Ma Liuming at the Great Wall of China, naked and with long, flowing hair. He appears in the middle, against lush greenery and a foggy sky, and a seated man looks on."
+        },
+        {
+            "altText": "Monochrome photograph of artist Ma Liuming at the Great Wall of China, naked and with long, flowing hair. He appears in the middle, against lush greenery and a foggy sky, and a seated man looks on."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#D2D2D2",
-                "value": 55.3
+                "color": "#CDCDD0",
+                "value": 37.5
             },
             {
-                "color": "#3B3B3B",
-                "value": 15.5
+                "color": "#D0D2D3",
+                "value": 30.7
             },
             {
-                "color": "#7A7A7A",
-                "value": 13.9
+                "color": "#3D3B3D",
+                "value": 10.7
             },
             {
-                "color": "#CACACF",
-                "value": 13.9
+                "color": "#7B7B7D",
+                "value": 10
+            },
+            {
+                "color": "#353434",
+                "value": 4.2
+            },
+            {
+                "color": "#7D7F80",
+                "value": 1.8
+            },
+            {
+                "color": "#6A686A",
+                "value": 1.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 27.9
+                    "value": 13.4
                 },
                 {
                     "color": "white",
-                    "value": 55.3
+                    "value": 68.2
                 },
                 {
                     "color": "black",
-                    "value": 15.5
+                    "value": 14.9
                 }
             ]
         }

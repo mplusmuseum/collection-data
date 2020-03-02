@@ -5,12 +5,20 @@
     "objectNumber": "2015.1",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -48,47 +56,59 @@
     "color": {
         "predominant": [
             {
-                "color": "#7A7D88",
-                "value": 44.2
+                "color": "#8B8685",
+                "value": 30.3
             },
             {
-                "color": "#3B3B43",
-                "value": 12.1
+                "color": "#CAC6C2",
+                "value": 30.3
             },
             {
-                "color": "#C1C8CE",
-                "value": 11.6
+                "color": "#413F3E",
+                "value": 8.6
             },
             {
-                "color": "#B2B3BC",
-                "value": 8.7
+                "color": "#858890",
+                "value": 7.1
             },
             {
-                "color": "#7A8288",
-                "value": 6.5
+                "color": "#35353A",
+                "value": 6
             },
             {
-                "color": "#262C3D",
-                "value": 5.6
+                "color": "#7A7779",
+                "value": 3
             },
             {
-                "color": "#4F5C7C",
-                "value": 4.8
+                "color": "#2B2F3F",
+                "value": 2.8
             },
             {
-                "color": "#6E7F70",
-                "value": 2.7
+                "color": "#4C5573",
+                "value": 2.5
+            },
+            {
+                "color": "#A4A8B2",
+                "value": 2.4
+            },
+            {
+                "color": "#8C907F",
+                "value": 1.7
+            },
+            {
+                "color": "#7E9264",
+                "value": 1.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 73.8
+                    "value": 74.7
                 },
                 {
                     "color": "green",
-                    "value": 1.5
+                    "value": 1.6
                 },
                 {
                     "color": "white",
@@ -96,11 +116,11 @@
                 },
                 {
                     "color": "blue",
-                    "value": 4.8
+                    "value": 2.5
                 },
                 {
                     "color": "black",
-                    "value": 17.8
+                    "value": 17.4
                 }
             ]
         }

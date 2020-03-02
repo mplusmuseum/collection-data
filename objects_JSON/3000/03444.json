@@ -5,12 +5,20 @@
     "objectNumber": "2012.43",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,15 +47,7 @@
         "en": "M+ Sigg Collection, Hong Kong",
         "zh-hant": "M+ 希克藏品，香港"
     },
-    "constituents": [
-        {
-            "id": 588,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": "Oil painting featuring forest green splotches, splashes and smears on an off-white linen diptych."

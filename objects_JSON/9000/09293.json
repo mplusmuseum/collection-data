@@ -5,16 +5,28 @@
     "objectNumber": "CA29/3/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Photography",
-            "zh-hant": "建築照片"
+            "en": [
+                "Architectural Photography"
+            ],
+            "zh-hant": [
+                "建築照片"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "[1960s]",
-        "zh-hant": "[1960s]"
+        "zh-hant": "[1960年代]"
     },
     "beginDate": 1960,
     "endDate": 1969,
     "dimension": {
         "en": "39 items",
-        "zh-hant": "39 items"
+        "zh-hant": "39 份/張/件"
     },
     "medium": {
         "en": "gelatin silver print; medium-format black-and-white negative",
@@ -39,7 +51,22 @@
         "en": "M+, Hong Kong. Gift of Architects Team 3, 2015",
         "zh-hant": "M+，香港，建築三人小組捐贈，2015年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1204,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        },
+        {
+            "id": 1208,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,31 +75,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#E5D9C8",
-                "value": 34.9
+                "color": "#CBC8C7",
+                "value": 30.5
             },
             {
-                "color": "#3D3B37",
-                "value": 26.5
+                "color": "#2F2E32",
+                "value": 29.2
             },
             {
-                "color": "#7A746A",
-                "value": 25
+                "color": "#777473",
+                "value": 14.2
             },
             {
-                "color": "#6A6A63",
-                "value": 6.5
+                "color": "#464443",
+                "value": 9.1
             },
             {
-                "color": "#373538",
-                "value": 4.1
+                "color": "#232330",
+                "value": 4
+            },
+            {
+                "color": "#C5C3C5",
+                "value": 4
+            },
+            {
+                "color": "#777577",
+                "value": 3.1
+            },
+            {
+                "color": "#6E6F75",
+                "value": 3
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 31.5
+                    "value": 54.7
                 },
                 {
                     "color": "white",
@@ -80,7 +119,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 30.7
+                    "value": 42.3
                 }
             ]
         }

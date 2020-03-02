@@ -5,16 +5,28 @@
     "objectNumber": "CA28/21/6",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "21 October 1994",
-        "zh-hant": "21 October 1994"
+        "zh-hant": "1994年10月21日"
     },
     "beginDate": 1994,
     "endDate": 1994,
     "dimension": {
         "en": "sheet: 36.9 x 26 cm",
-        "zh-hant": "sheet: 36.9 x 26 cm"
+        "zh-hant": "紙本: 36.9 x 26 厘米"
     },
     "medium": {
         "en": "ink and crayon on paper",
@@ -48,11 +60,45 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D0D0CC",
+                "value": 37.9
+            },
+            {
+                "color": "#CED1D2",
+                "value": 26.8
+            },
+            {
+                "color": "#CFD0CF",
+                "value": 22.2
+            },
+            {
+                "color": "#CDC7C3",
+                "value": 6
+            },
+            {
+                "color": "#D0D3D7",
+                "value": 2.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 6
+                },
+                {
+                    "color": "white",
+                    "value": 89.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

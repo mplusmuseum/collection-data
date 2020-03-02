@@ -5,12 +5,20 @@
     "objectNumber": "2018.30",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Poster",
-            "zh-hant": "海報"
+            "en": [
+                "Poster"
+            ],
+            "zh-hant": [
+                "海報"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -46,13 +54,97 @@
                 "en": "Designer",
                 "zh-hant": "設計師"
             }
+        },
+        {
+            "id": 4053,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
+            }
+        },
+        {
+            "id": 4054,
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
+            }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#DFD1B1",
+                "value": 32.4
+            },
+            {
+                "color": "#D7C094",
+                "value": 18.6
+            },
+            {
+                "color": "#C7CAA4",
+                "value": 10.1
+            },
+            {
+                "color": "#846F4D",
+                "value": 9.8
+            },
+            {
+                "color": "#73704F",
+                "value": 4.9
+            },
+            {
+                "color": "#777967",
+                "value": 4.8
+            },
+            {
+                "color": "#8C684E",
+                "value": 3.7
+            },
+            {
+                "color": "#6A746D",
+                "value": 3.2
+            },
+            {
+                "color": "#BD9473",
+                "value": 2.3
+            },
+            {
+                "color": "#747656",
+                "value": 2
+            },
+            {
+                "color": "#4C4631",
+                "value": 1.9
+            },
+            {
+                "color": "#5C6565",
+                "value": 1.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 53.3
+                },
+                {
+                    "color": "gray",
+                    "value": 9.4
+                },
+                {
+                    "color": "yellow",
+                    "value": 10.1
+                },
+                {
+                    "color": "brown",
+                    "value": 22.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

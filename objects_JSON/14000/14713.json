@@ -5,16 +5,28 @@
     "objectNumber": "CA30/5/1/24",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Archival Documentation",
-            "zh-hant": "檔存文件"
+            "en": [
+                "Archival Documentation"
+            ],
+            "zh-hant": [
+                "檔存文件"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1949,
     "dimension": {
         "en": "sheet: 27 x 19.1 cm",
-        "zh-hant": "sheet: 27 x 19.1 cm"
+        "zh-hant": "紙本: 27 x 19.1 厘米"
     },
     "medium": {
         "en": "typewriter ink and ink on paper",
@@ -37,9 +49,17 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+        "zh-hant": "M+，香港，王大閎家屬捐贈，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 813,
+            "role": {
+                "en": "Author",
+                "zh-hant": "作者"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

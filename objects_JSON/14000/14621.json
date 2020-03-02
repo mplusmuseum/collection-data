@@ -5,16 +5,28 @@
     "objectNumber": "CA30/2/22/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "12 July 1979",
-        "zh-hant": "12 July 1979"
+        "zh-hant": "1979年7月12日"
     },
     "beginDate": 1979,
     "endDate": 1979,
     "dimension": {
         "en": "sheet: 54.3 x 78.5 cm",
-        "zh-hant": "sheet: 54.3 x 78.5 cm"
+        "zh-hant": "紙本: 54.3 x 78.5 厘米"
     },
     "medium": {
         "en": "diazotype (copy) on paper, photocopy, graphite and ink on paper",
@@ -37,9 +49,24 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+        "zh-hant": "M+，香港，王大閎家屬捐贈，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 813,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 865,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": [

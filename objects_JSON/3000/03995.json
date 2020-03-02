@@ -5,12 +5,22 @@
     "objectNumber": "2016.408",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Work on Paper",
-            "zh-hant": "紙本作品"
+            "en": [
+                "Collage",
+                "Work on Paper"
+            ],
+            "zh-hant": [
+                "拼貼",
+                "紙本作品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -40,11 +50,41 @@
         "zh-hant": "M+，香港"
     },
     "constituents": [],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E0E4E7",
+                "value": 36.2
+            },
+            {
+                "color": "#E0E1DC",
+                "value": 35.7
+            },
+            {
+                "color": "#E0E0E0",
+                "value": 13.4
+            },
+            {
+                "color": "#DDE1DF",
+                "value": 7.9
+            },
+            {
+                "color": "#E2E3E7",
+                "value": 6.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 99.9
+                }
+            ]
         }
     },
     "dimensionDetails": {

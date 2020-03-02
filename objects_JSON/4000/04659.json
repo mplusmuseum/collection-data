@@ -5,12 +5,20 @@
     "objectNumber": "2015.194",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a man with dark shaggy hair, a floral tie and a furrowed brow facing us, staring at a fist that enters the image from our upper left."
@@ -48,31 +64,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#1B1B1B",
-                "value": 47.4
+                "color": "#D7D5D2",
+                "value": 58
             },
             {
-                "color": "#D7D7D7",
-                "value": 35.4
+                "color": "#221E1E",
+                "value": 13.5
             },
             {
-                "color": "#808080",
-                "value": 17.1
+                "color": "#847F7E",
+                "value": 10
+            },
+            {
+                "color": "#2C292B",
+                "value": 9.8
+            },
+            {
+                "color": "#DBDBD8",
+                "value": 4.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 17.1
+                    "value": 10
                 },
                 {
                     "color": "white",
-                    "value": 35.4
+                    "value": 62.8
                 },
                 {
                     "color": "black",
-                    "value": 47.4
+                    "value": 23.3
                 }
             ]
         }

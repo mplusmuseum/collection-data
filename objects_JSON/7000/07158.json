@@ -5,12 +5,20 @@
     "objectNumber": "2018.46",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Print",
-            "zh-hant": "版畫"
+            "en": [
+                "Print"
+            ],
+            "zh-hant": [
+                "版畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -32,14 +40,22 @@
         "zh-hant": "整體： 31.3 × 31.2 厘米"
     },
     "medium": {
-        "en": "lithograph ink on paper",
+        "en": "offset lithograph print",
         "zh-hant": "平板印墨紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1721,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,91 +64,95 @@
     "color": {
         "predominant": [
             {
-                "color": "#6D6865",
-                "value": 18.6
+                "color": "#A7C2C9",
+                "value": 35.9
             },
             {
-                "color": "#7A8F95",
-                "value": 17.3
+                "color": "#403C3A",
+                "value": 11
             },
             {
-                "color": "#698999",
-                "value": 13.9
+                "color": "#8E6252",
+                "value": 9.8
             },
             {
-                "color": "#222224",
-                "value": 7.5
+                "color": "#B2C2BA",
+                "value": 6.4
             },
             {
-                "color": "#64463A",
-                "value": 7.4
+                "color": "#8DB2C4",
+                "value": 6.1
             },
             {
-                "color": "#3B3832",
-                "value": 7.2
+                "color": "#7D4A44",
+                "value": 5.6
             },
             {
-                "color": "#76877C",
-                "value": 7.1
-            },
-            {
-                "color": "#48312D",
+                "color": "#837558",
                 "value": 3.7
             },
             {
-                "color": "#707460",
+                "color": "#82856B",
+                "value": 3.4
+            },
+            {
+                "color": "#817E5A",
                 "value": 2.4
             },
             {
-                "color": "#8FA8AE",
-                "value": 2.2
+                "color": "#BCBFAA",
+                "value": 2.1
             },
             {
-                "color": "#6E6147",
-                "value": 2
+                "color": "#85988A",
+                "value": 2.1
             },
             {
-                "color": "#4A4534",
+                "color": "#CEC6BE",
+                "value": 1.9
+            },
+            {
+                "color": "#839A9E",
                 "value": 1.8
             },
             {
-                "color": "#5F3833",
-                "value": 1.3
+                "color": "#7B7163",
+                "value": 1.6
             },
             {
-                "color": "#688C91",
-                "value": 1.2
+                "color": "#3D3C3D",
+                "value": 1
             },
             {
-                "color": "#799FAD",
-                "value": 1.1
-            },
-            {
-                "color": "#2D322F",
-                "value": 1.1
+                "color": "#B18268",
+                "value": 0.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 1.3
+                    "value": 15.4
                 },
                 {
                     "color": "gray",
-                    "value": 47.7
+                    "value": 51.7
                 },
                 {
                     "color": "black",
-                    "value": 21.3
+                    "value": 12.1
                 },
                 {
                     "color": "teal",
-                    "value": 16.3
+                    "value": 6.1
                 },
                 {
                     "color": "brown",
-                    "value": 9.4
+                    "value": 9.5
+                },
+                {
+                    "color": "orange",
+                    "value": 0.7
                 }
             ]
         }

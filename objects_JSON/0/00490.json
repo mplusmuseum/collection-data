@@ -5,12 +5,20 @@
     "objectNumber": "2013.45",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -28,7 +36,7 @@
     "beginDate": 1978,
     "endDate": 1978,
     "dimension": {
-        "en": "image (sight): 121 × 90.6 cm\r\r\nframe: 136 × 105.3 cm",
+        "en": "frame: 136 × 105.3 cm\r\r\nimage (sight): 121 × 90.6 cm",
         "zh-hant": "圖像尺寸 （目測）: 121 × 90.6 厘米\r\r\n框架: 136 × 105.3 厘米"
     },
     "medium": {
@@ -142,10 +150,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "image",
+        "element": "frame",
         "unit": "cm",
-        "width": 90.6,
-        "height": 121,
+        "width": 105.3,
+        "height": 136,
         "depth": null
     }
 }

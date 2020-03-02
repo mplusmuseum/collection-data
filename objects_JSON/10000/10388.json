@@ -5,21 +5,33 @@
     "objectNumber": "CA10/1/4/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Photography",
-            "zh-hant": "建築照片"
+            "en": [
+                "Architectural Photography"
+            ],
+            "zh-hant": [
+                "建築照片"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
         "en": "Site study photographs, Peak Tower (1967–1972), Hong Kong",
-        "zh-hant": "香港太平山頂爐峰塔（1967至1972年）工地研究照片"
+        "zh-hant": "香港太平山頂觀景台（1967至1972年）工地研究照片"
     },
     "displayDate": {
         "en": "[1967–1969]",
@@ -29,7 +41,7 @@
     "endDate": 1969,
     "dimension": {
         "en": "4 items",
-        "zh-hant": "4 items"
+        "zh-hant": "4 份/張/件"
     },
     "medium": {
         "en": "gelatin silver print mounted on paper",
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2013",
         "zh-hant": "M+，香港，鍾華楠建築師有限公司捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 27,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Sepia-toned photograph of the area on top of the Peak in Hong Kong in the 1960s, before the Peak Tower had been built. A sketch of the Peak Tower has been added to the photograph in black marker."

@@ -5,12 +5,20 @@
     "objectNumber": "2012.1363",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Textile",
-            "zh-hant": "紡織品"
+            "en": [
+                "Textile"
+            ],
+            "zh-hant": [
+                "紡織品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -40,7 +48,11 @@
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
@@ -48,12 +60,12 @@
                 "value": 55.3
             },
             {
-                "color": "#7F7970",
-                "value": 36.6
+                "color": "#7D786F",
+                "value": 37.9
             },
             {
-                "color": "#4B4846",
-                "value": 5.7
+                "color": "#4D4A48",
+                "value": 5.5
             }
         ],
         "search": {
@@ -68,7 +80,7 @@
                 },
                 {
                     "color": "gray",
-                    "value": 91.9
+                    "value": 98.6
                 },
                 {
                     "color": "black",

@@ -5,12 +5,22 @@
     "objectNumber": "2015.298",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Print",
-            "zh-hant": "版畫"
+            "en": [
+                "Design Drawing",
+                "Print"
+            ],
+            "zh-hant": [
+                "設計繪圖",
+                "版畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -48,15 +58,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#F9F9F9",
-                "value": 99.6
+                "color": "#1F1E20",
+                "value": 70.4
+            },
+            {
+                "color": "#E0E0E2",
+                "value": 12.3
+            },
+            {
+                "color": "#1F2021",
+                "value": 5.1
+            },
+            {
+                "color": "#222121",
+                "value": 4
+            },
+            {
+                "color": "#D1D4D6",
+                "value": 2.7
+            },
+            {
+                "color": "#75757B",
+                "value": 2.3
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "white",
-                    "value": 99.6
+                    "value": 15.1
+                },
+                {
+                    "color": "gray",
+                    "value": 2.3
+                },
+                {
+                    "color": "black",
+                    "value": 79.5
                 }
             ]
         }

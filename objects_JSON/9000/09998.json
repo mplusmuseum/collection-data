@@ -5,16 +5,28 @@
     "objectNumber": "CA28/14/2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "29 November 1984",
-        "zh-hant": "29 November 1984"
+        "zh-hant": "1984年11月29日"
     },
     "beginDate": 1984,
     "endDate": 1984,
     "dimension": {
         "en": "sheet: 42 x 59.4 cm",
-        "zh-hant": "sheet: 42 x 59.4 cm"
+        "zh-hant": "紙本: 42 x 59.4 厘米"
     },
     "medium": {
         "en": "graphite on transparent paper",
@@ -48,11 +60,33 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D1D3D1",
+                "value": 46.7
+            },
+            {
+                "color": "#D1D4D5",
+                "value": 37.8
+            },
+            {
+                "color": "#D0D1CE",
+                "value": 12
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 96.5
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -5,12 +5,22 @@
     "objectNumber": "2016.689",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Performance",
+                "Photography"
+            ],
+            "zh-hant": [
+                "行為",
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +49,15 @@
         "en": "M+, Hong Kong. Gift of Ms Chen Ai-Gan, 2016",
         "zh-hant": "M+，香港，陳愛柑女士捐贈，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1498,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

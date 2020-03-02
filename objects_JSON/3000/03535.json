@@ -5,12 +5,22 @@
     "objectNumber": "2012.88",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Moving Image",
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "流動影像",
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Video",
-            "zh-hant": "錄像"
+            "en": [
+                "Video"
+            ],
+            "zh-hant": [
+                "錄像"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,10 +49,18 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 112,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Video still showing a close-up of a measurement scale with the number '10'. In the middle of the still, red text reads 'Summer of 1969'. The Chinese equivalent is written directly above."
         }
     ],
     "color": {

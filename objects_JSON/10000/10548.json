@@ -5,12 +5,20 @@
     "objectNumber": "2018.34",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Poster",
-            "zh-hant": "海報"
+            "en": [
+                "Poster"
+            ],
+            "zh-hant": [
+                "海報"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,8 +30,8 @@
         "zh-hant": "香港旅遊協會海報──「美妙香港」"
     },
     "displayDate": {
-        "en": "1948",
-        "zh-hant": "1948"
+        "en": "1965–1968",
+        "zh-hant": "1965–1968"
     },
     "beginDate": 1965,
     "endDate": 1968,
@@ -39,7 +47,22 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 4061,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        },
+        {
+            "id": 4062,
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

@@ -5,16 +5,28 @@
     "objectNumber": "CA28/15/2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1989,
     "dimension": {
         "en": "sheet: 42 x 59.4 cm",
-        "zh-hant": "sheet: 42 x 59.4 cm"
+        "zh-hant": "紙本: 42 x 59.4 厘米"
     },
     "medium": {
         "en": "graphite on transparent paper",
@@ -50,9 +62,39 @@
     ],
     "images": [],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#8D8F96",
+                "value": 58.7
+            },
+            {
+                "color": "#8C9195",
+                "value": 16.1
+            },
+            {
+                "color": "#A2A6B1",
+                "value": 14.2
+            },
+            {
+                "color": "#867D7E",
+                "value": 3.5
+            },
+            {
+                "color": "#8E858B",
+                "value": 2.2
+            },
+            {
+                "color": "#929593",
+                "value": 1.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 96.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

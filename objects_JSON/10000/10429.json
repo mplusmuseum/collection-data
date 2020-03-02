@@ -5,16 +5,30 @@
     "objectNumber": "CA10/3/2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Book/Periodical",
-            "zh-hant": "書藉/期刊"
+            "en": [
+                "Archival Documentation",
+                "Book/Periodical"
+            ],
+            "zh-hant": [
+                "檔存文件",
+                "書藉/期刊"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +37,13 @@
     },
     "displayDate": {
         "en": "31 August 1983",
-        "zh-hant": "31 August 1983"
+        "zh-hant": "1983年8月31日"
     },
     "beginDate": 1983,
     "endDate": 1983,
     "dimension": {
         "en": "sheet: 29.7 x 21 cm",
-        "zh-hant": "sheet: 29.7 x 21 cm"
+        "zh-hant": "紙本: 29.7 x 21 厘米"
     },
     "medium": {
         "en": "photocopy on paper",
@@ -39,7 +53,15 @@
         "en": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2013",
         "zh-hant": "M+，香港，鍾華楠建築師有限公司捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 3017,
+            "role": {
+                "en": "Subject",
+                "zh-hant": "作品主體"
+            }
+        }
+    ],
     "images": null,
     "color": {
         "predominant": null,

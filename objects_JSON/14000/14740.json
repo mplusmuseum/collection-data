@@ -5,16 +5,28 @@
     "objectNumber": "CA30/5/2/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,18 +41,30 @@
     "endDate": 1937,
     "dimension": {
         "en": "sheet: 21 x 27.8 cm",
-        "zh-hant": "sheet: 21 x 27.8 cm"
+        "zh-hant": "紙本: 21 x 27.8 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": "gelatin silver print"
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+        "zh-hant": "M+，香港，王大閎家屬捐贈，2016年"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 813,
+            "role": {
+                "en": "Author",
+                "zh-hant": "作者"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {

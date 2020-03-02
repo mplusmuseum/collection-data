@@ -5,12 +5,20 @@
     "objectNumber": "2012.1242",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -48,35 +56,35 @@
     "color": {
         "predominant": [
             {
-                "color": "#E5D2C0",
-                "value": 63.9
+                "color": "#DBC9B2",
+                "value": 74.1
             },
             {
-                "color": "#E4C8A0",
-                "value": 19.9
-            },
-            {
-                "color": "#DBB299",
+                "color": "#D0D0C1",
                 "value": 4.8
             },
             {
-                "color": "#B7BAC7",
-                "value": 3.9
+                "color": "#D9C49D",
+                "value": 4.5
             },
             {
-                "color": "#D0C9CF",
-                "value": 2
+                "color": "#C2CACF",
+                "value": 4.3
             },
             {
-                "color": "#CA7B82",
-                "value": 1.8
+                "color": "#CCD0CD",
+                "value": 4.1
+            },
+            {
+                "color": "#AFBBCE",
+                "value": 3.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "orange",
-                    "value": 24.7
+                    "value": 78.6
                 },
                 {
                     "color": "pink",
@@ -84,11 +92,11 @@
                 },
                 {
                     "color": "gray",
-                    "value": 3.9
+                    "value": 8.1
                 },
                 {
                     "color": "white",
-                    "value": 66
+                    "value": 8.9
                 }
             ]
         }

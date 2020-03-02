@@ -5,12 +5,20 @@
     "objectNumber": "2016.536",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -46,6 +54,13 @@
                 "en": "Designer",
                 "zh-hant": "設計師"
             }
+        },
+        {
+            "id": 2941,
+            "role": {
+                "en": "Production Company",
+                "zh-hant": "製作公司"
+            }
         }
     ],
     "images": [
@@ -56,27 +71,55 @@
     "color": {
         "predominant": [
             {
-                "color": "#B6B6B6",
-                "value": 43.4
+                "color": "#ACAEAC",
+                "value": 19.7
             },
             {
-                "color": "#1E1E1E",
-                "value": 31.3
+                "color": "#21201F",
+                "value": 19.1
             },
             {
-                "color": "#A5A5A4",
-                "value": 21.1
+                "color": "#A6A8A7",
+                "value": 15.6
+            },
+            {
+                "color": "#C1C3C3",
+                "value": 15.1
+            },
+            {
+                "color": "#1F1E20",
+                "value": 9.8
+            },
+            {
+                "color": "#ABACAA",
+                "value": 6.8
+            },
+            {
+                "color": "#A3A3A1",
+                "value": 3.9
+            },
+            {
+                "color": "#262828",
+                "value": 3.1
+            },
+            {
+                "color": "#A2A4A4",
+                "value": 1.6
+            },
+            {
+                "color": "#787570",
+                "value": 1.2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 64.5
+                    "value": 64
                 },
                 {
                     "color": "black",
-                    "value": 31.3
+                    "value": 31.9
                 }
             ]
         }

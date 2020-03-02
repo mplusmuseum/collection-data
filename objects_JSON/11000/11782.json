@@ -5,16 +5,28 @@
     "objectNumber": "CA32/1/3",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "4 July 1983, copy made [2016]",
-        "zh-hant": "4 July 1983, copy made [2016]"
+        "zh-hant": "1983年7月4日，[2016年]複製"
     },
     "beginDate": 1983,
     "endDate": 2016,
     "dimension": {
         "en": "sheet: 30.8 x 42.1 cm",
-        "zh-hant": "sheet: 30.8 x 42.1 cm"
+        "zh-hant": "紙本: 30.8 x 42.1 厘米"
     },
     "medium": {
         "en": "photocopy on paper",
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong. Gift of Raj Rewal, 2017",
         "zh-hant": "M+，香港，Raj Rewal捐贈，2017年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1612,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

@@ -5,12 +5,22 @@
     "objectNumber": "2016.307",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Sculpture",
-            "zh-hant": "雕塑"
+            "en": [
+                "Painting",
+                "Sculpture"
+            ],
+            "zh-hant": [
+                "繪畫",
+                "雕塑"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +49,15 @@
         "en": "M+, Hong Kong. Gift of Thilo Heinzmann, 2014",
         "zh-hant": "M+，香港，Thilo Heinzmann捐贈，2014年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 930,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

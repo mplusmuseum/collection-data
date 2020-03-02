@@ -5,12 +5,24 @@
     "objectNumber": "2012.1368",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Moving Image",
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "流動影像",
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Video Installation",
-            "zh-hant": "錄像裝置"
+            "en": [
+                "Video",
+                "Video Installation"
+            ],
+            "zh-hant": [
+                "錄像",
+                "錄像裝置"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,21 +51,10 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [
-        {
-            "id": 584,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": "Video Installation consisting of twenty-six televisions on labeled white pedestals, arranged in a circle. Facing inward, each broadcasts a news report from the first moments of the new millennium."
-        },
-        {
-            "altText": null
         }
     ],
     "color": {

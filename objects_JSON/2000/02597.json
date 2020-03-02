@@ -5,12 +5,20 @@
     "objectNumber": "2012.940",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -28,7 +36,7 @@
     "beginDate": 1974,
     "endDate": 1974,
     "dimension": {
-        "en": "overall: 196 × 145 cm",
+        "en": "overall (sight): 180.2 × 130 cm\r\r\nframe: 195.3 × 144.7 × 11 cm",
         "zh-hant": "整體: 196 × 145 厘米"
     },
     "medium": {
@@ -56,67 +64,59 @@
     "color": {
         "predominant": [
             {
-                "color": "#CAC2B7",
-                "value": 23.8
+                "color": "#4B312B",
+                "value": 28.2
             },
             {
-                "color": "#4B302B",
-                "value": 19.6
-            },
-            {
-                "color": "#6D4730",
-                "value": 9
+                "color": "#6D462F",
+                "value": 12.6
             },
             {
                 "color": "#65332E",
-                "value": 7.8
+                "value": 11.6
             },
             {
-                "color": "#7F6743",
-                "value": 6.8
-            },
-            {
-                "color": "#47463D",
-                "value": 6
+                "color": "#47463E",
+                "value": 9.1
             },
             {
                 "color": "#767B7C",
-                "value": 4.5
+                "value": 6.7
             },
             {
-                "color": "#473E2E",
+                "color": "#473F2E",
+                "value": 5.1
+            },
+            {
+                "color": "#806640",
+                "value": 4.4
+            },
+            {
+                "color": "#837B6E",
+                "value": 3.9
+            },
+            {
+                "color": "#6B706D",
+                "value": 3.7
+            },
+            {
+                "color": "#68685F",
                 "value": 3.5
             },
             {
-                "color": "#877E71",
-                "value": 3.4
+                "color": "#4A4B50",
+                "value": 3.3
             },
             {
-                "color": "#48494D",
-                "value": 2.5
-            },
-            {
-                "color": "#6B706C",
-                "value": 2.5
-            },
-            {
-                "color": "#696960",
-                "value": 2.4
-            },
-            {
-                "color": "#65666C",
-                "value": 2.2
-            },
-            {
-                "color": "#D0D0CA",
-                "value": 1.8
+                "color": "#65676D",
+                "value": 3.2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 27.4
+                    "value": 39.8
                 },
                 {
                     "color": "orange",
@@ -124,7 +124,7 @@
                 },
                 {
                     "color": "gray",
-                    "value": 38.8
+                    "value": 24.2
                 },
                 {
                     "color": "green",
@@ -136,7 +136,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 12
+                    "value": 14.3
                 },
                 {
                     "color": "yellow",
@@ -148,7 +148,7 @@
                 },
                 {
                     "color": "brown",
-                    "value": 15.8
+                    "value": 17.1
                 }
             ]
         }
@@ -156,8 +156,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 145,
-        "height": 196,
+        "width": 130,
+        "height": 180.2,
         "depth": null
     }
 }

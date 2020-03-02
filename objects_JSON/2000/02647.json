@@ -5,12 +5,20 @@
     "objectNumber": "2012.894",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,35 +64,27 @@
     "color": {
         "predominant": [
             {
-                "color": "#837044",
-                "value": 54.4
+                "color": "#C7C2B8",
+                "value": 78.1
             },
             {
-                "color": "#241D0E",
-                "value": 25.6
+                "color": "#B9A075",
+                "value": 9.9
             },
             {
-                "color": "#B6AA7B",
-                "value": 5.7
+                "color": "#977D57",
+                "value": 6.6
             },
             {
-                "color": "#1F1606",
-                "value": 3.8
-            },
-            {
-                "color": "#B6AE7E",
-                "value": 3.7
-            },
-            {
-                "color": "#1D130D",
-                "value": 2.3
+                "color": "#C6C5BB",
+                "value": 4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 73.9
+                    "value": 82.1
                 },
                 {
                     "color": "black",
@@ -92,11 +92,11 @@
                 },
                 {
                     "color": "brown",
-                    "value": 54.4
+                    "value": 6.6
                 },
                 {
                     "color": "orange",
-                    "value": 9.4
+                    "value": 9.9
                 }
             ]
         }

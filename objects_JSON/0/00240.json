@@ -5,12 +5,24 @@
     "objectNumber": "2013.255",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Work on Paper",
-            "zh-hant": "紙本作品"
+            "en": [
+                "Ink Art",
+                "Painting",
+                "Work on Paper"
+            ],
+            "zh-hant": [
+                "水墨",
+                "繪畫",
+                "紙本作品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,40 +68,52 @@
     "color": {
         "predominant": [
             {
-                "color": "#000000",
-                "value": 51.4
+                "color": "#2E2C2B",
+                "value": 27.1
             },
             {
-                "color": "#030829",
-                "value": 14.7
+                "color": "#435A6B",
+                "value": 14.1
             },
             {
-                "color": "#2B4579",
-                "value": 11.7
+                "color": "#2D2E34",
+                "value": 8.6
             },
             {
-                "color": "#2F0002",
-                "value": 4.4
+                "color": "#402D2A",
+                "value": 8.6
             },
             {
-                "color": "#132273",
-                "value": 4.2
+                "color": "#7D3B38",
+                "value": 8.5
             },
             {
-                "color": "#6F020E",
-                "value": 4
+                "color": "#384F73",
+                "value": 8.1
             },
             {
-                "color": "#425CBE",
-                "value": 3.5
+                "color": "#2D3B46",
+                "value": 7.4
             },
             {
-                "color": "#2D3BCA",
-                "value": 1
+                "color": "#343A3E",
+                "value": 6.7
             },
             {
-                "color": "#D4061B",
-                "value": 1
+                "color": "#2B3243",
+                "value": 3.6
+            },
+            {
+                "color": "#C8AEA5",
+                "value": 1.1
+            },
+            {
+                "color": "#F22B24",
+                "value": 0.8
+            },
+            {
+                "color": "#4C575E",
+                "value": 0.8
             }
         ],
         "search": {
@@ -100,11 +124,19 @@
                 },
                 {
                     "color": "blue",
-                    "value": 35.1
+                    "value": 8.1
                 },
                 {
                     "color": "black",
-                    "value": 51.4
+                    "value": 62.1
+                },
+                {
+                    "color": "gray",
+                    "value": 1.9
+                },
+                {
+                    "color": "teal",
+                    "value": 14.1
                 }
             ]
         }

@@ -5,12 +5,20 @@
     "objectNumber": "2018.52",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -41,6 +49,13 @@
     },
     "constituents": [
         {
+            "id": 3019,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
             "id": 1697,
             "role": {
                 "en": "Manufacturer",
@@ -48,11 +63,53 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#DEDCDA",
+                "value": 45.5
+            },
+            {
+                "color": "#E2E2E0",
+                "value": 21.3
+            },
+            {
+                "color": "#720C19",
+                "value": 12.8
+            },
+            {
+                "color": "#833E3F",
+                "value": 12.2
+            },
+            {
+                "color": "#95837F",
+                "value": 2.8
+            },
+            {
+                "color": "#B17472",
+                "value": 1.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 26.4
+                },
+                {
+                    "color": "gray",
+                    "value": 2.8
+                },
+                {
+                    "color": "white",
+                    "value": 66.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

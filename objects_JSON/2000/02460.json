@@ -5,12 +5,20 @@
     "objectNumber": "2012.770",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,61 +58,49 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on canvas rendered in bright green and black tones, depicting a portrait. The person's face looks like corn on the cob, without facial features. The portrait's outline resembles Mao Zedong."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#000000",
-                "value": 57.1
+                "color": "#173431",
+                "value": 52.9
             },
             {
-                "color": "#002203",
-                "value": 13.5
+                "color": "#064139",
+                "value": 19.2
             },
             {
-                "color": "#03D647",
-                "value": 6.9
+                "color": "#18292B",
+                "value": 11.4
             },
             {
-                "color": "#00842A",
-                "value": 4.4
+                "color": "#086B53",
+                "value": 7.1
             },
             {
-                "color": "#00291E",
-                "value": 3.9
+                "color": "#036456",
+                "value": 3.4
             },
             {
-                "color": "#2DE81B",
-                "value": 3.7
-            },
-            {
-                "color": "#002028",
-                "value": 3.3
-            },
-            {
-                "color": "#007109",
+                "color": "#438F32",
                 "value": 1.9
-            },
-            {
-                "color": "#00030E",
-                "value": 1.4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "green",
-                    "value": 30.4
+                    "value": 1.9
                 },
                 {
                     "color": "black",
-                    "value": 58.5
+                    "value": 64.3
                 },
                 {
                     "color": "teal",
-                    "value": 7.2
+                    "value": 29.7
                 }
             ]
         }

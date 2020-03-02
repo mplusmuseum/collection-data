@@ -5,12 +5,20 @@
     "objectNumber": "2012.771",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,33 +58,29 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on canvas rendered in red and yellow tones, depicting two men on a field, in front of a car. The men are covered with bulges that resemble corn kernels."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#D50926",
-                "value": 82.7
+                "color": "#80000B",
+                "value": 80.2
             },
             {
-                "color": "#94051D",
-                "value": 8
+                "color": "#CE4000",
+                "value": 9.9
             },
             {
-                "color": "#FE5F21",
-                "value": 3.1
-            },
-            {
-                "color": "#DDE0F3",
-                "value": 2.1
+                "color": "#B50B02",
+                "value": 9.4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 90.7
+                    "value": 99.4
                 },
                 {
                     "color": "orange",

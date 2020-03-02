@@ -5,16 +5,28 @@
     "objectNumber": "CA28/20/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1988,
     "dimension": {
         "en": "sheet: 18.5 x 25.9 cm",
-        "zh-hant": "sheet: 18.5 x 25.9 cm"
+        "zh-hant": "紙本: 18.5 x 25.9 厘米"
     },
     "medium": {
         "en": "ink and crayon on paper",
@@ -48,11 +60,49 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CED0D1",
+                "value": 35.2
+            },
+            {
+                "color": "#CED0CF",
+                "value": 20
+            },
+            {
+                "color": "#CFD0CD",
+                "value": 17.9
+            },
+            {
+                "color": "#CCC4C2",
+                "value": 13.5
+            },
+            {
+                "color": "#CDCED2",
+                "value": 6.5
+            },
+            {
+                "color": "#837B77",
+                "value": 1.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 15.4
+                },
+                {
+                    "color": "white",
+                    "value": 79.7
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -5,12 +5,20 @@
     "objectNumber": "2015.153",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -48,27 +56,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#919191",
-                "value": 49.9
+                "color": "#CDCBC8",
+                "value": 64.3
             },
             {
-                "color": "#BBBBBB",
-                "value": 26.4
+                "color": "#857F7C",
+                "value": 12.2
             },
             {
-                "color": "#323232",
-                "value": 23.7
+                "color": "#3A3433",
+                "value": 9.3
+            },
+            {
+                "color": "#DEDEDC",
+                "value": 8.8
+            },
+            {
+                "color": "#DFDDDE",
+                "value": 2.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 76.3
+                    "value": 12.2
                 },
                 {
                     "color": "black",
-                    "value": 23.7
+                    "value": 9.3
+                },
+                {
+                    "color": "white",
+                    "value": 75.7
                 }
             ]
         }

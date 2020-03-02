@@ -5,16 +5,28 @@
     "objectNumber": "CA17/2/3",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "21 November 1991",
-        "zh-hant": "21 November 1991"
+        "zh-hant": "1991年11月21日"
     },
     "beginDate": 1991,
     "endDate": 1991,
     "dimension": {
         "en": "sheet: 29.7 × 42.7 cm",
-        "zh-hant": "sheet: 29.7 × 42.7 cm"
+        "zh-hant": "紙本: 29.7 × 42.7 厘米"
     },
     "medium": {
         "en": "photocopy, ink, and marker ink on paper",
@@ -39,12 +51,74 @@
         "en": "M+, Hong Kong. Gift of Suenn Ho, 2015",
         "zh-hant": "M+，香港，何巽捐贈，2015年"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 1134,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#F8F8EC",
+                "value": 43.5
+            },
+            {
+                "color": "#FAFAF9",
+                "value": 39.3
+            },
+            {
+                "color": "#282826",
+                "value": 3.3
+            },
+            {
+                "color": "#F5E3AC",
+                "value": 2.9
+            },
+            {
+                "color": "#81817E",
+                "value": 2.2
+            },
+            {
+                "color": "#F9F0B6",
+                "value": 1.4
+            },
+            {
+                "color": "#81807F",
+                "value": 1.4
+            },
+            {
+                "color": "#F0F7F3",
+                "value": 1.3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 3.6
+                },
+                {
+                    "color": "white",
+                    "value": 84.1
+                },
+                {
+                    "color": "yellow",
+                    "value": 4.3
+                },
+                {
+                    "color": "black",
+                    "value": 3.3
+                }
+            ]
         }
     },
     "dimensionDetails": {

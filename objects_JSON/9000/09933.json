@@ -5,16 +5,28 @@
     "objectNumber": "CA28/5/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1978,
     "dimension": {
         "en": "overall: 25.9 x 20.9 cm\r\n3 pages",
-        "zh-hant": "overall: 25.9 x 20.9 cm\r\n3 pages"
+        "zh-hant": "整體: 25.9 x 20.9 厘米\r\n3 頁"
     },
     "medium": {
         "en": "ink on paper",
@@ -48,11 +60,45 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D4D7D9",
+                "value": 78.9
+            },
+            {
+                "color": "#CDD0D5",
+                "value": 6.1
+            },
+            {
+                "color": "#D1D4D2",
+                "value": 5.8
+            },
+            {
+                "color": "#C8C9C3",
+                "value": 3.9
+            },
+            {
+                "color": "#717683",
+                "value": 1.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 5
+                },
+                {
+                    "color": "white",
+                    "value": 90.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

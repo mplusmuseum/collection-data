@@ -5,16 +5,28 @@
     "objectNumber": "CA9/3/6",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "16 October 1984",
-        "zh-hant": "16 October 1984"
+        "zh-hant": "1984年10月16日"
     },
     "beginDate": 1984,
     "endDate": 1984,
     "dimension": {
         "en": "sheet: 99 x 71 cm",
-        "zh-hant": "sheet: 99 x 71 cm"
+        "zh-hant": "紙本: 99 x 71 厘米"
     },
     "medium": {
         "en": "diazotype (copy) on tracing vellum",
@@ -39,7 +51,22 @@
         "en": "M+, Hong Kong. Gift of Andrew Lee King Fun & Associates Architects Limited, 2013",
         "zh-hant": "M+，香港，李景勳、雷煥庭建築師事務所捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 16,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        },
+        {
+            "id": 1368,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": [

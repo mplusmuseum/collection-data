@@ -5,16 +5,30 @@
     "objectNumber": "CA10/2/4",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Photography",
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築照片",
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -29,7 +43,7 @@
     "endDate": 1966,
     "dimension": {
         "en": "4 items",
-        "zh-hant": "4 items"
+        "zh-hant": "4 份/張/件"
     },
     "medium": {
         "en": "black-and-white slide, colour slide",
@@ -55,11 +69,65 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#0C101A",
+                "value": 46
+            },
+            {
+                "color": "#637E92",
+                "value": 19.2
+            },
+            {
+                "color": "#90A7B6",
+                "value": 14.2
+            },
+            {
+                "color": "#596F8A",
+                "value": 5.9
+            },
+            {
+                "color": "#1D2E39",
+                "value": 4.1
+            },
+            {
+                "color": "#809AAE",
+                "value": 3.4
+            },
+            {
+                "color": "#060606",
+                "value": 2.2
+            },
+            {
+                "color": "#7D95A2",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 15.6
+                },
+                {
+                    "color": "blue",
+                    "value": 5.9
+                },
+                {
+                    "color": "black",
+                    "value": 52.3
+                },
+                {
+                    "color": "teal",
+                    "value": 22.6
+                }
+            ]
         }
     },
     "dimensionDetails": null

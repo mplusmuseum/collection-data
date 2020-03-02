@@ -5,16 +5,28 @@
     "objectNumber": "CA29/2/5",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Photography",
-            "zh-hant": "建築照片"
+            "en": [
+                "Architectural Photography"
+            ],
+            "zh-hant": [
+                "建築照片"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1970,
     "dimension": {
         "en": "3 items",
-        "zh-hant": "3 items"
+        "zh-hant": "3 份/張/件"
     },
     "medium": {
         "en": "gelatin silver print mounted on paper; medium-format colour negative; colour slide",
@@ -39,29 +51,45 @@
         "en": "M+, Hong Kong. Gift of Architects Team 3, 2015",
         "zh-hant": "M+，香港，建築三人小組捐贈，2015年"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 1204,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#E4DCC7",
-                "value": 47
+                "color": "#874544",
+                "value": 41.7
             },
             {
-                "color": "#F2F0DD",
-                "value": 21.2
+                "color": "#CEA494",
+                "value": 37.9
             },
             {
-                "color": "#918A7A",
-                "value": 13.4
+                "color": "#B57E78",
+                "value": 6.3
             },
             {
-                "color": "#7A7A6D",
-                "value": 9.9
+                "color": "#41070B",
+                "value": 5.8
             },
             {
-                "color": "#45463E",
-                "value": 6.9
+                "color": "#5B1317",
+                "value": 2.7
+            },
+            {
+                "color": "#965849",
+                "value": 2.3
             }
         ],
         "search": {
@@ -77,6 +105,14 @@
                 {
                     "color": "black",
                     "value": 6.9
+                },
+                {
+                    "color": "red",
+                    "value": 58.8
+                },
+                {
+                    "color": "orange",
+                    "value": 37.9
                 }
             ]
         }

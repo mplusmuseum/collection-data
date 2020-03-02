@@ -5,12 +5,20 @@
     "objectNumber": "2012.242",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Installation",
-            "zh-hant": "裝置藝術"
+            "en": [
+                "Installation"
+            ],
+            "zh-hant": [
+                "裝置藝術"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -32,14 +40,21 @@
         "zh-hant": "尺寸不一"
     },
     "medium": {
-        "en": "mixed media installation",
-        "zh-hant": "混合媒介裝置"
+        "en": "wood, paper, corrugated cardboard, cord, and mixed media",
+        "zh-hant": "木、紙、瓦通紙板、繩及混合媒"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [
+        {
+            "id": 143,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        },
         {
             "id": 144,
             "role": {

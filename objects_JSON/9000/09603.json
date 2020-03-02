@@ -5,12 +5,20 @@
     "objectNumber": "2018.350",
     "classification": {
         "area": {
-            "en": "Moving Image",
-            "zh-hant": "流動影像"
+            "en": [
+                "Moving Image"
+            ],
+            "zh-hant": [
+                "流動影像"
+            ]
         },
         "category": {
-            "en": "Video Installation",
-            "zh-hant": "錄像裝置"
+            "en": [
+                "Video Installation"
+            ],
+            "zh-hant": [
+                "錄像裝置"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1473,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,67 +64,79 @@
     "color": {
         "predominant": [
             {
-                "color": "#1A1F1B",
-                "value": 27.7
+                "color": "#5B683F",
+                "value": 25
             },
             {
-                "color": "#0A0F0E",
-                "value": 16.8
+                "color": "#D1D6CF",
+                "value": 14.5
             },
             {
-                "color": "#7D9198",
-                "value": 9.9
+                "color": "#3D4529",
+                "value": 11.8
             },
             {
-                "color": "#0A0D09",
-                "value": 9.1
+                "color": "#D3D7CE",
+                "value": 11
             },
             {
-                "color": "#0B0C08",
-                "value": 7.9
+                "color": "#767A67",
+                "value": 8
             },
             {
-                "color": "#CCE5C8",
-                "value": 6.9
+                "color": "#697266",
+                "value": 5.2
             },
             {
-                "color": "#9AB0B4",
-                "value": 5.9
+                "color": "#636644",
+                "value": 5.1
             },
             {
-                "color": "#050505",
+                "color": "#394237",
                 "value": 4.6
             },
             {
-                "color": "#060604",
-                "value": 3.1
+                "color": "#393522",
+                "value": 3.3
             },
             {
-                "color": "#E3F2CC",
-                "value": 2.8
+                "color": "#2D3B26",
+                "value": 2.5
             },
             {
-                "color": "#151D20",
-                "value": 2.1
+                "color": "#414138",
+                "value": 2.4
+            },
+            {
+                "color": "#6A5B37",
+                "value": 1.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 15.7
+                    "value": 13.3
                 },
                 {
                     "color": "green",
-                    "value": 6.9
+                    "value": 2.5
                 },
                 {
                     "color": "black",
-                    "value": 71.3
+                    "value": 7
                 },
                 {
                     "color": "yellow",
                     "value": 2.8
+                },
+                {
+                    "color": "white",
+                    "value": 25.4
+                },
+                {
+                    "color": "brown",
+                    "value": 47.2
                 }
             ]
         }

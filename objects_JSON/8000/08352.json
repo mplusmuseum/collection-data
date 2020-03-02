@@ -5,12 +5,22 @@
     "objectNumber": "2018.1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Architectural Photography",
+                "Photography"
+            ],
+            "zh-hant": [
+                "建築照片",
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +49,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2756,
+            "role": {
+                "en": "Photographer",
+                "zh-hant": "攝影師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,67 +66,31 @@
     "color": {
         "predominant": [
             {
-                "color": "#2F2B31",
-                "value": 16.3
+                "color": "#272427",
+                "value": 72.8
             },
             {
-                "color": "#08010A",
-                "value": 14.1
+                "color": "#302B2B",
+                "value": 16.7
             },
             {
-                "color": "#160D19",
-                "value": 14.1
+                "color": "#5D5F67",
+                "value": 4.4
             },
             {
-                "color": "#030109",
-                "value": 13.1
-            },
-            {
-                "color": "#2F2D2C",
-                "value": 12.3
-            },
-            {
-                "color": "#180E16",
-                "value": 5.8
-            },
-            {
-                "color": "#120F1A",
-                "value": 5.8
-            },
-            {
-                "color": "#6D6863",
-                "value": 5.2
-            },
-            {
-                "color": "#080107",
-                "value": 3.7
-            },
-            {
-                "color": "#231819",
-                "value": 2
-            },
-            {
-                "color": "#060102",
-                "value": 1.4
-            },
-            {
-                "color": "#626066",
-                "value": 1.2
-            },
-            {
-                "color": "#D4C8B5",
-                "value": 0.9
+                "color": "#766D6A",
+                "value": 1.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 7.3
+                    "value": 6
                 },
                 {
                     "color": "black",
-                    "value": 88.6
+                    "value": 89.5
                 }
             ]
         }

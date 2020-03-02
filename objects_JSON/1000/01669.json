@@ -5,12 +5,20 @@
     "objectNumber": "2015.278",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,43 +64,47 @@
     "color": {
         "predominant": [
             {
-                "color": "#99908A",
-                "value": 67.2
+                "color": "#98918B",
+                "value": 74.5
             },
             {
-                "color": "#B3AAA2",
-                "value": 19.7
+                "color": "#B4ADA3",
+                "value": 10.8
             },
             {
-                "color": "#785B4B",
-                "value": 2
+                "color": "#383431",
+                "value": 2.4
             },
             {
-                "color": "#8F8F86",
-                "value": 1.7
+                "color": "#C2C2B8",
+                "value": 1.5
             },
             {
-                "color": "#403B37",
+                "color": "#909088",
+                "value": 1.5
+            },
+            {
+                "color": "#877559",
                 "value": 1.4
             },
             {
-                "color": "#BFBFB5",
+                "color": "#755949",
                 "value": 1.2
             },
             {
-                "color": "#847157",
-                "value": 1.2
-            },
-            {
-                "color": "#3F2C24",
+                "color": "#797A7E",
                 "value": 1.1
+            },
+            {
+                "color": "#848789",
+                "value": 0.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 89.8
+                    "value": 90.1
                 },
                 {
                     "color": "black",
@@ -100,7 +112,7 @@
                 },
                 {
                     "color": "brown",
-                    "value": 3.2
+                    "value": 2.6
                 }
             ]
         }

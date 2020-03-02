@@ -5,12 +5,20 @@
     "objectNumber": "2017.214",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,31 +64,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#141414",
-                "value": 73.8
+                "color": "#221F1F",
+                "value": 44
             },
             {
-                "color": "#7E7E7E",
+                "color": "#312E30",
+                "value": 22.7
+            },
+            {
+                "color": "#817D7C",
                 "value": 14.5
             },
             {
-                "color": "#D0D0D0",
-                "value": 11.7
+                "color": "#DBD9D8",
+                "value": 9.2
+            },
+            {
+                "color": "#F8F7F8",
+                "value": 4.1
+            },
+            {
+                "color": "#6A6769",
+                "value": 1.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 14.5
+                    "value": 16.1
                 },
                 {
                     "color": "white",
-                    "value": 11.7
+                    "value": 13.3
                 },
                 {
                     "color": "black",
-                    "value": 73.8
+                    "value": 66.6
                 }
             ]
         }

@@ -5,12 +5,20 @@
     "objectNumber": "2012.728",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,46 +58,22 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on canvas depicting a man's portrait rendered largely in grey and green tones. His eyes are closed and his head is tilted upwards. His neck and shoulders appear to merge into the background, which features a dark shadow on the left."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#81987D",
-                "value": 42.8
+                "color": "#958B7B",
+                "value": 67.3
             },
             {
-                "color": "#A5BE9A",
-                "value": 22.8
+                "color": "#CFCABC",
+                "value": 25.7
             },
             {
-                "color": "#909C7D",
-                "value": 10.9
-            },
-            {
-                "color": "#97B484",
-                "value": 5.6
-            },
-            {
-                "color": "#A8BA91",
-                "value": 4.2
-            },
-            {
-                "color": "#839E74",
-                "value": 3.8
-            },
-            {
-                "color": "#5C8275",
-                "value": 2.8
-            },
-            {
-                "color": "#8FA175",
-                "value": 2
-            },
-            {
-                "color": "#60856E",
-                "value": 1.9
+                "color": "#CDCABA",
+                "value": 7.1
             }
         ],
         "search": {
@@ -101,6 +85,10 @@
                 {
                     "color": "teal",
                     "value": 2.8
+                },
+                {
+                    "color": "gray",
+                    "value": 100
                 }
             ]
         }

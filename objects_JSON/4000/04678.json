@@ -5,12 +5,20 @@
     "objectNumber": "2015.213",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a man crouching on a staircase in a stairwell, viewed from above."
@@ -48,27 +64,31 @@
     "color": {
         "predominant": [
             {
-                "color": "#1B1B1B",
-                "value": 55.7
+                "color": "#CCC9C7",
+                "value": 44.9
             },
             {
-                "color": "#838383",
-                "value": 26.5
+                "color": "#342F2E",
+                "value": 23.1
             },
             {
-                "color": "#C6C6C6",
-                "value": 17.8
+                "color": "#837C79",
+                "value": 14
+            },
+            {
+                "color": "#100B0B",
+                "value": 13.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 44.3
+                    "value": 59
                 },
                 {
                     "color": "black",
-                    "value": 55.7
+                    "value": 36.7
                 }
             ]
         }

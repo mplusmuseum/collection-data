@@ -5,12 +5,20 @@
     "objectNumber": "2015.202",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph. In a gravel lot, a man with shaggy hair and a tight shirt with a wide collar crosses his arms and smiles, standing in front of a mirrored pillar that supports a large boulder."
@@ -48,31 +64,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#D7D7D7",
-                "value": 41.2
+                "color": "#D4D1CF",
+                "value": 48.8
             },
             {
-                "color": "#252525",
-                "value": 35.1
+                "color": "#292423",
+                "value": 14.1
             },
             {
-                "color": "#7B7B7B",
-                "value": 23.7
+                "color": "#847E7B",
+                "value": 13.8
+            },
+            {
+                "color": "#D8D8D6",
+                "value": 9.7
+            },
+            {
+                "color": "#130E0D",
+                "value": 7
+            },
+            {
+                "color": "#D8D6D7",
+                "value": 1.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 23.7
+                    "value": 13.8
                 },
                 {
                     "color": "white",
-                    "value": 41.2
+                    "value": 60.1
                 },
                 {
                     "color": "black",
-                    "value": 35.1
+                    "value": 21.2
                 }
             ]
         }

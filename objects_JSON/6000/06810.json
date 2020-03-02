@@ -5,12 +5,20 @@
     "objectNumber": "2016.483",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,67 +64,67 @@
     "color": {
         "predominant": [
             {
-                "color": "#B4B4C3",
-                "value": 32.1
+                "color": "#B3B2C0",
+                "value": 37.4
             },
             {
                 "color": "#9A97A3",
-                "value": 19.3
+                "value": 18.7
             },
             {
-                "color": "#B3A7B3",
-                "value": 12.2
+                "color": "#B4A9B3",
+                "value": 9.8
             },
             {
-                "color": "#928A85",
-                "value": 7.9
+                "color": "#928B85",
+                "value": 7.7
             },
             {
-                "color": "#30456B",
-                "value": 6.5
+                "color": "#2F446B",
+                "value": 6.2
             },
             {
-                "color": "#39586A",
-                "value": 3.6
+                "color": "#37586C",
+                "value": 3.7
             },
             {
-                "color": "#9B949A",
-                "value": 2.5
-            },
-            {
-                "color": "#56675A",
-                "value": 2.4
-            },
-            {
-                "color": "#B9B8B9",
+                "color": "#999398",
                 "value": 2.1
             },
             {
-                "color": "#4E6747",
-                "value": 1.6
+                "color": "#556659",
+                "value": 1.9
             },
             {
-                "color": "#59686B",
-                "value": 1.1
+                "color": "#4C6644",
+                "value": 1.8
             },
             {
-                "color": "#426257",
-                "value": 0.9
-            },
-            {
-                "color": "#405F63",
-                "value": 0.7
-            },
-            {
-                "color": "#45634F",
-                "value": 0.7
-            },
-            {
-                "color": "#8E8E81",
-                "value": 0.7
+                "color": "#58676A",
+                "value": 1.2
             },
             {
                 "color": "#2C3750",
+                "value": 0.9
+            },
+            {
+                "color": "#5C6C42",
+                "value": 0.9
+            },
+            {
+                "color": "#416257",
+                "value": 0.8
+            },
+            {
+                "color": "#3E6064",
+                "value": 0.7
+            },
+            {
+                "color": "#797055",
+                "value": 0.7
+            },
+            {
+                "color": "#C2BEBE",
                 "value": 0.7
             }
         ],
@@ -124,19 +132,23 @@
             "google": [
                 {
                     "color": "gray",
-                    "value": 81
+                    "value": 79.5
                 },
                 {
                     "color": "green",
-                    "value": 2.3
+                    "value": 2.7
                 },
                 {
                     "color": "blue",
-                    "value": 7.2
+                    "value": 7.1
                 },
                 {
                     "color": "teal",
-                    "value": 4.6
+                    "value": 5.2
+                },
+                {
+                    "color": "brown",
+                    "value": 0.7
                 }
             ]
         }

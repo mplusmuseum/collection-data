@@ -5,12 +5,20 @@
     "objectNumber": "2015.303",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Furniture",
-            "zh-hant": "家具"
+            "en": [
+                "Furniture"
+            ],
+            "zh-hant": [
+                "家具"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -45,6 +53,13 @@
             "role": {
                 "en": "Designer",
                 "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 1102,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
             }
         }
     ],

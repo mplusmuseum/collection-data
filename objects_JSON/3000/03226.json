@@ -5,12 +5,20 @@
     "objectNumber": "2012.518",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,53 +58,61 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on canvas depicting a table covered with a red tablecloth, which features pink flowers. A colourful teapot with wilted flowers and its lid are on the table."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#000000",
-                "value": 55.9
+                "color": "#2C2A28",
+                "value": 35.8
             },
             {
-                "color": "#860005",
-                "value": 23.4
+                "color": "#7A052F",
+                "value": 30.5
             },
             {
-                "color": "#B6021E",
-                "value": 5.6
+                "color": "#242224",
+                "value": 10.9
             },
             {
-                "color": "#390001",
-                "value": 5.5
+                "color": "#2E3230",
+                "value": 6.5
             },
             {
-                "color": "#E154B8",
-                "value": 1.1
+                "color": "#853753",
+                "value": 5.1
             },
             {
-                "color": "#C81E83",
-                "value": 1.1
+                "color": "#422B2A",
+                "value": 2.6
             },
             {
-                "color": "#EA77DF",
-                "value": 0.6
+                "color": "#7E726A",
+                "value": 1.2
             },
             {
-                "color": "#E2CEC2",
-                "value": 0.5
+                "color": "#85704C",
+                "value": 1
+            },
+            {
+                "color": "#755645",
+                "value": 0.8
+            },
+            {
+                "color": "#B56E8B",
+                "value": 0.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 34.6
+                    "value": 30.5
                 },
                 {
                     "color": "pink",
-                    "value": 2.9
+                    "value": 5.9
                 },
                 {
                     "color": "white",
@@ -104,7 +120,15 @@
                 },
                 {
                     "color": "black",
-                    "value": 55.9
+                    "value": 55.8
+                },
+                {
+                    "color": "gray",
+                    "value": 1.2
+                },
+                {
+                    "color": "brown",
+                    "value": 1.8
                 }
             ]
         }

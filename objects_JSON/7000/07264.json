@@ -5,12 +5,20 @@
     "objectNumber": "2016.581",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2968,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,47 +64,55 @@
     "color": {
         "predominant": [
             {
-                "color": "#E9E9E9",
-                "value": 86.8
+                "color": "#E6E8E8",
+                "value": 46.2
             },
             {
-                "color": "#DDDED9",
-                "value": 2.3
+                "color": "#E9E9EB",
+                "value": 24
             },
             {
-                "color": "#D2D3D9",
-                "value": 1.7
+                "color": "#E5E4E1",
+                "value": 11.1
             },
             {
-                "color": "#38373C",
-                "value": 1.4
+                "color": "#EBECEB",
+                "value": 6.4
             },
             {
-                "color": "#3F3D39",
-                "value": 1.4
+                "color": "#343538",
+                "value": 2
             },
             {
-                "color": "#7D7772",
-                "value": 1.2
+                "color": "#EFEEEF",
+                "value": 1.8
             },
             {
-                "color": "#75747C",
-                "value": 1.2
+                "color": "#E2E3E0",
+                "value": 1.8
+            },
+            {
+                "color": "#73737B",
+                "value": 1
+            },
+            {
+                "color": "#7A736A",
+                "value": 0.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 2.4
+                    "value": 1.9
                 },
                 {
                     "color": "white",
-                    "value": 90.8
+                    "value": 91.4
                 },
                 {
                     "color": "black",
-                    "value": 2.8
+                    "value": 2
                 }
             ]
         }

@@ -5,16 +5,28 @@
     "objectNumber": "CA30/5/1/10",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Archival Documentation",
-            "zh-hant": "檔存文件"
+            "en": [
+                "Archival Documentation"
+            ],
+            "zh-hant": [
+                "檔存文件"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "3 June 1997",
-        "zh-hant": "3 June 1997"
+        "zh-hant": "1997年6月3日"
     },
     "beginDate": 1997,
     "endDate": 1997,
     "dimension": {
         "en": "sheet: 27.1 x 21 cm",
-        "zh-hant": "sheet: 27.1 x 21 cm"
+        "zh-hant": "紙本: 27.1 x 21 厘米"
     },
     "medium": {
         "en": "printout on paper; graphite on paper",
@@ -37,9 +49,17 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016",
-        "zh-hant": "M+, Hong Kong. Gift of Family of Wang Dahong, 2016"
+        "zh-hant": "M+，香港，王大閎家屬捐贈，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 813,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        }
+    ],
     "images": null,
     "color": {
         "predominant": null,

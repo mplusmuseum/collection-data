@@ -5,12 +5,20 @@
     "objectNumber": "2013.522",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Drawing",
-            "zh-hant": "繪圖"
+            "en": [
+                "Drawing"
+            ],
+            "zh-hant": [
+                "繪圖"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -28,7 +36,7 @@
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
-        "en": "frame: 109 × 77 × 4 cm\r\r\nsheet: 104 × 70 cm",
+        "en": "overall: 155 × 100.5 × 10.9 cm",
         "zh-hant": "圖像: 104 × 70 厘米\r\r\n框架: 109 × 77 × 4 厘米"
     },
     "medium": {
@@ -50,7 +58,7 @@
     ],
     "images": [
         {
-            "altText": "Ink and colour pencil painting on paper of a film poster with a red, white, and blue striped background and a black and white image of a person's torso in the center. Text above and below this image reads, \"A film by Jean-Pierre Fouard\" and \"Voyage au bout de la nuit\"."
+            "altText": "Ink and colour pencil painting on paper of a film poster with a red, white, and blue striped background and a black and white image of a person's torso in the centre. Text above and below this image reads, \"A film by Jean-Pierre Fouard\" and \"Voyage au bout de la nuit\"."
         }
     ],
     "color": {
@@ -110,10 +118,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "frame",
+        "element": "overall",
         "unit": "cm",
-        "width": 77,
-        "height": 109,
-        "depth": 4
+        "width": 100.5,
+        "height": 155,
+        "depth": 10.9
     }
 }

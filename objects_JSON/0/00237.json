@@ -5,12 +5,22 @@
     "objectNumber": "2013.276",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Ink Art",
+                "Painting"
+            ],
+            "zh-hant": [
+                "水墨",
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,15 +49,7 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [
-        {
-            "id": 478,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": "Ink and colour painting on a vertical sheet of white paper, with splotches, streaks, and smears of black ink structured by a grid of drips and faint lines."

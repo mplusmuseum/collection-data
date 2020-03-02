@@ -5,12 +5,22 @@
     "objectNumber": "2016.477",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Work on Paper",
-            "zh-hant": "紙本作品"
+            "en": [
+                "Ink Art",
+                "Work on Paper"
+            ],
+            "zh-hant": [
+                "水墨",
+                "紙本作品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -19,7 +29,7 @@
     },
     "title": {
         "en": "Splash VIII (Triptych)",
-        "zh-hant": "淋漓 之八 (一組三幅)"
+        "zh-hant": "淋漓之八 （一組三幅）"
     },
     "displayDate": {
         "en": "2013",
@@ -56,31 +66,31 @@
     "color": {
         "predominant": [
             {
-                "color": "#867C73",
-                "value": 62
+                "color": "#877C73",
+                "value": 61.7
             },
             {
-                "color": "#D7D2CB",
-                "value": 32.3
+                "color": "#D6D2CB",
+                "value": 32.5
             },
             {
-                "color": "#48413C",
-                "value": 4.6
+                "color": "#47403B",
+                "value": 5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 62
+                    "value": 61.7
                 },
                 {
                     "color": "white",
-                    "value": 32.3
+                    "value": 32.5
                 },
                 {
                     "color": "black",
-                    "value": 4.6
+                    "value": 5
                 }
             ]
         }

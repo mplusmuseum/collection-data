@@ -5,12 +5,20 @@
     "objectNumber": "2018.7",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Model",
-            "zh-hant": "建築模型"
+            "en": [
+                "Architectural Model"
+            ],
+            "zh-hant": [
+                "建築模型"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,22 @@
         "en": "M+, Hong Kong. Gift of Anthony Ng Heung-Hung, 2018",
         "zh-hant": "M+，香港，吴享洪捐贈，2018年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1245,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 1535,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": [

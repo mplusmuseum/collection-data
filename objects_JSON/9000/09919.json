@@ -5,16 +5,28 @@
     "objectNumber": "CA28/3/7",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,17 +35,17 @@
     },
     "displayDate": {
         "en": "[circa 1973]",
-        "zh-hant": "[circa 1973]"
+        "zh-hant": "[約1973年]"
     },
     "beginDate": 1971,
     "endDate": 1975,
     "dimension": {
         "en": "sheet: 19.5 x 24.7 cm",
-        "zh-hant": "sheet: 19.5 x 24.7 cm"
+        "zh-hant": "紙本: 19.5 x 24.7 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
-        "zh-hant": "chromogenic colour print"
+        "zh-hant": "彩色照片"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -48,11 +60,69 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C7C7CB",
+                "value": 39.4
+            },
+            {
+                "color": "#383131",
+                "value": 15.8
+            },
+            {
+                "color": "#CFD2D3",
+                "value": 12.9
+            },
+            {
+                "color": "#71635D",
+                "value": 7.8
+            },
+            {
+                "color": "#7E675A",
+                "value": 5.8
+            },
+            {
+                "color": "#C9C4C1",
+                "value": 5.2
+            },
+            {
+                "color": "#302B2F",
+                "value": 4.2
+            },
+            {
+                "color": "#CBC8CA",
+                "value": 3.2
+            },
+            {
+                "color": "#CCCCC9",
+                "value": 1.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 55.6
+                },
+                {
+                    "color": "white",
+                    "value": 14.5
+                },
+                {
+                    "color": "black",
+                    "value": 20
+                },
+                {
+                    "color": "brown",
+                    "value": 5.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

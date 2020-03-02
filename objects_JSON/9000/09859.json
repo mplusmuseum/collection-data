@@ -5,16 +5,28 @@
     "objectNumber": "CA25/3/19",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Book/Periodical",
-            "zh-hant": "書藉/期刊"
+            "en": [
+                "Book/Periodical"
+            ],
+            "zh-hant": [
+                "書藉/期刊"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "February 1982",
-        "zh-hant": "February 1982"
+        "zh-hant": "1982年2月"
     },
     "beginDate": 1982,
     "endDate": 1982,
     "dimension": {
         "en": "overall: 28.4 x 21.4 cm\r\n16 pages",
-        "zh-hant": "overall: 28.4 x 21.4 cm\r\n16 pages"
+        "zh-hant": "整體: 28.4 x 21.4 厘米\r\n16 頁"
     },
     "medium": {
         "en": "printing ink on paper",
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong. Gift of Wong Tung & Partners Limited, 2013",
         "zh-hant": "M+，香港，王董建築師事務捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 24,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": null,

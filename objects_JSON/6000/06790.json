@@ -5,12 +5,20 @@
     "objectNumber": "2016.275",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -18,8 +26,8 @@
         }
     },
     "title": {
-        "en": null,
-        "zh-hant": null
+        "en": "Boats: Towards Abstraction",
+        "zh-hant": "船：通往抽象"
     },
     "displayDate": {
         "en": "1962",
@@ -32,14 +40,22 @@
         "zh-hant": "連框： 59.4 × 59.2 × 3 厘米\r\n圖像 （目測）： 23.8 × 43.4 厘米"
     },
     "medium": {
-        "en": "gouache and black ink on paper",
+        "en": "gouache and ink on paper",
         "zh-hant": "水粉墨水紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1528,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Gouache and ink painting of multiple triangles put together in sailboat-like shapes on top of a messily painted brown, blue, and green background."
@@ -48,76 +64,56 @@
     "color": {
         "predominant": [
             {
-                "color": "#704C3C",
-                "value": 34
+                "color": "#885439",
+                "value": 30
             },
             {
-                "color": "#7E6B4B",
-                "value": 13.9
+                "color": "#D9D3C7",
+                "value": 16
             },
             {
-                "color": "#998B7D",
-                "value": 5.6
+                "color": "#8F764A",
+                "value": 11.6
             },
             {
-                "color": "#BBBDC2",
-                "value": 5.6
+                "color": "#C0A270",
+                "value": 10.3
             },
             {
-                "color": "#BDC4C9",
-                "value": 5.3
+                "color": "#282724",
+                "value": 9.7
             },
             {
-                "color": "#2F2D29",
-                "value": 4.8
+                "color": "#BB8B68",
+                "value": 4.6
             },
             {
-                "color": "#7F7B50",
-                "value": 3.6
+                "color": "#8E8953",
+                "value": 3
             },
             {
-                "color": "#252428",
-                "value": 2.9
-            },
-            {
-                "color": "#828754",
-                "value": 2.8
-            },
-            {
-                "color": "#738151",
-                "value": 2.7
-            },
-            {
-                "color": "#B5ADA7",
-                "value": 2.5
-            },
-            {
-                "color": "#3C2A23",
+                "color": "#BCB567",
                 "value": 2.3
             },
             {
-                "color": "#383121",
-                "value": 2.2
-            },
-            {
-                "color": "#2D3430",
-                "value": 2.2
-            },
-            {
-                "color": "#693E38",
+                "color": "#7C8C57",
                 "value": 2
             },
             {
-                "color": "#747661",
-                "value": 1.6
+                "color": "#8B9056",
+                "value": 2
             },
             {
-                "color": "#566756",
-                "value": 1
+                "color": "#403A2B",
+                "value": 1.4
             },
             {
-                "color": "#2E321F",
-                "value": 0.7
+                "color": "#B1B766",
+                "value": 1.4
+            },
+            {
+                "color": "#DBDAD0",
+                "value": 0.9
             }
         ],
         "search": {
@@ -132,15 +128,27 @@
                 },
                 {
                     "color": "green",
-                    "value": 3.7
+                    "value": 2
                 },
                 {
                     "color": "black",
-                    "value": 14.3
+                    "value": 11.1
                 },
                 {
                     "color": "brown",
-                    "value": 56.6
+                    "value": 44.6
+                },
+                {
+                    "color": "orange",
+                    "value": 15
+                },
+                {
+                    "color": "white",
+                    "value": 16.9
+                },
+                {
+                    "color": "yellow",
+                    "value": 5.7
                 }
             ]
         }

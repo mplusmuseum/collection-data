@@ -5,12 +5,20 @@
     "objectNumber": "2017.300",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -32,22 +40,14 @@
         "zh-hant": "框架: 35.5 × 33 × 2 厘米\r\n圖像 （目測）: 27.8 × 25.1 厘米"
     },
     "medium": {
-        "en": "instant print",
-        "zh-hant": "即影即有照片"
+        "en": "dye diffusion transfer print",
+        "zh-hant": "染料擴散轉印相片"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [
-        {
-            "id": 1627,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": null
@@ -56,87 +56,155 @@
     "color": {
         "predominant": [
             {
-                "color": "#EDEEEA",
-                "value": 54.5
+                "color": "#730C0B",
+                "value": 18.5
             },
             {
-                "color": "#E2DFD9",
-                "value": 12.2
+                "color": "#D7DADD",
+                "value": 14.2
             },
             {
-                "color": "#2F2E2D",
-                "value": 11.5
+                "color": "#D7D9DD",
+                "value": 6.8
             },
             {
-                "color": "#2E2D30",
-                "value": 3
+                "color": "#2F1E1D",
+                "value": 6.6
             },
             {
-                "color": "#8F0F16",
+                "color": "#404D74",
+                "value": 6
+            },
+            {
+                "color": "#2E2E43",
+                "value": 4.9
+            },
+            {
+                "color": "#27242B",
+                "value": 4
+            },
+            {
+                "color": "#784567",
+                "value": 3.9
+            },
+            {
+                "color": "#201D1C",
+                "value": 3.8
+            },
+            {
+                "color": "#3E2F45",
+                "value": 2.7
+            },
+            {
+                "color": "#4B100A",
+                "value": 2.6
+            },
+            {
+                "color": "#80424C",
+                "value": 2.5
+            },
+            {
+                "color": "#BFA165",
                 "value": 2.2
             },
             {
-                "color": "#BB131C",
-                "value": 1.9
+                "color": "#452C3E",
+                "value": 2
             },
             {
-                "color": "#30201F",
-                "value": 1.6
+                "color": "#90401E",
+                "value": 1.8
             },
             {
-                "color": "#E1E9E3",
+                "color": "#7C9184",
+                "value": 1.5
+            },
+            {
+                "color": "#5C7C8E",
+                "value": 1.5
+            },
+            {
+                "color": "#1E1A14",
                 "value": 1.4
             },
             {
-                "color": "#464F7D",
-                "value": 1.2
+                "color": "#874930",
+                "value": 1.4
             },
             {
-                "color": "#969086",
+                "color": "#A2B6A6",
+                "value": 1
+            },
+            {
+                "color": "#80826C",
+                "value": 1
+            },
+            {
+                "color": "#6B4267",
                 "value": 0.9
             },
             {
-                "color": "#7A3E4A",
+                "color": "#C1B888",
+                "value": 0.9
+            },
+            {
+                "color": "#6D8384",
+                "value": 0.9
+            },
+            {
+                "color": "#BCBBA2",
                 "value": 0.8
             },
             {
-                "color": "#824C70",
-                "value": 0.7
+                "color": "#2E3333",
+                "value": 0.8
             },
             {
-                "color": "#E1E2E9",
-                "value": 0.6
-            },
-            {
-                "color": "#CAD9DC",
-                "value": 0.6
+                "color": "#837471",
+                "value": 0.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 4.9
+                    "value": 26.9
                 },
                 {
                     "color": "gray",
-                    "value": 0.9
+                    "value": 4.2
                 },
                 {
                     "color": "white",
-                    "value": 69.3
+                    "value": 21
                 },
                 {
                     "color": "blue",
-                    "value": 1.2
+                    "value": 10.9
                 },
                 {
                     "color": "black",
-                    "value": 16.1
+                    "value": 16.5
                 },
                 {
                     "color": "purple",
-                    "value": 0.7
+                    "value": 9.6
+                },
+                {
+                    "color": "orange",
+                    "value": 3.1
+                },
+                {
+                    "color": "yellow",
+                    "value": 0.8
+                },
+                {
+                    "color": "teal",
+                    "value": 1.5
+                },
+                {
+                    "color": "brown",
+                    "value": 1
                 }
             ]
         }

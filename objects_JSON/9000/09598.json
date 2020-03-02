@@ -5,16 +5,28 @@
     "objectNumber": "CA15/4/5",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Print",
-            "zh-hant": "版畫"
+            "en": [
+                "Print"
+            ],
+            "zh-hant": [
+                "版畫"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "5 October 1989",
-        "zh-hant": "5 October 1989"
+        "zh-hant": "1989年10月5日"
     },
     "beginDate": 1989,
     "endDate": 1989,
     "dimension": {
         "en": "sheet: 39.8 x 20 cm",
-        "zh-hant": "sheet: 39.8 x 20 cm"
+        "zh-hant": "紙本: 39.8 x 20 厘米"
     },
     "medium": {
         "en": "offset lithograph on paper",
@@ -39,12 +51,98 @@
         "en": "M+, Hong Kong. Gift of Simon Kwan & Associates Limited, 2014",
         "zh-hant": "M+，香港，關善明建築師事務所捐贈，2014年"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 1389,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D2941E",
+                "value": 34.8
+            },
+            {
+                "color": "#DAB25B",
+                "value": 22.9
+            },
+            {
+                "color": "#F6EFE7",
+                "value": 7.3
+            },
+            {
+                "color": "#91783C",
+                "value": 4.7
+            },
+            {
+                "color": "#FAFAEB",
+                "value": 4.5
+            },
+            {
+                "color": "#F5FBF6",
+                "value": 4.2
+            },
+            {
+                "color": "#8F6B13",
+                "value": 3.6
+            },
+            {
+                "color": "#D5C75C",
+                "value": 3.6
+            },
+            {
+                "color": "#F5FDFE",
+                "value": 2.8
+            },
+            {
+                "color": "#89823D",
+                "value": 2.1
+            },
+            {
+                "color": "#F7F7FB",
+                "value": 2
+            },
+            {
+                "color": "#FAF5F9",
+                "value": 1.2
+            },
+            {
+                "color": "#7B8041",
+                "value": 0.7
+            },
+            {
+                "color": "#D5BF28",
+                "value": 0.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 57.8
+                },
+                {
+                    "color": "white",
+                    "value": 22.1
+                },
+                {
+                    "color": "yellow",
+                    "value": 4.2
+                },
+                {
+                    "color": "brown",
+                    "value": 11.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

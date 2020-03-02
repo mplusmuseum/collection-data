@@ -5,16 +5,30 @@
     "objectNumber": "CA39/5/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Photography",
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築照片",
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -23,13 +37,13 @@
     },
     "displayDate": {
         "en": "[1960s–1980s]",
-        "zh-hant": "[1960s–1980s]"
+        "zh-hant": "[1960年代至1980年代]"
     },
     "beginDate": 1960,
     "endDate": 1989,
     "dimension": {
         "en": "45 items",
-        "zh-hant": "45 items"
+        "zh-hant": "45 份/張/件"
     },
     "medium": {
         "en": "black-and-white slide",
@@ -37,9 +51,17 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
-        "zh-hant": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017"
+        "zh-hant": "M+，香港，王秋華捐贈，2017年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2823,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,51 +70,35 @@
     "color": {
         "predominant": [
             {
-                "color": "#E5EAED",
-                "value": 19.7
+                "color": "#877F91",
+                "value": 69
             },
             {
-                "color": "#7B7571",
-                "value": 18
+                "color": "#A69FAE",
+                "value": 15.2
             },
             {
-                "color": "#D9DDE3",
-                "value": 13.7
-            },
-            {
-                "color": "#EDF0EE",
-                "value": 10.3
-            },
-            {
-                "color": "#EAEBE5",
-                "value": 9.5
-            },
-            {
-                "color": "#CBC6BE",
-                "value": 8.9
-            },
-            {
-                "color": "#77767C",
+                "color": "#413844",
                 "value": 5.7
             },
             {
-                "color": "#433D3B",
-                "value": 4.3
+                "color": "#857985",
+                "value": 3.6
             },
             {
-                "color": "#3A373D",
-                "value": 3.5
+                "color": "#291B25",
+                "value": 1.2
             },
             {
-                "color": "#767275",
-                "value": 3
+                "color": "#2D2332",
+                "value": 1.2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 35.6
+                    "value": 87.8
                 },
                 {
                     "color": "white",
@@ -100,7 +106,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 7.8
+                    "value": 8.1
                 }
             ]
         }

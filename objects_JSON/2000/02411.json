@@ -5,12 +5,22 @@
     "objectNumber": "2012.705",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Performance",
+                "Photography"
+            ],
+            "zh-hant": [
+                "行為",
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,39 +66,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#DADADA",
-                "value": 38.1
+                "color": "#D2D3D6",
+                "value": 34.4
             },
             {
-                "color": "#D2D2D7",
-                "value": 26.5
+                "color": "#D7D9DB",
+                "value": 30.1
             },
             {
-                "color": "#2F2F2F",
-                "value": 18.2
+                "color": "#302E30",
+                "value": 15.1
             },
             {
-                "color": "#7B7B7B",
-                "value": 11.7
+                "color": "#7E7E81",
+                "value": 11.4
             },
             {
-                "color": "#87878A",
-                "value": 3.7
+                "color": "#2D2B2B",
+                "value": 3.3
+            },
+            {
+                "color": "#828485",
+                "value": 2.4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 15.4
+                    "value": 13.8
                 },
                 {
                     "color": "white",
-                    "value": 64.6
+                    "value": 64.4
                 },
                 {
                     "color": "black",
-                    "value": 18.2
+                    "value": 18.4
                 }
             ]
         }

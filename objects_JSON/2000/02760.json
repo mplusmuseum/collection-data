@@ -5,12 +5,20 @@
     "objectNumber": "2012.345",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,7 +58,7 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on canvas depicting film negatives arranged in rows. Several figures in the images are represented as outlines. The images are primarily monochrome, and the last image is painted blue."
         }
     ],
     "color": {

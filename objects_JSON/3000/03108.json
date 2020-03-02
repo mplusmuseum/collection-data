@@ -5,12 +5,20 @@
     "objectNumber": "2012.1428",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,15 +47,7 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [
-        {
-            "id": 603,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": null
@@ -56,79 +56,83 @@
     "color": {
         "predominant": [
             {
-                "color": "#332018",
-                "value": 27.4
+                "color": "#89533C",
+                "value": 26.1
             },
             {
-                "color": "#86573F",
-                "value": 19.2
+                "color": "#402A28",
+                "value": 14.5
             },
             {
-                "color": "#893418",
-                "value": 13.4
+                "color": "#252125",
+                "value": 12
             },
             {
-                "color": "#8F8376",
-                "value": 6.2
+                "color": "#8E827F",
+                "value": 8.5
             },
             {
-                "color": "#BA8059",
-                "value": 5.9
+                "color": "#2E2627",
+                "value": 8.3
             },
             {
-                "color": "#BEAF9E",
-                "value": 5.1
+                "color": "#BCB2AD",
+                "value": 6.7
             },
             {
-                "color": "#B35422",
-                "value": 4
+                "color": "#B37B54",
+                "value": 6.1
             },
             {
-                "color": "#221D15",
-                "value": 3.7
+                "color": "#723C35",
+                "value": 4.7
             },
             {
-                "color": "#2B2723",
-                "value": 2.2
+                "color": "#848690",
+                "value": 2.4
             },
             {
-                "color": "#7E2415",
-                "value": 2.2
-            },
-            {
-                "color": "#948068",
-                "value": 2.1
-            },
-            {
-                "color": "#BB9D7B",
-                "value": 2
-            },
-            {
-                "color": "#441C0D",
+                "color": "#ACAFB8",
                 "value": 1.8
+            },
+            {
+                "color": "#B0B9C0",
+                "value": 1.3
+            },
+            {
+                "color": "#847C82",
+                "value": 0.9
+            },
+            {
+                "color": "#CACBC8",
+                "value": 0.9
+            },
+            {
+                "color": "#BC915F",
+                "value": 0.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 17.4
+                    "value": 4.7
                 },
                 {
                     "color": "orange",
-                    "value": 7.8
+                    "value": 0.8
                 },
                 {
                     "color": "gray",
-                    "value": 11.3
+                    "value": 22.5
                 },
                 {
                     "color": "black",
-                    "value": 5.9
+                    "value": 34.8
                 },
                 {
                     "color": "brown",
-                    "value": 52.8
+                    "value": 32.3
                 }
             ]
         }

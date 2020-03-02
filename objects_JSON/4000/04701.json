@@ -5,12 +5,20 @@
     "objectNumber": "2015.236",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a person wrapped in a large paper bag who is lying on the floor of a room. There is a tall pile of baskets in the corner next to them. A pile of short pieces of rope lies on their other side."
@@ -48,31 +64,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#D2D2D2",
-                "value": 48.3
+                "color": "#D1CFCD",
+                "value": 69.7
             },
             {
-                "color": "#262626",
-                "value": 26.3
+                "color": "#87817E",
+                "value": 11.3
             },
             {
-                "color": "#898989",
-                "value": 25.4
+                "color": "#191211",
+                "value": 5
+            },
+            {
+                "color": "#D6D6D4",
+                "value": 4.8
+            },
+            {
+                "color": "#363130",
+                "value": 3.9
+            },
+            {
+                "color": "#D3D2D3",
+                "value": 1.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 25.4
+                    "value": 11.3
                 },
                 {
                     "color": "white",
-                    "value": 48.3
+                    "value": 76.2
                 },
                 {
                     "color": "black",
-                    "value": 26.3
+                    "value": 9
                 }
             ]
         }

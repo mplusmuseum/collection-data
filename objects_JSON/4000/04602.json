@@ -5,12 +5,20 @@
     "objectNumber": "2015.137",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -42,33 +50,41 @@
     "constituents": [],
     "images": [
         {
-            "altText": "Monochrome photograph of a pole resting its weight on a knotted rope hanging from the ceiling. The pole leans against the rope in a diagonal line with one end touching the center of metal sheet that rests on the floor. On the far wall there is another sculptural work."
+            "altText": "Monochrome photograph of a pole resting its weight on a knotted rope hanging from the ceiling. The pole leans against the rope in a diagonal line with one end touching the centre of metal sheet that rests on the floor. On the far wall there is another sculptural work."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#1B1B1B",
-                "value": 43.3
+                "color": "#CECBC7",
+                "value": 54.9
             },
             {
-                "color": "#878787",
-                "value": 29.4
+                "color": "#867F7C",
+                "value": 24.7
             },
             {
-                "color": "#C6C6C6",
-                "value": 27.3
+                "color": "#454141",
+                "value": 10.4
+            },
+            {
+                "color": "#353234",
+                "value": 7.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 56.7
+                    "value": 24.7
                 },
                 {
                     "color": "black",
-                    "value": 43.3
+                    "value": 18.1
+                },
+                {
+                    "color": "white",
+                    "value": 54.9
                 }
             ]
         }

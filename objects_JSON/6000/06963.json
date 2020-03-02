@@ -5,12 +5,20 @@
     "objectNumber": "2017.407",
     "classification": {
         "area": {
-            "en": "Moving Image",
-            "zh-hant": "流動影像"
+            "en": [
+                "Moving Image"
+            ],
+            "zh-hant": [
+                "流動影像"
+            ]
         },
         "category": {
-            "en": "Video",
-            "zh-hant": "錄像"
+            "en": [
+                "Video"
+            ],
+            "zh-hant": [
+                "錄像"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 984,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

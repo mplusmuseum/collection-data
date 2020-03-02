@@ -5,16 +5,28 @@
     "objectNumber": "CA35/3/5",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Photography",
-            "zh-hant": "建築照片"
+            "en": [
+                "Architectural Photography"
+            ],
+            "zh-hant": [
+                "建築照片"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1970,
     "dimension": {
         "en": "sheet: 20.2 x 30.3 cm",
-        "zh-hant": "sheet: 20.2 x 30.3 cm"
+        "zh-hant": "紙本: 20.2 x 30.3 厘米"
     },
     "medium": {
         "en": "digital print",
@@ -55,11 +67,69 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CCD2D5",
+                "value": 27.2
+            },
+            {
+                "color": "#717B7D",
+                "value": 25.4
+            },
+            {
+                "color": "#31302B",
+                "value": 15
+            },
+            {
+                "color": "#454A48",
+                "value": 7.7
+            },
+            {
+                "color": "#6A716D",
+                "value": 6
+            },
+            {
+                "color": "#76776C",
+                "value": 4.9
+            },
+            {
+                "color": "#1B1A1B",
+                "value": 3.4
+            },
+            {
+                "color": "#7A766F",
+                "value": 2
+            },
+            {
+                "color": "#E3E4E7",
+                "value": 2
+            },
+            {
+                "color": "#363226",
+                "value": 1.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 38.4
+                },
+                {
+                    "color": "white",
+                    "value": 29.1
+                },
+                {
+                    "color": "black",
+                    "value": 27.9
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -5,16 +5,28 @@
     "objectNumber": "CA35/1/2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Photography",
-            "zh-hant": "建築照片"
+            "en": [
+                "Architectural Photography"
+            ],
+            "zh-hant": [
+                "建築照片"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1962,
     "dimension": {
         "en": "2 items",
-        "zh-hant": "2 items"
+        "zh-hant": "2 份/張/件"
     },
     "medium": {
         "en": "digital print",
@@ -46,13 +58,89 @@
                 "en": "Architect",
                 "zh-hant": "建築師"
             }
+        },
+        {
+            "id": 1412,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 1413,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#2B2B24",
+                "value": 32.6
+            },
+            {
+                "color": "#757B76",
+                "value": 13.5
+            },
+            {
+                "color": "#27251B",
+                "value": 13.1
+            },
+            {
+                "color": "#727469",
+                "value": 9.5
+            },
+            {
+                "color": "#3A403A",
+                "value": 7.1
+            },
+            {
+                "color": "#C3C6C7",
+                "value": 6
+            },
+            {
+                "color": "#838B8B",
+                "value": 4.9
+            },
+            {
+                "color": "#C2C6C4",
+                "value": 3.1
+            },
+            {
+                "color": "#D5D3D0",
+                "value": 2.4
+            },
+            {
+                "color": "#2F3123",
+                "value": 2.3
+            },
+            {
+                "color": "#CDCDC8",
+                "value": 2.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 37
+                },
+                {
+                    "color": "white",
+                    "value": 4.6
+                },
+                {
+                    "color": "black",
+                    "value": 55.1
+                }
+            ]
         }
     },
     "dimensionDetails": null

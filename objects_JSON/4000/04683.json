@@ -5,12 +5,20 @@
     "objectNumber": "2015.218",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of large windows taken from inside a room. The windows are covered in transparent blinds. Through the blinds, an empty concrete space surrounded by bushes is visible outside."
@@ -48,16 +64,24 @@
     "color": {
         "predominant": [
             {
-                "color": "#232323",
-                "value": 65.1
+                "color": "#D9D4CC",
+                "value": 39.3
             },
             {
-                "color": "#E3E3E3",
-                "value": 20.4
+                "color": "#1D1613",
+                "value": 32.5
             },
             {
-                "color": "#777777",
+                "color": "#7E7468",
                 "value": 14.5
+            },
+            {
+                "color": "#3D3530",
+                "value": 8.3
+            },
+            {
+                "color": "#2F2921",
+                "value": 2.3
             }
         ],
         "search": {
@@ -68,11 +92,11 @@
                 },
                 {
                     "color": "white",
-                    "value": 20.4
+                    "value": 39.3
                 },
                 {
                     "color": "black",
-                    "value": 65.1
+                    "value": 43.1
                 }
             ]
         }

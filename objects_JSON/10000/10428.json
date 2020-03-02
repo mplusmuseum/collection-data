@@ -5,21 +5,35 @@
     "objectNumber": "CA10/3/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Ephemera",
-            "zh-hant": "Ephemera"
+            "en": [
+                "Archival Documentation",
+                "Ephemera"
+            ],
+            "zh-hant": [
+                "檔存文件",
+                "暫時性的媒材"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
         "en": "Greeting card, Fitch and Chung Architects",
-        "zh-hant": "Fitch & Chung建築事務所賀卡"
+        "zh-hant": "費鍾建築設計事務所問侯卡"
     },
     "displayDate": {
         "en": "1973",
@@ -29,7 +43,7 @@
     "endDate": 1973,
     "dimension": {
         "en": "sheet: 20.5 × 7.6 cm",
-        "zh-hant": "sheet: 20.5 × 7.6 cm"
+        "zh-hant": "紙本: 20.5 × 7.6 厘米"
     },
     "medium": {
         "en": "printing ink on paperboard",
@@ -39,7 +53,15 @@
         "en": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2013",
         "zh-hant": "M+，香港，鍾華楠建築師有限公司捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 3017,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,36 +70,32 @@
     "color": {
         "predominant": [
             {
-                "color": "#7FA4BC",
-                "value": 57.1
+                "color": "#EDECEB",
+                "value": 40.2
             },
             {
-                "color": "#424A41",
-                "value": 27.6
+                "color": "#EDEBED",
+                "value": 29.9
             },
             {
-                "color": "#47493E",
-                "value": 3.2
+                "color": "#46423D",
+                "value": 7.4
             },
             {
-                "color": "#9FB6C2",
-                "value": 1.7
+                "color": "#B4C0D0",
+                "value": 7.2
             },
             {
-                "color": "#E4C08F",
-                "value": 1.7
+                "color": "#889FBC",
+                "value": 6
             },
             {
-                "color": "#CD9266",
-                "value": 1.6
+                "color": "#A8BBCC",
+                "value": 2.5
             },
             {
-                "color": "#F3E1C5",
-                "value": 1.5
-            },
-            {
-                "color": "#786549",
-                "value": 1.3
+                "color": "#8AA7C2",
+                "value": 2.2
             }
         ],
         "search": {
@@ -88,19 +106,23 @@
                 },
                 {
                     "color": "gray",
-                    "value": 1.7
+                    "value": 9.7
                 },
                 {
                     "color": "black",
-                    "value": 30.8
+                    "value": 7.4
                 },
                 {
                     "color": "teal",
-                    "value": 57.1
+                    "value": 8.2
                 },
                 {
                     "color": "brown",
                     "value": 1.3
+                },
+                {
+                    "color": "white",
+                    "value": 70.1
                 }
             ]
         }

@@ -5,12 +5,20 @@
     "objectNumber": "2016.635",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -46,6 +54,13 @@
                 "en": "Designer",
                 "zh-hant": "設計師"
             }
+        },
+        {
+            "id": 2934,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
     "images": [
@@ -56,27 +71,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#D7D7D7",
-                "value": 89.7
+                "color": "#D1D3D3",
+                "value": 51.4
             },
             {
-                "color": "#727369",
+                "color": "#DEDDDC",
+                "value": 15.4
+            },
+            {
+                "color": "#D4D6D5",
+                "value": 9.8
+            },
+            {
+                "color": "#D7D7D9",
+                "value": 8.6
+            },
+            {
+                "color": "#D1D2CE",
+                "value": 5.7
+            },
+            {
+                "color": "#707268",
                 "value": 4.8
-            },
-            {
-                "color": "#CACBC5",
-                "value": 3.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 8.4
+                    "value": 4.8
                 },
                 {
                     "color": "white",
-                    "value": 89.7
+                    "value": 90.9
                 }
             ]
         }

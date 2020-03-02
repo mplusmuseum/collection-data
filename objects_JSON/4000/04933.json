@@ -5,12 +5,20 @@
     "objectNumber": "2016.98",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Collage",
-            "zh-hant": "拼貼"
+            "en": [
+                "Collage"
+            ],
+            "zh-hant": [
+                "拼貼"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -28,7 +36,7 @@
     "beginDate": 1973,
     "endDate": 1973,
     "dimension": {
-        "en": "sheet: 53.9 × 48 cm",
+        "en": "sheet: 53.9 × 47.9 cm",
         "zh-hant": "紙本: 53.9 × 48 厘米"
     },
     "medium": {
@@ -206,9 +214,9 @@
         }
     },
     "dimensionDetails": {
-        "element": "overall",
+        "element": "sheet",
         "unit": "cm",
-        "width": 48,
+        "width": 47.9,
         "height": 53.9,
         "depth": null
     }

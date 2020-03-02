@@ -5,12 +5,20 @@
     "objectNumber": "2015.235",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of three rolls of woven mats lying in a row on the floor. They are connected with a rope that goes over the left roll, under the middle roll, and around the right roll."
@@ -48,27 +64,23 @@
     "color": {
         "predominant": [
             {
-                "color": "#6A6A6A",
-                "value": 47.2
+                "color": "#8C8480",
+                "value": 51.3
             },
             {
-                "color": "#DFDFDF",
-                "value": 29.2
-            },
-            {
-                "color": "#3F3F3F",
-                "value": 23.7
+                "color": "#D7D2CC",
+                "value": 44
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 47.2
+                    "value": 51.3
                 },
                 {
                     "color": "white",
-                    "value": 29.2
+                    "value": 44
                 },
                 {
                     "color": "black",

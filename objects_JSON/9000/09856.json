@@ -5,16 +5,28 @@
     "objectNumber": "CA25/3/16",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Ephemera",
-            "zh-hant": "Ephemera"
+            "en": [
+                "Ephemera"
+            ],
+            "zh-hant": [
+                "暫時性的媒材"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "[circa 1980]",
-        "zh-hant": "[circa 1980]"
+        "zh-hant": "[約1980年]"
     },
     "beginDate": 1978,
     "endDate": 1982,
     "dimension": {
         "en": "5 items",
-        "zh-hant": "5 items"
+        "zh-hant": "5 份/張/件"
     },
     "medium": {
         "en": "photocopy on paper",
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong. Gift of Wong Tung & Partners Limited, 2013",
         "zh-hant": "M+，香港，王董建築師事務捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 72,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": null,

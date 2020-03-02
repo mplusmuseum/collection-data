@@ -5,12 +5,20 @@
     "objectNumber": "2016.428",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Sculpture",
-            "zh-hant": "雕塑"
+            "en": [
+                "Sculpture"
+            ],
+            "zh-hant": [
+                "雕塑"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1336,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,19 +64,31 @@
     "color": {
         "predominant": [
             {
-                "color": "#EFEFEF",
-                "value": 54
+                "color": "#EAE9E9",
+                "value": 41.3
             },
             {
-                "color": "#DFE0DC",
-                "value": 44.4
+                "color": "#E6E6E4",
+                "value": 25.2
+            },
+            {
+                "color": "#EBEAEB",
+                "value": 13.5
+            },
+            {
+                "color": "#EAEBEB",
+                "value": 9
+            },
+            {
+                "color": "#E5E7E5",
+                "value": 6.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "white",
-                    "value": 98.4
+                    "value": 95.5
                 }
             ]
         }

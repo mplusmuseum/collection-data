@@ -5,16 +5,28 @@
     "objectNumber": "CA28/9/6",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Book/Periodical",
-            "zh-hant": "書藉/期刊"
+            "en": [
+                "Book/Periodical"
+            ],
+            "zh-hant": [
+                "書藉/期刊"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "January 1983",
-        "zh-hant": "January 1983"
+        "zh-hant": "1983年1月"
     },
     "beginDate": 1983,
     "endDate": 1983,
     "dimension": {
         "en": "sheet: 32.3 x 25.4 cm\r\n2 pages",
-        "zh-hant": "sheet: 32.3 x 25.4 cm\r\n2 pages"
+        "zh-hant": "紙本: 32.3 x 25.4 厘米\r\n2 頁"
     },
     "medium": {
         "en": "printing ink on paper",
@@ -48,11 +60,133 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CDD3D7",
+                "value": 33.9
+            },
+            {
+                "color": "#CCCED4",
+                "value": 20.7
+            },
+            {
+                "color": "#D4D0A9",
+                "value": 8.2
+            },
+            {
+                "color": "#CABFB1",
+                "value": 5.5
+            },
+            {
+                "color": "#86B7D1",
+                "value": 4.8
+            },
+            {
+                "color": "#C6AFC3",
+                "value": 3.6
+            },
+            {
+                "color": "#C09777",
+                "value": 2.7
+            },
+            {
+                "color": "#C7A168",
+                "value": 2.7
+            },
+            {
+                "color": "#847B71",
+                "value": 2.5
+            },
+            {
+                "color": "#CCC991",
+                "value": 2.2
+            },
+            {
+                "color": "#80808A",
+                "value": 1.1
+            },
+            {
+                "color": "#B44F91",
+                "value": 1
+            },
+            {
+                "color": "#7B6C4F",
+                "value": 1
+            },
+            {
+                "color": "#2B2826",
+                "value": 0.9
+            },
+            {
+                "color": "#7A99C3",
+                "value": 0.8
+            },
+            {
+                "color": "#92B27C",
+                "value": 0.8
+            },
+            {
+                "color": "#486967",
+                "value": 0.7
+            },
+            {
+                "color": "#C7CEC9",
+                "value": 0.7
+            },
+            {
+                "color": "#36363A",
+                "value": 0.6
+            },
+            {
+                "color": "#68777C",
+                "value": 0.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 5.4
+                },
+                {
+                    "color": "pink",
+                    "value": 4.6
+                },
+                {
+                    "color": "gray",
+                    "value": 9.6
+                },
+                {
+                    "color": "green",
+                    "value": 0.8
+                },
+                {
+                    "color": "white",
+                    "value": 55.3
+                },
+                {
+                    "color": "yellow",
+                    "value": 10.4
+                },
+                {
+                    "color": "black",
+                    "value": 1.5
+                },
+                {
+                    "color": "teal",
+                    "value": 6.3
+                },
+                {
+                    "color": "brown",
+                    "value": 1
+                }
+            ]
         }
     },
     "dimensionDetails": {

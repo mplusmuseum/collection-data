@@ -5,12 +5,20 @@
     "objectNumber": "2017.377",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,31 +64,55 @@
     "color": {
         "predominant": [
             {
-                "color": "#1F1F1F",
-                "value": 62.1
+                "color": "#333230",
+                "value": 47.8
             },
             {
-                "color": "#767676",
-                "value": 25.6
+                "color": "#D7D8DA",
+                "value": 9.9
             },
             {
-                "color": "#D3D3D3",
-                "value": 12.3
+                "color": "#202021",
+                "value": 8.1
+            },
+            {
+                "color": "#737370",
+                "value": 7.8
+            },
+            {
+                "color": "#CBCDCE",
+                "value": 7.4
+            },
+            {
+                "color": "#72716E",
+                "value": 4.7
+            },
+            {
+                "color": "#818381",
+                "value": 4
+            },
+            {
+                "color": "#898B8C",
+                "value": 3.7
+            },
+            {
+                "color": "#323333",
+                "value": 2.2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 25.6
+                    "value": 20.2
                 },
                 {
                     "color": "white",
-                    "value": 12.3
+                    "value": 17.3
                 },
                 {
                     "color": "black",
-                    "value": 62.1
+                    "value": 58.1
                 }
             ]
         }

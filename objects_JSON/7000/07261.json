@@ -5,12 +5,20 @@
     "objectNumber": "2016.623",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -40,6 +48,13 @@
         "zh-hant": "M+，香港"
     },
     "constituents": [
+        {
+            "id": 2983,
+            "role": {
+                "en": "Developer",
+                "zh-hant": "開發者"
+            }
+        },
         {
             "id": 1600,
             "role": {

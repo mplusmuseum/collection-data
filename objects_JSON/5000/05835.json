@@ -5,12 +5,26 @@
     "objectNumber": "2016.756",
     "classification": {
         "area": {
-            "en": "Moving Image",
-            "zh-hant": "流動影像"
+            "en": [
+                "Visual Art",
+                "Moving Image"
+            ],
+            "zh-hant": [
+                "視覺藝術",
+                "流動影像"
+            ]
         },
         "category": {
-            "en": "Video",
-            "zh-hant": "錄像"
+            "en": [
+                "Performance",
+                "Photography",
+                "Video"
+            ],
+            "zh-hant": [
+                "行為",
+                "攝影",
+                "錄像"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +53,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1324,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

@@ -5,12 +5,20 @@
     "objectNumber": "2016.609",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2952,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,43 +64,35 @@
     "color": {
         "predominant": [
             {
-                "color": "#D5DDDA",
-                "value": 44.9
+                "color": "#D8DCDA",
+                "value": 55
             },
             {
-                "color": "#DCDBDB",
-                "value": 22.2
+                "color": "#D7DADA",
+                "value": 18.1
             },
             {
-                "color": "#915E5F",
-                "value": 14.8
+                "color": "#945E5F",
+                "value": 13.9
             },
             {
-                "color": "#D7DDDD",
-                "value": 5
-            },
-            {
-                "color": "#383737",
+                "color": "#78605F",
                 "value": 4.6
             },
             {
-                "color": "#7A6362",
-                "value": 3.6
-            },
-            {
-                "color": "#D9DADC",
-                "value": 1
+                "color": "#3A3C3B",
+                "value": 4.4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 14.8
+                    "value": 13.9
                 },
                 {
                     "color": "gray",
-                    "value": 3.6
+                    "value": 4.6
                 },
                 {
                     "color": "white",
@@ -92,7 +100,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 4.6
+                    "value": 4.4
                 }
             ]
         }

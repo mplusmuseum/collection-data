@@ -5,12 +5,20 @@
     "objectNumber": "2017.257",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Ink Art",
-            "zh-hant": "水墨"
+            "en": [
+                "Ink Art"
+            ],
+            "zh-hant": [
+                "水墨"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,15 +47,7 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [
-        {
-            "id": 1638,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": null
@@ -56,23 +56,23 @@
     "color": {
         "predominant": [
             {
-                "color": "#DDCFBB",
-                "value": 59.6
+                "color": "#DECFBB",
+                "value": 60.9
             },
             {
-                "color": "#31302F",
-                "value": 25
+                "color": "#2E2D2C",
+                "value": 23.6
             },
             {
-                "color": "#292829",
-                "value": 5.7
+                "color": "#282829",
+                "value": 5.9
             },
             {
-                "color": "#797066",
-                "value": 3.5
+                "color": "#7B7167",
+                "value": 3.4
             },
             {
-                "color": "#272828",
+                "color": "#262727",
                 "value": 2.4
             }
         ],
@@ -80,15 +80,15 @@
             "google": [
                 {
                     "color": "gray",
-                    "value": 3.5
+                    "value": 3.4
                 },
                 {
                     "color": "white",
-                    "value": 59.6
+                    "value": 60.9
                 },
                 {
                     "color": "black",
-                    "value": 33.1
+                    "value": 31.8
                 }
             ]
         }

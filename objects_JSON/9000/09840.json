@@ -5,16 +5,30 @@
     "objectNumber": "CA25/2/6",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Digital",
-            "zh-hant": "數碼"
+            "en": [
+                "Architectural Photography",
+                "Digital"
+            ],
+            "zh-hant": [
+                "建築照片",
+                "數碼"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -29,7 +43,7 @@
     "endDate": 2013,
     "dimension": {
         "en": "16 items",
-        "zh-hant": "16 items"
+        "zh-hant": "16 份/張/件"
     },
     "medium": {
         "en": "JPEG image",
@@ -39,7 +53,15 @@
         "en": "M+, Hong Kong. Gift of Wong Tung & Partners Limited, 2013",
         "zh-hant": "M+，香港，王董建築師事務捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 92,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": null,

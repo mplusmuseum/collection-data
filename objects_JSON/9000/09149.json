@@ -5,16 +5,28 @@
     "objectNumber": "CA12/2/9",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "[circa 1985]",
-        "zh-hant": "[circa 1985]"
+        "zh-hant": "[約1985年]"
     },
     "beginDate": 1983,
     "endDate": 1987,
     "dimension": {
         "en": "sheet: 29.7 x 21 cm",
-        "zh-hant": "sheet: 29.7 x 21 cm"
+        "zh-hant": "紙本: 29.7 x 21 厘米"
     },
     "medium": {
         "en": "ink on paper",
@@ -40,6 +52,13 @@
         "zh-hant": "M+，香港，Remo Riva捐贈，2013年"
     },
     "constituents": [
+        {
+            "id": 384,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
         {
             "id": 54,
             "role": {

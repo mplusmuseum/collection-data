@@ -5,12 +5,20 @@
     "objectNumber": "2016.455",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Sculpture",
-            "zh-hant": "雕塑"
+            "en": [
+                "Sculpture"
+            ],
+            "zh-hant": [
+                "雕塑"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,31 +64,27 @@
     "color": {
         "predominant": [
             {
-                "color": "#E7E7E7",
-                "value": 49.4
+                "color": "#E2E6E4",
+                "value": 49.9
             },
             {
-                "color": "#DAE2DF",
-                "value": 24.7
+                "color": "#E0E4E4",
+                "value": 27.1
             },
             {
-                "color": "#7B5B46",
-                "value": 19.8
-            },
-            {
-                "color": "#DCE2E2",
-                "value": 2.2
+                "color": "#7B5C46",
+                "value": 19.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "white",
-                    "value": 76.3
+                    "value": 76.9
                 },
                 {
                     "color": "brown",
-                    "value": 19.8
+                    "value": 19.9
                 }
             ]
         }

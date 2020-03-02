@@ -5,12 +5,20 @@
     "objectNumber": "2012.601",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,89 +58,85 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Photograph of a yellow-wheeled loader outside a red brick building. A man on the right of the bucket is painted to blend in with the loader's tyre and arm."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#2F2D34",
-                "value": 17.2
+                "color": "#29282D",
+                "value": 22.9
             },
             {
-                "color": "#262323",
-                "value": 13
+                "color": "#6D667C",
+                "value": 9.5
             },
             {
-                "color": "#715D6E",
-                "value": 10.4
+                "color": "#725E6F",
+                "value": 9
             },
             {
-                "color": "#6F687F",
-                "value": 9.3
+                "color": "#ACA9C4",
+                "value": 8.9
             },
             {
-                "color": "#ADA9C5",
-                "value": 8.8
+                "color": "#302B2A",
+                "value": 7.2
             },
             {
-                "color": "#1E222F",
-                "value": 7.3
+                "color": "#1E2221",
+                "value": 6.7
             },
             {
-                "color": "#44567D",
-                "value": 6.1
+                "color": "#45577F",
+                "value": 6.4
             },
             {
-                "color": "#816049",
-                "value": 4.3
+                "color": "#212734",
+                "value": 5.5
             },
             {
-                "color": "#736162",
+                "color": "#805F47",
+                "value": 4.8
+            },
+            {
+                "color": "#735F63",
                 "value": 3.8
             },
             {
-                "color": "#382A23",
-                "value": 3.2
+                "color": "#3F3028",
+                "value": 2.6
             },
             {
-                "color": "#29302D",
-                "value": 3
+                "color": "#886235",
+                "value": 1.6
             },
             {
-                "color": "#1D282F",
-                "value": 1.9
+                "color": "#202B31",
+                "value": 1.4
             },
             {
-                "color": "#83643B",
-                "value": 1.5
-            },
-            {
-                "color": "#73546A",
+                "color": "#2B3E2D",
                 "value": 1.2
             },
             {
-                "color": "#243426",
+                "color": "#7182B6",
                 "value": 1.1
             },
             {
-                "color": "#7182B7",
+                "color": "#76566B",
+                "value": 1
+            },
+            {
+                "color": "#72525A",
                 "value": 0.9
             },
             {
-                "color": "#1E2D29",
-                "value": 0.8
+                "color": "#273833",
+                "value": 0.7
             },
             {
-                "color": "#372E1F",
-                "value": 0.8
-            },
-            {
-                "color": "#605678",
-                "value": 0.6
-            },
-            {
-                "color": "#5B6A5D",
+                "color": "#C0A5A6",
                 "value": 0.5
             }
         ],
@@ -144,11 +148,11 @@
                 },
                 {
                     "color": "green",
-                    "value": 1.1
+                    "value": 1.2
                 },
                 {
                     "color": "blue",
-                    "value": 7
+                    "value": 7.5
                 },
                 {
                     "color": "black",
@@ -156,11 +160,15 @@
                 },
                 {
                     "color": "purple",
-                    "value": 30.2
+                    "value": 28.3
                 },
                 {
                     "color": "brown",
-                    "value": 5.8
+                    "value": 6.3
+                },
+                {
+                    "color": "red",
+                    "value": 0.9
                 }
             ]
         }

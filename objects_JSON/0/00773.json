@@ -5,12 +5,22 @@
     "objectNumber": "2014.156",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Textile",
-            "zh-hant": "紡織品"
+            "en": [
+                "Installation",
+                "Textile"
+            ],
+            "zh-hant": [
+                "裝置藝術",
+                "紡織品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +49,15 @@
         "en": "M+, Hong Kong. Gift of Ni Haifeng, 2013",
         "zh-hant": "M+，香港，倪海峰捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 353,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

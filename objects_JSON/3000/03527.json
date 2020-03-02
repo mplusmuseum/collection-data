@@ -5,12 +5,20 @@
     "objectNumber": "2012.736",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,18 +58,18 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Photograph that appears washed-out, showing ceiling lights with a circular design and a red star in the centre."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#CACBC3",
-                "value": 77.1
+                "color": "#CCCCC4",
+                "value": 75.9
             },
             {
-                "color": "#D1CECC",
-                "value": 21.9
+                "color": "#CDCBC4",
+                "value": 23.1
             }
         ],
         "search": {
@@ -72,7 +80,7 @@
                 },
                 {
                     "color": "white",
-                    "value": 21.9
+                    "value": 99
                 }
             ]
         }

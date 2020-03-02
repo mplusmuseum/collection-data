@@ -5,16 +5,30 @@
     "objectNumber": "CA15/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Photography",
-            "zh-hant": "建築照片"
+            "en": [
+                "Architectural Drawing",
+                "Architectural Photography"
+            ],
+            "zh-hant": [
+                "建築圖",
+                "建築照片"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,28 +37,73 @@
     },
     "displayDate": {
         "en": "[circa 1970]",
-        "zh-hant": "[circa 1970]"
+        "zh-hant": "[約1970年]"
     },
     "beginDate": 1968,
     "endDate": 1972,
     "dimension": {
         "en": "sheet: 18.1 x 27 cm",
-        "zh-hant": "sheet: 18.1 x 27 cm"
+        "zh-hant": "紙本: 18.1 x 27 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
-        "zh-hant": "gelatin silver print"
+        "zh-hant": "銀鹽照片"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Simon Kwan & Associates Limited, 2014",
         "zh-hant": "M+，香港，關善明建築師事務所捐贈，2014年"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 3020,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 1413,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D6D6D6",
+                "value": 80.7
+            },
+            {
+                "color": "#868686",
+                "value": 13.3
+            },
+            {
+                "color": "#3E3E3E",
+                "value": 6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 13.3
+                },
+                {
+                    "color": "white",
+                    "value": 80.7
+                },
+                {
+                    "color": "black",
+                    "value": 6
+                }
+            ]
         }
     },
     "dimensionDetails": {

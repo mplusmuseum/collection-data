@@ -5,12 +5,20 @@
     "objectNumber": "2015.221",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a room filled with sand. The sand is covered in footprints. A wooden board has been dragged over a section of sand, leaving it smooth."
@@ -48,23 +64,51 @@
     "color": {
         "predominant": [
             {
-                "color": "#323232",
-                "value": 49.1
+                "color": "#C7C5C3",
+                "value": 37.2
             },
             {
-                "color": "#787878",
-                "value": 48.3
+                "color": "#8B8686",
+                "value": 28.5
+            },
+            {
+                "color": "#858284",
+                "value": 8
+            },
+            {
+                "color": "#353030",
+                "value": 7.2
+            },
+            {
+                "color": "#C8C7C8",
+                "value": 4.8
+            },
+            {
+                "color": "#D5D5D3",
+                "value": 3.8
+            },
+            {
+                "color": "#3C393B",
+                "value": 3.7
+            },
+            {
+                "color": "#807F82",
+                "value": 2.1
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 48.3
+                    "value": 80.6
                 },
                 {
                     "color": "black",
-                    "value": 49.1
+                    "value": 10.9
+                },
+                {
+                    "color": "white",
+                    "value": 3.8
                 }
             ]
         }

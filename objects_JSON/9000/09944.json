@@ -5,16 +5,28 @@
     "objectNumber": "CA28/7/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1981,
     "dimension": {
         "en": "sheet: 25.7 x 36.4 cm\r\n2 pages",
-        "zh-hant": "sheet: 25.7 x 36.4 cm\r\n2 pages"
+        "zh-hant": "紙本: 25.7 x 36.4 厘米\r\n2 頁"
     },
     "medium": {
         "en": "ink on paper",
@@ -48,11 +60,45 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D3D5D3",
+                "value": 42.1
+            },
+            {
+                "color": "#D3D4D0",
+                "value": 28.2
+            },
+            {
+                "color": "#D0D2D3",
+                "value": 20
+            },
+            {
+                "color": "#C6C8CE",
+                "value": 2.6
+            },
+            {
+                "color": "#CFCECC",
+                "value": 2.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 2.6
+                },
+                {
+                    "color": "white",
+                    "value": 92.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

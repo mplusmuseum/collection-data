@@ -5,12 +5,20 @@
     "objectNumber": "2018.266",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Textile",
-            "zh-hant": "紡織品"
+            "en": [
+                "Textile"
+            ],
+            "zh-hant": [
+                "紡織品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,12 +47,23 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [
+    "constituents": [
         {
-            "altText": null
+            "id": 2779,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 2780,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
+    "images": [],
     "color": {
         "predominant": [
             {

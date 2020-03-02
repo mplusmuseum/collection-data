@@ -5,12 +5,20 @@
     "objectNumber": "2015.212",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a man crouching on a staircase in a stairwell, viewed from above."
@@ -48,27 +64,51 @@
     "color": {
         "predominant": [
             {
-                "color": "#2A2A2A",
-                "value": 54.3
+                "color": "#D0CFCF",
+                "value": 31.2
             },
             {
-                "color": "#C8C8C8",
-                "value": 23.3
+                "color": "#D6D4D5",
+                "value": 15.6
             },
             {
-                "color": "#808080",
-                "value": 22.4
+                "color": "#3A3533",
+                "value": 14.3
+            },
+            {
+                "color": "#7B7574",
+                "value": 12.2
+            },
+            {
+                "color": "#D6D6D7",
+                "value": 11.9
+            },
+            {
+                "color": "#1A1411",
+                "value": 5.5
+            },
+            {
+                "color": "#D5D6D7",
+                "value": 4.2
+            },
+            {
+                "color": "#D8D8D7",
+                "value": 2.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 45.7
+                    "value": 12.2
                 },
                 {
                     "color": "black",
-                    "value": 54.3
+                    "value": 19.7
+                },
+                {
+                    "color": "white",
+                    "value": 65.6
                 }
             ]
         }

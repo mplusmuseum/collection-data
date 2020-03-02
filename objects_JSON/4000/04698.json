@@ -5,12 +5,20 @@
     "objectNumber": "2015.233",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of rows of rope strung up between two poles at the opposite ends of a room. A large pile of short pieces of rope lies on top of the strung up rope. A tall stack of woven baskets stands in a corner."
@@ -48,31 +64,31 @@
     "color": {
         "predominant": [
             {
-                "color": "#7D7D7D",
-                "value": 56.2
+                "color": "#D1CDC8",
+                "value": 61.5
             },
             {
-                "color": "#353535",
-                "value": 26.8
+                "color": "#8A8482",
+                "value": 28.3
             },
             {
-                "color": "#CECECE",
-                "value": 17
+                "color": "#3B3535",
+                "value": 6.2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 56.2
+                    "value": 28.3
                 },
                 {
                     "color": "white",
-                    "value": 17
+                    "value": 61.5
                 },
                 {
                     "color": "black",
-                    "value": 26.8
+                    "value": 6.2
                 }
             ]
         }

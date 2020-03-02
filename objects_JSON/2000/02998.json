@@ -5,12 +5,20 @@
     "objectNumber": "2012.1288",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,23 +64,27 @@
     "color": {
         "predominant": [
             {
-                "color": "#FCDFDC",
-                "value": 67.8
+                "color": "#DACAC5",
+                "value": 48.8
             },
             {
-                "color": "#FA8B94",
-                "value": 21.7
+                "color": "#D46764",
+                "value": 36.6
             },
             {
-                "color": "#F72A32",
-                "value": 7.7
+                "color": "#D4D4CD",
+                "value": 7.4
+            },
+            {
+                "color": "#C33329",
+                "value": 5.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 7.7
+                    "value": 42.1
                 },
                 {
                     "color": "pink",
@@ -80,7 +92,7 @@
                 },
                 {
                     "color": "white",
-                    "value": 67.8
+                    "value": 56.2
                 }
             ]
         }

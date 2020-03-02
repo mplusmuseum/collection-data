@@ -5,16 +5,28 @@
     "objectNumber": "CA27/1/2/8",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "January 2012",
-        "zh-hant": "January 2012"
+        "zh-hant": "2012年1月"
     },
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
         "en": "sheet: 31.1 x 32.3 cm\r\n2 pages",
-        "zh-hant": "sheet: 31.1 x 32.3 cm\r\n2 pages"
+        "zh-hant": "紙本: 31.1 x 32.3 厘米\r\n2 頁"
     },
     "medium": {
         "en": "graphite and ink on paperboard",
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong. Gift of Lanzavecchia + Wai, 2016",
         "zh-hant": "M+，香港，Lanzavecchia + Wai捐贈，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1478,
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": null,

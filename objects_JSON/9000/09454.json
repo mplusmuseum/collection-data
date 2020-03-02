@@ -5,12 +5,20 @@
     "objectNumber": "2018.312",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2902,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,31 +64,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#E2D0CB",
-                "value": 33.3
+                "color": "#D6CDBD",
+                "value": 61.4
             },
             {
-                "color": "#854E50",
-                "value": 31.2
+                "color": "#7B4D56",
+                "value": 15.3
             },
             {
-                "color": "#441F29",
-                "value": 20.2
+                "color": "#421C2C",
+                "value": 10.6
             },
             {
-                "color": "#BD827E",
-                "value": 10.7
+                "color": "#9E7E7D",
+                "value": 6.3
+            },
+            {
+                "color": "#3A1528",
+                "value": 4.4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 62.1
+                    "value": 21.6
                 },
                 {
                     "color": "white",
-                    "value": 33.3
+                    "value": 61.4
+                },
+                {
+                    "color": "pink",
+                    "value": 10.6
+                },
+                {
+                    "color": "purple",
+                    "value": 4.4
                 }
             ]
         }

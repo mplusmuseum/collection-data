@@ -5,16 +5,30 @@
     "objectNumber": "CA39/2/19/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Photography",
-            "zh-hant": "建築照片"
+            "en": [
+                "Architectural Drawing",
+                "Architectural Photography"
+            ],
+            "zh-hant": [
+                "建築圖",
+                "建築照片"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -23,13 +37,13 @@
     },
     "displayDate": {
         "en": "January 1949–1961",
-        "zh-hant": "January 1949–1961"
+        "zh-hant": "1949年1月至1961年"
     },
     "beginDate": 1949,
     "endDate": 1961,
     "dimension": {
         "en": "6 items",
-        "zh-hant": "6 items"
+        "zh-hant": "6 份/張/件"
     },
     "medium": {
         "en": "printout on paper; brownprint on paper; gelatin silver print",
@@ -37,11 +51,18 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
-        "zh-hant": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017"
+        "zh-hant": "M+，香港，王秋華捐贈，2017年"
     },
     "constituents": [
         {
             "id": 2822,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 2823,
             "role": {
                 "en": "Architect",
                 "zh-hant": "建築師"

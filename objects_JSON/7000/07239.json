@@ -5,12 +5,22 @@
     "objectNumber": "2016.631",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Print",
-            "zh-hant": "版畫"
+            "en": [
+                "Design Object",
+                "Print"
+            ],
+            "zh-hant": [
+                "設計物件",
+                "版畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,68 +49,80 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 2988,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#C5CDD3",
-                "value": 34.7
+                "color": "#CED0D5",
+                "value": 28.3
             },
             {
-                "color": "#D2D2DB",
-                "value": 14.8
+                "color": "#C6CBD0",
+                "value": 22.6
             },
             {
-                "color": "#666262",
-                "value": 8.1
+                "color": "#66615E",
+                "value": 10
             },
             {
-                "color": "#454447",
-                "value": 7.9
+                "color": "#444348",
+                "value": 7.6
             },
             {
-                "color": "#626166",
-                "value": 7.4
+                "color": "#75B0D1",
+                "value": 6.8
             },
             {
-                "color": "#7BB2D1",
+                "color": "#5F6065",
                 "value": 6.6
             },
             {
-                "color": "#DCD6C7",
-                "value": 6.3
+                "color": "#DCD5C5",
+                "value": 6.6
             },
             {
-                "color": "#484646",
-                "value": 4.9
+                "color": "#494443",
+                "value": 3.8
             },
             {
-                "color": "#666365",
-                "value": 2.9
+                "color": "#646263",
+                "value": 2.1
             },
             {
-                "color": "#42708D",
-                "value": 1.5
+                "color": "#636A6E",
+                "value": 1.2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 18.5
+                    "value": 42.5
                 },
                 {
                     "color": "white",
-                    "value": 55.9
+                    "value": 34.9
                 },
                 {
                     "color": "black",
-                    "value": 12.8
+                    "value": 11.4
                 },
                 {
                     "color": "teal",
-                    "value": 8.1
+                    "value": 6.8
                 }
             ]
         }

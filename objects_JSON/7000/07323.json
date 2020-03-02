@@ -5,12 +5,20 @@
     "objectNumber": "2016.590",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,13 +30,13 @@
         "zh-hant": "Tamagotchi掌上遊戲機"
     },
     "displayDate": {
-        "en": "1988",
-        "zh-hant": "1988"
+        "en": "1997",
+        "zh-hant": "1997"
     },
-    "beginDate": 1996,
-    "endDate": 1996,
+    "beginDate": 1997,
+    "endDate": 1997,
     "dimension": {
-        "en": "overall (Close): 2.7 × 10.7 × 20.3 cm\r\noverall (Open): 2.7 × 22 × 20.3 cm",
+        "en": "overall (closed): 2.7 × 10.7 × 20.3 cm\r\noverall (Open): 2.7 × 22 × 20.3 cm",
         "zh-hant": "整體 （合上）： 2.7 × 10.7 × 20.3 厘米\r\n整體 （打開）： 2.7 × 22 × 20.3 厘米"
     },
     "medium": {
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2966,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,75 +64,71 @@
     "color": {
         "predominant": [
             {
-                "color": "#CECCC7",
-                "value": 29.9
+                "color": "#858888",
+                "value": 17.3
             },
             {
-                "color": "#888684",
-                "value": 24.9
+                "color": "#838785",
+                "value": 15.5
             },
             {
-                "color": "#868988",
-                "value": 7.9
+                "color": "#C8CACA",
+                "value": 14
             },
             {
-                "color": "#C7B478",
-                "value": 6.1
+                "color": "#CCC5AD",
+                "value": 8.2
             },
             {
-                "color": "#998755",
+                "color": "#CDCFCE",
+                "value": 7.5
+            },
+            {
+                "color": "#C8B677",
+                "value": 6.9
+            },
+            {
+                "color": "#998756",
+                "value": 5
+            },
+            {
+                "color": "#D3D3CC",
                 "value": 4.9
             },
             {
-                "color": "#D1D0BE",
-                "value": 3.7
+                "color": "#2D2C29",
+                "value": 4.1
             },
             {
-                "color": "#2E2E2B",
-                "value": 3.5
+                "color": "#94897A",
+                "value": 3.4
             },
             {
                 "color": "#251F3F",
-                "value": 2.4
+                "value": 2.7
             },
             {
-                "color": "#7E7C86",
-                "value": 2
+                "color": "#4B4B72",
+                "value": 2.3
             },
             {
-                "color": "#828889",
-                "value": 1.8
+                "color": "#2C281E",
+                "value": 0.9
             },
             {
-                "color": "#4C4D72",
-                "value": 1.6
-            },
-            {
-                "color": "#B4B8B6",
-                "value": 1.1
-            },
-            {
-                "color": "#CAC072",
-                "value": 1.1
-            },
-            {
-                "color": "#322C1E",
-                "value": 1.1
-            },
-            {
-                "color": "#8C8C7F",
-                "value": 0.8
-            },
-            {
-                "color": "#323036",
+                "color": "#C7BE61",
                 "value": 0.7
             },
             {
-                "color": "#867A83",
+                "color": "#242725",
                 "value": 0.6
             },
             {
-                "color": "#BBBAC3",
+                "color": "#747282",
+                "value": 0.6
+            },
+            {
+                "color": "#C6C7CA",
                 "value": 0.6
             }
         ],
@@ -124,35 +136,35 @@
             "google": [
                 {
                     "color": "orange",
-                    "value": 6.1
+                    "value": 6.9
                 },
                 {
                     "color": "gray",
-                    "value": 39.6
+                    "value": 51.4
                 },
                 {
                     "color": "white",
-                    "value": 33.7
+                    "value": 12.4
                 },
                 {
                     "color": "blue",
-                    "value": 1.6
+                    "value": 2.3
                 },
                 {
                     "color": "black",
-                    "value": 5.3
+                    "value": 5.7
                 },
                 {
                     "color": "yellow",
-                    "value": 1.1
+                    "value": 8.9
                 },
                 {
                     "color": "purple",
-                    "value": 2.4
+                    "value": 2.7
                 },
                 {
                     "color": "brown",
-                    "value": 4.9
+                    "value": 5
                 }
             ]
         }

@@ -5,16 +5,24 @@
     "objectNumber": "CA32/2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
             "en": null,
             "zh-hant": null
         },
         "archivalLevel": {
-            "en": "Series",
-            "zh-hant": "系列"
+            "en": [
+                "Series"
+            ],
+            "zh-hant": [
+                "系列"
+            ]
         }
     },
     "title": {
@@ -23,13 +31,13 @@
     },
     "displayDate": {
         "en": "[circa 1972]",
-        "zh-hant": "[circa 1972]"
+        "zh-hant": "[約1972年]"
     },
     "beginDate": 1970,
     "endDate": 1972,
     "dimension": {
         "en": "5 items",
-        "zh-hant": "5 items"
+        "zh-hant": "5 份/張/件"
     },
     "medium": {
         "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong. Gift of Raj Rewal, 2017",
         "zh-hant": "M+，香港，Raj Rewal捐贈，2017年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1612,
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
+        }
+    ],
     "images": null,
     "color": {
         "predominant": null,

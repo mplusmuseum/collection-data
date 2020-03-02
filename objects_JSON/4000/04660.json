@@ -5,12 +5,20 @@
     "objectNumber": "2015.195",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a man standing in a dark workshop at the far end of a long table, silhouetted against a bright, open doorway."
@@ -48,23 +64,35 @@
     "color": {
         "predominant": [
             {
-                "color": "#0C0C0C",
-                "value": 74.8
+                "color": "#191515",
+                "value": 37.6
             },
             {
-                "color": "#E3E3E3",
-                "value": 21
+                "color": "#DAD8D5",
+                "value": 34.7
+            },
+            {
+                "color": "#262325",
+                "value": 9.1
+            },
+            {
+                "color": "#DADAD8",
+                "value": 7.1
+            },
+            {
+                "color": "#161110",
+                "value": 6.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "white",
-                    "value": 21
+                    "value": 41.8
                 },
                 {
                     "color": "black",
-                    "value": 74.8
+                    "value": 53.7
                 }
             ]
         }

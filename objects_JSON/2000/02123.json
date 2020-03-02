@@ -5,12 +5,20 @@
     "objectNumber": "2012.817",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,25 +58,21 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on a wide canvas rendered in light grey tones. The sides and the upper half feature faint cloud-like areas with soft shadows."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#B2A695",
-                "value": 70.2
-            },
-            {
-                "color": "#A69989",
-                "value": 29.8
+                "color": "#CBC5BB",
+                "value": 99.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 100
+                    "value": 99.9
                 }
             ]
         }

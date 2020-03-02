@@ -5,16 +5,24 @@
     "objectNumber": "CA29",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
             "en": null,
             "zh-hant": null
         },
         "archivalLevel": {
-            "en": "Fonds",
-            "zh-hant": "全宗"
+            "en": [
+                "Fonds"
+            ],
+            "zh-hant": [
+                "全宗"
+            ]
         }
     },
     "title": {
@@ -23,13 +31,13 @@
     },
     "displayDate": {
         "en": "1947–[circa 1987]",
-        "zh-hant": "1947–[circa 1987]"
+        "zh-hant": "1947年至[約1987年]"
     },
     "beginDate": 1947,
     "endDate": 1989,
     "dimension": {
         "en": "693 items",
-        "zh-hant": "693 items"
+        "zh-hant": "693 份/張/件"
     },
     "medium": {
         "en": null,
@@ -39,12 +47,66 @@
         "en": "M+, Hong Kong. Gift of Architects Team 3, 2015",
         "zh-hant": "M+，香港，建築三人小組捐贈，2015年"
     },
-    "constituents": [],
-    "images": null,
+    "constituents": [
+        {
+            "id": 1204,
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E0D0BB",
+                "value": 21.7
+            },
+            {
+                "color": "#BD815C",
+                "value": 20.6
+            },
+            {
+                "color": "#7B1D15",
+                "value": 14.6
+            },
+            {
+                "color": "#954F38",
+                "value": 11.6
+            },
+            {
+                "color": "#4E1009",
+                "value": 10.6
+            },
+            {
+                "color": "#D7B589",
+                "value": 8.3
+            },
+            {
+                "color": "#7E3227",
+                "value": 5.6
+            },
+            {
+                "color": "#80301B",
+                "value": 3.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 50.6
+                },
+                {
+                    "color": "red",
+                    "value": 45.9
+                }
+            ]
         }
     },
     "dimensionDetails": null

@@ -5,12 +5,22 @@
     "objectNumber": "2016.484",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Ink Art",
-            "zh-hant": "水墨"
+            "en": [
+                "Work on Paper",
+                "Ink Art"
+            ],
+            "zh-hant": [
+                "紙本作品",
+                "水墨"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -56,20 +66,20 @@
     "color": {
         "predominant": [
             {
-                "color": "#DED8D9",
-                "value": 71
+                "color": "#DCD7D7",
+                "value": 58.3
             },
             {
-                "color": "#DEDDE5",
-                "value": 12.4
+                "color": "#DFDCDE",
+                "value": 20
             },
             {
-                "color": "#D46779",
-                "value": 7.5
+                "color": "#DDDDE3",
+                "value": 13.7
             },
             {
-                "color": "#DDD9DB",
-                "value": 6.5
+                "color": "#D16070",
+                "value": 7.6
             }
         ],
         "search": {
@@ -80,7 +90,11 @@
                 },
                 {
                     "color": "white",
-                    "value": 89.9
+                    "value": 92
+                },
+                {
+                    "color": "red",
+                    "value": 7.6
                 }
             ]
         }

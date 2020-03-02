@@ -5,16 +5,28 @@
     "objectNumber": "CA39/2/16/2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Photography",
-            "zh-hant": "建築照片"
+            "en": [
+                "Architectural Photography"
+            ],
+            "zh-hant": [
+                "建築照片"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "[1959]– February 1979",
-        "zh-hant": "[1959]– February 1979"
+        "zh-hant": "[1959年]至1979年2月"
     },
     "beginDate": 1959,
     "endDate": 1979,
     "dimension": {
         "en": "6 items",
-        "zh-hant": "6 items"
+        "zh-hant": "6 份/張/件"
     },
     "medium": {
         "en": "colour slide",
@@ -37,7 +49,7 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
-        "zh-hant": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017"
+        "zh-hant": "M+，香港，王秋華捐贈，2017年"
     },
     "constituents": [
         {
@@ -46,13 +58,62 @@
                 "en": "Architect",
                 "zh-hant": "建築師"
             }
+        },
+        {
+            "id": 2823,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D0BA80",
+                "value": 77.4
+            },
+            {
+                "color": "#E9DDB7",
+                "value": 4.4
+            },
+            {
+                "color": "#050402",
+                "value": 4.3
+            },
+            {
+                "color": "#A28D53",
+                "value": 3.9
+            },
+            {
+                "color": "#0F0B01",
+                "value": 3.1
+            },
+            {
+                "color": "#070403",
+                "value": 2.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 81.3
+                },
+                {
+                    "color": "black",
+                    "value": 9.8
+                },
+                {
+                    "color": "yellow",
+                    "value": 4.4
+                }
+            ]
         }
     },
     "dimensionDetails": null

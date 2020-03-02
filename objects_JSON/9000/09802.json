@@ -5,16 +5,28 @@
     "objectNumber": "CA27/1/4/8",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "February 2012",
-        "zh-hant": "February 2012"
+        "zh-hant": "2012年2月"
     },
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
         "en": "sheet: 21 x 29.7 cm",
-        "zh-hant": "sheet: 21 x 29.7 cm"
+        "zh-hant": "紙本: 21 x 29.7 厘米"
     },
     "medium": {
         "en": "ink on paper",
@@ -39,12 +51,58 @@
         "en": "M+, Hong Kong. Gift of Lanzavecchia + Wai, 2016",
         "zh-hant": "M+，香港，Lanzavecchia + Wai捐贈，2016年"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 1478,
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C8BEB2",
+                "value": 66.3
+            },
+            {
+                "color": "#8D632D",
+                "value": 12.4
+            },
+            {
+                "color": "#CDA660",
+                "value": 11.9
+            },
+            {
+                "color": "#9B9287",
+                "value": 4
+            },
+            {
+                "color": "#83561F",
+                "value": 1.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 11.9
+                },
+                {
+                    "color": "gray",
+                    "value": 70.4
+                },
+                {
+                    "color": "brown",
+                    "value": 14.3
+                }
+            ]
         }
     },
     "dimensionDetails": {

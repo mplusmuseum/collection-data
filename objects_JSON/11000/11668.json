@@ -5,16 +5,28 @@
     "objectNumber": "CA10/2/26",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Digital",
-            "zh-hant": "數碼"
+            "en": [
+                "Digital"
+            ],
+            "zh-hant": [
+                "數碼"
+            ]
         },
         "archivalLevel": {
-            "en": "Subseries",
-            "zh-hant": "副系列"
+            "en": [
+                "Subseries"
+            ],
+            "zh-hant": [
+                "副系列"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 2009,
     "dimension": {
         "en": "2 items",
-        "zh-hant": "2 items"
+        "zh-hant": "2 份/張/件"
     },
     "medium": {
         "en": null,
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2013",
         "zh-hant": "M+，香港，鍾華楠建築師有限公司捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 27,
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
+        }
+    ],
     "images": null,
     "color": {
         "predominant": null,

@@ -5,12 +5,20 @@
     "objectNumber": "2016.628",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,7 +30,7 @@
         "zh-hant": "Utsurun Desu Fotojack 即用即棄相機"
     },
     "displayDate": {
-        "en": "1930s",
+        "en": "1986",
         "zh-hant": "1930年代"
     },
     "beginDate": 1986,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2974,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,39 +64,35 @@
     "color": {
         "predominant": [
             {
-                "color": "#D4D4D4",
-                "value": 55.1
+                "color": "#CCCFD0",
+                "value": 71.5
             },
             {
-                "color": "#B5BBC1",
-                "value": 14.3
+                "color": "#CACCCE",
+                "value": 8.9
             },
             {
-                "color": "#BEBFC5",
-                "value": 10.3
+                "color": "#5E5D57",
+                "value": 6
             },
             {
-                "color": "#5F6058",
-                "value": 8.1
+                "color": "#64615A",
+                "value": 5.5
             },
             {
-                "color": "#484640",
+                "color": "#474542",
                 "value": 3.8
-            },
-            {
-                "color": "#6C6863",
-                "value": 3.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 36.3
+                    "value": 11.5
                 },
                 {
                     "color": "white",
-                    "value": 55.1
+                    "value": 80.5
                 },
                 {
                     "color": "black",

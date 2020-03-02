@@ -5,12 +5,28 @@
     "objectNumber": "2016.789",
     "classification": {
         "area": {
-            "en": "Moving Image",
-            "zh-hant": "流動影像"
+            "en": [
+                "Visual Art",
+                "Moving Image"
+            ],
+            "zh-hant": [
+                "視覺藝術",
+                "流動影像"
+            ]
         },
         "category": {
-            "en": "Print",
-            "zh-hant": "版畫"
+            "en": [
+                "Video Installation",
+                "Installation",
+                "Photography",
+                "Print"
+            ],
+            "zh-hant": [
+                "錄像裝置",
+                "裝置藝術",
+                "攝影",
+                "版畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +55,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1338,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

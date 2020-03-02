@@ -5,12 +5,20 @@
     "objectNumber": "2017.203",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Print",
-            "zh-hant": "版畫"
+            "en": [
+                "Print"
+            ],
+            "zh-hant": [
+                "版畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -32,14 +40,22 @@
         "zh-hant": "整體 （封套）: 31.5 × 32 × 0.5 厘米"
     },
     "medium": {
-        "en": "lithograph ink on paper",
+        "en": "offset lithograph print",
         "zh-hant": "平板印墨紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1720,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

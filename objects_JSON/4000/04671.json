@@ -5,12 +5,20 @@
     "objectNumber": "2015.206",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a polished shape resembling a turtle head rising out of a rectangular block of dark, cut stone."
@@ -48,31 +64,47 @@
     "color": {
         "predominant": [
             {
-                "color": "#E2E2E2",
-                "value": 44.6
+                "color": "#CECCCB",
+                "value": 43.7
             },
             {
-                "color": "#2F2F2F",
-                "value": 36.5
+                "color": "#3A383B",
+                "value": 21.7
             },
             {
-                "color": "#848484",
-                "value": 18.9
+                "color": "#918D8B",
+                "value": 12.2
+            },
+            {
+                "color": "#656467",
+                "value": 5.4
+            },
+            {
+                "color": "#252122",
+                "value": 5.1
+            },
+            {
+                "color": "#D5D5D3",
+                "value": 5
+            },
+            {
+                "color": "#6B686B",
+                "value": 3.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 18.9
+                    "value": 21.1
                 },
                 {
                     "color": "white",
-                    "value": 44.6
+                    "value": 48.7
                 },
                 {
                     "color": "black",
-                    "value": 36.5
+                    "value": 26.8
                 }
             ]
         }

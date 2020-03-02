@@ -5,16 +5,28 @@
     "objectNumber": "CA22/3",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Ephemera",
-            "zh-hant": "Ephemera"
+            "en": [
+                "Ephemera"
+            ],
+            "zh-hant": [
+                "暫時性的媒材"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1969,
     "dimension": {
         "en": "sheet: 29.1 x 20.9 cm",
-        "zh-hant": "sheet: 29.1 x 20.9 cm"
+        "zh-hant": "紙本: 29.1 x 20.9 厘米"
     },
     "medium": {
         "en": "printing ink on paper",
@@ -48,11 +60,37 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#A4A6A0",
+                "value": 57.9
+            },
+            {
+                "color": "#B9BEC0",
+                "value": 19.7
+            },
+            {
+                "color": "#A4A6A3",
+                "value": 10.4
+            },
+            {
+                "color": "#B1B2AC",
+                "value": 8.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 96.9
+                }
+            ]
         }
     },
     "dimensionDetails": {

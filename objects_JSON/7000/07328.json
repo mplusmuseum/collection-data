@@ -5,12 +5,20 @@
     "objectNumber": "2016.579",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Product Design",
-            "zh-hant": "產品設計"
+            "en": [
+                "Product Design"
+            ],
+            "zh-hant": [
+                "產品設計"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -22,11 +30,11 @@
         "zh-hant": "Tamagotchi 4U掌上遊戲機"
     },
     "displayDate": {
-        "en": "1988",
-        "zh-hant": "1988"
+        "en": "2014",
+        "zh-hant": "2014"
     },
-    "beginDate": 1988,
-    "endDate": 1988,
+    "beginDate": 2014,
+    "endDate": 2014,
     "dimension": {
         "en": "overall: 6.7 × 5.1 × 3.2 cm\r\noverall: 11.6 × 8.1 × 5.4 cm",
         "zh-hant": "整體: 6.7 × 5.1 × 3.2 厘米 整體: 11.6 × 8.1 × 5.4 厘米"
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2966,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -48,35 +64,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#D1CFCA",
-                "value": 50.3
+                "color": "#E2E4E5",
+                "value": 39.6
             },
             {
-                "color": "#D2D1CC",
-                "value": 32.7
+                "color": "#E7E6EB",
+                "value": 27.5
             },
             {
-                "color": "#929398",
-                "value": 4
+                "color": "#E4E6E5",
+                "value": 8.9
             },
             {
-                "color": "#E4E6E6",
-                "value": 3.1
+                "color": "#E2DBD5",
+                "value": 7.1
             },
             {
-                "color": "#9A8D8A",
-                "value": 1.6
+                "color": "#E4D1E0",
+                "value": 4.7
             },
             {
-                "color": "#E5E7E6",
-                "value": 1.4
+                "color": "#ED97D4",
+                "value": 3.3
             },
             {
-                "color": "#8C5476",
-                "value": 1.2
+                "color": "#73747B",
+                "value": 1.3
             },
             {
-                "color": "#998464",
+                "color": "#3E3D42",
+                "value": 1.1
+            },
+            {
+                "color": "#817B77",
+                "value": 1
+            },
+            {
+                "color": "#DADBD3",
                 "value": 1
             }
         ],
@@ -84,19 +108,23 @@
             "google": [
                 {
                     "color": "pink",
-                    "value": 1.2
+                    "value": 3.3
                 },
                 {
                     "color": "gray",
-                    "value": 5.6
+                    "value": 2.3
                 },
                 {
                     "color": "white",
-                    "value": 87.6
+                    "value": 88.8
                 },
                 {
                     "color": "brown",
                     "value": 1
+                },
+                {
+                    "color": "black",
+                    "value": 1.1
                 }
             ]
         }

@@ -5,16 +5,28 @@
     "objectNumber": "CA12/1/2",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1976,
     "dimension": {
         "en": "sheet: 40.6 x 42.1 cm",
-        "zh-hant": "sheet: 40.6 x 42.1 cm"
+        "zh-hant": "紙本: 40.6 x 42.1 厘米"
     },
     "medium": {
         "en": "graphite, ink, and watercolour on paper",
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong. Gift of Remo Riva, 2013",
         "zh-hant": "M+，香港，Remo Riva捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 384,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Coloured pencil and ink architectural sketch on paper of a house seen diagonally from above. The completed version of the house is seen on the part closest to us, but it then gets cut as if a part has been broken off. The house rendered in bright pink and yellow. A block of green colour is in front of the house, and to its right, where it's gotten cut off, is a desert landscape with a setting sun and a single palm tree."

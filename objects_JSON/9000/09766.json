@@ -5,16 +5,24 @@
     "objectNumber": "CA27/1/4",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
             "en": null,
             "zh-hant": null
         },
         "archivalLevel": {
-            "en": "Subseries",
-            "zh-hant": "副系列"
+            "en": [
+                "Subseries"
+            ],
+            "zh-hant": [
+                "副系列"
+            ]
         }
     },
     "title": {
@@ -29,7 +37,7 @@
     "endDate": 2012,
     "dimension": {
         "en": "9 items",
-        "zh-hant": "9 items"
+        "zh-hant": "9 份/張/件"
     },
     "medium": {
         "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong. Gift of Lanzavecchia + Wai, 2016",
         "zh-hant": "M+，香港，Lanzavecchia + Wai捐贈，2016年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1478,
+            "role": {
+                "en": "Archive Creator",
+                "zh-hant": "建檔者"
+            }
+        }
+    ],
     "images": null,
     "color": {
         "predominant": null,

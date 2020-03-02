@@ -5,16 +5,28 @@
     "objectNumber": "CA28/10/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1982,
     "dimension": {
         "en": "overall: 35 x 23.5 cm\r\n3 pages",
-        "zh-hant": "overall: 35 x 23.5 cm\r\n3 pages"
+        "zh-hant": "整體: 35 x 23.5 厘米\r\n3 頁"
     },
     "medium": {
         "en": "graphite and ink on paper",
@@ -48,11 +60,33 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D5D8D9",
+                "value": 79.3
+            },
+            {
+                "color": "#D4D6D5",
+                "value": 10.2
+            },
+            {
+                "color": "#D1D2CD",
+                "value": 7.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 96.7
+                }
+            ]
         }
     },
     "dimensionDetails": {

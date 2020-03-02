@@ -11,15 +11,17 @@
     },
     "type": "Individual",
     "roles": [
-        "Artist",
-        "Archive Creator",
         "Architect",
-        "藝術家",
+        "建築師",
+        "Archive Creator",
         "建檔者",
-        "建築師"
+        "Designer",
+        "設計師",
+        "Author",
+        "作者"
     ],
     "displayBio": {
-        "en": "Hong Kong, born China, 1936",
+        "en": "Hong Kong, born China. 1936–2019",
         "zh-hant": "香港，1936年生於中國"
     },
     "gender": {
@@ -27,7 +29,7 @@
         "zh-hant": "男性"
     },
     "beginDate": 1936,
-    "endDate": null,
+    "endDate": 2019,
     "nationality": {
         "en": "Hong Kong",
         "zh-hant": "香港"

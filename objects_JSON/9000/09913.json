@@ -5,16 +5,28 @@
     "objectNumber": "CA28/3/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1972,
     "dimension": {
         "en": "2 items",
-        "zh-hant": "2 items"
+        "zh-hant": "2 份/張/件"
     },
     "medium": {
         "en": "ink and marker ink on paper",
@@ -48,11 +60,45 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CFD2D4",
+                "value": 35.5
+            },
+            {
+                "color": "#D1D3D2",
+                "value": 26
+            },
+            {
+                "color": "#D1D2CF",
+                "value": 25.7
+            },
+            {
+                "color": "#BBBECA",
+                "value": 7.2
+            },
+            {
+                "color": "#CDCAC4",
+                "value": 3.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 10.9
+                },
+                {
+                    "color": "white",
+                    "value": 87.3
+                }
+            ]
         }
     },
     "dimensionDetails": null

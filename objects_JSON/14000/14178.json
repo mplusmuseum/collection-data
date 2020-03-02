@@ -5,16 +5,28 @@
     "objectNumber": "CA39/4/5/2/3",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "[circa 1985–1988]",
-        "zh-hant": "[circa 1985–1988]"
+        "zh-hant": "[約1985年至1988年]"
     },
     "beginDate": 1983,
     "endDate": 1988,
     "dimension": {
         "en": "sheet: 57.9 x 84.6 cm",
-        "zh-hant": "sheet: 57.9 x 84.6 cm"
+        "zh-hant": "紙本: 57.9 x 84.6 厘米"
     },
     "medium": {
         "en": "blackline print, photocopy, and graphite on transparent paper and tape",
@@ -37,7 +49,7 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017",
-        "zh-hant": "M+, Hong Kong. Gift of Chiu-Hwa Wang, 2017"
+        "zh-hant": "M+，香港，王秋華捐贈，2017年"
     },
     "constituents": [
         {
@@ -45,6 +57,13 @@
             "role": {
                 "en": "Architect",
                 "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 2824,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
             }
         }
     ],

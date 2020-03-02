@@ -5,12 +5,20 @@
     "objectNumber": "2012.733",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,29 +58,33 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on canvas depicting a portrait of a man rendered in black and white tones. The man has a double chin and a moustache and looks straight ahead."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#222222",
-                "value": 90.6
+                "color": "#34302E",
+                "value": 72.6
             },
             {
-                "color": "#737373",
-                "value": 9.4
+                "color": "#232224",
+                "value": 17.1
+            },
+            {
+                "color": "#706A65",
+                "value": 9.1
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 9.4
+                    "value": 9.1
                 },
                 {
                     "color": "black",
-                    "value": 90.6
+                    "value": 89.7
                 }
             ]
         }

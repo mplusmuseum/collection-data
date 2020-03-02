@@ -5,12 +5,20 @@
     "objectNumber": "2012.1349",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,15 +47,7 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [
-        {
-            "id": 574,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": null
@@ -56,19 +56,19 @@
     "color": {
         "predominant": [
             {
-                "color": "#88454A",
-                "value": 87.8
+                "color": "#704447",
+                "value": 78.5
             },
             {
-                "color": "#412121",
-                "value": 9.9
+                "color": "#432626",
+                "value": 16.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 97.6
+                    "value": 95.1
                 }
             ]
         }

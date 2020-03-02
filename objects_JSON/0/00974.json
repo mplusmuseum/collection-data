@@ -5,12 +5,20 @@
     "objectNumber": "2013.177",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Drawing",
-            "zh-hant": "繪圖"
+            "en": [
+                "Drawing"
+            ],
+            "zh-hant": [
+                "繪圖"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -48,11 +56,53 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C4C8D8",
+                "value": 60.8
+            },
+            {
+                "color": "#E6DBDA",
+                "value": 19.3
+            },
+            {
+                "color": "#E0D7DF",
+                "value": 9.6
+            },
+            {
+                "color": "#BCCCD6",
+                "value": 3.5
+            },
+            {
+                "color": "#8B91A0",
+                "value": 1.5
+            },
+            {
+                "color": "#90AAD0",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 65.8
+                },
+                {
+                    "color": "white",
+                    "value": 28.8
+                },
+                {
+                    "color": "teal",
+                    "value": 1.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

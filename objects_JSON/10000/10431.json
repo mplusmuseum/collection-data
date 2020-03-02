@@ -5,21 +5,33 @@
     "objectNumber": "CA10/3/4",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Book/Periodical",
-            "zh-hant": "書藉/期刊"
+            "en": [
+                "Book/Periodical"
+            ],
+            "zh-hant": [
+                "書藉/期刊"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
         "en": "Brochure, Chung Wah Nan and Partners",
-        "zh-hant": "鍾華楠建築設計事務所小冊子"
+        "zh-hant": "費雅倫鍾華楠鍾浩文建築設計事務所小冊子"
     },
     "displayDate": {
         "en": "[1989]",
@@ -29,7 +41,7 @@
     "endDate": 1989,
     "dimension": {
         "en": "10 items",
-        "zh-hant": "10 items"
+        "zh-hant": "10 份/張/件"
     },
     "medium": {
         "en": "printing ink on paperboard and paper",
@@ -39,7 +51,15 @@
         "en": "M+, Hong Kong. Gift of Chung Wah Nan Architects Limited, 2013",
         "zh-hant": "M+，香港，鍾華楠建築師有限公司捐贈，2013年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 27,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": [

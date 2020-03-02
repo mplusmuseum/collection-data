@@ -5,12 +5,20 @@
     "objectNumber": "2012.386",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Painting",
-            "zh-hant": "繪畫"
+            "en": [
+                "Painting"
+            ],
+            "zh-hant": [
+                "繪畫"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -50,65 +58,49 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Oil painting on canvas depicting a girl with plaits in a samfu top. She has closed eyes and holds a fan. She appears like a faded fresco against a bluish background."
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#A2A9B9",
-                "value": 42.2
+                "color": "#C4BBB2",
+                "value": 50.4
             },
             {
-                "color": "#854145",
-                "value": 19.8
+                "color": "#CBCABE",
+                "value": 15.3
             },
             {
-                "color": "#9EAEBC",
-                "value": 13
+                "color": "#96504C",
+                "value": 11.5
             },
             {
-                "color": "#8B8599",
-                "value": 5.9
+                "color": "#B9836C",
+                "value": 7.6
             },
             {
-                "color": "#947C8F",
-                "value": 4.3
+                "color": "#9E614C",
+                "value": 4.1
             },
             {
-                "color": "#805770",
+                "color": "#B36E68",
+                "value": 3.7
+            },
+            {
+                "color": "#CACFCB",
                 "value": 2.1
             },
             {
-                "color": "#B6A0B1",
-                "value": 1.9
-            },
-            {
-                "color": "#8D4B36",
+                "color": "#BFCACC",
                 "value": 1.7
-            },
-            {
-                "color": "#9B8488",
-                "value": 1.3
-            },
-            {
-                "color": "#B7A1A3",
-                "value": 1.3
-            },
-            {
-                "color": "#4B1F22",
-                "value": 1.1
-            },
-            {
-                "color": "#82291C",
-                "value": 0.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 23.5
+                    "value": 19.2
                 },
                 {
                     "color": "pink",
@@ -116,10 +108,18 @@
                 },
                 {
                     "color": "gray",
-                    "value": 63.6
+                    "value": 67.5
                 },
                 {
                     "color": "purple",
+                    "value": 2.1
+                },
+                {
+                    "color": "orange",
+                    "value": 7.6
+                },
+                {
+                    "color": "white",
                     "value": 2.1
                 }
             ]

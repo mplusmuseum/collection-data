@@ -5,16 +5,28 @@
     "objectNumber": "CA28/1/11",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Book/Periodical",
-            "zh-hant": "書藉/期刊"
+            "en": [
+                "Book/Periodical"
+            ],
+            "zh-hant": [
+                "書藉/期刊"
+            ]
         },
         "archivalLevel": {
-            "en": "Item",
-            "zh-hant": "單件"
+            "en": [
+                "Item"
+            ],
+            "zh-hant": [
+                "單件"
+            ]
         }
     },
     "title": {
@@ -23,13 +35,13 @@
     },
     "displayDate": {
         "en": "January 1969",
-        "zh-hant": "January 1969"
+        "zh-hant": "1969年1月"
     },
     "beginDate": 1969,
     "endDate": 1969,
     "dimension": {
         "en": "overall: 32.3 x 24.4\r\n6 pages",
-        "zh-hant": "overall: 32.3 x 24.4\r\n6 pages"
+        "zh-hant": "整體: 32.3 x 24.4\r\n6 頁"
     },
     "medium": {
         "en": "printing ink on paper",
@@ -41,18 +53,92 @@
     },
     "constituents": [
         {
-            "id": 1162,
+            "id": 4863,
             "role": {
-                "en": "Designer",
-                "zh-hant": "設計師"
+                "en": "Publisher",
+                "zh-hant": "出版社"
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#DFD753",
+                "value": 32.2
+            },
+            {
+                "color": "#CCD0D2",
+                "value": 25.1
+            },
+            {
+                "color": "#2D3137",
+                "value": 13.2
+            },
+            {
+                "color": "#C0C4CB",
+                "value": 9
+            },
+            {
+                "color": "#747A84",
+                "value": 3.6
+            },
+            {
+                "color": "#CDCCB9",
+                "value": 3
+            },
+            {
+                "color": "#F87907",
+                "value": 2.3
+            },
+            {
+                "color": "#CCCFCD",
+                "value": 1.8
+            },
+            {
+                "color": "#828A90",
+                "value": 1.7
+            },
+            {
+                "color": "#C9C1B4",
+                "value": 1.5
+            },
+            {
+                "color": "#F98509",
+                "value": 1.4
+            },
+            {
+                "color": "#303438",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 3.8
+                },
+                {
+                    "color": "gray",
+                    "value": 15.8
+                },
+                {
+                    "color": "white",
+                    "value": 29.9
+                },
+                {
+                    "color": "yellow",
+                    "value": 32.2
+                },
+                {
+                    "color": "black",
+                    "value": 14.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

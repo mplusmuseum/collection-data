@@ -5,12 +5,20 @@
     "objectNumber": "2015.224",
     "classification": {
         "area": {
-            "en": "Visual Art",
-            "zh-hant": "視覺藝術"
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
         },
         "category": {
-            "en": "Photography",
-            "zh-hant": "攝影"
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -39,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 912,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a sheet of chicken wire leaning against a wall, viewed from underneath the wire. A row of stones goes from the floor to the top of the wire. A wooden shelf with a large stone on it stands against the wall."
@@ -48,23 +64,27 @@
     "color": {
         "predominant": [
             {
-                "color": "#303030",
-                "value": 38
+                "color": "#CECAC6",
+                "value": 58.5
             },
             {
-                "color": "#818181",
-                "value": 37.4
+                "color": "#817A77",
+                "value": 29.1
             },
             {
-                "color": "#D4D4D4",
-                "value": 24.5
+                "color": "#3A3534",
+                "value": 6.8
+            },
+            {
+                "color": "#2A201B",
+                "value": 1
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 37.4
+                    "value": 87.6
                 },
                 {
                     "color": "white",
@@ -72,7 +92,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 38
+                    "value": 7.8
                 }
             ]
         }

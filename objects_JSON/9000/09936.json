@@ -5,16 +5,28 @@
     "objectNumber": "CA28/6/1",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Design Drawing",
-            "zh-hant": "設計繪圖"
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -29,7 +41,7 @@
     "endDate": 1981,
     "dimension": {
         "en": "5 items",
-        "zh-hant": "5 items"
+        "zh-hant": "5 份/張/件"
     },
     "medium": {
         "en": "blackline print on tracing vellum",
@@ -48,11 +60,37 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E2DDD0",
+                "value": 88.4
+            },
+            {
+                "color": "#928B7B",
+                "value": 4.2
+            },
+            {
+                "color": "#DBD9CD",
+                "value": 3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 4.2
+                },
+                {
+                    "color": "white",
+                    "value": 91.5
+                }
+            ]
         }
     },
     "dimensionDetails": null

@@ -5,16 +5,30 @@
     "objectNumber": "CA10/2/8",
     "classification": {
         "area": {
-            "en": "Design and Architecture",
-            "zh-hant": "設計與建築"
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
         },
         "category": {
-            "en": "Architectural Drawing",
-            "zh-hant": "建築圖"
+            "en": [
+                "Architectural Photography",
+                "Architectural Drawing"
+            ],
+            "zh-hant": [
+                "建築照片",
+                "建築圖"
+            ]
         },
         "archivalLevel": {
-            "en": "File",
-            "zh-hant": "案卷"
+            "en": [
+                "File"
+            ],
+            "zh-hant": [
+                "案卷"
+            ]
         }
     },
     "title": {
@@ -23,13 +37,13 @@
     },
     "displayDate": {
         "en": "[1970s]",
-        "zh-hant": "[1970s]"
+        "zh-hant": "[1970年代]"
     },
     "beginDate": 1970,
     "endDate": 1979,
     "dimension": {
         "en": "3 items",
-        "zh-hant": "3 items"
+        "zh-hant": "3 份/張/件"
     },
     "medium": {
         "en": "black-and-white slide, colour slide",
@@ -48,11 +62,53 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C3C4BA",
+                "value": 70.4
+            },
+            {
+                "color": "#B8BFB8",
+                "value": 14.4
+            },
+            {
+                "color": "#181C25",
+                "value": 3.6
+            },
+            {
+                "color": "#718273",
+                "value": 3.1
+            },
+            {
+                "color": "#353C3A",
+                "value": 1.4
+            },
+            {
+                "color": "#857D7B",
+                "value": 1.4
+            },
+            {
+                "color": "#BBB5AF",
+                "value": 1.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 90.4
+                },
+                {
+                    "color": "black",
+                    "value": 5
+                }
+            ]
         }
     },
     "dimensionDetails": null
