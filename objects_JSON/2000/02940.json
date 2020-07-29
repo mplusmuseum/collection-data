@@ -42,8 +42,8 @@
         "zh-hant": "影片長度： 12 分 40 秒"
     },
     "medium": {
-        "en": "leather and video installation",
-        "zh-hant": "皮革、錄像裝置"
+        "en": "leather and single-channel digital video (colour, silent)",
+        "zh-hant": "皮革及單頻道數碼錄像"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
@@ -203,5 +203,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "duration",
+        "unit": null,
+        "width": null,
+        "height": null,
+        "depth": null
+    }
 }

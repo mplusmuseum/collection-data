@@ -49,13 +49,6 @@
     },
     "constituents": [
         {
-            "id": 2962,
-            "role": {
-                "en": "Designer",
-                "zh-hant": "設計師"
-            }
-        },
-        {
             "id": 1697,
             "role": {
                 "en": "Manufacturer",
@@ -63,11 +56,92 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D3D7D7",
+                "value": 40
+            },
+            {
+                "color": "#CCD0CF",
+                "value": 31.3
+            },
+            {
+                "color": "#736963",
+                "value": 10.2
+            },
+            {
+                "color": "#3A2A24",
+                "value": 5.2
+            },
+            {
+                "color": "#312C2A",
+                "value": 4
+            },
+            {
+                "color": "#948064",
+                "value": 3.8
+            },
+            {
+                "color": "#B69E7C",
+                "value": 2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 2
+                },
+                {
+                    "color": "gray",
+                    "value": 10.2
+                },
+                {
+                    "color": "white",
+                    "value": 71.3
+                },
+                {
+                    "color": "black",
+                    "value": 9.2
+                },
+                {
+                    "color": "brown",
+                    "value": 3.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

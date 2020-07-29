@@ -60,11 +60,45 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "A drawing of a rendering of a courtyard house with a garden in the centre on the left. On the right is a square floor plan of the same house."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E0D9C4",
+                "value": 74.2
+            },
+            {
+                "color": "#CECDB1",
+                "value": 14.7
+            },
+            {
+                "color": "#847F72",
+                "value": 3.4
+            },
+            {
+                "color": "#939380",
+                "value": 3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 6.4
+                },
+                {
+                    "color": "white",
+                    "value": 74.2
+                },
+                {
+                    "color": "yellow",
+                    "value": 14.7
+                }
+            ]
         }
     },
     "dimensionDetails": {

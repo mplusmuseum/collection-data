@@ -42,7 +42,7 @@
     "beginDate": 1985,
     "endDate": 1989,
     "dimension": {
-        "en": "digital: 2203 x 2207 px\r\r\nfile size: 19010 kb",
+        "en": "digital: 2207 × 2203 px\r\r\nfile size: 19010 kb",
         "zh-hant": "數碼: 2203 x 2207 px\r\r\n文件大小: 19010 kb"
     },
     "medium": {
@@ -62,11 +62,73 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#50D0DF",
+                "value": 23.1
+            },
+            {
+                "color": "#000000",
+                "value": 17.7
+            },
+            {
+                "color": "#26B1C4",
+                "value": 10.9
+            },
+            {
+                "color": "#015F85",
+                "value": 9.3
+            },
+            {
+                "color": "#21A6CA",
+                "value": 8.7
+            },
+            {
+                "color": "#00052D",
+                "value": 7.7
+            },
+            {
+                "color": "#08808F",
+                "value": 6.2
+            },
+            {
+                "color": "#00206E",
+                "value": 4.9
+            },
+            {
+                "color": "#47C1DF",
+                "value": 3.3
+            },
+            {
+                "color": "#002E42",
+                "value": 1.9
+            },
+            {
+                "color": "#6ADFDB",
+                "value": 1.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "blue",
+                    "value": 14.5
+                },
+                {
+                    "color": "black",
+                    "value": 17.7
+                },
+                {
+                    "color": "teal",
+                    "value": 63.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

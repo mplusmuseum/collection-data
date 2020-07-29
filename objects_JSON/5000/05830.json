@@ -14,10 +14,10 @@
         },
         "category": {
             "en": [
-                "Video"
+                "Video Installation"
             ],
             "zh-hant": [
-                "錄像"
+                "錄像裝置"
             ]
         },
         "archivalLevel": {
@@ -36,12 +36,12 @@
     "beginDate": 2003,
     "endDate": 2003,
     "dimension": {
-        "en": "450 x 570 cm (projection size)",
+        "en": "duration: continuous loop",
         "zh-hant": "450 x 570厘米（投影大小）"
     },
     "medium": {
-        "en": "digital video (colour)",
-        "zh-hant": "單頻道數碼錄像"
+        "en": "single-channel digital video projection (colour, sound)",
+        "zh-hant": "單頻道數碼錄像投影（彩色，有聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -121,5 +121,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "duration",
+        "unit": null,
+        "width": null,
+        "height": null,
+        "depth": null
+    }
 }

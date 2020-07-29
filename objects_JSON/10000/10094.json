@@ -60,11 +60,41 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Floor plan showing a floor from a circular building with the label ‘6th floor plan’ in the bottom right. The central part of the floor plan is labelled ‘store’ and other rooms, with labels such as ‘lobby’, ‘chapel’, ‘kitchen’, ‘dining’, and ‘dental surgery’, are located around it."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E3D8C1",
+                "value": 84.9
+            },
+            {
+                "color": "#E1CB9E",
+                "value": 9.5
+            },
+            {
+                "color": "#84726C",
+                "value": 4.3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 9.5
+                },
+                {
+                    "color": "gray",
+                    "value": 4.3
+                },
+                {
+                    "color": "yellow",
+                    "value": 84.9
+                }
+            ]
         }
     },
     "dimensionDetails": {

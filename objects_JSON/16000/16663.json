@@ -42,7 +42,7 @@
     "beginDate": 1985,
     "endDate": 2009,
     "dimension": {
-        "en": "digital: 2559 x 3224 px\r\r\nfile size: 32244 kb",
+        "en": "digital: 3224 × 2559 px\r\r\nfile size: 32244 kb",
         "zh-hant": "數碼: 2559 x 3224 px\r\r\n文件大小: 32244 kb"
     },
     "medium": {
@@ -62,11 +62,117 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C5CBAE",
+                "value": 19.4
+            },
+            {
+                "color": "#000000",
+                "value": 12.3
+            },
+            {
+                "color": "#00317A",
+                "value": 10.6
+            },
+            {
+                "color": "#1377B7",
+                "value": 9.1
+            },
+            {
+                "color": "#025796",
+                "value": 8.2
+            },
+            {
+                "color": "#4795BD",
+                "value": 6.5
+            },
+            {
+                "color": "#052B01",
+                "value": 6.5
+            },
+            {
+                "color": "#819682",
+                "value": 5.6
+            },
+            {
+                "color": "#B7C4B5",
+                "value": 3.6
+            },
+            {
+                "color": "#809498",
+                "value": 2.8
+            },
+            {
+                "color": "#5C7C54",
+                "value": 2.2
+            },
+            {
+                "color": "#939F80",
+                "value": 1.8
+            },
+            {
+                "color": "#296103",
+                "value": 1.6
+            },
+            {
+                "color": "#70844A",
+                "value": 1.5
+            },
+            {
+                "color": "#446E0D",
+                "value": 1.2
+            },
+            {
+                "color": "#BDD0D3",
+                "value": 0.9
+            },
+            {
+                "color": "#52775E",
+                "value": 0.8
+            },
+            {
+                "color": "#527669",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "green",
+                    "value": 21.3
+                },
+                {
+                    "color": "gray",
+                    "value": 6.5
+                },
+                {
+                    "color": "blue",
+                    "value": 18.9
+                },
+                {
+                    "color": "white",
+                    "value": 0.9
+                },
+                {
+                    "color": "yellow",
+                    "value": 19.4
+                },
+                {
+                    "color": "black",
+                    "value": 12.3
+                },
+                {
+                    "color": "teal",
+                    "value": 16.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

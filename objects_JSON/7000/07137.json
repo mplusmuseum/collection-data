@@ -47,20 +47,54 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [
+    "constituents": [],
+    "images": [
         {
-            "id": 1716,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
+            "altText": null
         }
     ],
-    "images": [],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#312E2E",
+                "value": 29.8
+            },
+            {
+                "color": "#7D7A79",
+                "value": 26.4
+            },
+            {
+                "color": "#3A3739",
+                "value": 22.9
+            },
+            {
+                "color": "#C2C0BE",
+                "value": 8.3
+            },
+            {
+                "color": "#6B696B",
+                "value": 5.2
+            },
+            {
+                "color": "#6D6C6F",
+                "value": 2.3
+            },
+            {
+                "color": "#C9C9C7",
+                "value": 1.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 43.8
+                },
+                {
+                    "color": "black",
+                    "value": 52.7
+                }
+            ]
         }
     },
     "dimensionDetails": {

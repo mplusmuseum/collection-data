@@ -40,8 +40,8 @@
         "zh-hant": "紙本: 73.7 × 48.4 厘米"
     },
     "medium": {
-        "en": "offset lithograph print",
-        "zh-hant": "柯式平板印刷"
+        "en": "offset lithograph",
+        "zh-hant": "柯式石印"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Arthur Hacker, 2019",
@@ -63,11 +63,81 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CBCCC8",
+                "value": 23.7
+            },
+            {
+                "color": "#4C4747",
+                "value": 22.6
+            },
+            {
+                "color": "#CC6C47",
+                "value": 15.3
+            },
+            {
+                "color": "#CBCAC8",
+                "value": 14.1
+            },
+            {
+                "color": "#74706F",
+                "value": 5.6
+            },
+            {
+                "color": "#7F7D84",
+                "value": 3.2
+            },
+            {
+                "color": "#BCC0BC",
+                "value": 2.7
+            },
+            {
+                "color": "#746F73",
+                "value": 2.5
+            },
+            {
+                "color": "#898A84",
+                "value": 2
+            },
+            {
+                "color": "#C0BDBF",
+                "value": 1.5
+            },
+            {
+                "color": "#8B908A",
+                "value": 1.5
+            },
+            {
+                "color": "#B7B5BA",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 15.3
+                },
+                {
+                    "color": "gray",
+                    "value": 34.3
+                },
+                {
+                    "color": "white",
+                    "value": 23.7
+                },
+                {
+                    "color": "black",
+                    "value": 22.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

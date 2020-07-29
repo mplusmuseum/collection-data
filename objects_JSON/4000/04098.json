@@ -16,12 +16,12 @@
         },
         "category": {
             "en": [
-                "Digital",
-                "Video Installation"
+                "Video Installation",
+                "Animation"
             ],
             "zh-hant": [
-                "數碼",
-                "錄像裝置"
+                "錄像裝置",
+                "動畫"
             ]
         },
         "archivalLevel": {
@@ -44,14 +44,22 @@
         "zh-hant": "影片長度: 16 分 36 秒"
     },
     "medium": {
-        "en": "digital video (colour, silent)",
-        "zh-hant": "雙頻道錄像（彩色、有聲）"
+        "en": "two-channel digital video projection (colour, sound)",
+        "zh-hant": "雙頻道數碼錄像投影（彩色，有聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 853,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Still from an animation showing a person in a white suit standing in a desert landscape in front of a withered tree. Different types of birds, including eagles, owls, and water birds, cover the tree and the ground beneath the tree."

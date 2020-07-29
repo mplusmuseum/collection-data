@@ -41,13 +41,21 @@
     },
     "medium": {
         "en": "dye diffusion transfer print",
-        "zh-hant": "染料擴散轉印相片"
+        "zh-hant": "染料擴散轉印照片"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1627,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

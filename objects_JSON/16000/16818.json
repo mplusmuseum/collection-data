@@ -42,7 +42,7 @@
     "beginDate": 1988,
     "endDate": 1989,
     "dimension": {
-        "en": "digital: 13195 x 18760 px\r\r\nfile size: 6104 kb",
+        "en": "digital: 18760 × 13195 px\r\r\nfile size: 6104 kb",
         "zh-hant": "數碼: 13195 x 18760 px\r\r\n文件大小: 6104 kb"
     },
     "medium": {
@@ -62,11 +62,33 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#F7F7F7",
+                "value": 94.1
+            },
+            {
+                "color": "#8E8E8E",
+                "value": 5.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 5.9
+                },
+                {
+                    "color": "white",
+                    "value": 94.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

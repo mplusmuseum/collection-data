@@ -42,7 +42,7 @@
     "beginDate": 1985,
     "endDate": 2009,
     "dimension": {
-        "en": "digital: 1083 x 1596 px\r\r\nfile size: 6769 kb",
+        "en": "digital: 1596 × 1083 px\r\r\nfile size: 6769 kb",
         "zh-hant": "數碼: 1083 x 1596 px\r\r\n文件大小: 6769 kb"
     },
     "medium": {
@@ -62,11 +62,169 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#010101",
+                "value": 12.4
+            },
+            {
+                "color": "#260701",
+                "value": 12
+            },
+            {
+                "color": "#BF1C1F",
+                "value": 8.5
+            },
+            {
+                "color": "#880101",
+                "value": 7.9
+            },
+            {
+                "color": "#C6A271",
+                "value": 5.3
+            },
+            {
+                "color": "#C1DBCA",
+                "value": 5
+            },
+            {
+                "color": "#76603E",
+                "value": 4.7
+            },
+            {
+                "color": "#927E79",
+                "value": 4.5
+            },
+            {
+                "color": "#BD8F77",
+                "value": 3.7
+            },
+            {
+                "color": "#866048",
+                "value": 3.6
+            },
+            {
+                "color": "#CD576B",
+                "value": 3.5
+            },
+            {
+                "color": "#BAA597",
+                "value": 2.9
+            },
+            {
+                "color": "#74350C",
+                "value": 2.5
+            },
+            {
+                "color": "#3A2407",
+                "value": 2
+            },
+            {
+                "color": "#7A6F88",
+                "value": 1.8
+            },
+            {
+                "color": "#010425",
+                "value": 1.7
+            },
+            {
+                "color": "#7F697C",
+                "value": 1.6
+            },
+            {
+                "color": "#46371C",
+                "value": 1.5
+            },
+            {
+                "color": "#3D251F",
+                "value": 1.5
+            },
+            {
+                "color": "#515880",
+                "value": 1.2
+            },
+            {
+                "color": "#C0D9DC",
+                "value": 1.1
+            },
+            {
+                "color": "#858872",
+                "value": 0.8
+            },
+            {
+                "color": "#815458",
+                "value": 0.7
+            },
+            {
+                "color": "#25233A",
+                "value": 0.7
+            },
+            {
+                "color": "#748874",
+                "value": 0.7
+            },
+            {
+                "color": "#C2C7B4",
+                "value": 0.6
+            },
+            {
+                "color": "#61557A",
+                "value": 0.5
+            },
+            {
+                "color": "#A9A9C1",
+                "value": 0.5
+            },
+            {
+                "color": "#655171",
+                "value": 0.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 34.1
+                },
+                {
+                    "color": "orange",
+                    "value": 9
+                },
+                {
+                    "color": "gray",
+                    "value": 8
+                },
+                {
+                    "color": "green",
+                    "value": 6.5
+                },
+                {
+                    "color": "blue",
+                    "value": 4.1
+                },
+                {
+                    "color": "white",
+                    "value": 1.1
+                },
+                {
+                    "color": "black",
+                    "value": 12.4
+                },
+                {
+                    "color": "purple",
+                    "value": 4.4
+                },
+                {
+                    "color": "brown",
+                    "value": 14.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

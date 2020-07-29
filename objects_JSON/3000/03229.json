@@ -14,12 +14,14 @@
         },
         "category": {
             "en": [
-                "Performance",
-                "Ink Art"
+                "Painting",
+                "Ink Art",
+                "Performance"
             ],
             "zh-hant": [
-                "行為",
-                "水墨"
+                "繪畫",
+                "水墨",
+                "行為"
             ]
         },
         "archivalLevel": {
@@ -38,7 +40,7 @@
     "beginDate": 1984,
     "endDate": 1984,
     "dimension": {
-        "en": "overall: 92.6 × 130 cm\r\r\nimage (sight): 64.5 × 106 cm",
+        "en": "sheet (sight): 67.5 × 106.5 cm\r\r\nframe: 102 × 140.3 × 3.4 cm",
         "zh-hant": "整體: 92.6 × 130 厘米\r\r\n圖像 （目測）: 64.5 × 106 厘米"
     },
     "medium": {
@@ -66,56 +68,40 @@
     "color": {
         "predominant": [
             {
-                "color": "#C9CABF",
-                "value": 33.4
+                "color": "#DED8CE",
+                "value": 89.5
             },
             {
-                "color": "#BBC2BA",
-                "value": 22
+                "color": "#3F3C3C",
+                "value": 4.9
             },
             {
-                "color": "#D3CFC6",
-                "value": 15.9
-            },
-            {
-                "color": "#8C968D",
-                "value": 10.9
-            },
-            {
-                "color": "#B9C3C4",
-                "value": 7.4
-            },
-            {
-                "color": "#384342",
-                "value": 3.3
-            },
-            {
-                "color": "#222E33",
-                "value": 2.7
+                "color": "#7E7874",
+                "value": 4.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 73.7
+                    "value": 4.5
                 },
                 {
                     "color": "white",
-                    "value": 15.9
+                    "value": 89.5
                 },
                 {
                     "color": "black",
-                    "value": 6
+                    "value": 4.9
                 }
             ]
         }
     },
     "dimensionDetails": {
-        "element": "overall",
+        "element": "sheet",
         "unit": "cm",
-        "width": 130,
-        "height": 92.6,
+        "width": 106.5,
+        "height": 67.5,
         "depth": null
     }
 }

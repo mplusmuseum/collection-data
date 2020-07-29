@@ -6,12 +6,12 @@
     "classification": {
         "area": {
             "en": [
-                "Visual Art",
-                "Moving Image"
+                "Moving Image",
+                "Visual Art"
             ],
             "zh-hant": [
-                "視覺藝術",
-                "流動影像"
+                "流動影像",
+                "視覺藝術"
             ]
         },
         "category": {
@@ -175,5 +175,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "duration",
+        "unit": null,
+        "width": null,
+        "height": null,
+        "depth": null
+    }
 }

@@ -26,8 +26,8 @@
         }
     },
     "title": {
-        "en": "WERK No. 8: The Inside Of A Shirt",
-        "zh-hant": "WERK第8期：襯衣之內"
+        "en": "WERK NO. 19: CLUB 21 X COMME DES GARÇONS",
+        "zh-hant": "WERK第19期：CLUB 21 × COMME des GARÇONS"
     },
     "displayDate": {
         "en": "2003–2004",
@@ -36,7 +36,7 @@
     "beginDate": 2003,
     "endDate": 2004,
     "dimension": {
-        "en": "overall: 1.5 × 22 × 29.5 cm",
+        "en": "overall (closed): 1.8 × 22 × 30.5 cm",
         "zh-hant": "整體: 1.5 × 22 × 29.5 厘米"
     },
     "medium": {
@@ -47,7 +47,22 @@
         "en": "M+, Hong Kong. Gift of WORK, 2014",
         "zh-hant": "M+，香港，WORK捐贈，2014年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 846,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        },
+        {
+            "id": 1302,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -113,7 +128,7 @@
         "element": "overall",
         "unit": "cm",
         "width": 22,
-        "height": 1.5,
-        "depth": 29.5
+        "height": 1.8,
+        "depth": 30.5
     }
 }

@@ -41,7 +41,7 @@
     },
     "medium": {
         "en": "stainless steel",
-        "zh-hant": "混合媒材"
+        "zh-hant": "不鏽鋼"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
@@ -56,11 +56,69 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#92A0D2",
+                "value": 29
+            },
+            {
+                "color": "#AEBDE2",
+                "value": 27.8
+            },
+            {
+                "color": "#555892",
+                "value": 23.5
+            },
+            {
+                "color": "#55428C",
+                "value": 5.8
+            },
+            {
+                "color": "#060035",
+                "value": 3.5
+            },
+            {
+                "color": "#000000",
+                "value": 2.4
+            },
+            {
+                "color": "#D2E6F5",
+                "value": 1.9
+            },
+            {
+                "color": "#0E0F71",
+                "value": 1.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "blue",
+                    "value": 57.8
+                },
+                {
+                    "color": "white",
+                    "value": 1.9
+                },
+                {
+                    "color": "black",
+                    "value": 2.4
+                },
+                {
+                    "color": "purple",
+                    "value": 5.8
+                },
+                {
+                    "color": "teal",
+                    "value": 27.8
+                }
+            ]
         }
     },
     "dimensionDetails": null

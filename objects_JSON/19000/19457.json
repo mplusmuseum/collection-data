@@ -40,7 +40,7 @@
     "beginDate": 1965,
     "endDate": 1965,
     "dimension": {
-        "en": "overall: 30.6 × 30.6 × 0.1 cm\r\r\n[23] leaves",
+        "en": "overall: 30.7 × 30.7 × 0.1 cm\r\r\n[23] leaves",
         "zh-hant": "整體: 30.6 × 30.6 × 0.1 厘米\r\r\n[23] 頁"
     },
     "medium": {
@@ -60,18 +60,138 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D21221",
+                "value": 41.6
+            },
+            {
+                "color": "#46E577",
+                "value": 38.2
+            },
+            {
+                "color": "#7AD575",
+                "value": 4.9
+            },
+            {
+                "color": "#32D96A",
+                "value": 4.6
+            },
+            {
+                "color": "#9B1611",
+                "value": 1.7
+            },
+            {
+                "color": "#913712",
+                "value": 1.4
+            },
+            {
+                "color": "#CB4542",
+                "value": 1
+            },
+            {
+                "color": "#955839",
+                "value": 1
+            },
+            {
+                "color": "#8F733F",
+                "value": 1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 45.7
+                },
+                {
+                    "color": "green",
+                    "value": 47.7
+                },
+                {
+                    "color": "brown",
+                    "value": 1.9
+                }
+            ]
         }
     },
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 30.6,
-        "height": 30.6,
+        "width": 30.7,
+        "height": 30.7,
         "depth": 0.1
     }
 }

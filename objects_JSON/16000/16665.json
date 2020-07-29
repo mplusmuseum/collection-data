@@ -42,7 +42,7 @@
     "beginDate": 1985,
     "endDate": 2009,
     "dimension": {
-        "en": "digital: 1277 x 1731 px\r\r\nfile size: 8652 kb",
+        "en": "digital: 1731 × 1277 px\r\r\nfile size: 8652 kb",
         "zh-hant": "數碼: 1277 x 1731 px\r\r\n文件大小: 8652 kb"
     },
     "medium": {
@@ -62,11 +62,125 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#000000",
+                "value": 29.4
+            },
+            {
+                "color": "#68B7DC",
+                "value": 22.6
+            },
+            {
+                "color": "#082201",
+                "value": 6.4
+            },
+            {
+                "color": "#2695DC",
+                "value": 6.2
+            },
+            {
+                "color": "#B8D1D9",
+                "value": 4.4
+            },
+            {
+                "color": "#CFB080",
+                "value": 3.2
+            },
+            {
+                "color": "#283801",
+                "value": 3
+            },
+            {
+                "color": "#4E710C",
+                "value": 2.5
+            },
+            {
+                "color": "#DDCDBB",
+                "value": 2.2
+            },
+            {
+                "color": "#E9F1EB",
+                "value": 1.8
+            },
+            {
+                "color": "#322702",
+                "value": 1.5
+            },
+            {
+                "color": "#200700",
+                "value": 1.5
+            },
+            {
+                "color": "#6B8535",
+                "value": 1.4
+            },
+            {
+                "color": "#8B7343",
+                "value": 1.4
+            },
+            {
+                "color": "#CFA07F",
+                "value": 1.2
+            },
+            {
+                "color": "#E9EBDD",
+                "value": 1
+            },
+            {
+                "color": "#010723",
+                "value": 0.8
+            },
+            {
+                "color": "#86803E",
+                "value": 0.7
+            },
+            {
+                "color": "#7F853B",
+                "value": 0.6
+            },
+            {
+                "color": "#4F763F",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 4.4
+                },
+                {
+                    "color": "green",
+                    "value": 10.8
+                },
+                {
+                    "color": "white",
+                    "value": 9.4
+                },
+                {
+                    "color": "blue",
+                    "value": 0.8
+                },
+                {
+                    "color": "black",
+                    "value": 30.9
+                },
+                {
+                    "color": "teal",
+                    "value": 28.8
+                },
+                {
+                    "color": "brown",
+                    "value": 7.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

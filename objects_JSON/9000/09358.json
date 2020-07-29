@@ -47,7 +47,7 @@
     },
     "medium": {
         "en": "digital print",
-        "zh-hant": "digital print"
+        "zh-hant": "數碼印刷"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Family of Alan Fitch, 2014",
@@ -62,11 +62,53 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#292925",
+                "value": 60.8
+            },
+            {
+                "color": "#808789",
+                "value": 13.4
+            },
+            {
+                "color": "#3C403C",
+                "value": 7.3
+            },
+            {
+                "color": "#686D6A",
+                "value": 5.3
+            },
+            {
+                "color": "#CFD1D5",
+                "value": 5
+            },
+            {
+                "color": "#B4BABE",
+                "value": 3.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 22.1
+                },
+                {
+                    "color": "white",
+                    "value": 5
+                },
+                {
+                    "color": "black",
+                    "value": 68.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

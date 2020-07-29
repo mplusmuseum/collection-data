@@ -64,23 +64,31 @@
     "color": {
         "predominant": [
             {
-                "color": "#2B2B2B",
-                "value": 71.2
+                "color": "#343336",
+                "value": 46.4
             },
             {
-                "color": "#737373",
-                "value": 26.8
+                "color": "#747378",
+                "value": 33.3
+            },
+            {
+                "color": "#DADBDF",
+                "value": 17.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 26.8
+                    "value": 33.3
                 },
                 {
                     "color": "black",
-                    "value": 71.2
+                    "value": 46.4
+                },
+                {
+                    "color": "white",
+                    "value": 17.5
                 }
             ]
         }

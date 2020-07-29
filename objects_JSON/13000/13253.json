@@ -41,7 +41,7 @@
     },
     "medium": {
         "en": "printed ink on paper",
-        "zh-hant": "柯式平板印刷"
+        "zh-hant": "印墨紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Arthur Hacker, 2019",
@@ -63,11 +63,69 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D0CDC8",
+                "value": 29.7
+            },
+            {
+                "color": "#403E40",
+                "value": 22.4
+            },
+            {
+                "color": "#7F7B78",
+                "value": 14.3
+            },
+            {
+                "color": "#454242",
+                "value": 11.4
+            },
+            {
+                "color": "#B5BF63",
+                "value": 6.4
+            },
+            {
+                "color": "#D2D1CC",
+                "value": 6.3
+            },
+            {
+                "color": "#9F4738",
+                "value": 4
+            },
+            {
+                "color": "#A14F3B",
+                "value": 1.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 5.7
+                },
+                {
+                    "color": "gray",
+                    "value": 14.3
+                },
+                {
+                    "color": "white",
+                    "value": 36
+                },
+                {
+                    "color": "black",
+                    "value": 33.8
+                },
+                {
+                    "color": "yellow",
+                    "value": 6.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

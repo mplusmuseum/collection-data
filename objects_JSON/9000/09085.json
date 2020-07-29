@@ -67,27 +67,29 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#EAE9EE",
-                "value": 60.3
-            },
-            {
-                "color": "#E6E7E1",
-                "value": 27
-            },
-            {
-                "color": "#E7E6E5",
-                "value": 11.3
+                "color": "#E2E3EA",
+                "value": 98.1
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "white",
-                    "value": 98.6
+                    "value": 98.1
                 }
             ]
         }

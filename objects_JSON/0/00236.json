@@ -28,7 +28,7 @@
         }
     },
     "title": {
-        "en": "Distant Thoughts #19",
+        "en": "Distant Thoughts No.19",
         "zh-hant": "遠懷之十九"
     },
     "displayDate": {
@@ -49,10 +49,21 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 478,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Ink and colour painting on paper depicting a bright stream winding through a rocky, dark landscape. Presented in adjacent, indistinct vertical panels."
+        },
+        {
+            "altText": null
         }
     ],
     "color": {

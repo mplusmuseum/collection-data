@@ -36,8 +36,8 @@
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
-        "en": "each (sheet): 24.5 × 36 cm\r\r\neach (image): 22.8 × 34.2 cm",
-        "zh-hant": "各 （紙本）: 24.5 × 36 厘米  各 （圖像）: 22.8 × 34.2 厘米"
+        "en": "each (sheet, set of 100): 24.5 × 36 cm\r\r\neach (image, set of 100): 22.8 × 34.2 cm",
+        "zh-hant": "紙本（各，一百為一組）: 24.5 × 36 厘米 圖像（各，一百為一組）: 22.8 × 34.2 厘米"
     },
     "medium": {
         "en": "chromogenic colour print",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 474,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

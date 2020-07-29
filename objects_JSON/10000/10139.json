@@ -60,11 +60,140 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Photograph of two escalators leading to floors with shops on them, underneath a ceiling with square lamps in a checkered pattern."
+        },
+        {
+            "altText": "Photograph of two escalators leading to floors with shops on them, underneath a ceiling with square lamps in a checkered pattern. Two cars are on display on the ground floor of the building."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#6E3A41",
+                "value": 26.2
+            },
+            {
+                "color": "#D2EBEA",
+                "value": 9.5
+            },
+            {
+                "color": "#8E5842",
+                "value": 7.9
+            },
+            {
+                "color": "#C0835E",
+                "value": 6.1
+            },
+            {
+                "color": "#4D2934",
+                "value": 5.4
+            },
+            {
+                "color": "#7A6967",
+                "value": 5.1
+            },
+            {
+                "color": "#46273C",
+                "value": 4.8
+            },
+            {
+                "color": "#C9DED6",
+                "value": 4.8
+            },
+            {
+                "color": "#33203C",
+                "value": 3.7
+            },
+            {
+                "color": "#D7B279",
+                "value": 3.1
+            },
+            {
+                "color": "#221939",
+                "value": 2.8
+            },
+            {
+                "color": "#D1C2B2",
+                "value": 2.1
+            },
+            {
+                "color": "#686573",
+                "value": 1.7
+            },
+            {
+                "color": "#7D8E85",
+                "value": 1.5
+            },
+            {
+                "color": "#5E3B4F",
+                "value": 1.5
+            },
+            {
+                "color": "#6C171F",
+                "value": 1.4
+            },
+            {
+                "color": "#D3D5C2",
+                "value": 1.2
+            },
+            {
+                "color": "#7A8A8C",
+                "value": 1.2
+            },
+            {
+                "color": "#090E31",
+                "value": 1.2
+            },
+            {
+                "color": "#8B3916",
+                "value": 1.2
+            },
+            {
+                "color": "#460D1C",
+                "value": 1.1
+            },
+            {
+                "color": "#70606C",
+                "value": 1.1
+            },
+            {
+                "color": "#473E4A",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 43.3
+                },
+                {
+                    "color": "orange",
+                    "value": 9.2
+                },
+                {
+                    "color": "gray",
+                    "value": 12.7
+                },
+                {
+                    "color": "white",
+                    "value": 15.6
+                },
+                {
+                    "color": "blue",
+                    "value": 1.2
+                },
+                {
+                    "color": "black",
+                    "value": 0.6
+                },
+                {
+                    "color": "purple",
+                    "value": 12.8
+                }
+            ]
         }
     },
     "dimensionDetails": null

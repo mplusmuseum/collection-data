@@ -40,7 +40,7 @@
         "zh-hant": "整體: 64.3 × 44.6 × 91.7 厘米"
     },
     "medium": {
-        "en": "pine wood",
+        "en": "pine (wood)",
         "zh-hant": "松木"
     },
     "creditLine": {
@@ -56,11 +56,83 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#DEDEE1",
+                "value": 32.9
+            },
+            {
+                "color": "#71493B",
+                "value": 29.4
+            },
+            {
+                "color": "#E8E6E5",
+                "value": 10.3
+            },
+            {
+                "color": "#472F28",
+                "value": 7.5
+            },
+            {
+                "color": "#E1DFE0",
+                "value": 6.9
+            },
+            {
+                "color": "#776A6A",
+                "value": 4.9
+            },
+            {
+                "color": "#888287",
+                "value": 2.3
+            },
+            {
+                "color": "#473C3B",
+                "value": 2.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 36.9
+                },
+                {
+                    "color": "gray",
+                    "value": 7.2
+                },
+                {
+                    "color": "white",
+                    "value": 50
+                },
+                {
+                    "color": "black",
+                    "value": 2.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

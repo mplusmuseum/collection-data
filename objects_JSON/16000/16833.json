@@ -42,7 +42,7 @@
     "beginDate": 1985,
     "endDate": 1989,
     "dimension": {
-        "en": "digital: 1020 x 1279 px\r\r\nfile size: 5114 kb",
+        "en": "digital: 1279 × 1020 px\r\r\nfile size: 5114 kb",
         "zh-hant": "數碼: 1020 x 1279 px\r\r\n文件大小: 5114 kb"
     },
     "medium": {
@@ -62,11 +62,89 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#000000",
+                "value": 29.6
+            },
+            {
+                "color": "#D2EEE3",
+                "value": 15.9
+            },
+            {
+                "color": "#6EC6D1",
+                "value": 8.6
+            },
+            {
+                "color": "#55B7D4",
+                "value": 7.8
+            },
+            {
+                "color": "#5A9582",
+                "value": 6.2
+            },
+            {
+                "color": "#022105",
+                "value": 5.2
+            },
+            {
+                "color": "#CEEAE8",
+                "value": 4.6
+            },
+            {
+                "color": "#87C9C4",
+                "value": 3.7
+            },
+            {
+                "color": "#5F9994",
+                "value": 3.6
+            },
+            {
+                "color": "#83C1B0",
+                "value": 2.5
+            },
+            {
+                "color": "#477D5A",
+                "value": 2.1
+            },
+            {
+                "color": "#1E4625",
+                "value": 2.1
+            },
+            {
+                "color": "#5E959A",
+                "value": 2
+            },
+            {
+                "color": "#487940",
+                "value": 1.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "green",
+                    "value": 11
+                },
+                {
+                    "color": "white",
+                    "value": 20.5
+                },
+                {
+                    "color": "black",
+                    "value": 29.6
+                },
+                {
+                    "color": "teal",
+                    "value": 34.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

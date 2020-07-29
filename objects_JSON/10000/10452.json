@@ -40,8 +40,8 @@
         "zh-hant": "整體: 24.9 × 8.3 × 8.3 厘米"
     },
     "medium": {
-        "en": "plastic, aluminium, glass, silver and cork",
-        "zh-hant": "塑膠、鋁，玻璃及軟木"
+        "en": "aluminium, glass, silver, rubber and cork",
+        "zh-hant": "鋁、玻璃、銀，橡膠及軟木"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Wong Pui Kai, 2018",
@@ -56,11 +56,59 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#F2F0EF",
+                "value": 41.2
+            },
+            {
+                "color": "#F4F3F4",
+                "value": 32.4
+            },
+            {
+                "color": "#F1F0F2",
+                "value": 9.1
+            },
+            {
+                "color": "#CD7A4C",
+                "value": 6.6
+            },
+            {
+                "color": "#F1F1EE",
+                "value": 3.1
+            },
+            {
+                "color": "#EFF1F1",
+                "value": 1.7
+            },
+            {
+                "color": "#F3F4F3",
+                "value": 1.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 6.6
+                },
+                {
+                    "color": "white",
+                    "value": 88.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

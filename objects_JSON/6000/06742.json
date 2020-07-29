@@ -6,11 +6,9 @@
     "classification": {
         "area": {
             "en": [
-                "Visual Art",
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "視覺藝術",
                 "設計與建築"
             ]
         },
@@ -28,7 +26,7 @@
         }
     },
     "title": {
-        "en": "Cinema signage, Showing Today",
+        "en": "Cinema sign, Showing Today",
         "zh-hant": "「即日放映」戲院廣告畫牌"
     },
     "displayDate": {
@@ -58,11 +56,49 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#BC9C75",
+                "value": 52.8
+            },
+            {
+                "color": "#B05352",
+                "value": 21.4
+            },
+            {
+                "color": "#B28969",
+                "value": 10.5
+            },
+            {
+                "color": "#A74649",
+                "value": 8.6
+            },
+            {
+                "color": "#A67D5B",
+                "value": 5.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 63.3
+                },
+                {
+                    "color": "red",
+                    "value": 30
+                },
+                {
+                    "color": "brown",
+                    "value": 5.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

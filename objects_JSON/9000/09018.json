@@ -47,20 +47,94 @@
         "en": "M+, Hong Kong. Gift of Hikosaka Naoyoshi, 2017",
         "zh-hant": "M+，香港，Hikosaka Naoyoshi捐贈，2017年"
     },
-    "constituents": [
+    "constituents": [],
+    "images": [
         {
-            "id": 2834,
-            "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
-            }
+            "altText": null
         }
     ],
-    "images": [],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D1D1D5",
+                "value": 35.3
+            },
+            {
+                "color": "#85141D",
+                "value": 13.2
+            },
+            {
+                "color": "#3E3C3F",
+                "value": 11.1
+            },
+            {
+                "color": "#D6DADB",
+                "value": 7.4
+            },
+            {
+                "color": "#73706F",
+                "value": 5.3
+            },
+            {
+                "color": "#464443",
+                "value": 5.2
+            },
+            {
+                "color": "#7E7D81",
+                "value": 5
+            },
+            {
+                "color": "#702B2E",
+                "value": 2.8
+            },
+            {
+                "color": "#808384",
+                "value": 1.8
+            },
+            {
+                "color": "#521812",
+                "value": 1.7
+            },
+            {
+                "color": "#767375",
+                "value": 1.7
+            },
+            {
+                "color": "#7A7B77",
+                "value": 1.6
+            },
+            {
+                "color": "#4E1F1C",
+                "value": 1.5
+            },
+            {
+                "color": "#C5B7BB",
+                "value": 1.1
+            },
+            {
+                "color": "#7F817F",
+                "value": 1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 19.3
+                },
+                {
+                    "color": "gray",
+                    "value": 17.6
+                },
+                {
+                    "color": "white",
+                    "value": 42.7
+                },
+                {
+                    "color": "black",
+                    "value": 16.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

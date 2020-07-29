@@ -26,8 +26,8 @@
         }
     },
     "title": {
-        "en": "Untitled",
-        "zh-hant": "無題"
+        "en": "Work",
+        "zh-hant": "作品"
     },
     "displayDate": {
         "en": "1956",
@@ -36,7 +36,7 @@
     "beginDate": 1956,
     "endDate": 1956,
     "dimension": {
-        "en": "81.9 × 72.9 cm\r\r\nframe (plexi box): 82.8 × 73.8 × 3.5 cm",
+        "en": "overall: 81.9 × 72.9 cm\r\r\ncase: 82.8 × 73.8 × 3.5 cm",
         "zh-hant": "81.9 × 72.9 厘米\r\n連膠框： 82.8 × 73.8 × 3.5 厘米"
     },
     "medium": {
@@ -64,39 +64,83 @@
     "color": {
         "predominant": [
             {
-                "color": "#2E1C1F",
-                "value": 26
+                "color": "#3C3641",
+                "value": 29.8
             },
             {
-                "color": "#362530",
-                "value": 18.6
+                "color": "#6C6573",
+                "value": 14.7
             },
             {
-                "color": "#362C34",
-                "value": 17.3
+                "color": "#3B2D42",
+                "value": 11
             },
             {
-                "color": "#3D3534",
-                "value": 15.9
+                "color": "#584564",
+                "value": 8.3
             },
             {
-                "color": "#6B605C",
-                "value": 14.2
+                "color": "#827681",
+                "value": 6.1
             },
             {
-                "color": "#674247",
+                "color": "#361D30",
+                "value": 3.9
+            },
+            {
+                "color": "#857F7F",
+                "value": 3.8
+            },
+            {
+                "color": "#B4AEB8",
+                "value": 3.5
+            },
+            {
+                "color": "#2A2334",
                 "value": 3.2
+            },
+            {
+                "color": "#B6A9B5",
+                "value": 2.3
+            },
+            {
+                "color": "#B8B4B2",
+                "value": 2
+            },
+            {
+                "color": "#452930",
+                "value": 1.7
+            },
+            {
+                "color": "#433C3B",
+                "value": 1.6
+            },
+            {
+                "color": "#7B7D7E",
+                "value": 1
+            },
+            {
+                "color": "#878784",
+                "value": 0.9
+            },
+            {
+                "color": "#524465",
+                "value": 0.8
+            },
+            {
+                "color": "#7A4B6C",
+                "value": 0.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 3.2
+                    "value": 1.7
                 },
                 {
                     "color": "gray",
-                    "value": 14.2
+                    "value": 34.2
                 },
                 {
                     "color": "white",
@@ -104,7 +148,11 @@
                 },
                 {
                     "color": "black",
-                    "value": 77.8
+                    "value": 31.4
+                },
+                {
+                    "color": "purple",
+                    "value": 27.8
                 }
             ]
         }

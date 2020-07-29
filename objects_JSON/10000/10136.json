@@ -62,11 +62,77 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Photograph of a rendering of an office tower surrounded by an urban landscape. The words ‘Hutchison House’ are written in red on the top section of the building."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#BDC6C2",
+                "value": 26
+            },
+            {
+                "color": "#B3C0C0",
+                "value": 21.8
+            },
+            {
+                "color": "#CFC7C1",
+                "value": 17.3
+            },
+            {
+                "color": "#DFE0D2",
+                "value": 10.4
+            },
+            {
+                "color": "#787983",
+                "value": 6
+            },
+            {
+                "color": "#958E8C",
+                "value": 3.8
+            },
+            {
+                "color": "#C0C0C7",
+                "value": 2.8
+            },
+            {
+                "color": "#7C888D",
+                "value": 2.7
+            },
+            {
+                "color": "#8B8289",
+                "value": 1.6
+            },
+            {
+                "color": "#C5BEC3",
+                "value": 1.2
+            },
+            {
+                "color": "#8F9591",
+                "value": 1.1
+            },
+            {
+                "color": "#2C3344",
+                "value": 1.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 84.2
+                },
+                {
+                    "color": "white",
+                    "value": 10.4
+                },
+                {
+                    "color": "black",
+                    "value": 1.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -16,10 +16,14 @@
         },
         "category": {
             "en": [
-                "Video Installation"
+                "Video Installation",
+                "Video",
+                "Animation"
             ],
             "zh-hant": [
-                "錄像裝置"
+                "錄像裝置",
+                "錄像",
+                "動畫"
             ]
         },
         "archivalLevel": {
@@ -29,7 +33,7 @@
     },
     "title": {
         "en": "In Berty We Trust!",
-        "zh-hant": "In Berty We Trust!"
+        "zh-hant": null
     },
     "displayDate": {
         "en": "2013",
@@ -58,7 +62,11 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {

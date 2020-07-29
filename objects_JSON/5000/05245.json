@@ -60,11 +60,105 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#9B9186",
+                "value": 39
+            },
+            {
+                "color": "#B0A89D",
+                "value": 16.4
+            },
+            {
+                "color": "#B2C3D0",
+                "value": 10
+            },
+            {
+                "color": "#AFB9C9",
+                "value": 6.7
+            },
+            {
+                "color": "#A01C19",
+                "value": 4.5
+            },
+            {
+                "color": "#AEADA0",
+                "value": 3.7
+            },
+            {
+                "color": "#134782",
+                "value": 2.7
+            },
+            {
+                "color": "#9A998B",
+                "value": 2.2
+            },
+            {
+                "color": "#3A7099",
+                "value": 2.2
+            },
+            {
+                "color": "#4E85B3",
+                "value": 1.5
+            },
+            {
+                "color": "#853B41",
+                "value": 1.4
+            },
+            {
+                "color": "#898B96",
+                "value": 1.1
+            },
+            {
+                "color": "#134B7D",
+                "value": 1
+            },
+            {
+                "color": "#C57849",
+                "value": 1
+            },
+            {
+                "color": "#993714",
+                "value": 0.8
+            },
+            {
+                "color": "#B0201A",
+                "value": 0.7
+            },
+            {
+                "color": "#87959B",
+                "value": 0.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 7.4
+                },
+                {
+                    "color": "orange",
+                    "value": 1
+                },
+                {
+                    "color": "gray",
+                    "value": 79.8
+                },
+                {
+                    "color": "blue",
+                    "value": 3.7
+                },
+                {
+                    "color": "teal",
+                    "value": 3.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

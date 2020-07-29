@@ -42,7 +42,7 @@
     "beginDate": 1981,
     "endDate": 1996,
     "dimension": {
-        "en": "digital: 1548 × 1247 px\r\r\n\r\nfile size: 3521 kb",
+        "en": "digital: 1247 × 1548 px\r\r\nfile size: 3521 kb",
         "zh-hant": "數碼: 1548 × 1247 px\r\r\n\r\n文件大小: 3521 kb"
     },
     "medium": {
@@ -62,17 +62,87 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#03A8DA",
+                "value": 41.8
+            },
+            {
+                "color": "#1D3A26",
+                "value": 19.3
+            },
+            {
+                "color": "#153326",
+                "value": 6.7
+            },
+            {
+                "color": "#FCFCFB",
+                "value": 5
+            },
+            {
+                "color": "#042210",
+                "value": 4.9
+            },
+            {
+                "color": "#4B6C47",
+                "value": 3.5
+            },
+            {
+                "color": "#41674D",
+                "value": 2.8
+            },
+            {
+                "color": "#052416",
+                "value": 2.6
+            },
+            {
+                "color": "#C0E0E1",
+                "value": 2.5
+            },
+            {
+                "color": "#D4E6DC",
+                "value": 2.4
+            },
+            {
+                "color": "#F8F8F3",
+                "value": 2
+            },
+            {
+                "color": "#80C6CC",
+                "value": 1.2
+            },
+            {
+                "color": "#6C846F",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "green",
+                    "value": 31.3
+                },
+                {
+                    "color": "white",
+                    "value": 11.9
+                },
+                {
+                    "color": "teal",
+                    "value": 52.4
+                }
+            ]
         }
     },
     "dimensionDetails": {
         "element": "digital",
         "unit": "px",
-        "width": null,
+        "width": 1247,
         "height": 1548,
         "depth": null
     }

@@ -40,17 +40,28 @@
         "zh-hant": "各: 137 × 69.7 × 4.5 厘米  整體: 137 × 840 × 4.5 厘米"
     },
     "medium": {
-        "en": "ink on paper",
+        "en": "twelve panels; ink on paper",
         "zh-hant": "水墨紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1624,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Long, rectangular ink painting on canvas with Chinese characters in black ink scrawled across it. The characters are painted with a mixture of sizes, thick and thin lines, in a messy style."
+        },
+        {
+            "altText": null
         }
     ],
     "color": {

@@ -28,7 +28,7 @@
         }
     },
     "title": {
-        "en": "Short news report / 2000.8.27",
+        "en": "Short News Report / 2000.8.27",
         "zh-hant": "新聞簡報 / 2000.8.27"
     },
     "displayDate": {
@@ -42,14 +42,22 @@
         "zh-hant": "影片長度: 55 秒"
     },
     "medium": {
-        "en": "video",
-        "zh-hant": "錄像"
+        "en": "single-channel digital video (colour)",
+        "zh-hant": "單頻道數碼錄像（彩色）"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 473,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome video still. Dressed in a Mao suit, the artist poses for a formal group portrait with thirteen youth representatives of Haikou City. The young men stand at attention in two rows, completely naked."

@@ -31,7 +31,7 @@
     },
     "displayDate": {
         "en": "1995",
-        "zh-hant": "1999"
+        "zh-hant": "1995"
     },
     "beginDate": 1995,
     "endDate": 1995,
@@ -47,10 +47,18 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 538,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Photograph of three rows of chickens, facing the viewer and posed as if for a family portrait against a black studio background. Eleven baby chicks are in the first row and nine baby chicks in the second. A rooster and a hen stand in the centre of the third row with three older chicks on each side."
         }
     ],
     "color": {

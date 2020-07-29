@@ -60,11 +60,49 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Monochrome photograph of a house that sits on a hill overlooking the ocean. The house has multiple floors, is boxy in shape, and is made out of reinforced concrete. A street sign in front of the house reads ‘Chung Am Kok Road’."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#827C74",
+                "value": 39.1
+            },
+            {
+                "color": "#C8C6C1",
+                "value": 29.2
+            },
+            {
+                "color": "#3E3933",
+                "value": 22.3
+            },
+            {
+                "color": "#CFCECA",
+                "value": 4.4
+            },
+            {
+                "color": "#302A22",
+                "value": 3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 68.2
+                },
+                {
+                    "color": "white",
+                    "value": 4.4
+                },
+                {
+                    "color": "black",
+                    "value": 25.3
+                }
+            ]
         }
     },
     "dimensionDetails": {

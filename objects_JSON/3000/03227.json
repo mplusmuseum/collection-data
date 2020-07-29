@@ -48,11 +48,127 @@
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E1E1E0",
+                "value": 79.2
+            },
+            {
+                "color": "#817A75",
+                "value": 3.4
+            },
+            {
+                "color": "#752F32",
+                "value": 1.2
+            },
+            {
+                "color": "#971920",
+                "value": 1
+            },
+            {
+                "color": "#CDAB23",
+                "value": 0.9
+            },
+            {
+                "color": "#3B3332",
+                "value": 0.9
+            },
+            {
+                "color": "#B12826",
+                "value": 0.9
+            },
+            {
+                "color": "#242C42",
+                "value": 0.9
+            },
+            {
+                "color": "#CDCDC2",
+                "value": 0.9
+            },
+            {
+                "color": "#77757E",
+                "value": 0.8
+            },
+            {
+                "color": "#73867E",
+                "value": 0.7
+            },
+            {
+                "color": "#7E6C4D",
+                "value": 0.7
+            },
+            {
+                "color": "#422225",
+                "value": 0.6
+            },
+            {
+                "color": "#384143",
+                "value": 0.6
+            },
+            {
+                "color": "#334675",
+                "value": 0.6
+            },
+            {
+                "color": "#E1E4E5",
+                "value": 0.6
+            },
+            {
+                "color": "#7D787C",
+                "value": 0.5
+            },
+            {
+                "color": "#DBDBDF",
+                "value": 0.5
+            },
+            {
+                "color": "#728989",
+                "value": 0.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 3.7
+                },
+                {
+                    "color": "orange",
+                    "value": 0.9
+                },
+                {
+                    "color": "gray",
+                    "value": 5.8
+                },
+                {
+                    "color": "white",
+                    "value": 81.1
+                },
+                {
+                    "color": "blue",
+                    "value": 1.5
+                },
+                {
+                    "color": "black",
+                    "value": 1.5
+                },
+                {
+                    "color": "brown",
+                    "value": 0.7
+                }
+            ]
         }
     },
     "dimensionDetails": {

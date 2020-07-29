@@ -47,7 +47,7 @@
     },
     "medium": {
         "en": "ink and graphite on paper",
-        "zh-hant": "ink and graphite on paper"
+        "zh-hant": "墨水及炭筆藝術紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -69,11 +69,37 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E5E5DE",
+                "value": 64.7
+            },
+            {
+                "color": "#E5E3DF",
+                "value": 27.5
+            },
+            {
+                "color": "#C1BECA",
+                "value": 4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 4
+                },
+                {
+                    "color": "white",
+                    "value": 92.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

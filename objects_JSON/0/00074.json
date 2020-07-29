@@ -48,11 +48,73 @@
         "zh-hant": "M+，香港"
     },
     "constituents": [],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#875732",
+                "value": 19.5
+            },
+            {
+                "color": "#C0A07D",
+                "value": 17.4
+            },
+            {
+                "color": "#DFDEE3",
+                "value": 12.4
+            },
+            {
+                "color": "#3D231B",
+                "value": 12.2
+            },
+            {
+                "color": "#441E0B",
+                "value": 9.5
+            },
+            {
+                "color": "#C09B7B",
+                "value": 6.1
+            },
+            {
+                "color": "#6B3813",
+                "value": 5.8
+            },
+            {
+                "color": "#9B6F40",
+                "value": 5.7
+            },
+            {
+                "color": "#DAC8B7",
+                "value": 4.6
+            },
+            {
+                "color": "#E6E1E6",
+                "value": 2.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 23.5
+                },
+                {
+                    "color": "red",
+                    "value": 12.2
+                },
+                {
+                    "color": "white",
+                    "value": 19.8
+                },
+                {
+                    "color": "brown",
+                    "value": 40.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

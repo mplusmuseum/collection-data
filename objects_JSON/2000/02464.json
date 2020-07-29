@@ -48,11 +48,53 @@
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
     "constituents": [],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#B49D81",
+                "value": 41.6
+            },
+            {
+                "color": "#95826A",
+                "value": 26.2
+            },
+            {
+                "color": "#75695E",
+                "value": 12.4
+            },
+            {
+                "color": "#3D3733",
+                "value": 8
+            },
+            {
+                "color": "#C1B4A4",
+                "value": 7.3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 41.6
+                },
+                {
+                    "color": "gray",
+                    "value": 19.7
+                },
+                {
+                    "color": "black",
+                    "value": 8
+                },
+                {
+                    "color": "brown",
+                    "value": 26.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

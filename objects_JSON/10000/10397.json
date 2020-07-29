@@ -40,7 +40,7 @@
     "beginDate": 1972,
     "endDate": 1972,
     "dimension": {
-        "en": "3 items",
+        "en": "4 items",
         "zh-hant": "3 份/張/件"
     },
     "medium": {
@@ -60,11 +60,69 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#2C2925",
+                "value": 24.7
+            },
+            {
+                "color": "#D5D1CB",
+                "value": 21.2
+            },
+            {
+                "color": "#E1E0E3",
+                "value": 19.5
+            },
+            {
+                "color": "#171618",
+                "value": 9.5
+            },
+            {
+                "color": "#80786A",
+                "value": 8.3
+            },
+            {
+                "color": "#E1DFE1",
+                "value": 6.8
+            },
+            {
+                "color": "#393329",
+                "value": 3.1
+            },
+            {
+                "color": "#DFE0E1",
+                "value": 1.8
+            },
+            {
+                "color": "#6F6451",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 8.3
+                },
+                {
+                    "color": "white",
+                    "value": 49.3
+                },
+                {
+                    "color": "black",
+                    "value": 37.3
+                },
+                {
+                    "color": "brown",
+                    "value": 1.4
+                }
+            ]
         }
     },
     "dimensionDetails": null

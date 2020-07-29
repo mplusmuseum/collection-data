@@ -48,11 +48,73 @@
         "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#857C6F",
+                "value": 33.3
+            },
+            {
+                "color": "#B6AFA2",
+                "value": 21.8
+            },
+            {
+                "color": "#46403D",
+                "value": 14.6
+            },
+            {
+                "color": "#897757",
+                "value": 13.2
+            },
+            {
+                "color": "#858476",
+                "value": 3.4
+            },
+            {
+                "color": "#4B3B36",
+                "value": 2.1
+            },
+            {
+                "color": "#39383A",
+                "value": 2.1
+            },
+            {
+                "color": "#715847",
+                "value": 2
+            },
+            {
+                "color": "#B09A74",
+                "value": 2
+            },
+            {
+                "color": "#778186",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 2
+                },
+                {
+                    "color": "gray",
+                    "value": 59.8
+                },
+                {
+                    "color": "black",
+                    "value": 18.8
+                },
+                {
+                    "color": "brown",
+                    "value": 15.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

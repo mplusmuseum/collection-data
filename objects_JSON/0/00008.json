@@ -26,8 +26,8 @@
         }
     },
     "title": {
-        "en": "Two Women (Gloucester Road, 1961)",
-        "zh-hant": "儷人行（告士打道，1961）"
+        "en": "Two Women (Gloucester Road)",
+        "zh-hant": "儷人行（告士打道）"
     },
     "displayDate": {
         "en": "1961",
@@ -56,11 +56,45 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Monochrome photograph of two women dressed in cheongsams and high heels walking next to each other down a street. We view them from behind. Pillars with Chinese lettering line the street on their left, and shop fronts are seen on their right. A small group of men are gathered further down the street."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CDCAC0",
+                "value": 29.1
+            },
+            {
+                "color": "#89857C",
+                "value": 24.9
+            },
+            {
+                "color": "#302D2A",
+                "value": 22.3
+            },
+            {
+                "color": "#D9D8CD",
+                "value": 21.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 54
+                },
+                {
+                    "color": "white",
+                    "value": 21.5
+                },
+                {
+                    "color": "black",
+                    "value": 22.3
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -16,12 +16,12 @@
         },
         "category": {
             "en": [
-                "Digital",
-                "Installation"
+                "Video Installation",
+                "Animation"
             ],
             "zh-hant": [
-                "數碼",
-                "裝置藝術"
+                "錄像裝置",
+                "動畫"
             ]
         },
         "archivalLevel": {
@@ -44,14 +44,22 @@
         "zh-hant": "影片長度: 14 分"
     },
     "medium": {
-        "en": "digital video projection",
-        "zh-hant": "數碼錄像投影"
+        "en": "single-channel digital video projection (colour, silent) and wooden table",
+        "zh-hant": "單頻道數碼錄像投影（彩色，無聲）及木桌"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 853,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Installation artwork in which a digital video is projected onto the floor of a dark room which a single bench in the middle of it. The video projection shows shadowy figures against a pinkish-red background."

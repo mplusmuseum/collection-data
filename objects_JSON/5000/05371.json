@@ -60,11 +60,85 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#454B45",
+                "value": 28.7
+            },
+            {
+                "color": "#46463F",
+                "value": 27.8
+            },
+            {
+                "color": "#F4F2F0",
+                "value": 15.3
+            },
+            {
+                "color": "#F14849",
+                "value": 5.9
+            },
+            {
+                "color": "#D9D9CC",
+                "value": 5.8
+            },
+            {
+                "color": "#707263",
+                "value": 2.6
+            },
+            {
+                "color": "#82796E",
+                "value": 2.3
+            },
+            {
+                "color": "#F13D3B",
+                "value": 2.1
+            },
+            {
+                "color": "#EDF0EE",
+                "value": 1.9
+            },
+            {
+                "color": "#555B53",
+                "value": 1.4
+            },
+            {
+                "color": "#735545",
+                "value": 1.1
+            },
+            {
+                "color": "#823E39",
+                "value": 0.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 8.8
+                },
+                {
+                    "color": "gray",
+                    "value": 6.2
+                },
+                {
+                    "color": "white",
+                    "value": 23.1
+                },
+                {
+                    "color": "black",
+                    "value": 56.5
+                },
+                {
+                    "color": "brown",
+                    "value": 1.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

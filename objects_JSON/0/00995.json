@@ -36,8 +36,8 @@
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
-        "en": "13 × 12 × 8 cm\r\r\n13 × 13 × 8 cm\r\r\n12 × 11 × 6 cm\r\r\n10 × 10 × 9 cm\r\r\n13 × 13 × 10 cm\r\r\n5 × 5 × 5 cm\r\r\n15 × 18 × 8 cm\r\r\n13 × 13 × 7 cm\r\r\n13 × 10 × 4 cm\r\r\n17 × 17 × 11 cm\r\r\n18 × 23 × 7 cm\r\r\n11 × 12 × 8 cm\r\r\n10 × 10 × 10 cm\r\r\n9 × 11 × 5 cm\r\r\n9 × 9 × 6 cm",
-        "zh-hant": "13 × 12 × 8 厘米\r\r\n13 × 13 × 8 厘米\r\r\n12 × 11 × 6 厘米\r\r\n10 × 10 × 9 厘米\r\r\n13 × 13 × 10 厘米\r\r\n5 × 5 × 5 厘米\r\r\n15 × 18 × 8 厘米\r\r\n13 × 13 × 7 厘米\r\r\n13 × 10 × 4 厘米\r\r\n17 × 17 × 11 厘米\r\r\n18 × 23 × 7 厘米\r\r\n11 × 12 × 8 厘米\r\r\n10 × 10 × 10 厘米\r\r\n9 × 11 × 5 厘米\r\r\n9 × 9 × 6 厘米"
+        "en": "each (average): 12.5 × 12.5 × 7.5 cm",
+        "zh-hant": "各 （平均）: 12.5 × 12.5 × 7.5 厘米"
     },
     "medium": {
         "en": "mixed media",
@@ -93,10 +93,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "overall",
+        "element": "each",
         "unit": "cm",
-        "width": 12,
-        "height": 13,
-        "depth": 8
+        "width": 12.5,
+        "height": 12.5,
+        "depth": 7.5
     }
 }

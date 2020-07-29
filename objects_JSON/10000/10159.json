@@ -42,7 +42,7 @@
     "beginDate": 1980,
     "endDate": 1999,
     "dimension": {
-        "en": "digital: 1679 × 2198 px\r\r\n\r\nfile size: 15025 kb",
+        "en": "digital: 2198 × 1679 px\r\r\nfile size: 15025 kb",
         "zh-hant": "數碼: 1679 × 2198 px\r\r\n\r\n文件大小: 15025 kb"
     },
     "medium": {
@@ -62,17 +62,131 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#7EB3CB",
+                "value": 25.6
+            },
+            {
+                "color": "#667B69",
+                "value": 12
+            },
+            {
+                "color": "#263925",
+                "value": 10.6
+            },
+            {
+                "color": "#DCE0C9",
+                "value": 6
+            },
+            {
+                "color": "#5F8897",
+                "value": 5.4
+            },
+            {
+                "color": "#5A8488",
+                "value": 3.7
+            },
+            {
+                "color": "#526C4B",
+                "value": 3.7
+            },
+            {
+                "color": "#B5D1DB",
+                "value": 3.4
+            },
+            {
+                "color": "#BACCBC",
+                "value": 3.2
+            },
+            {
+                "color": "#4B6E63",
+                "value": 3.1
+            },
+            {
+                "color": "#37433A",
+                "value": 2.6
+            },
+            {
+                "color": "#343C24",
+                "value": 2.5
+            },
+            {
+                "color": "#517774",
+                "value": 2.3
+            },
+            {
+                "color": "#496B54",
+                "value": 2.2
+            },
+            {
+                "color": "#F3F0EA",
+                "value": 1.8
+            },
+            {
+                "color": "#626E4B",
+                "value": 1.8
+            },
+            {
+                "color": "#7B8369",
+                "value": 1.7
+            },
+            {
+                "color": "#314841",
+                "value": 1.5
+            },
+            {
+                "color": "#688382",
+                "value": 1.5
+            },
+            {
+                "color": "#7DB0B8",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "green",
+                    "value": 30.3
+                },
+                {
+                    "color": "gray",
+                    "value": 4.7
+                },
+                {
+                    "color": "white",
+                    "value": 5.2
+                },
+                {
+                    "color": "yellow",
+                    "value": 6
+                },
+                {
+                    "color": "black",
+                    "value": 4.2
+                },
+                {
+                    "color": "teal",
+                    "value": 40.9
+                },
+                {
+                    "color": "brown",
+                    "value": 4.2
+                }
+            ]
         }
     },
     "dimensionDetails": {
         "element": "digital",
         "unit": "px",
-        "width": null,
+        "width": 2198,
         "height": 1679,
         "depth": null
     }

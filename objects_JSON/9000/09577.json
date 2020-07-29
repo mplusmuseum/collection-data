@@ -40,7 +40,7 @@
     "beginDate": 1978,
     "endDate": 1982,
     "dimension": {
-        "en": "sheet: 46.2 x 66.7 cm",
+        "en": "sheet: 51.3 × 72.6 cm",
         "zh-hant": "紙本: 46.2 x 66.7 厘米"
     },
     "medium": {
@@ -60,100 +60,68 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Gouache painting on cardboard depicting a building made of triangular volumes, with green foliage in the foreground. The building's facade features triangular and square openings."
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#D9C8B4",
-                "value": 31.8
+                "color": "#C7D6DE",
+                "value": 36.7
             },
             {
-                "color": "#ACB6BC",
-                "value": 8.2
+                "color": "#6C7034",
+                "value": 10
             },
             {
-                "color": "#718FBD",
-                "value": 7.3
+                "color": "#83AEDD",
+                "value": 9.6
             },
             {
-                "color": "#A6AFBD",
-                "value": 4.6
+                "color": "#99BDDE",
+                "value": 7
             },
             {
-                "color": "#353819",
-                "value": 3.7
+                "color": "#D6DBD8",
+                "value": 6.5
             },
             {
-                "color": "#353115",
-                "value": 3.5
+                "color": "#43453B",
+                "value": 5.7
             },
             {
-                "color": "#587097",
-                "value": 3.5
+                "color": "#E0E1D8",
+                "value": 5.5
             },
             {
-                "color": "#7C818D",
-                "value": 3.1
-            },
-            {
-                "color": "#363108",
+                "color": "#E9E6DE",
                 "value": 2.9
             },
             {
-                "color": "#7D868B",
+                "color": "#77878F",
                 "value": 2.8
             },
             {
-                "color": "#B7BBB9",
-                "value": 2.8
-            },
-            {
-                "color": "#87887D",
+                "color": "#4F512E",
                 "value": 2.5
             },
             {
-                "color": "#948D85",
-                "value": 2.5
-            },
-            {
-                "color": "#C0C0B4",
-                "value": 2.3
-            },
-            {
-                "color": "#6A6F2F",
+                "color": "#717D71",
                 "value": 2.1
             },
             {
-                "color": "#CCB391",
-                "value": 1.9
-            },
-            {
-                "color": "#806A46",
-                "value": 1.8
-            },
-            {
-                "color": "#CFB299",
+                "color": "#49607E",
                 "value": 1.7
             },
             {
-                "color": "#35390A",
-                "value": 1.5
+                "color": "#696F5B",
+                "value": 1.7
             },
             {
-                "color": "#726F39",
-                "value": 1.4
-            },
-            {
-                "color": "#808681",
-                "value": 1.4
-            },
-            {
-                "color": "#36372F",
-                "value": 1
-            },
-            {
-                "color": "#393A42",
-                "value": 1
+                "color": "#5A7588",
+                "value": 1.6
             }
         ],
         "search": {
@@ -164,23 +132,27 @@
                 },
                 {
                     "color": "gray",
-                    "value": 30.2
+                    "value": 4.9
                 },
                 {
                     "color": "blue",
-                    "value": 3.5
+                    "value": 1.7
                 },
                 {
                     "color": "black",
-                    "value": 2
+                    "value": 5.7
                 },
                 {
                     "color": "teal",
-                    "value": 7.3
+                    "value": 18.2
                 },
                 {
                     "color": "brown",
-                    "value": 17
+                    "value": 14.2
+                },
+                {
+                    "color": "white",
+                    "value": 51.7
                 }
             ]
         }
@@ -188,8 +160,8 @@
     "dimensionDetails": {
         "element": "sheet",
         "unit": "cm",
-        "width": 66.7,
-        "height": 46.2,
+        "width": 72.6,
+        "height": 51.3,
         "depth": null
     }
 }

@@ -14,9 +14,11 @@
         },
         "category": {
             "en": [
+                "Design Object",
                 "Textile"
             ],
             "zh-hant": [
+                "設計物件",
                 "紡織品"
             ]
         },
@@ -47,8 +49,42 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 846,
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
+        },
+        {
+            "id": 1302,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 3033,
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
+        }
+    ],
     "images": [
+        {
+            "altText": "A shirt sits on a mannequin. It is covered in a pattern that evokes multiple layered materials of different colours, most notably patches of bright blue, red, white, yellow, and orange. The shirt pocket and lining of the collar is in a green gingham fabric."
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
         {
             "altText": null
         }

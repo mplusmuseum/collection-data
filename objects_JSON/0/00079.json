@@ -27,7 +27,7 @@
     },
     "title": {
         "en": "The Cameraman, China 1950's",
-        "zh-hant": "The Cameraman, China 1950's"
+        "zh-hant": null
     },
     "displayDate": {
         "en": "1950s",
@@ -48,11 +48,45 @@
         "zh-hant": "M+，香港"
     },
     "constituents": [],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#82796F",
+                "value": 48.3
+            },
+            {
+                "color": "#C1B8AD",
+                "value": 28.1
+            },
+            {
+                "color": "#36322D",
+                "value": 12.9
+            },
+            {
+                "color": "#302A20",
+                "value": 5
+            },
+            {
+                "color": "#2A211C",
+                "value": 2.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 76.4
+                },
+                {
+                    "color": "black",
+                    "value": 20.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -38,7 +38,7 @@
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
-        "en": "sheet: 92 × 126.9 cm\r\r\nimage: 84.1 × 11.9 cm",
+        "en": "sheet: 123.1 × 88.2 cm\r\r\nimage: 119.1 × 84 cm",
         "zh-hant": "紙本: 92 × 126.9 厘米\r\n圖像: 84.1 × 11.9 厘米"
     },
     "medium": {
@@ -49,7 +49,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 858,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
@@ -100,10 +108,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "overall",
+        "element": "sheet",
         "unit": "cm",
-        "width": 126.9,
-        "height": 92,
+        "width": 88.2,
+        "height": 123.1,
         "depth": null
     }
 }

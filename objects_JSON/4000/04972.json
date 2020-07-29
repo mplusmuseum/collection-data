@@ -56,11 +56,89 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#3C3B37",
+                "value": 19.7
+            },
+            {
+                "color": "#7B766F",
+                "value": 15.1
+            },
+            {
+                "color": "#D2D4DA",
+                "value": 11.6
+            },
+            {
+                "color": "#71747C",
+                "value": 10.9
+            },
+            {
+                "color": "#393A3E",
+                "value": 7.1
+            },
+            {
+                "color": "#C9C4BC",
+                "value": 6.9
+            },
+            {
+                "color": "#6F6F69",
+                "value": 6.5
+            },
+            {
+                "color": "#B7BFC5",
+                "value": 3.9
+            },
+            {
+                "color": "#353A39",
+                "value": 3.7
+            },
+            {
+                "color": "#778086",
+                "value": 3.6
+            },
+            {
+                "color": "#6A6D6A",
+                "value": 2.3
+            },
+            {
+                "color": "#CACAC2",
+                "value": 1.8
+            },
+            {
+                "color": "#181B25",
+                "value": 0.9
+            },
+            {
+                "color": "#2F2A20",
+                "value": 0.9
+            },
+            {
+                "color": "#352521",
+                "value": 0.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 50.8
+                },
+                {
+                    "color": "white",
+                    "value": 11.6
+                },
+                {
+                    "color": "black",
+                    "value": 33
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -40,17 +40,34 @@
         "zh-hant": "整體: 600 × 600 × 100 厘米"
     },
     "medium": {
-        "en": "wooden school desks, fiberglass, metal, books, cassette tape players, and electric components",
+        "en": "wooden school desks, fibreglass, metal, books, cassette tape players, and electric components",
         "zh-hant": "木書檯、玻璃纖維、金屬、書本、卡式錄音機、電子零件"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 843,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Installation artwork with nine wooden school desks placed in three rows. On each desk is an electric contraption with cassette tape players. Two cast heads with closed eyes are mounted on a metal base and placed at the seat of each desk."
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {

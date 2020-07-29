@@ -67,11 +67,149 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#050404",
+                "value": 19.7
+            },
+            {
+                "color": "#D8DAE2",
+                "value": 14
+            },
+            {
+                "color": "#EDE9E7",
+                "value": 12.6
+            },
+            {
+                "color": "#0D0301",
+                "value": 5.8
+            },
+            {
+                "color": "#6EBEE9",
+                "value": 4.5
+            },
+            {
+                "color": "#EEB963",
+                "value": 3.8
+            },
+            {
+                "color": "#251614",
+                "value": 3.8
+            },
+            {
+                "color": "#D79263",
+                "value": 3.4
+            },
+            {
+                "color": "#F2EDF1",
+                "value": 3.3
+            },
+            {
+                "color": "#E6EFF1",
+                "value": 3
+            },
+            {
+                "color": "#030626",
+                "value": 2.5
+            },
+            {
+                "color": "#8A827F",
+                "value": 2.4
+            },
+            {
+                "color": "#232226",
+                "value": 2.3
+            },
+            {
+                "color": "#131423",
+                "value": 2.2
+            },
+            {
+                "color": "#815D48",
+                "value": 2
+            },
+            {
+                "color": "#7F7E8B",
+                "value": 1.2
+            },
+            {
+                "color": "#FCEA71",
+                "value": 1.1
+            },
+            {
+                "color": "#784547",
+                "value": 0.8
+            },
+            {
+                "color": "#47567D",
+                "value": 0.8
+            },
+            {
+                "color": "#1C170E",
+                "value": 0.8
+            },
+            {
+                "color": "#D88F25",
+                "value": 0.7
+            },
+            {
+                "color": "#020A61",
+                "value": 0.6
+            },
+            {
+                "color": "#130C16",
+                "value": 0.6
+            },
+            {
+                "color": "#150C13",
+                "value": 0.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 7.9
+                },
+                {
+                    "color": "red",
+                    "value": 0.8
+                },
+                {
+                    "color": "gray",
+                    "value": 3.6
+                },
+                {
+                    "color": "white",
+                    "value": 32.9
+                },
+                {
+                    "color": "blue",
+                    "value": 3.9
+                },
+                {
+                    "color": "black",
+                    "value": 35.8
+                },
+                {
+                    "color": "yellow",
+                    "value": 1.1
+                },
+                {
+                    "color": "teal",
+                    "value": 4.5
+                },
+                {
+                    "color": "brown",
+                    "value": 2
+                }
+            ]
         }
     },
     "dimensionDetails": {

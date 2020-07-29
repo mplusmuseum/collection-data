@@ -69,11 +69,88 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Rendering of the bottom section of the Lippo Centre, showing a building consisting of two high-rise glass towers. Large columns hold up the towers on the bottom, in top of a plaza with a fountain. Angular glass protrusions are visible on the towers."
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#A1BCC2",
+                "value": 38.8
+            },
+            {
+                "color": "#D6D0C4",
+                "value": 29.7
+            },
+            {
+                "color": "#C5C5BD",
+                "value": 4.8
+            },
+            {
+                "color": "#847A74",
+                "value": 4.2
+            },
+            {
+                "color": "#748589",
+                "value": 3.8
+            },
+            {
+                "color": "#587783",
+                "value": 3.2
+            },
+            {
+                "color": "#90B5C3",
+                "value": 3.2
+            },
+            {
+                "color": "#BBC1BE",
+                "value": 2.5
+            },
+            {
+                "color": "#463D3D",
+                "value": 1.6
+            },
+            {
+                "color": "#413E43",
+                "value": 1.4
+            },
+            {
+                "color": "#785C4C",
+                "value": 1.2
+            },
+            {
+                "color": "#847054",
+                "value": 1.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 54.2
+                },
+                {
+                    "color": "white",
+                    "value": 29.7
+                },
+                {
+                    "color": "black",
+                    "value": 3
+                },
+                {
+                    "color": "teal",
+                    "value": 6.4
+                },
+                {
+                    "color": "brown",
+                    "value": 2.3
+                }
+            ]
         }
     },
     "dimensionDetails": null

@@ -42,7 +42,7 @@
     "beginDate": 1971,
     "endDate": 2007,
     "dimension": {
-        "en": "digital: 3564 x 2908 px\r\r\n\r\nfile size: 27171 kb",
+        "en": "digital: 2908 × 3564 px\r\r\nfile size: 27171 kb",
         "zh-hant": "數碼: 3564 x 2908 px\r\r\n\r\n文件大小: 27171 kb"
     },
     "medium": {
@@ -62,17 +62,119 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Photograph of a circular multi-storey building made out of reinforced concrete under a blue sky."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#014D79",
+                "value": 24.6
+            },
+            {
+                "color": "#D0C9B4",
+                "value": 16.3
+            },
+            {
+                "color": "#D9D8C8",
+                "value": 15.7
+            },
+            {
+                "color": "#1C2B2F",
+                "value": 9.2
+            },
+            {
+                "color": "#8D867B",
+                "value": 5.1
+            },
+            {
+                "color": "#047EB9",
+                "value": 4.7
+            },
+            {
+                "color": "#192928",
+                "value": 4.4
+            },
+            {
+                "color": "#2C3333",
+                "value": 4.3
+            },
+            {
+                "color": "#8D8D82",
+                "value": 2.3
+            },
+            {
+                "color": "#8C7857",
+                "value": 1.2
+            },
+            {
+                "color": "#E1E5E2",
+                "value": 1.1
+            },
+            {
+                "color": "#403E39",
+                "value": 1.1
+            },
+            {
+                "color": "#7BB6DF",
+                "value": 1
+            },
+            {
+                "color": "#BEA675",
+                "value": 1
+            },
+            {
+                "color": "#6B6D72",
+                "value": 1
+            },
+            {
+                "color": "#053B4C",
+                "value": 1
+            },
+            {
+                "color": "#6D7579",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 1
+                },
+                {
+                    "color": "gray",
+                    "value": 25.7
+                },
+                {
+                    "color": "blue",
+                    "value": 24.6
+                },
+                {
+                    "color": "white",
+                    "value": 16.9
+                },
+                {
+                    "color": "black",
+                    "value": 19.1
+                },
+                {
+                    "color": "teal",
+                    "value": 6.7
+                },
+                {
+                    "color": "brown",
+                    "value": 1.2
+                }
+            ]
         }
     },
     "dimensionDetails": {
         "element": "digital",
         "unit": "px",
-        "width": null,
+        "width": 2908,
         "height": 3564,
         "depth": null
     }

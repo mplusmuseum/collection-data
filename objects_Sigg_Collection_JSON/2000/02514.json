@@ -14,10 +14,10 @@
         },
         "category": {
             "en": [
-                "Archival Documentation"
+                "Work on Paper"
             ],
             "zh-hant": [
-                "檔存文件"
+                "紙本作品"
             ]
         },
         "archivalLevel": {
@@ -36,11 +36,11 @@
     "beginDate": 1997,
     "endDate": 1997,
     "dimension": {
-        "en": "(2012.1210.1): 29.7 × 21.7 cm\r\r\n(2012.1210.2): 30.3 × 21.2 cm\r\r\n(2012.1210.3): 11 × 22.1 cm\r\r\n(2012.1210.4): 21.7 × 28.6 cm",
+        "en": "dimensions variable",
         "zh-hant": "（2012.1210.1）: 29.7 × 21.7 厘米  （2012.1210.2）: 30.3 × 21.2 厘米  （2012.1210.3）: 11 × 22.1 厘米  （2012.1210.4）: 21.7 × 28.6 厘米"
     },
     "medium": {
-        "en": "paper, lamenated paper, and envelope",
+        "en": "paper, laminated paper, and envelope",
         "zh-hant": "紙、層壓紙、信封"
     },
     "creditLine": {
@@ -59,6 +59,15 @@
     "images": [
         {
             "altText": "Archival document on paper. A letter on forged letterhead, dated May 20th, 1997 inviting Yan Lei to participate in the internationally renowned art exhibition Documenta X in Kassel, Germany."
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
@@ -81,12 +90,6 @@
             ]
         }
     },
-    "dimensionDetails": {
-        "element": "overall",
-        "unit": "cm",
-        "width": 21.7,
-        "height": 29.7,
-        "depth": null
-    },
+    "dimensionDetails": null,
     "concepts": null
 }

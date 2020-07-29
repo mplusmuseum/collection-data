@@ -41,18 +41,96 @@
     },
     "medium": {
         "en": "oil on board",
-        "zh-hant": "油彩木板"
+        "zh-hant": "油彩、木板"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong",
         "zh-hant": "M+ 希克藏品，香港"
     },
     "constituents": [],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#908064",
+                "value": 19.3
+            },
+            {
+                "color": "#797467",
+                "value": 17.5
+            },
+            {
+                "color": "#43423B",
+                "value": 15.7
+            },
+            {
+                "color": "#797A6A",
+                "value": 14.7
+            },
+            {
+                "color": "#B6B0A4",
+                "value": 7.2
+            },
+            {
+                "color": "#8F964F",
+                "value": 6.1
+            },
+            {
+                "color": "#798A4C",
+                "value": 3.9
+            },
+            {
+                "color": "#AD9A7A",
+                "value": 2.7
+            },
+            {
+                "color": "#343636",
+                "value": 2.7
+            },
+            {
+                "color": "#A9AF58",
+                "value": 2.4
+            },
+            {
+                "color": "#4A4235",
+                "value": 1.9
+            },
+            {
+                "color": "#B3B39D",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 2.7
+                },
+                {
+                    "color": "gray",
+                    "value": 40.8
+                },
+                {
+                    "color": "green",
+                    "value": 3.9
+                },
+                {
+                    "color": "black",
+                    "value": 20.2
+                },
+                {
+                    "color": "yellow",
+                    "value": 8.5
+                },
+                {
+                    "color": "brown",
+                    "value": 19.3
+                }
+            ]
         }
     },
     "dimensionDetails": {

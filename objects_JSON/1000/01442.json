@@ -36,7 +36,7 @@
     "beginDate": 1979,
     "endDate": 1979,
     "dimension": {
-        "en": "frame: 63.5 × 72.5 cm\r\r\nsheet (sight): 58.5 × 68 cm\r\r\nimage (sight): 38.2 × 59 cm",
+        "en": "frame: 63.5 × 72.5 × 4.7 cm\r\r\nsheet (sight): 58.5 × 68 cm\r\r\nimage (sight): 38.2 × 59 cm",
         "zh-hant": "框架: 63.5 × 73.5 厘米\r\r\n紙本: 58.5 × 68 厘米\r\r\n圖像尺寸 （目測）: 38.2 × 59 厘米"
     },
     "medium": {
@@ -59,6 +59,9 @@
     "images": [
         {
             "altText": "Monochrome photograph. Outside, a row of pedestrians and cyclists study life-sized portraits of figures with fully rendered faces and unfinished bodies."
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
@@ -94,6 +97,6 @@
         "unit": "cm",
         "width": 72.5,
         "height": 63.5,
-        "depth": null
+        "depth": 4.7
     }
 }

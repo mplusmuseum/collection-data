@@ -40,7 +40,7 @@
     "beginDate": 1966,
     "endDate": 1966,
     "dimension": {
-        "en": "overall: 31.8 × 20.2 × 0.5 cm\r\r\n11 sheets, 1 plastic bag, 1 resistor",
+        "en": "overall: 31.7 × 20.4 × 0.5 cm\r\r\nsheet: 25.5 x 20.5 cm\r\r\nsheet (spread): 32.9 x 40.4 cm\r\r\n11 sheets, 1 plastic bag, 1 resistor",
         "zh-hant": "整體: 31.8 × 20.2 × 0.5 厘米\r\r\n11 紙本, 1 塑膠袋, 1 電阻器"
     },
     "medium": {
@@ -60,18 +60,130 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#FCFCFC",
+                "value": 19.6
+            },
+            {
+                "color": "#FAFBF6",
+                "value": 18.1
+            },
+            {
+                "color": "#4D3C92",
+                "value": 17.3
+            },
+            {
+                "color": "#CAC8D8",
+                "value": 15.2
+            },
+            {
+                "color": "#4C3F97",
+                "value": 14.8
+            },
+            {
+                "color": "#827F95",
+                "value": 4.3
+            },
+            {
+                "color": "#F9FBF9",
+                "value": 2.8
+            },
+            {
+                "color": "#F0F1F2",
+                "value": 1.9
+            },
+            {
+                "color": "#7666B4",
+                "value": 1.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 15.2
+                },
+                {
+                    "color": "white",
+                    "value": 42.3
+                },
+                {
+                    "color": "blue",
+                    "value": 32
+                },
+                {
+                    "color": "purple",
+                    "value": 6.1
+                }
+            ]
         }
     },
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 20.2,
-        "height": 31.8,
+        "width": 20.4,
+        "height": 31.7,
         "depth": 0.5
     }
 }

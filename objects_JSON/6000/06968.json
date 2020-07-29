@@ -36,7 +36,7 @@
     "beginDate": 2015,
     "endDate": 2015,
     "dimension": {
-        "en": "19 min. 32 sec.",
+        "en": "duration: 19 min. 32 sec.",
         "zh-hant": "19分32秒"
     },
     "medium": {
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1629,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

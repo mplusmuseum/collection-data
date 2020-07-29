@@ -14,12 +14,10 @@
         },
         "category": {
             "en": [
-                "Photography",
-                "Painting"
+                "Photography"
             ],
             "zh-hant": [
-                "攝影",
-                "繪畫"
+                "攝影"
             ]
         },
         "archivalLevel": {
@@ -58,11 +56,57 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#716D6D",
+                "value": 30
+            },
+            {
+                "color": "#DFDCDB",
+                "value": 20.9
+            },
+            {
+                "color": "#424040",
+                "value": 19.7
+            },
+            {
+                "color": "#878486",
+                "value": 9.5
+            },
+            {
+                "color": "#D2CFD1",
+                "value": 8.7
+            },
+            {
+                "color": "#403F40",
+                "value": 5.9
+            },
+            {
+                "color": "#C6C4C8",
+                "value": 3.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 42.7
+                },
+                {
+                    "color": "white",
+                    "value": 29.6
+                },
+                {
+                    "color": "black",
+                    "value": 25.5
+                }
+            ]
         }
     },
     "dimensionDetails": {

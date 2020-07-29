@@ -40,8 +40,8 @@
         "zh-hant": "紙本: 73.9 × 48.2 厘米"
     },
     "medium": {
-        "en": "offset lithograph print",
-        "zh-hant": "柯式平板印刷"
+        "en": "offset lithograph",
+        "zh-hant": "柯式石印"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Arthur Hacker, 2019",
@@ -63,11 +63,137 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#BBCDDA",
+                "value": 31.8
+            },
+            {
+                "color": "#45443E",
+                "value": 12.4
+            },
+            {
+                "color": "#B4C7DD",
+                "value": 7.4
+            },
+            {
+                "color": "#8A9233",
+                "value": 6.3
+            },
+            {
+                "color": "#3E443E",
+                "value": 6.1
+            },
+            {
+                "color": "#796F66",
+                "value": 4.9
+            },
+            {
+                "color": "#90B6D6",
+                "value": 4
+            },
+            {
+                "color": "#727465",
+                "value": 2.6
+            },
+            {
+                "color": "#865A47",
+                "value": 2.4
+            },
+            {
+                "color": "#CCC3B5",
+                "value": 2.4
+            },
+            {
+                "color": "#2D2E33",
+                "value": 2.2
+            },
+            {
+                "color": "#5F6A60",
+                "value": 2.2
+            },
+            {
+                "color": "#8B8733",
+                "value": 1.6
+            },
+            {
+                "color": "#D2D2C6",
+                "value": 1.6
+            },
+            {
+                "color": "#83704D",
+                "value": 1.4
+            },
+            {
+                "color": "#AEB550",
+                "value": 1.1
+            },
+            {
+                "color": "#7C8C43",
+                "value": 1
+            },
+            {
+                "color": "#9AB7DA",
+                "value": 1
+            },
+            {
+                "color": "#BCC9C3",
+                "value": 1
+            },
+            {
+                "color": "#B26447",
+                "value": 0.8
+            },
+            {
+                "color": "#6D787B",
+                "value": 0.7
+            },
+            {
+                "color": "#73757D",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 0.8
+                },
+                {
+                    "color": "gray",
+                    "value": 46.2
+                },
+                {
+                    "color": "green",
+                    "value": 1
+                },
+                {
+                    "color": "white",
+                    "value": 1.6
+                },
+                {
+                    "color": "black",
+                    "value": 20.7
+                },
+                {
+                    "color": "yellow",
+                    "value": 7.3
+                },
+                {
+                    "color": "teal",
+                    "value": 12.4
+                },
+                {
+                    "color": "brown",
+                    "value": 5.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

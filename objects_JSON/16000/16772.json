@@ -42,7 +42,7 @@
     "beginDate": 1985,
     "endDate": 1985,
     "dimension": {
-        "en": "digital: 13264 x 18793 px\r\r\nfile size: 2992 kb",
+        "en": "digital: 18793 × 13264 px\r\r\nfile size: 2992 kb",
         "zh-hant": "數碼: 13264 x 18793 px\r\r\n文件大小: 2992 kb"
     },
     "medium": {
@@ -62,11 +62,25 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#FBFBFB",
+                "value": 97
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 97
+                }
+            ]
         }
     },
     "dimensionDetails": {

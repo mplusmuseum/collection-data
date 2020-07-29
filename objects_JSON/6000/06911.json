@@ -40,14 +40,36 @@
         "zh-hant": "整體 （約）: 25 × 17 × 43 厘米"
     },
     "medium": {
-        "en": "plastic, electronic parts, and LED lights",
+        "en": "plastic, electronic parts, and light emitting diode",
         "zh-hant": "塑膠、電子零件、LED 燈"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1601,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 1643,
+            "role": {
+                "en": "Producer",
+                "zh-hant": "製作人"
+            }
+        },
+        {
+            "id": 1600,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "A grey, plastic robot dog sits on a white surface in front of a small plastic pink ball."

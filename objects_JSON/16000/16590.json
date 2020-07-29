@@ -42,7 +42,7 @@
     "beginDate": 2005,
     "endDate": 2009,
     "dimension": {
-        "en": "digital: 4000 x 3197 px\r\r\nfile size: 37471 kb",
+        "en": "digital: 3197 × 4000 px\r\r\nfile size: 37471 kb",
         "zh-hant": "數碼: 4000 x 3197 px\r\r\n文件大小: 37471 kb"
     },
     "medium": {
@@ -62,11 +62,165 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C8B6AE",
+                "value": 8
+            },
+            {
+                "color": "#161620",
+                "value": 7.4
+            },
+            {
+                "color": "#5A6788",
+                "value": 6.8
+            },
+            {
+                "color": "#A6A6BF",
+                "value": 6.7
+            },
+            {
+                "color": "#201D23",
+                "value": 6.2
+            },
+            {
+                "color": "#8C7E74",
+                "value": 5.5
+            },
+            {
+                "color": "#2B1E1E",
+                "value": 5.1
+            },
+            {
+                "color": "#2D2A27",
+                "value": 4.1
+            },
+            {
+                "color": "#1D131A",
+                "value": 4
+            },
+            {
+                "color": "#6C806E",
+                "value": 3.9
+            },
+            {
+                "color": "#81614F",
+                "value": 3.6
+            },
+            {
+                "color": "#7C6C4E",
+                "value": 3.4
+            },
+            {
+                "color": "#2B322E",
+                "value": 3.1
+            },
+            {
+                "color": "#78788D",
+                "value": 3.1
+            },
+            {
+                "color": "#84876F",
+                "value": 2.7
+            },
+            {
+                "color": "#3F3827",
+                "value": 2.7
+            },
+            {
+                "color": "#6B7B4B",
+                "value": 2.6
+            },
+            {
+                "color": "#2C3D28",
+                "value": 2.5
+            },
+            {
+                "color": "#394027",
+                "value": 2.2
+            },
+            {
+                "color": "#161119",
+                "value": 2
+            },
+            {
+                "color": "#557248",
+                "value": 1.8
+            },
+            {
+                "color": "#C6B7C3",
+                "value": 1.2
+            },
+            {
+                "color": "#7B7750",
+                "value": 1.2
+            },
+            {
+                "color": "#797D4F",
+                "value": 1.1
+            },
+            {
+                "color": "#B4B799",
+                "value": 0.9
+            },
+            {
+                "color": "#4D6D58",
+                "value": 0.8
+            },
+            {
+                "color": "#887685",
+                "value": 0.8
+            },
+            {
+                "color": "#B98E77",
+                "value": 0.8
+            },
+            {
+                "color": "#845156",
+                "value": 0.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 0.8
+                },
+                {
+                    "color": "red",
+                    "value": 0.8
+                },
+                {
+                    "color": "gray",
+                    "value": 15.5
+                },
+                {
+                    "color": "green",
+                    "value": 11.6
+                },
+                {
+                    "color": "blue",
+                    "value": 16.6
+                },
+                {
+                    "color": "black",
+                    "value": 34.6
+                },
+                {
+                    "color": "yellow",
+                    "value": 0.9
+                },
+                {
+                    "color": "brown",
+                    "value": 14.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

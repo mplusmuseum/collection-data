@@ -31,7 +31,7 @@
     },
     "displayDate": {
         "en": "1955",
-        "zh-hant": "1955年設計"
+        "zh-hant": "1955"
     },
     "beginDate": 1955,
     "endDate": 1955,
@@ -54,20 +54,116 @@
                 "en": "Designer",
                 "zh-hant": "設計師"
             }
-        },
-        {
-            "id": 2963,
-            "role": {
-                "en": "Manufacturer",
-                "zh-hant": "製造商"
-            }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CBCDCB",
+                "value": 41.5
+            },
+            {
+                "color": "#CDCDCB",
+                "value": 18.6
+            },
+            {
+                "color": "#CBC7BB",
+                "value": 17.6
+            },
+            {
+                "color": "#D1D2D2",
+                "value": 12.2
+            },
+            {
+                "color": "#8E8874",
+                "value": 2.4
+            },
+            {
+                "color": "#3A3A34",
+                "value": 1.9
+            },
+            {
+                "color": "#858477",
+                "value": 1.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 21.9
+                },
+                {
+                    "color": "white",
+                    "value": 72.3
+                },
+                {
+                    "color": "black",
+                    "value": 1.9
+                }
+            ]
         }
     },
     "dimensionDetails": null

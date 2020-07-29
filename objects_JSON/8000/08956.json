@@ -41,7 +41,7 @@
     },
     "medium": {
         "en": "oil on board",
-        "zh-hant": "板上油彩"
+        "zh-hant": "油彩、木板"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of the artist, 2017",
@@ -56,11 +56,145 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#8A7040",
+                "value": 18.7
+            },
+            {
+                "color": "#363F3A",
+                "value": 15.7
+            },
+            {
+                "color": "#7F5335",
+                "value": 6.1
+            },
+            {
+                "color": "#73864C",
+                "value": 5.4
+            },
+            {
+                "color": "#B49852",
+                "value": 5
+            },
+            {
+                "color": "#414139",
+                "value": 4.4
+            },
+            {
+                "color": "#5A7C50",
+                "value": 4.4
+            },
+            {
+                "color": "#8F894A",
+                "value": 3.9
+            },
+            {
+                "color": "#446A5D",
+                "value": 3.7
+            },
+            {
+                "color": "#304842",
+                "value": 3.4
+            },
+            {
+                "color": "#5E7261",
+                "value": 3
+            },
+            {
+                "color": "#848A48",
+                "value": 2.9
+            },
+            {
+                "color": "#476E55",
+                "value": 2.7
+            },
+            {
+                "color": "#82856D",
+                "value": 2.3
+            },
+            {
+                "color": "#2F4348",
+                "value": 2.2
+            },
+            {
+                "color": "#B3AA5B",
+                "value": 1.9
+            },
+            {
+                "color": "#4A432E",
+                "value": 1.6
+            },
+            {
+                "color": "#DBDCCA",
+                "value": 1.5
+            },
+            {
+                "color": "#334939",
+                "value": 1.3
+            },
+            {
+                "color": "#3E6561",
+                "value": 1
+            },
+            {
+                "color": "#3B5762",
+                "value": 1
+            },
+            {
+                "color": "#EFEBE3",
+                "value": 0.9
+            },
+            {
+                "color": "#6F675A",
+                "value": 0.9
+            },
+            {
+                "color": "#ADC3B1",
+                "value": 0.7
+            },
+            {
+                "color": "#3D5D61",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 6.9
+                },
+                {
+                    "color": "green",
+                    "value": 17.5
+                },
+                {
+                    "color": "gray",
+                    "value": 0.9
+                },
+                {
+                    "color": "white",
+                    "value": 2.4
+                },
+                {
+                    "color": "black",
+                    "value": 25.7
+                },
+                {
+                    "color": "teal",
+                    "value": 6.3
+                },
+                {
+                    "color": "brown",
+                    "value": 35.5
+                }
+            ]
         }
     },
     "dimensionDetails": {

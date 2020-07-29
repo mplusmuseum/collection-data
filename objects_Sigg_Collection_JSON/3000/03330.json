@@ -42,14 +42,29 @@
         "zh-hant": "影片長度：17分45秒"
     },
     "medium": {
-        "en": "video",
-        "zh-hant": "錄像"
+        "en": "single-channel digital video (colour, sound)",
+        "zh-hant": "單頻道數碼錄像（彩色、有聲）"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 619,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        },
+        {
+            "id": 4670,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

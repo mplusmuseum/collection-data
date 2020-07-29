@@ -62,11 +62,41 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Photograph of a monochrome watercolour-like rendering of a circular building with a flat roof. The building sits on a hill and looks out over a landscape."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EBEBEB",
+                "value": 73.9
+            },
+            {
+                "color": "#868686",
+                "value": 16.3
+            },
+            {
+                "color": "#282828",
+                "value": 9.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 16.3
+                },
+                {
+                    "color": "white",
+                    "value": 73.9
+                },
+                {
+                    "color": "black",
+                    "value": 9.9
+                }
+            ]
         }
     },
     "dimensionDetails": {

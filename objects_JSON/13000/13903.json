@@ -13,8 +13,12 @@
             ]
         },
         "category": {
-            "en": null,
-            "zh-hant": null
+            "en": [
+                "Work on Paper"
+            ],
+            "zh-hant": [
+                "紙本作品"
+            ]
         },
         "archivalLevel": {
             "en": null,
@@ -52,11 +56,25 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E1DDD2",
+                "value": 96.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 96.2
+                }
+            ]
         }
     },
     "dimensionDetails": null

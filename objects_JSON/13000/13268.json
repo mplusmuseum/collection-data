@@ -40,8 +40,8 @@
         "zh-hant": "紙本 （目測）: 72.9 × 47.4 厘米\r\r\n連框: 74.3 × 49 × 2 厘米"
     },
     "medium": {
-        "en": "offset lithograph print",
-        "zh-hant": "柯式平板印刷"
+        "en": "offset lithograph",
+        "zh-hant": "柯式石印"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Arthur Hacker, 2019",
@@ -63,11 +63,41 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D4B44B",
+                "value": 82.1
+            },
+            {
+                "color": "#7C4C6E",
+                "value": 10.4
+            },
+            {
+                "color": "#C56E41",
+                "value": 4.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 82.1
+                },
+                {
+                    "color": "purple",
+                    "value": 10.4
+                },
+                {
+                    "color": "brown",
+                    "value": 4.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

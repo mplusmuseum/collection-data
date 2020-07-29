@@ -42,8 +42,8 @@
         "zh-hant": "影片長度： 24 秒"
     },
     "medium": {
-        "en": "video (black and white, silent)",
-        "zh-hant": "單頻道錄像"
+        "en": "single-channel digital video (black and white, silent)",
+        "zh-hant": "單頻道數碼錄像（黑白，無聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -107,5 +107,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "duration",
+        "unit": null,
+        "width": null,
+        "height": null,
+        "depth": null
+    }
 }
