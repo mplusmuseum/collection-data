@@ -48,39 +48,59 @@
         "zh-hant": "M+，香港"
     },
     "constituents": [],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#B8B8B8",
-                "value": 48.7
+                "color": "#B0B2B0",
+                "value": 24.2
             },
             {
-                "color": "#35302C",
-                "value": 17.8
+                "color": "#312C29",
+                "value": 19.8
             },
             {
-                "color": "#241C18",
-                "value": 15.5
+                "color": "#231C18",
+                "value": 16.3
             },
             {
-                "color": "#A3A3A2",
-                "value": 10.5
+                "color": "#C4C5C5",
+                "value": 14.7
             },
             {
-                "color": "#0D0602",
-                "value": 2.7
+                "color": "#ACADAB",
+                "value": 8
+            },
+            {
+                "color": "#A7A9A7",
+                "value": 6.2
+            },
+            {
+                "color": "#A3A3A1",
+                "value": 4.3
+            },
+            {
+                "color": "#191611",
+                "value": 1.5
+            },
+            {
+                "color": "#0A0402",
+                "value": 1.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 59.2
+                    "value": 57.3
                 },
                 {
                     "color": "black",
-                    "value": 36
+                    "value": 39.1
                 }
             ]
         }

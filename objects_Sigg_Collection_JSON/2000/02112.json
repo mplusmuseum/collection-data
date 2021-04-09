@@ -26,7 +26,7 @@
         }
     },
     "title": {
-        "en": "The Second Situation",
+        "en": "The Second State",
         "zh-hant": "第二狀態"
     },
     "displayDate": {
@@ -37,7 +37,7 @@
     "endDate": 1987,
     "dimension": {
         "en": "dimensions variable\r\r\neach: 170 × 130 cm",
-        "zh-hant": "整體: 170 × 520 厘米\r\n各: 170 × 130 厘米"
+        "zh-hant": "尺寸不一、 各: 170 × 130 厘米"
     },
     "medium": {
         "en": "oil on canvas",
@@ -108,19 +108,15 @@
         "height": 340,
         "depth": null
     },
-    "concepts": {
-        "title": {
-            "en": "Pond Society",
-            "zh-hant": "池社"
-        },
-        "description": {
-            "en": "Pond Society, formed in Hangzhou, was one of the earliest conceptual artist groups active in the 1980s. Their aim was to bring art from an academic context into public spaces. Major members include Zhang Peili, Geng Jianyi, and Song Ling.",
-            "zh-hant": "「池社」成立於杭州，是活躍於80年代的早期概念藝術團體。該社致力將藝術由純學術層面引領至公共空間。核心成員包括張培力、耿建翌及宋陵等人"
-        },
-        "timeline": "Artist Groups",
-        "beginDate": "1984",
-        "endDate": "1984",
-        "displayDate": "1984",
-        "publicAccess": true
-    }
+    "concepts": [
+        {
+            "title": "Pond Society",
+            "description": "Pond Society, formed in Hangzhou, was one of the earliest conceptual artist groups active in the 1980s. Their aim was to bring art from an academic context into public spaces. Major members include Zhang Peili, Geng Jianyi, and Song Ling.",
+            "timeline": "Artist Groups",
+            "beginDate": "1984",
+            "endDate": "1984",
+            "displayDate": "1984",
+            "publicAccess": true
+        }
+    ]
 }

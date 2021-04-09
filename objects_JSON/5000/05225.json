@@ -35,7 +35,7 @@
     },
     "displayDate": {
         "en": "[1950s–1960s]",
-        "zh-hant": "[1950年代至1960年代]"
+        "zh-hant": "[1950至1960年代]"
     },
     "beginDate": 1950,
     "endDate": 1969,
@@ -67,11 +67,81 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#A19C94",
+                "value": 36.5
+            },
+            {
+                "color": "#AFB1B8",
+                "value": 18.7
+            },
+            {
+                "color": "#7A8287",
+                "value": 9.4
+            },
+            {
+                "color": "#AAB1B6",
+                "value": 7
+            },
+            {
+                "color": "#ADA9A3",
+                "value": 4.8
+            },
+            {
+                "color": "#82858C",
+                "value": 3.8
+            },
+            {
+                "color": "#97803B",
+                "value": 3.5
+            },
+            {
+                "color": "#9E9F95",
+                "value": 3.3
+            },
+            {
+                "color": "#336581",
+                "value": 3
+            },
+            {
+                "color": "#731620",
+                "value": 2.9
+            },
+            {
+                "color": "#ACACA6",
+                "value": 1.3
+            },
+            {
+                "color": "#6D3139",
+                "value": 0.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 3.8
+                },
+                {
+                    "color": "gray",
+                    "value": 85
+                },
+                {
+                    "color": "teal",
+                    "value": 3
+                },
+                {
+                    "color": "brown",
+                    "value": 3.5
+                }
+            ]
         }
     },
     "dimensionDetails": {

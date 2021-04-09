@@ -35,7 +35,7 @@
     },
     "displayDate": {
         "en": "1970",
-        "zh-hant": "1970年"
+        "zh-hant": "1970"
     },
     "beginDate": 1970,
     "endDate": 1970,
@@ -60,11 +60,45 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E53B08",
+                "value": 38.4
+            },
+            {
+                "color": "#F9F182",
+                "value": 37.5
+            },
+            {
+                "color": "#F1C460",
+                "value": 15.4
+            },
+            {
+                "color": "#DD1E01",
+                "value": 5.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 43.6
+                },
+                {
+                    "color": "orange",
+                    "value": 15.4
+                },
+                {
+                    "color": "yellow",
+                    "value": 37.5
+                }
+            ]
         }
     },
     "dimensionDetails": {

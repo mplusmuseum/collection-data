@@ -26,22 +26,22 @@
         }
     },
     "title": {
-        "en": "WERK No. 12/GUERRILLAZINE No.3: The Outsiders",
+        "en": "WERK No. 12 GUERRILLAZINE The Outsiders",
         "zh-hant": "WERK第12期 ／ GUERRILLAZINE第3期：圈外人"
     },
     "displayDate": {
-        "en": "2005",
-        "zh-hant": "2005"
+        "en": "Autumn 2005/Winter 2006",
+        "zh-hant": "Autumn 2005/Winter 2006"
     },
     "beginDate": 2005,
-    "endDate": 2005,
+    "endDate": 2006,
     "dimension": {
-        "en": "overall (closed): 2 × 22.8 × 31.9 cm",
+        "en": "overall (closed): 2.1 × 22.5 × 31.2 cm",
         "zh-hant": "整體 （合上）: 2 × 22.8 × 31.9 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -51,8 +51,15 @@
         {
             "id": 846,
             "role": {
-                "en": "Design Firm",
-                "zh-hant": "設計師事務所"
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        },
+        {
+            "id": 1302,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "設計師"
             }
         },
         {
@@ -67,6 +74,13 @@
             "role": {
                 "en": "Design Firm",
                 "zh-hant": "設計師事務所"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
@@ -134,8 +148,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 22.8,
-        "height": 2,
-        "depth": 31.9
+        "width": 22.5,
+        "height": 2.1,
+        "depth": 31.2
     }
 }

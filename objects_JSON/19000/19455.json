@@ -31,11 +31,11 @@
     },
     "title": {
         "en": "Magazine, page 12, Archigram 5",
-        "zh-hant": "《Archigram》雜誌 第五期，第十二頁"
+        "zh-hant": "《Archigram》雜誌第五期，第十二頁"
     },
     "displayDate": {
         "en": "1964",
-        "zh-hant": "1964年"
+        "zh-hant": "1964"
     },
     "beginDate": 1964,
     "endDate": 1964,
@@ -60,11 +60,69 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#FFFFFF",
+                "value": 45
+            },
+            {
+                "color": "#CFD0DA",
+                "value": 17.8
+            },
+            {
+                "color": "#332C49",
+                "value": 10.4
+            },
+            {
+                "color": "#737387",
+                "value": 10.4
+            },
+            {
+                "color": "#47476A",
+                "value": 6
+            },
+            {
+                "color": "#423846",
+                "value": 2.5
+            },
+            {
+                "color": "#443C5C",
+                "value": 2.4
+            },
+            {
+                "color": "#36293D",
+                "value": 2.3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 10.4
+                },
+                {
+                    "color": "white",
+                    "value": 62.8
+                },
+                {
+                    "color": "blue",
+                    "value": 6
+                },
+                {
+                    "color": "black",
+                    "value": 2.5
+                },
+                {
+                    "color": "purple",
+                    "value": 15.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

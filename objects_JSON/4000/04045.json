@@ -26,22 +26,22 @@
         }
     },
     "title": {
-        "en": "WERK No. 17: Eley Kishimoto",
+        "en": "WERK No. 17 : Eley Kishimoto",
         "zh-hant": "WERK第17期：Eley Kishimoto"
     },
     "displayDate": {
-        "en": "2010",
-        "zh-hant": "2010"
+        "en": "copyright 2010",
+        "zh-hant": "copyright 2010"
     },
     "beginDate": 2010,
     "endDate": 2010,
     "dimension": {
-        "en": "overall: 3.2 × 22.3 × 30.4 cm",
+        "en": "overall (closed): 3.3 × 22.4 × 30.5 cm",
         "zh-hant": "整體: 3.2 × 22.3 × 30.4 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -51,8 +51,8 @@
         {
             "id": 846,
             "role": {
-                "en": "Design Firm",
-                "zh-hant": "設計師事務所"
+                "en": "Publisher",
+                "zh-hant": "出版社"
             }
         },
         {
@@ -60,6 +60,13 @@
             "role": {
                 "en": "Designer",
                 "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
@@ -115,8 +122,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 22.3,
-        "height": 3.2,
-        "depth": 30.4
+        "width": 22.4,
+        "height": 3.3,
+        "depth": 30.5
     }
 }

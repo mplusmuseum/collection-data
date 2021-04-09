@@ -26,22 +26,22 @@
         }
     },
     "title": {
-        "en": "WERK No. 5: Open Wound",
+        "en": "WERK No. 5",
         "zh-hant": "WERK第5期：開放性傷口"
     },
     "displayDate": {
-        "en": "2002",
-        "zh-hant": "2002"
+        "en": "copyright 2002",
+        "zh-hant": "copyright 2002"
     },
     "beginDate": 2002,
     "endDate": 2002,
     "dimension": {
-        "en": "overall (closed): 0.6 × 30.7 × 43.8 cm\r\r\noverall (open): 3 × 57.5 × 43.8 cm",
+        "en": "overall (closed): 0.8 × 30.7 × 44.4 cm",
         "zh-hant": "整體 （合上）: 0.6 × 30.7 × 43.8 厘米  整體 （打開）: 3 × 57.5 × 43.8 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -51,8 +51,15 @@
         {
             "id": 846,
             "role": {
-                "en": "Design Firm",
-                "zh-hant": "設計師事務所"
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        },
+        {
+            "id": 1302,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "設計師"
             }
         },
         {
@@ -60,6 +67,13 @@
             "role": {
                 "en": "Designer",
                 "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
@@ -120,7 +134,7 @@
         "element": "overall",
         "unit": "cm",
         "width": 30.7,
-        "height": 0.6,
-        "depth": 43.8
+        "height": 0.8,
+        "depth": 44.4
     }
 }

@@ -62,11 +62,93 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#000000",
+                "value": 35.2
+            },
+            {
+                "color": "#CB1D18",
+                "value": 13.5
+            },
+            {
+                "color": "#BFCFC5",
+                "value": 11.2
+            },
+            {
+                "color": "#2D0000",
+                "value": 6.9
+            },
+            {
+                "color": "#B2C9CA",
+                "value": 6.5
+            },
+            {
+                "color": "#BCBFB1",
+                "value": 6
+            },
+            {
+                "color": "#840101",
+                "value": 3.7
+            },
+            {
+                "color": "#BAB3AA",
+                "value": 2.7
+            },
+            {
+                "color": "#D0454C",
+                "value": 2.6
+            },
+            {
+                "color": "#778679",
+                "value": 1.4
+            },
+            {
+                "color": "#8D907F",
+                "value": 1.1
+            },
+            {
+                "color": "#B4B7C0",
+                "value": 0.9
+            },
+            {
+                "color": "#999086",
+                "value": 0.8
+            },
+            {
+                "color": "#59928E",
+                "value": 0.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 26.7
+                },
+                {
+                    "color": "gray",
+                    "value": 19.4
+                },
+                {
+                    "color": "white",
+                    "value": 11.2
+                },
+                {
+                    "color": "black",
+                    "value": 35.2
+                },
+                {
+                    "color": "teal",
+                    "value": 0.5
+                }
+            ]
         }
     },
     "dimensionDetails": {

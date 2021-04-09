@@ -40,8 +40,8 @@
         "zh-hant": "紙本: 352.8 × 121.8 厘米"
     },
     "medium": {
-        "en": "acrylic on PVC",
-        "zh-hant": "塑膠彩、聚氯乙烯"
+        "en": "acrylic and PVC",
+        "zh-hant": "塑膠彩及聚氯乙烯"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
@@ -50,6 +50,13 @@
     "constituents": [
         {
             "id": 96,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        },
+        {
+            "id": 146,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"

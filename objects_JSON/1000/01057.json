@@ -26,12 +26,12 @@
         }
     },
     "title": {
-        "en": "Site Model, Metroplan West Kowloon Reclamation Concept, Hong Kong",
+        "en": "Site model, Metroplan West Kowloon Reclamation Concept, Hong Kong",
         "zh-hant": "大都市計劃—西九龍填海概念模型，香港"
     },
     "displayDate": {
-        "en": "1988/2013",
-        "zh-hant": "1988/2013"
+        "en": "1988, made 2013",
+        "zh-hant": "1988年，2013年製造"
     },
     "beginDate": 1988,
     "endDate": 2013,
@@ -41,7 +41,7 @@
     },
     "medium": {
         "en": "acrylic and cardboard",
-        "zh-hant": "亞加力、紙板"
+        "zh-hant": "亞加力及紙板"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -49,17 +49,17 @@
     },
     "constituents": [
         {
-            "id": 74,
-            "role": {
-                "en": "Architectural Firm",
-                "zh-hant": "建築師事務所"
-            }
-        },
-        {
             "id": 213,
             "role": {
                 "en": "Architect",
                 "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 74,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
             }
         }
     ],

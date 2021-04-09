@@ -32,8 +32,8 @@
         }
     },
     "title": {
-        "en": "Fire service notes, schedules, block plan and key plan, Asia Terminals Centre (now ATL Logistics Centre) Phase 1 and 2 (circa 1982–circa1992), Kwai Chung, Hong Kong",
-        "zh-hant": "香港葵涌亞洲貨櫃中心（現為亞洲貨櫃物流中心）第一、二期（約1982至約1992年）防火須知、日程表、樓宇位置圖和索引圖"
+        "en": "Fire service notes, schedules, block plan and key plan, ATL Container Freight Station (now ATL Logistics Centre) Phase 1 and 2 (1979–1988), Kwai Chung, Hong Kong",
+        "zh-hant": "香港葵涌亞洲貨櫃大廈（現為亞洲貨櫃物流中心）第一、二期（1979至1988年）防火須知、日程表、樓宇位置圖和索引圖"
     },
     "displayDate": {
         "en": "[2 August] 1982, last amended 30 March 1988, digitised [2000s]",
@@ -62,11 +62,25 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#888888",
+                "value": 95.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 95.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

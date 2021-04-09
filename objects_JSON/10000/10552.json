@@ -40,8 +40,8 @@
         "zh-hant": "整體: 72.4 × 50.8 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "offset lithograph",
+        "zh-hant": "平版印刷"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -63,11 +63,133 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#ECE7DE",
+                "value": 23.9
+            },
+            {
+                "color": "#B8BED3",
+                "value": 19.4
+            },
+            {
+                "color": "#CA774E",
+                "value": 9.9
+            },
+            {
+                "color": "#C55A5A",
+                "value": 5.8
+            },
+            {
+                "color": "#809588",
+                "value": 5.3
+            },
+            {
+                "color": "#C2CED6",
+                "value": 4.6
+            },
+            {
+                "color": "#B46391",
+                "value": 3.7
+            },
+            {
+                "color": "#BAAF5A",
+                "value": 3
+            },
+            {
+                "color": "#789394",
+                "value": 2.4
+            },
+            {
+                "color": "#C5A75F",
+                "value": 2.3
+            },
+            {
+                "color": "#577888",
+                "value": 2.3
+            },
+            {
+                "color": "#985F48",
+                "value": 2.1
+            },
+            {
+                "color": "#4F97C8",
+                "value": 2
+            },
+            {
+                "color": "#859ECE",
+                "value": 1.4
+            },
+            {
+                "color": "#8C947A",
+                "value": 1.2
+            },
+            {
+                "color": "#AAB166",
+                "value": 1.2
+            },
+            {
+                "color": "#A19B4E",
+                "value": 1.1
+            },
+            {
+                "color": "#62898D",
+                "value": 1
+            },
+            {
+                "color": "#934450",
+                "value": 0.8
+            },
+            {
+                "color": "#8E9B5F",
+                "value": 0.8
+            },
+            {
+                "color": "#A5588A",
+                "value": 0.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 16.3
+                },
+                {
+                    "color": "red",
+                    "value": 8.7
+                },
+                {
+                    "color": "pink",
+                    "value": 4.4
+                },
+                {
+                    "color": "gray",
+                    "value": 27.1
+                },
+                {
+                    "color": "green",
+                    "value": 2
+                },
+                {
+                    "color": "white",
+                    "value": 28.5
+                },
+                {
+                    "color": "yellow",
+                    "value": 1.2
+                },
+                {
+                    "color": "teal",
+                    "value": 6.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

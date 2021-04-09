@@ -196,19 +196,15 @@
         "height": 197.5,
         "depth": null
     },
-    "concepts": {
-        "title": {
-            "en": "New Painting",
-            "zh-hant": "新繪畫"
-        },
-        "description": {
-            "en": "New Painting is a loosely defined term used to indicate practices that are indifferent to the symbols used in realism and cynical realism and that challenge conventional artistic production and aesthetics. Artists associated with New Painting include Wang Xingwei, Zhou Tiehai, and Yan Lei.",
-            "zh-hant": "新繪畫是個定義鬆散的用語，意指與現實主義和玩世現實主義的象徵式創作語言無關的藝術實踐。新繪畫是挑戰傳統的藝術生產模式及美學。新繪畫的藝術家包括王興偉、周鐵海和顏磊。"
-        },
-        "timeline": "Artist Movements",
-        "beginDate": "2000",
-        "endDate": "2000",
-        "displayDate": "2000",
-        "publicAccess": true
-    }
+    "concepts": [
+        {
+            "title": "New Painting",
+            "description": "New Painting is a loosely defined term used to indicate practices that are indifferent to the symbols used in realism and cynical realism and that challenge conventional artistic production and aesthetics. Artists associated with New Painting include Wang Xingwei, Zhou Tiehai, and Yan Lei.",
+            "timeline": "Artist Movements",
+            "beginDate": "2000",
+            "endDate": "2000",
+            "displayDate": "2000",
+            "publicAccess": true
+        }
+    ]
 }

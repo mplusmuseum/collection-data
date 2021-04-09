@@ -32,8 +32,8 @@
         }
     },
     "title": {
-        "en": "East elevation, Asia Terminals Centre (now ATL Logistics Centre) Phase 3, 4 and 5 (circa 1989–1994), Kwai Chung, Hong Kong",
-        "zh-hant": "香港葵涌亞洲貨櫃中心（現為亞洲貨櫃物流中心）第三、四、五期（約1989至1994年）東向立面圖"
+        "en": "East elevation, ATL Container Freight Station (now ATL Logistics Centre) Phase 3, 4 and 5 (circa 1989–1994), Kwai Chung, Hong Kong",
+        "zh-hant": "香港葵涌亞洲貨櫃大廈（現為亞洲貨櫃物流中心）第三、四、五期（約1989至1994年）東向立面圖"
     },
     "displayDate": {
         "en": "June 1990, last amended 26 November 1993, digitised [2000s]",
@@ -62,11 +62,33 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#F8F8F8",
+                "value": 94.1
+            },
+            {
+                "color": "#8D8D8D",
+                "value": 4.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 4.6
+                },
+                {
+                    "color": "white",
+                    "value": 94.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

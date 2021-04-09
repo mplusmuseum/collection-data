@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Location plan, typical infill, Plug-in City, Paddington East, Expendable Place Pads",
-        "zh-hant": "騰空地段開發、「插接城市」、帕丁頓東以及可棄平台的位置圖"
+        "zh-hant": "騰空地段開發、「插接城市」、帕靈頓東以及可棄平台的位置圖"
     },
     "displayDate": {
         "en": "1966",
@@ -67,11 +67,101 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#3A3533",
+                "value": 25.4
+            },
+            {
+                "color": "#BCBB9B",
+                "value": 16.3
+            },
+            {
+                "color": "#8C8C71",
+                "value": 10
+            },
+            {
+                "color": "#393338",
+                "value": 8.7
+            },
+            {
+                "color": "#867D6E",
+                "value": 8.2
+            },
+            {
+                "color": "#C1BAA4",
+                "value": 6.8
+            },
+            {
+                "color": "#7F7459",
+                "value": 4.6
+            },
+            {
+                "color": "#878360",
+                "value": 3.9
+            },
+            {
+                "color": "#B7B284",
+                "value": 2.6
+            },
+            {
+                "color": "#858860",
+                "value": 1.9
+            },
+            {
+                "color": "#3B3628",
+                "value": 1.9
+            },
+            {
+                "color": "#313531",
+                "value": 1.5
+            },
+            {
+                "color": "#382B27",
+                "value": 1.2
+            },
+            {
+                "color": "#75805A",
+                "value": 1.2
+            },
+            {
+                "color": "#333725",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 9.4
+                },
+                {
+                    "color": "gray",
+                    "value": 8.2
+                },
+                {
+                    "color": "green",
+                    "value": 1.2
+                },
+                {
+                    "color": "black",
+                    "value": 38.7
+                },
+                {
+                    "color": "yellow",
+                    "value": 16.3
+                },
+                {
+                    "color": "brown",
+                    "value": 21.3
+                }
+            ]
         }
     },
     "dimensionDetails": {

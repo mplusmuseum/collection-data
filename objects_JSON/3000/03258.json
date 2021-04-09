@@ -29,7 +29,7 @@
     },
     "title": {
         "en": "Illiteracy No. 1",
-        "zh-hant": "文盲第1號"
+        "zh-hant": "盲1"
     },
     "displayDate": {
         "en": "2004",
@@ -52,6 +52,13 @@
     "constituents": [
         {
             "id": 96,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        },
+        {
+            "id": 146,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"

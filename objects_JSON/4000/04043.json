@@ -26,22 +26,22 @@
         }
     },
     "title": {
-        "en": "WERK No. 16: Joe Magee Special",
+        "en": "WERK No. 16 : Joe Magee Special",
         "zh-hant": "WERK第16期：Joe Magee特刊"
     },
     "displayDate": {
-        "en": "2008",
-        "zh-hant": "2008"
+        "en": "copyright 2008",
+        "zh-hant": "copyright 2008"
     },
     "beginDate": 2008,
     "endDate": 2008,
     "dimension": {
-        "en": "overall (closed): 2.6 × 22.1 × 30.5 cm",
+        "en": "overall (closed): 3.3 × 22.2 × 30.6 cm",
         "zh-hant": "整體 （合上）: 2.6 × 22.1 × 30.5 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -51,15 +51,22 @@
         {
             "id": 846,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Publisher",
+                "zh-hant": "出版社"
             }
         },
         {
             "id": 1302,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Designer/Producer",
+                "zh-hant": "設計師／生產商"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
@@ -99,8 +106,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 22.1,
-        "height": 2.6,
-        "depth": 30.5
+        "width": 22.2,
+        "height": 3.3,
+        "depth": 30.6
     }
 }

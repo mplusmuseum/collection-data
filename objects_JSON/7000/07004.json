@@ -26,8 +26,8 @@
         }
     },
     "title": {
-        "en": "World Design Expo '89",
-        "zh-hant": "1989年世界設計博覽會"
+        "en": "Poster, World Design Expo '89",
+        "zh-hant": "1989年世界設計博覽會海報"
     },
     "displayDate": {
         "en": "1987",
@@ -41,7 +41,7 @@
     },
     "medium": {
         "en": "offset lithograph",
-        "zh-hant": "柯式石印"
+        "zh-hant": "平版印刷"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -56,52 +56,40 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#E1508D",
-                "value": 33.5
+                "color": "#E3E0DA",
+                "value": 37
             },
             {
-                "color": "#DFE3DF",
-                "value": 28.5
+                "color": "#A0476F",
+                "value": 33.1
             },
             {
-                "color": "#EC64AB",
-                "value": 6.8
+                "color": "#9C4471",
+                "value": 8.4
             },
             {
-                "color": "#F57B56",
-                "value": 5.8
+                "color": "#E1E0D9",
+                "value": 5.6
             },
             {
-                "color": "#C7AB83",
-                "value": 5.5
+                "color": "#C3583A",
+                "value": 5.2
             },
             {
-                "color": "#E0E1DB",
-                "value": 4.6
+                "color": "#679A5A",
+                "value": 3.5
             },
             {
-                "color": "#E0D2C6",
-                "value": 4.1
-            },
-            {
-                "color": "#3DA15D",
-                "value": 2.2
-            },
-            {
-                "color": "#E6ECEE",
-                "value": 1.9
-            },
-            {
-                "color": "#E2E4E9",
-                "value": 1.4
-            },
-            {
-                "color": "#44AF66",
-                "value": 1.2
+                "color": "#AE4E74",
+                "value": 3.3
             }
         ],
         "search": {
@@ -112,15 +100,19 @@
                 },
                 {
                     "color": "pink",
-                    "value": 40.3
+                    "value": 44.8
                 },
                 {
                     "color": "green",
-                    "value": 3.3
+                    "value": 3.5
                 },
                 {
                     "color": "white",
-                    "value": 40.5
+                    "value": 42.6
+                },
+                {
+                    "color": "red",
+                    "value": 5.2
                 }
             ]
         }

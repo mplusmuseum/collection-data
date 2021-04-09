@@ -35,7 +35,7 @@
     },
     "displayDate": {
         "en": "[1960s–1970s]",
-        "zh-hant": "[1960年代至1970年代]"
+        "zh-hant": "[1960至1970年代]"
     },
     "beginDate": 1960,
     "endDate": 1979,
@@ -67,11 +67,49 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#A8B2B8",
+                "value": 26.4
+            },
+            {
+                "color": "#82735D",
+                "value": 22.7
+            },
+            {
+                "color": "#AAAFB9",
+                "value": 18.5
+            },
+            {
+                "color": "#8C806C",
+                "value": 14.1
+            },
+            {
+                "color": "#9A9DA5",
+                "value": 7.2
+            },
+            {
+                "color": "#939BA0",
+                "value": 6.3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 58.4
+                },
+                {
+                    "color": "brown",
+                    "value": 36.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

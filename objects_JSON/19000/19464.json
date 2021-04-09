@@ -35,7 +35,7 @@
     },
     "displayDate": {
         "en": "1966",
-        "zh-hant": "1966年"
+        "zh-hant": "1966"
     },
     "beginDate": 1966,
     "endDate": 1966,
@@ -60,11 +60,77 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#241993",
+                "value": 29.1
+            },
+            {
+                "color": "#FEFDFD",
+                "value": 25.2
+            },
+            {
+                "color": "#D1CEE2",
+                "value": 15.7
+            },
+            {
+                "color": "#3525B9",
+                "value": 6.9
+            },
+            {
+                "color": "#484786",
+                "value": 4.3
+            },
+            {
+                "color": "#726DC3",
+                "value": 2.8
+            },
+            {
+                "color": "#544186",
+                "value": 2.6
+            },
+            {
+                "color": "#7E7A90",
+                "value": 2.1
+            },
+            {
+                "color": "#7E67C3",
+                "value": 1.9
+            },
+            {
+                "color": "#E9E1E8",
+                "value": 1.8
+            },
+            {
+                "color": "#2A1279",
+                "value": 1.8
+            },
+            {
+                "color": "#EBF0F3",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "blue",
+                    "value": 44.8
+                },
+                {
+                    "color": "white",
+                    "value": 44
+                },
+                {
+                    "color": "purple",
+                    "value": 6.5
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -47,60 +47,68 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [
+    "constituents": [],
+    "images": [
         {
-            "id": 1697,
-            "role": {
-                "en": "Manufacturer",
-                "zh-hant": "製造商"
-            }
+            "altText": null
         }
     ],
-    "images": [],
     "color": {
         "predominant": [
             {
-                "color": "#BFBFBF",
-                "value": 41.7
+                "color": "#999A97",
+                "value": 20
             },
             {
-                "color": "#8A8784",
-                "value": 18.7
+                "color": "#251C18",
+                "value": 17.9
             },
             {
-                "color": "#3C2B21",
-                "value": 16.2
+                "color": "#A1A3A0",
+                "value": 12.9
             },
             {
-                "color": "#38332E",
-                "value": 9.1
+                "color": "#332F2C",
+                "value": 12.9
             },
             {
-                "color": "#6A6B63",
-                "value": 5
+                "color": "#CBCBC9",
+                "value": 12.2
             },
             {
-                "color": "#5C4335",
-                "value": 2.8
+                "color": "#C5C7C5",
+                "value": 8.3
             },
             {
-                "color": "#2C261D",
-                "value": 1.9
+                "color": "#706B64",
+                "value": 5.9
+            },
+            {
+                "color": "#C9C9C8",
+                "value": 3.8
+            },
+            {
+                "color": "#231E17",
+                "value": 3
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 65.3
+                    "value": 50.9
                 },
                 {
                     "color": "black",
-                    "value": 27.2
+                    "value": 33.7
                 },
                 {
                     "color": "brown",
                     "value": 2.8
+                },
+                {
+                    "color": "white",
+                    "value": 12.2
                 }
             ]
         }

@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Dress Box",
-        "zh-hant": "我的衣服"
+        "zh-hant": "衣箱"
     },
     "displayDate": {
         "en": "1995",
@@ -44,8 +44,8 @@
         "zh-hant": "整體 （合上）: 38 × 67.5 × 44.5 厘米  整體 （打開）: 72 × 67.5 × 44.5 厘米  影片長度: 21 分 31 秒"
     },
     "medium": {
-        "en": "single-channel digital video (colour, silent), wooden trunk, bronze, paper, clothes and cement",
-        "zh-hant": "單頻道數碼錄像（彩色、無聲）、木箱、紙、銅，衣服及水泥"
+        "en": "wooden trunk lined with paper, clothes, cement, bronze plaque, and single-channel VHS tape transferred to digital video (colour, silent)",
+        "zh-hant": "墊紙木箱、衣服、水泥，銅牌及單頻道VHSl錄影帶轉數碼錄像（彩色，無聲）"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
@@ -180,19 +180,15 @@
         "height": 38,
         "depth": 44.5
     },
-    "concepts": {
-        "title": {
-            "en": "Video Art and New Media Art Movement",
-            "zh-hant": "影像藝術及新媒體藝術運動"
-        },
-        "description": {
-            "en": "Zhang Peili’s groundbreaking 1988 work 30x30 signified the beginning of video art in China. With the increasing accessibility of personal computers and the rise of conceptualism, video art and new media art flourished in the mid-1990s as flexible and innovative mediums that enabled immersive visual and mental experiences, as well as fresh perspectives on the contemporary cultural landscape in China.",
-            "zh-hant": "張培力1988年的作品《30x30》是一個突破，代表着中國影像藝術的開始。 隨著個人電腦日漸普及，加上概念主義的興起，影像藝術和新媒體藝術在1990年代中期蓬勃發展。這種靈活又創新的媒體，為觀眾提供身臨其境的視覺及情感體驗，並為中國當代文化景觀帶來嶄新視角。"
-        },
-        "timeline": "Artist Movements",
-        "beginDate": "1987",
-        "endDate": "2010",
-        "displayDate": "1987–2010",
-        "publicAccess": true
-    }
+    "concepts": [
+        {
+            "title": "Video Art and New Media Art Movement",
+            "description": "Zhang Peili’s groundbreaking 1988 work 30x30 signified the beginning of video art in China. With the increasing accessibility of personal computers and the rise of conceptualism, video art and new media art flourished in the mid-1990s as flexible and innovative mediums that enabled immersive visual and mental experiences, as well as fresh perspectives on the contemporary cultural landscape in China.",
+            "timeline": "Artist Movements",
+            "beginDate": "1987",
+            "endDate": "2010",
+            "displayDate": "1987–2010",
+            "publicAccess": true
+        }
+    ]
 }

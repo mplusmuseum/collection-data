@@ -40,7 +40,7 @@
         "zh-hant": "整體: 87 × 60.7 × 170 厘米"
     },
     "medium": {
-        "en": "Brazilian pau ferro and straw",
+        "en": "Brazilian pau ferro (wood) and straw",
         "zh-hant": "巴西鐵木及禾稈"
     },
     "creditLine": {
@@ -61,20 +61,75 @@
                 "en": "Designer",
                 "zh-hant": "設計師"
             }
-        },
-        {
-            "id": 1033,
-            "role": {
-                "en": "Manufacturer",
-                "zh-hant": "製造商"
-            }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#DFDEDD",
+                "value": 25.5
+            },
+            {
+                "color": "#E9E8E9",
+                "value": 22.7
+            },
+            {
+                "color": "#EAEAEC",
+                "value": 17.7
+            },
+            {
+                "color": "#3F261D",
+                "value": 8.8
+            },
+            {
+                "color": "#714F3C",
+                "value": 5.4
+            },
+            {
+                "color": "#EAEBEC",
+                "value": 5
+            },
+            {
+                "color": "#C6A67E",
+                "value": 4.1
+            },
+            {
+                "color": "#877A77",
+                "value": 3.5
+            },
+            {
+                "color": "#E5E5E4",
+                "value": 2.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 8.8
+                },
+                {
+                    "color": "orange",
+                    "value": 4.1
+                },
+                {
+                    "color": "gray",
+                    "value": 3.5
+                },
+                {
+                    "color": "white",
+                    "value": 73.9
+                },
+                {
+                    "color": "brown",
+                    "value": 5.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

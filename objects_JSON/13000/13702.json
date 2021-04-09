@@ -32,8 +32,8 @@
         }
     },
     "title": {
-        "en": "Fourth floor plan, Asia Terminals Centre (now ATL Logistics Centre) Phase 1 and 2 (circa 1982–circa1992), Kwai Chung, Hong Kong",
-        "zh-hant": "香港葵涌亞洲貨櫃中心（現為亞洲貨櫃物流中心）第一、二期（約1982至約1992年）四樓平面圖"
+        "en": "Fourth floor plan, ATL Container Freight Station (now ATL Logistics Centre) Phase 1 and 2 (1979–1988), Kwai Chung, Hong Kong",
+        "zh-hant": "香港葵涌亞洲貨櫃大廈（現為亞洲貨櫃物流中心）第一、二期（1979至1988年）四樓平面圖"
     },
     "displayDate": {
         "en": "9 November 1982, last amended 30 March 1988, digitised [2000s]",
@@ -62,11 +62,33 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#868686",
+                "value": 92.9
+            },
+            {
+                "color": "#3B3B3B",
+                "value": 6.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 92.9
+                },
+                {
+                    "color": "black",
+                    "value": 6.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

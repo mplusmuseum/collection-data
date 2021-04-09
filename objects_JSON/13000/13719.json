@@ -32,8 +32,8 @@
         }
     },
     "title": {
-        "en": "Copy first floor plan, Asia Terminals Centre (now ATL Logistics Centre) Phase 3, 4 and 5 (circa 1989–1994), Kwai Chung, Hong Kong",
-        "zh-hant": "香港葵涌亞洲貨櫃中心（現為亞洲貨櫃物流中心）第三、四、五期（約1989至1994年）一樓平面圖複本"
+        "en": "Copy first floor plan, ATL Container Freight Station (now ATL Logistics Centre) Phase 3, 4 and 5 (circa 1989–1994), Kwai Chung, Hong Kong",
+        "zh-hant": "香港葵涌亞洲貨櫃大廈（現為亞洲貨櫃物流中心）第三、四、五期（約1989至1994年）一樓平面圖複本"
     },
     "displayDate": {
         "en": "July 1989, last amended 6 June 1994, digitised [2000s]",
@@ -62,11 +62,33 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#F6F6F6",
+                "value": 91.3
+            },
+            {
+                "color": "#888888",
+                "value": 5.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 5.5
+                },
+                {
+                    "color": "white",
+                    "value": 91.3
+                }
+            ]
         }
     },
     "dimensionDetails": {

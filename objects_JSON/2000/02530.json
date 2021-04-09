@@ -40,8 +40,8 @@
         "zh-hant": "整體: 28.5 × 9 × 5 厘米"
     },
     "medium": {
-        "en": "fibergalss and acrylic paint",
-        "zh-hant": "玻璃纖維及塑膠彩"
+        "en": "acrylic on fibreglass",
+        "zh-hant": "塑膠彩及玻璃纖維"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
@@ -56,11 +56,61 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D3CFCF",
+                "value": 58.3
+            },
+            {
+                "color": "#2C2A29",
+                "value": 15.7
+            },
+            {
+                "color": "#D1CFD0",
+                "value": 11.6
+            },
+            {
+                "color": "#8D867C",
+                "value": 3.8
+            },
+            {
+                "color": "#272628",
+                "value": 3.7
+            },
+            {
+                "color": "#421C17",
+                "value": 1.6
+            },
+            {
+                "color": "#202221",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 1.6
+                },
+                {
+                    "color": "gray",
+                    "value": 3.8
+                },
+                {
+                    "color": "white",
+                    "value": 69.9
+                },
+                {
+                    "color": "black",
+                    "value": 20.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

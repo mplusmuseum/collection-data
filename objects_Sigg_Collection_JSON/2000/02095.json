@@ -26,7 +26,7 @@
         }
     },
     "title": {
-        "en": "Death of Marat",
+        "en": "Post-Classical—Death of Marat",
         "zh-hant": "後古典──馬拉之死"
     },
     "displayDate": {
@@ -100,19 +100,24 @@
         "height": 154,
         "depth": 4.8
     },
-    "concepts": {
-        "title": {
-            "en": "Shanghai Abstraction",
-            "zh-hant": "上海抽象"
+    "concepts": [
+        {
+            "title": "Shanghai Abstraction",
+            "description": "Shanghai Abstraction refers to the golden period of the 1980s when artists broke away from figurative art to start experimenting with abstract art. Representative figures include Li Shan, Yu Youhan, Zhang Jianjun, and Ding Yi.",
+            "timeline": "Artist Movements",
+            "beginDate": "1980",
+            "endDate": "2000",
+            "displayDate": "1980–2000",
+            "publicAccess": true
         },
-        "description": {
-            "en": "Shanghai Abstraction refers to the golden period of the 1980s when artists broke away from figurative art to start experimenting with abstract art. Representative figures include Li Shan, Yu Youhan, Zhang Jianjun, and Ding Yi.",
-            "zh-hant": "上海抽象指的是1980年代，藝術家打破具象藝術的界限，開始實驗抽象藝術的黃金時期。當中的代表人物包括李山、余友涵、張健君及丁乙。"
-        },
-        "timeline": "Artist Movements",
-        "beginDate": "1980",
-        "endDate": "2000",
-        "displayDate": "1980–2000",
-        "publicAccess": true
-    }
+        {
+            "title": "Northern Art Collective",
+            "description": "The Northern Art Collective was active in the late 1980s. It was established in 1984 in Harbin, Heilongjiang, by a group of artists including Wang Guangyi, Shu Qun, and Ren Jian. Rather than focusing on formalism and aesthetics— aspects praised by academia at the time—the collective was interested in bringing forward the spiritual notion of the sublime and rationality in their works, which were marked by cold colour tone and abstract compositions.",
+            "timeline": "Artist Groups",
+            "beginDate": "1984",
+            "endDate": "1990",
+            "displayDate": "1984–1990",
+            "publicAccess": true
+        }
+    ]
 }

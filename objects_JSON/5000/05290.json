@@ -35,7 +35,7 @@
     },
     "displayDate": {
         "en": "[1970s–1980s]",
-        "zh-hant": "[1970年代至1980年代]"
+        "zh-hant": "[1970至1980年代]"
     },
     "beginDate": 1970,
     "endDate": 1989,
@@ -67,11 +67,93 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D2D3D7",
+                "value": 36.9
+            },
+            {
+                "color": "#141417",
+                "value": 11.9
+            },
+            {
+                "color": "#BEB298",
+                "value": 9.3
+            },
+            {
+                "color": "#C9CDD0",
+                "value": 8.2
+            },
+            {
+                "color": "#141414",
+                "value": 7.4
+            },
+            {
+                "color": "#C4CC6C",
+                "value": 5.4
+            },
+            {
+                "color": "#9B181E",
+                "value": 5.1
+            },
+            {
+                "color": "#131614",
+                "value": 2.4
+            },
+            {
+                "color": "#B01A21",
+                "value": 2.3
+            },
+            {
+                "color": "#A19274",
+                "value": 1.7
+            },
+            {
+                "color": "#B0A182",
+                "value": 1.5
+            },
+            {
+                "color": "#211210",
+                "value": 1.4
+            },
+            {
+                "color": "#9D927D",
+                "value": 0.9
+            },
+            {
+                "color": "#1B1D10",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 13.4
+                },
+                {
+                    "color": "red",
+                    "value": 7.4
+                },
+                {
+                    "color": "white",
+                    "value": 45.1
+                },
+                {
+                    "color": "black",
+                    "value": 23.7
+                },
+                {
+                    "color": "yellow",
+                    "value": 5.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

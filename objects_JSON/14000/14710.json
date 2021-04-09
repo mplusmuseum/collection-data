@@ -17,7 +17,7 @@
                 "Ephemera"
             ],
             "zh-hant": [
-                "暫時性的媒材"
+                "短期印刷品"
             ]
         },
         "archivalLevel": {
@@ -35,7 +35,7 @@
     },
     "displayDate": {
         "en": "[1950s–1990s]",
-        "zh-hant": "[1950年代至1990年代]"
+        "zh-hant": "[1950至1990年代]"
     },
     "beginDate": 1951,
     "endDate": 1999,
@@ -60,11 +60,33 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#FEFEFE",
+                "value": 91.7
+            },
+            {
+                "color": "#EFF2F0",
+                "value": 2.3
+            },
+            {
+                "color": "#FBFBF8",
+                "value": 1.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 95.8
+                }
+            ]
         }
     },
     "dimensionDetails": null

@@ -17,7 +17,7 @@
                 "Ephemera"
             ],
             "zh-hant": [
-                "暫時性的媒材"
+                "短期印刷品"
             ]
         },
         "archivalLevel": {
@@ -60,55 +60,59 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#D9D2D1",
-                "value": 57.8
+                "color": "#DDDDE0",
+                "value": 69
             },
             {
-                "color": "#C0C1C5",
-                "value": 10.7
+                "color": "#DDDEE0",
+                "value": 9.1
             },
             {
-                "color": "#D8D3D6",
-                "value": 8.4
+                "color": "#88888D",
+                "value": 7.5
             },
             {
-                "color": "#9A958D",
-                "value": 6.6
+                "color": "#D4D3D3",
+                "value": 2.4
             },
             {
-                "color": "#B6B6B0",
-                "value": 6.1
+                "color": "#858889",
+                "value": 2.3
             },
             {
-                "color": "#2E2E34",
-                "value": 2.1
+                "color": "#D3D2D3",
+                "value": 2.3
             },
             {
-                "color": "#7D7D83",
-                "value": 1.9
+                "color": "#353539",
+                "value": 2
             },
             {
-                "color": "#BBBFC2",
-                "value": 1.9
+                "color": "#898786",
+                "value": 1.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 27.1
+                    "value": 11.3
                 },
                 {
                     "color": "white",
-                    "value": 66.2
+                    "value": 82.8
                 },
                 {
                     "color": "black",
-                    "value": 2.1
+                    "value": 2
                 }
             ]
         }

@@ -26,8 +26,8 @@
         }
     },
     "title": {
-        "en": "Board stool, Bird Bud #4",
-        "zh-hant": "木板凳──枝頭雀 #4"
+        "en": "Board Stool 'Bird Bud' #4",
+        "zh-hant": "板凳「Bird Bud」 #4"
     },
     "displayDate": {
         "en": "1981",
@@ -54,13 +54,46 @@
                 "en": "Designer",
                 "zh-hant": "設計師"
             }
+        },
+        {
+            "id": 2857,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E9E8E5",
+                "value": 57.4
+            },
+            {
+                "color": "#E6E6E3",
+                "value": 30.5
+            },
+            {
+                "color": "#E4E5E4",
+                "value": 5.4
+            },
+            {
+                "color": "#E4E5E5",
+                "value": 2.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 95.7
+                }
+            ]
         }
     },
     "dimensionDetails": {

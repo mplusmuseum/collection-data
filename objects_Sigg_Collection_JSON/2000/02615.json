@@ -40,7 +40,7 @@
         "zh-hant": "整體: 168.2 × 114.6 厘米"
     },
     "medium": {
-        "en": "chromogenic colour print",
+        "en": "chromogenic print",
         "zh-hant": "彩色照片"
     },
     "creditLine": {
@@ -91,19 +91,15 @@
         "height": 168.2,
         "depth": null
     },
-    "concepts": {
-        "title": {
-            "en": "Shanghai Young Artist Community",
-            "zh-hant": "上海青年藝術家社群"
-        },
-        "description": {
-            "en": "The Shanghai Young Artist Community refers to young artists working in Shanghai and Hangzhou, particularly artists who participated in BizArt Space and the Supermarket exhibition in 1999. Xu Zhen, Yang Zhenzhong, and Qiu Anxiong were original members of the community. Xu Zhen later founded MadeIn in 2009 to highlight artist practices that address urban culture and subcultures in China in the 21st century.",
-            "zh-hant": "上海青年藝術家社群是指在上海和杭州工作的年輕藝術家，特別是1999年參加「比翼」空間及《超市》展覽的藝術家。徐震、楊振中、邱黯雄是社群的始創成員。2009年，徐震創立了沒頂公司，突出以21世紀中國的都市文化及次文化為題材的藝術家。"
-        },
-        "timeline": "Artist Groups",
-        "beginDate": "1999",
-        "endDate": "2005",
-        "displayDate": "1999–2005",
-        "publicAccess": true
-    }
+    "concepts": [
+        {
+            "title": "Shanghai Young Artist Community",
+            "description": "The Shanghai Young Artist Community refers to young artists working in Shanghai and Hangzhou, particularly artists who participated in BizArt Space and the Supermarket exhibition in 1999. Xu Zhen, Yang Zhenzhong, and Qiu Anxiong were original members of the community. Xu Zhen later founded MadeIn in 2009 to highlight artist practices that address urban culture and subcultures in China in the 21st century.",
+            "timeline": "Artist Groups",
+            "beginDate": "1999",
+            "endDate": "2005",
+            "displayDate": "1999–2005",
+            "publicAccess": true
+        }
+    ]
 }

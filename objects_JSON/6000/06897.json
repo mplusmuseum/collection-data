@@ -40,12 +40,12 @@
     "beginDate": 2015,
     "endDate": 2016,
     "dimension": {
-        "en": "dimensions variable",
-        "zh-hant": "尺寸不一"
+        "en": "dimensions variable; duration (channel 1): 1 min. 36 sec.; duration (channel 2): 4 min. 58 sec.",
+        "zh-hant": "尺寸不一; 影片長度 （頻道一）: 1 分 36 秒; 影片長度 （頻道二）: 4 分 58 秒"
     },
     "medium": {
-        "en": "watercolour, ink, and acrylic on paper; text on plexiglass plates; two single-channel digital videos (colour, sound)",
-        "zh-hant": "水彩、墨水、塑膠彩、塑膠玻璃、錄像、文字"
+        "en": "watercolour, ink and acrylic on paper, Plexiglass plates and two-channel digital video (colour, sound)",
+        "zh-hant": "水彩，墨水及塑膠彩紙本，亞加力膠板及雙頻道數碼錄像（彩色，有聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Brown Family Annual Acquisition Fund, 2016",
@@ -141,5 +141,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "duration",
+        "unit": null,
+        "width": null,
+        "height": null,
+        "depth": null
+    }
 }

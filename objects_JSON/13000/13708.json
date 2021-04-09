@@ -32,8 +32,8 @@
         }
     },
     "title": {
-        "en": "Part plan of staircase and core, Asia Terminals Centre (now ATL Logistics Centre) Phase 1 and 2 (circa 1982–circa1992), Kwai Chung, Hong Kong",
-        "zh-hant": "香港葵涌亞洲貨櫃中心（現為亞洲貨櫃物流中心）第一、二期（約1982至約1992年）樓梯及核心筒局部平面圖"
+        "en": "Part plan of staircase and core, ATL Container Freight Station (now ATL Logistics Centre) Phase 1 and 2 (1979–1988), Kwai Chung, Hong Kong",
+        "zh-hant": "香港葵涌亞洲貨櫃大廈（現為亞洲貨櫃物流中心）第一、二期（1979至1988年）樓梯及核心筒局部平面圖"
     },
     "displayDate": {
         "en": "[21 August 1984], last amended 31 March 1987, digitised [2000s]",
@@ -62,11 +62,33 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#F6F6F6",
+                "value": 81.9
+            },
+            {
+                "color": "#7F7F7F",
+                "value": 14.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 14.7
+                },
+                {
+                    "color": "white",
+                    "value": 81.9
+                }
+            ]
         }
     },
     "dimensionDetails": {

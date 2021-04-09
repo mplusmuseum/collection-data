@@ -43,18 +43,228 @@
     },
     "medium": {
         "en": "cloth and yarn",
-        "zh-hant": "布料及木"
+        "zh-hant": "布料及紗線"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Hallam Chow, 2018",
         "zh-hant": "M+，香港，仇浩然捐贈，2018年"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 2870,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#ECE3DD",
+                "value": 13.5
+            },
+            {
+                "color": "#1F1D21",
+                "value": 13.4
+            },
+            {
+                "color": "#1F1D1C",
+                "value": 6.5
+            },
+            {
+                "color": "#211413",
+                "value": 5.1
+            },
+            {
+                "color": "#E4926A",
+                "value": 3.6
+            },
+            {
+                "color": "#EEEFDA",
+                "value": 3.5
+            },
+            {
+                "color": "#E2BD71",
+                "value": 3.3
+            },
+            {
+                "color": "#EA6120",
+                "value": 3.2
+            },
+            {
+                "color": "#151621",
+                "value": 2.7
+            },
+            {
+                "color": "#E4DC6E",
+                "value": 2.7
+            },
+            {
+                "color": "#DE7879",
+                "value": 2.5
+            },
+            {
+                "color": "#70707B",
+                "value": 2.4
+            },
+            {
+                "color": "#D0D0DC",
+                "value": 2.1
+            },
+            {
+                "color": "#300B04",
+                "value": 1.9
+            },
+            {
+                "color": "#252113",
+                "value": 1.8
+            },
+            {
+                "color": "#C6E1E7",
+                "value": 1.7
+            },
+            {
+                "color": "#D9E16E",
+                "value": 1.7
+            },
+            {
+                "color": "#DD9C1D",
+                "value": 1.6
+            },
+            {
+                "color": "#B3D765",
+                "value": 1.5
+            },
+            {
+                "color": "#857A76",
+                "value": 1.5
+            },
+            {
+                "color": "#CEE3D3",
+                "value": 1.2
+            },
+            {
+                "color": "#864445",
+                "value": 1.2
+            },
+            {
+                "color": "#2A2103",
+                "value": 1.2
+            },
+            {
+                "color": "#86C5DE",
+                "value": 1.1
+            },
+            {
+                "color": "#E7DB1F",
+                "value": 1.1
+            },
+            {
+                "color": "#190F16",
+                "value": 1
+            },
+            {
+                "color": "#232927",
+                "value": 1
+            },
+            {
+                "color": "#E9DFE7",
+                "value": 0.9
+            },
+            {
+                "color": "#130E16",
+                "value": 0.8
+            },
+            {
+                "color": "#875640",
+                "value": 0.8
+            },
+            {
+                "color": "#232815",
+                "value": 0.8
+            },
+            {
+                "color": "#867043",
+                "value": 0.7
+            },
+            {
+                "color": "#7F300D",
+                "value": 0.7
+            },
+            {
+                "color": "#D72F1E",
+                "value": 0.7
+            },
+            {
+                "color": "#192818",
+                "value": 0.6
+            },
+            {
+                "color": "#888241",
+                "value": 0.6
+            },
+            {
+                "color": "#47577A",
+                "value": 0.6
+            },
+            {
+                "color": "#7E170F",
+                "value": 0.6
+            },
+            {
+                "color": "#202903",
+                "value": 0.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 11.7
+                },
+                {
+                    "color": "red",
+                    "value": 7.6
+                },
+                {
+                    "color": "gray",
+                    "value": 3.9
+                },
+                {
+                    "color": "green",
+                    "value": 2.2
+                },
+                {
+                    "color": "white",
+                    "value": 22.9
+                },
+                {
+                    "color": "blue",
+                    "value": 0.6
+                },
+                {
+                    "color": "black",
+                    "value": 32.2
+                },
+                {
+                    "color": "yellow",
+                    "value": 5.5
+                },
+                {
+                    "color": "teal",
+                    "value": 1.1
+                },
+                {
+                    "color": "brown",
+                    "value": 4.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

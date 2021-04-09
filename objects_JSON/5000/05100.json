@@ -36,7 +36,7 @@
     "beginDate": 1975,
     "endDate": 1976,
     "dimension": {
-        "en": "image (Sight): 14 × 20.1 cm",
+        "en": "image (Sight): 14 × 20.1 cm\r\r\nframe: 61 × 71 × 3 cm",
         "zh-hant": "圖像 （目測）: 14 × 20.1 厘米"
     },
     "medium": {
@@ -98,10 +98,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "overall",
+        "element": "image",
         "unit": "cm",
-        "width": 14,
-        "height": 20.5,
+        "width": 20.1,
+        "height": 14,
         "depth": null
     }
 }

@@ -26,22 +26,22 @@
         }
     },
     "title": {
-        "en": "WERK No. 13: Jan De Cock",
+        "en": "WERK No. 13 : JAN DE COCK",
         "zh-hant": "WERK第13期：Jan De Cock"
     },
     "displayDate": {
-        "en": "2006",
+        "en": "Spring/Summer 2006",
         "zh-hant": "2006"
     },
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
-        "en": "overall (closed): 1.4 × 22.2 × 29.7 cm",
+        "en": "overall (closed): 1.7 × 22.2 × 29.4 cm",
         "zh-hant": "整體 （合上）: 1.4 × 22.2 × 29.7 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -51,8 +51,8 @@
         {
             "id": 846,
             "role": {
-                "en": "Design Firm",
-                "zh-hant": "設計師事務所"
+                "en": "Publisher",
+                "zh-hant": "出版社"
             }
         },
         {
@@ -60,6 +60,13 @@
             "role": {
                 "en": "Designer",
                 "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
@@ -128,7 +135,7 @@
         "element": "overall",
         "unit": "cm",
         "width": 22.2,
-        "height": 1.4,
-        "depth": 29.7
+        "height": 1.7,
+        "depth": 29.4
     }
 }

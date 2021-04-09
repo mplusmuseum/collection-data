@@ -58,7 +58,7 @@
     ],
     "images": [
         {
-            "altText": "Oil painting on paper, rendered in quick brushstrokes, depicting an off-white apartment building with a muted green park in the distance from the point of view of another building’s balcony."
+            "altText": "Oil painting on paper, rendered in quick brushstrokes, depicting a landscape scene apparently painted from a spot inside a room of an apartment building. The facade of the adjacent western wing of Fusuijing Building can be seen beyond the silhouetted door frame and balcony, with the hipped roof of the old house and tree below the window."
         }
     ],
     "color": {
@@ -124,19 +124,15 @@
         "height": 48,
         "depth": 3
     },
-    "concepts": {
-        "title": {
-            "en": "No Name Group",
-            "zh-hant": "無名畫會"
-        },
-        "description": {
-            "en": "No Name Group formed in the early 1970s in Beijing. It was the first unofficial artist group in China since 1949. The collective, known for their landscape paintings devoid of people, consisted of amateur artists who secretly participated in outdoor sketching activities during the Cultural Revolution. Major members include Zhang Wei, Ma Kelu, Wang Aihe, and Zheng Zigang.",
-            "zh-hant": "「無名畫會」在70年代初於北京成立，是自1949年新中國成立以來首個非官方藝術團體。畫會由多位業餘藝術家組成，作品以無人風景畫為主。在文化大革命期間，他們私下進行戶外寫生活動。主要成員包括楊雨澍、趙文量、張偉、馬可魯、王愛和、鄭子綱、石振宇等。"
-        },
-        "timeline": "Artist Groups",
-        "beginDate": "1974",
-        "endDate": "1979",
-        "displayDate": "1974–1979",
-        "publicAccess": true
-    }
+    "concepts": [
+        {
+            "title": "No Name Group",
+            "description": "No Name Group formed in the early 1970s in Beijing. It was the first unofficial artist group in China since 1949. The collective, known for their landscape paintings devoid of people, consisted of amateur artists who secretly participated in outdoor sketching activities during the Cultural Revolution. Major members include Zhang Wei, Ma Kelu, Wang Aihe, and Zheng Zigang.",
+            "timeline": "Artist Groups",
+            "beginDate": "1974",
+            "endDate": "1979",
+            "displayDate": "1974–1979",
+            "publicAccess": true
+        }
+    ]
 }

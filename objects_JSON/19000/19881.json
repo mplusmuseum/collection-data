@@ -26,8 +26,8 @@
         }
     },
     "title": {
-        "en": "Untitled (Infinity Wall)",
-        "zh-hant": "無題（無限的牆）"
+        "en": "Untitled (Infinity Partition)",
+        "zh-hant": "無題（無限分割）"
     },
     "displayDate": {
         "en": "2008",
@@ -36,7 +36,7 @@
     "beginDate": 2008,
     "endDate": 2008,
     "dimension": {
-        "en": "overall: 220 × 119.5 × 19.5 cm",
+        "en": "overall: 221 × 119.8 × 19.8 cm",
         "zh-hant": "整體: 220 × 119.5 × 19.5 厘米"
     },
     "medium": {
@@ -56,18 +56,136 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D9E1E6",
+                "value": 17.2
+            },
+            {
+                "color": "#C7D1DF",
+                "value": 14.5
+            },
+            {
+                "color": "#322F38",
+                "value": 12.4
+            },
+            {
+                "color": "#222634",
+                "value": 10.4
+            },
+            {
+                "color": "#312C2A",
+                "value": 4.7
+            },
+            {
+                "color": "#291D1D",
+                "value": 4.3
+            },
+            {
+                "color": "#6A6D79",
+                "value": 3.9
+            },
+            {
+                "color": "#7B6E6A",
+                "value": 3.6
+            },
+            {
+                "color": "#667276",
+                "value": 2.9
+            },
+            {
+                "color": "#333939",
+                "value": 2.8
+            },
+            {
+                "color": "#8FA3CE",
+                "value": 2.8
+            },
+            {
+                "color": "#707C73",
+                "value": 2.4
+            },
+            {
+                "color": "#E1D4CC",
+                "value": 2.2
+            },
+            {
+                "color": "#212D34",
+                "value": 1.9
+            },
+            {
+                "color": "#7E8072",
+                "value": 1.8
+            },
+            {
+                "color": "#362D1D",
+                "value": 1.5
+            },
+            {
+                "color": "#756440",
+                "value": 1.3
+            },
+            {
+                "color": "#765E51",
+                "value": 1.2
+            },
+            {
+                "color": "#434C62",
+                "value": 1.2
+            },
+            {
+                "color": "#CACCB8",
+                "value": 1
+            },
+            {
+                "color": "#E0C47A",
+                "value": 1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 1
+                },
+                {
+                    "color": "gray",
+                    "value": 15.6
+                },
+                {
+                    "color": "white",
+                    "value": 33.9
+                },
+                {
+                    "color": "blue",
+                    "value": 1.2
+                },
+                {
+                    "color": "black",
+                    "value": 38.1
+                },
+                {
+                    "color": "teal",
+                    "value": 2.8
+                },
+                {
+                    "color": "brown",
+                    "value": 2.6
+                }
+            ]
         }
     },
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 119.5,
-        "height": 220,
-        "depth": 19.5
+        "width": 119.8,
+        "height": 221,
+        "depth": 19.8
     }
 }

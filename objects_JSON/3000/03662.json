@@ -31,7 +31,7 @@
     },
     "displayDate": {
         "en": "photographed 1948, printed circa 1962",
-        "zh-hant": "1949年拍攝，約1962年代印刷"
+        "zh-hant": "1948年拍攝，約1962年印刷"
     },
     "beginDate": 1948,
     "endDate": 1964,
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 904,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": null,

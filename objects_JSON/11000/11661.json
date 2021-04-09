@@ -31,7 +31,7 @@
     },
     "displayDate": {
         "en": "designed 1967, reproduced 2018",
-        "zh-hant": "1967年製造，2018年重製"
+        "zh-hant": "1967年設計，2018年重製"
     },
     "beginDate": 1967,
     "endDate": 2018,
@@ -40,7 +40,7 @@
         "zh-hant": "整體: 43 × 120.2 × 135.7 厘米"
     },
     "medium": {
-        "en": "plastics, various, metal, foam, on wooden base, Formica veneer",
+        "en": "plastics, metal, foam, on wooden base, Formica veneer",
         "zh-hant": "塑膠、鋁、玻璃"
     },
     "creditLine": {
@@ -70,11 +70,81 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D0D4DD",
+                "value": 35.3
+            },
+            {
+                "color": "#D1D6D3",
+                "value": 18.1
+            },
+            {
+                "color": "#D9DEDF",
+                "value": 10.1
+            },
+            {
+                "color": "#51743E",
+                "value": 9.9
+            },
+            {
+                "color": "#808780",
+                "value": 4.3
+            },
+            {
+                "color": "#7C7F72",
+                "value": 3.8
+            },
+            {
+                "color": "#49484A",
+                "value": 3.5
+            },
+            {
+                "color": "#5B5B5E",
+                "value": 3.1
+            },
+            {
+                "color": "#393734",
+                "value": 2.4
+            },
+            {
+                "color": "#2F221D",
+                "value": 2.3
+            },
+            {
+                "color": "#737B7E",
+                "value": 1.7
+            },
+            {
+                "color": "#C4C7BE",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 14.2
+                },
+                {
+                    "color": "green",
+                    "value": 9.9
+                },
+                {
+                    "color": "white",
+                    "value": 63.5
+                },
+                {
+                    "color": "black",
+                    "value": 8.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -48,11 +48,69 @@
         "zh-hant": "M+，香港"
     },
     "constituents": [],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#FBFBFB",
+                "value": 73.7
+            },
+            {
+                "color": "#F4F4F1",
+                "value": 4.7
+            },
+            {
+                "color": "#815D43",
+                "value": 4.7
+            },
+            {
+                "color": "#262524",
+                "value": 3.2
+            },
+            {
+                "color": "#817D7A",
+                "value": 3
+            },
+            {
+                "color": "#262427",
+                "value": 2.3
+            },
+            {
+                "color": "#EBE9EA",
+                "value": 1.5
+            },
+            {
+                "color": "#FAFDFD",
+                "value": 1.2
+            },
+            {
+                "color": "#33231A",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 3
+                },
+                {
+                    "color": "white",
+                    "value": 81
+                },
+                {
+                    "color": "black",
+                    "value": 6.4
+                },
+                {
+                    "color": "brown",
+                    "value": 4.7
+                }
+            ]
         }
     },
     "dimensionDetails": {

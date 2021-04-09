@@ -32,8 +32,8 @@
         }
     },
     "title": {
-        "en": "Interior photograph, showing a vehicle on the gentle sloped ramp, Asia Terminals Centre (now ATL Logistics Centre) (circa 1982–1994), Kwai Chung, Hong Kong",
-        "zh-hant": "香港葵涌亞洲貨櫃中心（現為亞洲貨櫃物流中心）（約1982至1994年）內部照片，顯示車輛行駛於斜坡道上"
+        "en": "Interior photograph, showing a vehicle on the gentle sloped ramp, ATL Container Freight Station (now ATL Logistics Centre) (1979–1994), Kwai Chung, Hong Kong",
+        "zh-hant": "香港葵涌亞洲貨櫃大廈（現為亞洲貨櫃物流中心）（1979至1994年）內部照片，顯示車輛行駛於斜坡道上"
     },
     "displayDate": {
         "en": "[circa 1992–2000s]",
@@ -62,11 +62,121 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#0A0F09",
+                "value": 22
+            },
+            {
+                "color": "#030605",
+                "value": 19.2
+            },
+            {
+                "color": "#191C10",
+                "value": 12.9
+            },
+            {
+                "color": "#211E10",
+                "value": 8.1
+            },
+            {
+                "color": "#000303",
+                "value": 5.9
+            },
+            {
+                "color": "#000203",
+                "value": 3.3
+            },
+            {
+                "color": "#040607",
+                "value": 3.3
+            },
+            {
+                "color": "#C9CCB0",
+                "value": 3.1
+            },
+            {
+                "color": "#161A16",
+                "value": 2.9
+            },
+            {
+                "color": "#161612",
+                "value": 2.4
+            },
+            {
+                "color": "#7D826A",
+                "value": 1.8
+            },
+            {
+                "color": "#000103",
+                "value": 1.8
+            },
+            {
+                "color": "#6E806C",
+                "value": 1.6
+            },
+            {
+                "color": "#030306",
+                "value": 1.5
+            },
+            {
+                "color": "#1C110D",
+                "value": 1
+            },
+            {
+                "color": "#66734D",
+                "value": 1
+            },
+            {
+                "color": "#796946",
+                "value": 1
+            },
+            {
+                "color": "#D0C4AB",
+                "value": 0.8
+            },
+            {
+                "color": "#726E47",
+                "value": 0.6
+            },
+            {
+                "color": "#AFC1AB",
+                "value": 0.6
+            },
+            {
+                "color": "#6E7249",
+                "value": 0.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 0.8
+                },
+                {
+                    "color": "green",
+                    "value": 5.1
+                },
+                {
+                    "color": "black",
+                    "value": 84.3
+                },
+                {
+                    "color": "yellow",
+                    "value": 3.1
+                },
+                {
+                    "color": "brown",
+                    "value": 2.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

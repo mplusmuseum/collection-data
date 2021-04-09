@@ -35,7 +35,7 @@
     },
     "displayDate": {
         "en": "1964",
-        "zh-hant": "1964年"
+        "zh-hant": "1964"
     },
     "beginDate": 1964,
     "endDate": 1964,
@@ -60,11 +60,53 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#FFFFFE",
+                "value": 37.3
+            },
+            {
+                "color": "#2F406E",
+                "value": 20.5
+            },
+            {
+                "color": "#0C1643",
+                "value": 12.6
+            },
+            {
+                "color": "#CBD0DB",
+                "value": 11.7
+            },
+            {
+                "color": "#152049",
+                "value": 9.3
+            },
+            {
+                "color": "#12275E",
+                "value": 2.4
+            },
+            {
+                "color": "#FFFFFD",
+                "value": 2.3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 51.4
+                },
+                {
+                    "color": "blue",
+                    "value": 44.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

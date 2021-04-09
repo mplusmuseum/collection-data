@@ -28,8 +28,8 @@
         }
     },
     "title": {
-        "en": "hong kong building 03 / redwhiteblue",
-        "zh-hant": "香港建築 03 / 紅白藍"
+        "en": "building hong kong 03 / redwhiteblue",
+        "zh-hant": "香港建築 03／紅白藍"
     },
     "displayDate": {
         "en": "2002",
@@ -38,12 +38,12 @@
     "beginDate": 2002,
     "endDate": 2002,
     "dimension": {
-        "en": "dimensions variable",
-        "zh-hant": "尺寸不一"
+        "en": "sheet (each, approx.): 119 × 89 cm",
+        "zh-hant": "各(一組五張)：119.6 x 88.8 厘米"
     },
     "medium": {
-        "en": "screen print on red-white-blue nylon canvas",
-        "zh-hant": "絲網印刷尼龍布本（紅白藍帆布）"
+        "en": "screen print on plastic woven fabric",
+        "zh-hant": "絲網印刷塑膠織布"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2017",
@@ -146,5 +146,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 89,
+        "height": 119,
+        "depth": null
+    }
 }

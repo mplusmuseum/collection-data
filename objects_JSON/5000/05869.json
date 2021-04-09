@@ -44,7 +44,7 @@
         "zh-hant": "影片長度: 14:20 分 \r\r\n圖像 (各): 20 × 30 厘米"
     },
     "medium": {
-        "en": "single-channel high-definition digital video projection (colour, sound) and inkjet prints",
+        "en": "single-channel HD digital video projection (colour, sound) and inkjet prints",
         "zh-hant": "單頻道高清數碼錄像投影（彩色，有聲）及噴墨印刷"
     },
     "creditLine": {
@@ -60,11 +60,81 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#223138",
+                "value": 41.4
+            },
+            {
+                "color": "#2D3437",
+                "value": 15.6
+            },
+            {
+                "color": "#6E7179",
+                "value": 13.7
+            },
+            {
+                "color": "#373A40",
+                "value": 10.6
+            },
+            {
+                "color": "#191817",
+                "value": 3.4
+            },
+            {
+                "color": "#ACB0BC",
+                "value": 2.2
+            },
+            {
+                "color": "#172726",
+                "value": 1.8
+            },
+            {
+                "color": "#1F2C3C",
+                "value": 1.8
+            },
+            {
+                "color": "#457D69",
+                "value": 1.7
+            },
+            {
+                "color": "#3E6074",
+                "value": 1.4
+            },
+            {
+                "color": "#365072",
+                "value": 1.2
+            },
+            {
+                "color": "#52585C",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 16.8
+                },
+                {
+                    "color": "blue",
+                    "value": 1.2
+                },
+                {
+                    "color": "black",
+                    "value": 74.7
+                },
+                {
+                    "color": "teal",
+                    "value": 3.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -26,7 +26,7 @@
         }
     },
     "title": {
-        "en": "WERK No. X: Meetings",
+        "en": "WERK No. X : Meetings Autumn/Winter 2004-05 In collaboration with colette. GUERRILLAZINE Autumn/Winter 2004-05",
         "zh-hant": "WERK第X期：會議"
     },
     "displayDate": {
@@ -36,12 +36,12 @@
     "beginDate": 2004,
     "endDate": 2005,
     "dimension": {
-        "en": "overall (closed): 2 × 22 × 39.8 cm",
+        "en": "overall (closed): 2 × 22.1 × 29.7 cm\r\r\noverall (closed): 0.5 × 22 × 29.7 cm",
         "zh-hant": "整體 （合上）: 2 × 22 × 39.8 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -51,8 +51,15 @@
         {
             "id": 846,
             "role": {
-                "en": "Design Firm",
-                "zh-hant": "設計師事務所"
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        },
+        {
+            "id": 1302,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "設計師"
             }
         },
         {
@@ -65,8 +72,15 @@
         {
             "id": 3033,
             "role": {
-                "en": "Design Firm",
-                "zh-hant": "設計師事務所"
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
@@ -134,8 +148,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 22,
+        "width": 22.1,
         "height": 2,
-        "depth": 39.8
+        "depth": 29.7
     }
 }

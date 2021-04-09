@@ -36,8 +36,8 @@
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
-        "en": "image: 50.8 × 76.2 cm",
-        "zh-hant": "image: 50.8 × 76.2 cm"
+        "en": "sheet: 61 × 86.3 cm\r\r\nimage: 50.8 × 76.2 cm",
+        "zh-hant": "紙本: 61 × 86.3 厘米\r\r\n圖像: 50.8 × 76.2 厘米"
     },
     "medium": {
         "en": "pigment print",
@@ -166,10 +166,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "image",
+        "element": "sheet",
         "unit": "cm",
-        "width": 76.2,
-        "height": 50.8,
+        "width": 86.3,
+        "height": 61,
         "depth": null
     }
 }

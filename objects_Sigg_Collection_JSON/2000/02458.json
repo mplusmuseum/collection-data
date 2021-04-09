@@ -132,19 +132,15 @@
         "height": 145.8,
         "depth": null
     },
-    "concepts": {
-        "title": {
-            "en": "Political Pop",
-            "zh-hant": "政治波普"
-        },
-        "description": {
-            "en": "Political Pop was a movement in the 1980s and 1990s in Beijing and Shanghai wherein artists applied socialist realism style to western pop art images to question the social and political values of rapidly-transforming China. Major members include Li Shan, Yu Youhan, and Wang Guangyi.",
-            "zh-hant": "「政治波普」由藝評人栗憲庭提出，指80年代末至90年代初於北京、上海和武漢展開的藝術運動。藝術家將社會主義符號與西方波普藝術圖像並置，藉此質疑中國在急速發展下的社會和政治價值觀。主要藝術家有李山、余友涵與王廣義等人。"
-        },
-        "timeline": "Artist Movements",
-        "beginDate": "1988",
-        "endDate": "1999",
-        "displayDate": "1988–1999",
-        "publicAccess": true
-    }
+    "concepts": [
+        {
+            "title": "Political Pop",
+            "description": "Political Pop was a movement in the 1980s and 1990s in Beijing and Shanghai wherein artists applied socialist realism style to western pop art images to question the social and political values of rapidly-transforming China. Major members include Li Shan, Yu Youhan, and Wang Guangyi.",
+            "timeline": "Artist Movements",
+            "beginDate": "1988",
+            "endDate": "1999",
+            "displayDate": "1988–1999",
+            "publicAccess": true
+        }
+    ]
 }

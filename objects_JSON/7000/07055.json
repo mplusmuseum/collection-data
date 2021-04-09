@@ -31,7 +31,7 @@
     },
     "displayDate": {
         "en": "circa 1984, made 1984–1990s",
-        "zh-hant": "約1984年，1984至1990年代製造"
+        "zh-hant": "約1984年，1984年至1990年代製造"
     },
     "beginDate": 1982,
     "endDate": 1999,
@@ -56,11 +56,65 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#868A8D",
+                "value": 31.3
+            },
+            {
+                "color": "#86898D",
+                "value": 22
+            },
+            {
+                "color": "#B4B7BA",
+                "value": 15.4
+            },
+            {
+                "color": "#D5D8D5",
+                "value": 14.3
+            },
+            {
+                "color": "#868A86",
+                "value": 3
+            },
+            {
+                "color": "#343331",
+                "value": 3
+            },
+            {
+                "color": "#AEB0B4",
+                "value": 2.8
+            },
+            {
+                "color": "#383939",
+                "value": 2.1
+            },
+            {
+                "color": "#343436",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 74.7
+                },
+                {
+                    "color": "white",
+                    "value": 14.3
+                },
+                {
+                    "color": "black",
+                    "value": 6.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

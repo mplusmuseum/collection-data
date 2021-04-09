@@ -35,7 +35,7 @@
     },
     "displayDate": {
         "en": "1968",
-        "zh-hant": "1968年"
+        "zh-hant": "1968"
     },
     "beginDate": 1968,
     "endDate": 1968,
@@ -60,11 +60,41 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#F1F1F1",
+                "value": 68.7
+            },
+            {
+                "color": "#2C2C2C",
+                "value": 19.8
+            },
+            {
+                "color": "#7F7F7F",
+                "value": 11.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 11.6
+                },
+                {
+                    "color": "white",
+                    "value": 68.7
+                },
+                {
+                    "color": "black",
+                    "value": 19.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

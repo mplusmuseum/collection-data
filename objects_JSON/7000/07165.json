@@ -30,8 +30,8 @@
         }
     },
     "title": {
-        "en": "Xiangqian Art Museum",
-        "zh-hant": "向前美術館"
+        "en": "Xiangqian Art Museum I",
+        "zh-hant": "向前美術館 I"
     },
     "displayDate": {
         "en": "2010",
@@ -60,11 +60,77 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#673D30",
+                "value": 43.1
+            },
+            {
+                "color": "#2C3819",
+                "value": 18.7
+            },
+            {
+                "color": "#492920",
+                "value": 16.5
+            },
+            {
+                "color": "#653730",
+                "value": 5.8
+            },
+            {
+                "color": "#172406",
+                "value": 4.1
+            },
+            {
+                "color": "#C0BFD6",
+                "value": 1.8
+            },
+            {
+                "color": "#321409",
+                "value": 1.7
+            },
+            {
+                "color": "#212E15",
+                "value": 1.6
+            },
+            {
+                "color": "#28251A",
+                "value": 1.3
+            },
+            {
+                "color": "#11100E",
+                "value": 1.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 67.1
+                },
+                {
+                    "color": "green",
+                    "value": 1.6
+                },
+                {
+                    "color": "black",
+                    "value": 2.4
+                },
+                {
+                    "color": "purple",
+                    "value": 1.8
+                },
+                {
+                    "color": "brown",
+                    "value": 22.9
+                }
+            ]
         }
     },
     "dimensionDetails": {

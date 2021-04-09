@@ -29,7 +29,7 @@
     },
     "title": {
         "en": "Ice Wall",
-        "zh-hant": "冰墻"
+        "zh-hant": "冰牆"
     },
     "displayDate": {
         "en": "1996–2004",
@@ -141,19 +141,15 @@
         "height": 184,
         "depth": 1.3
     },
-    "concepts": {
-        "title": {
-            "en": "New Photography",
-            "zh-hant": "新攝影"
-        },
-        "description": {
-            "en": "New Photography emerged in the mid-1990s and became an alternative way for emerging artists to produce photographic works that embraced new technologies and conceptual art. Since then, New Photography has become an accepted and flourishing part of Chinese contemporary art.",
-            "zh-hant": "新攝影在九十年代中期出現，成為新興藝術家將新科技及概念藝術融合的另類攝影創作之途。自此，新攝影就成為中國當代藝術中廣為人所接受和蓬勃發展的一部分。"
-        },
-        "timeline": "Artist Movements",
-        "beginDate": "1994",
-        "endDate": "2010",
-        "displayDate": "1994–2010",
-        "publicAccess": true
-    }
+    "concepts": [
+        {
+            "title": "New Photography",
+            "description": "New Photography emerged in the mid-1990s and became an alternative way for emerging artists to produce photographic works that embraced new technologies and conceptual art. Since then, New Photography has become an accepted and flourishing part of Chinese contemporary art.",
+            "timeline": "Artist Movements",
+            "beginDate": "1994",
+            "endDate": "2010",
+            "displayDate": "1994–2010",
+            "publicAccess": true
+        }
+    ]
 }

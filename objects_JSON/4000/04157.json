@@ -42,7 +42,7 @@
         "zh-hant": "影片長度: 4 分 59 秒"
     },
     "medium": {
-        "en": "single-channel high-definition digital video (black and white, silent)",
+        "en": "single-channel HD digital video (black and white, silent)",
         "zh-hant": "單頻道高清數碼錄像（黑白，無聲）"
     },
     "creditLine": {
@@ -61,32 +61,43 @@
     "images": [
         {
             "altText": "Video still showing a long piece of rope lying across a body of water, viewed from above."
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#3E3F38",
-                "value": 91.3
+                "color": "#5A6365",
+                "value": 55.8
             },
             {
-                "color": "#666461",
-                "value": 3.6
+                "color": "#3F4B4A",
+                "value": 31.5
             },
             {
-                "color": "#5D5E58",
-                "value": 3.3
+                "color": "#646B68",
+                "value": 5
+            },
+            {
+                "color": "#293934",
+                "value": 2.1
+            },
+            {
+                "color": "#83847F",
+                "value": 1.4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 6.9
+                    "value": 62.1
                 },
                 {
                     "color": "black",
-                    "value": 91.3
+                    "value": 33.7
                 }
             ]
         }

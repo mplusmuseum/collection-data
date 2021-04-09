@@ -26,22 +26,22 @@
         }
     },
     "title": {
-        "en": "WERK No. 6: Darkness",
+        "en": "WERK No. 6 : DARKNESS",
         "zh-hant": "WERK第6期：黑暗"
     },
     "displayDate": {
-        "en": "2002–2003",
-        "zh-hant": "2002–2003"
+        "en": "Autumn 2002/Winter 2003",
+        "zh-hant": "Autumn 2002/Winter 2003"
     },
     "beginDate": 2002,
     "endDate": 2003,
     "dimension": {
-        "en": "overall: 0.6 × 22.1 × 29.9 cm",
+        "en": "overall (closed): 0.8 × 22.3 × 29.8 cm",
         "zh-hant": "整體: 0.6 × 22.1 × 29.9 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -51,15 +51,29 @@
         {
             "id": 846,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Publisher",
+                "zh-hant": "出版社"
             }
         },
         {
             "id": 1302,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Editor",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 1302,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
@@ -119,8 +133,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 22.1,
-        "height": 0.6,
-        "depth": 29.9
+        "width": 22.3,
+        "height": 0.8,
+        "depth": 29.8
     }
 }

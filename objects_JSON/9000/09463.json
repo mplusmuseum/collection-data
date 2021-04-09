@@ -38,7 +38,7 @@
     "beginDate": 1930,
     "endDate": 1930,
     "dimension": {
-        "en": "image (sight): 39.5 × 28.8 cm",
+        "en": "sheet: 39.9 × 29.1 cm",
         "zh-hant": "圖像 （目測）: 39.5 × 28.8 厘米"
     },
     "medium": {
@@ -58,11 +58,7 @@
             }
         }
     ],
-    "images": [
-        {
-            "altText": null
-        }
-    ],
+    "images": [],
     "color": {
         "predominant": [
             {
@@ -104,10 +100,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "image",
+        "element": "sheet",
         "unit": "cm",
-        "width": 28.8,
-        "height": 39.5,
+        "width": 29.1,
+        "height": 39.9,
         "depth": null
     }
 }

@@ -28,8 +28,8 @@
         }
     },
     "title": {
-        "en": "Floor Event No.1 (set B)",
-        "zh-hant": "樓層活動一（B組）"
+        "en": "Floor Event No.1",
+        "zh-hant": "樓層活動一號"
     },
     "displayDate": {
         "en": "1970",
@@ -49,7 +49,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2834,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

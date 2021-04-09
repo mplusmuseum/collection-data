@@ -26,22 +26,22 @@
         }
     },
     "title": {
-        "en": "WERK No. 11/GUERRILLAZINE No.2: Bastardized",
+        "en": "WERK No. 11 : Bastardized : GUERRILLAZINE",
         "zh-hant": "WERK第11期 ／ GUERRILLAZINE第2期：混雜化"
     },
     "displayDate": {
-        "en": "2005",
+        "en": "Spring/Summer 2005",
         "zh-hant": "2005"
     },
     "beginDate": 2005,
     "endDate": 2005,
     "dimension": {
-        "en": "overall (closed): 1.4 × 22.8 × 31.7 cm",
+        "en": "overall (closed): 1.2 × 22.9 × 32.1 cm",
         "zh-hant": "整體 （合上）: 1.4 × 22.8 × 31.7 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -51,15 +51,29 @@
         {
             "id": 846,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Publisher",
+                "zh-hant": "出版社"
             }
         },
         {
             "id": 1302,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Editor",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 1302,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
@@ -169,8 +183,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 22.8,
-        "height": 1.4,
-        "depth": 31.7
+        "width": 22.9,
+        "height": 1.2,
+        "depth": 32.1
     }
 }

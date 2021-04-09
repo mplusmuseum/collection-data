@@ -40,8 +40,8 @@
         "zh-hant": "整體 （合上）: 28.5 × 22 × 1.3 厘米  \r\r\n整體 （打開）: 28.5  × 43 × 1.2厘米"
     },
     "medium": {
-        "en": "print on paper and rectified readymades on front and back cover",
-        "zh-hant": "封面：經改裝的現成物、蝕刻印刷本，封底：紙張、細鐵絲網"
+        "en": "print on paper and chicken wire",
+        "zh-hant": "印刷紙本及細鐵絲網"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -49,10 +49,17 @@
     },
     "constituents": [
         {
+            "id": 4347,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
             "id": 2827,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
             }
         }
     ],

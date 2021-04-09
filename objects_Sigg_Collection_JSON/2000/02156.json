@@ -40,7 +40,7 @@
         "zh-hant": "尺寸不一"
     },
     "medium": {
-        "en": "red carpet, chair upholstered in meat, and painting in a gilded frame",
+        "en": "red carpet, upholstered chair, meat, and gilded frame",
         "zh-hant": "混合媒材"
     },
     "creditLine": {
@@ -56,11 +56,73 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E7DAC9",
+                "value": 35.8
+            },
+            {
+                "color": "#CC0106",
+                "value": 27.5
+            },
+            {
+                "color": "#000000",
+                "value": 9
+            },
+            {
+                "color": "#860000",
+                "value": 8.7
+            },
+            {
+                "color": "#A0BFA3",
+                "value": 6
+            },
+            {
+                "color": "#2C0000",
+                "value": 3.8
+            },
+            {
+                "color": "#C9CBB2",
+                "value": 3.2
+            },
+            {
+                "color": "#CCB286",
+                "value": 2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 40
+                },
+                {
+                    "color": "orange",
+                    "value": 2
+                },
+                {
+                    "color": "green",
+                    "value": 6
+                },
+                {
+                    "color": "white",
+                    "value": 35.8
+                },
+                {
+                    "color": "black",
+                    "value": 9
+                },
+                {
+                    "color": "yellow",
+                    "value": 3.2
+                }
+            ]
         }
     },
     "dimensionDetails": null,

@@ -30,24 +30,39 @@
         "zh-hant": "台灣台北建國南路王大閎住宅（1953年）模型"
     },
     "displayDate": {
-        "en": "circa 1950/ circa 2006",
-        "zh-hant": "約1953年製造，約2006年重製"
+        "en": "2006",
+        "zh-hant": "2006"
     },
-    "beginDate": 1948,
-    "endDate": 1952,
+    "beginDate": 2006,
+    "endDate": 2006,
     "dimension": {
         "en": "overall: 34 × 91 × 91 cm",
         "zh-hant": "整體: 34 × 91 × 91 厘米"
     },
     "medium": {
-        "en": "acrylic and fibre-reinforced plastic",
-        "zh-hant": "亞加力、 纖維強化塑膠"
+        "en": "acrylic and FRP (plastic)",
+        "zh-hant": "亞加力及纖維強化塑膠"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 813,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 865,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

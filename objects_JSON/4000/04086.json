@@ -26,22 +26,22 @@
         }
     },
     "title": {
-        "en": "WERK No. 1: How To Be Sexy Without Showing Everything",
+        "en": "WERK Issue One : How To Be Sexy Without Showing Everything",
         "zh-hant": "WERK第1期：如何性感而不暴露"
     },
     "displayDate": {
-        "en": "2000",
+        "en": "Summer 2000",
         "zh-hant": "2000"
     },
     "beginDate": 2000,
     "endDate": 2000,
     "dimension": {
-        "en": "overall (closed): 0.3 × 29.7 × 45.3 cm\r\r\noverall (open): 1.7 × 58.4 × 45.3 cm",
+        "en": "overall (closed): 0.3 × 30.6 × 23.3 cm",
         "zh-hant": "整體 （合上）: 0.3 × 29.7 × 45.3 厘米\r\n整體 （打開）: 1.7 × 58.4 × 45.3 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -51,15 +51,29 @@
         {
             "id": 846,
             "role": {
-                "en": "Design Firm",
-                "zh-hant": "設計師事務所"
+                "en": "Publisher",
+                "zh-hant": "出版社"
             }
         },
         {
             "id": 1302,
             "role": {
-                "en": "Designer",
-                "zh-hant": "設計師"
+                "en": "Editor",
+                "zh-hant": "創意總監"
+            }
+        },
+        {
+            "id": 1302,
+            "role": {
+                "en": "Creative Director",
+                "zh-hant": "創意總監"
+            }
+        },
+        {
+            "id": 5390,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
@@ -159,8 +173,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 29.7,
+        "width": 23.3,
         "height": 0.3,
-        "depth": 45.3
+        "depth": 30.6
     }
 }

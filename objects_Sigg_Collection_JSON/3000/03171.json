@@ -40,7 +40,7 @@
         "zh-hant": "紙本: 126.5 × 187 厘米\r\r\n圖像: 125 × 185 厘米"
     },
     "medium": {
-        "en": "chromogenic colour print",
+        "en": "chromogenic print",
         "zh-hant": "彩色照片"
     },
     "creditLine": {
@@ -164,19 +164,15 @@
         "height": 126.5,
         "depth": null
     },
-    "concepts": {
-        "title": {
-            "en": "Big Tail Elephant Group",
-            "zh-hant": "大尾象工作組"
-        },
-        "description": {
-            "en": "The Big Tail Elephant Group was one of the first contemporary art collectives in the Pearl Delta River region, formed in the early 1990s by Lin Yilin, Chen Shaoxiong, and Liang Juhui in Guangzhou. Working primarily in performance art and installations, the group explored social issues emanating from the rapid urbanisation and economic transformation in China.",
-            "zh-hant": "「大尾象工作組」在1991年由林一林、陳劭雄及梁鉅輝於廣州創立，徐坦和胡志穎於次年加入，屬於珠江三角洲地區早期當代藝術團體之一。他們以行為及裝置藝術為主要創作媒介，深入探討中國城市的急速發展和經濟改革所引發的社會現象。"
-        },
-        "timeline": "Artist Groups",
-        "beginDate": "1990",
-        "endDate": "1998",
-        "displayDate": "late 1990–1998",
-        "publicAccess": true
-    }
+    "concepts": [
+        {
+            "title": "Big Tail Elephant Group",
+            "description": "The Big Tail Elephant Group was one of the first contemporary art collectives in the Pearl Delta River region, formed in the early 1990s by Lin Yilin, Chen Shaoxiong, and Liang Juhui in Guangzhou. Working primarily in performance art and installations, the group explored social issues emanating from the rapid urbanisation and economic transformation in China.",
+            "timeline": "Artist Groups",
+            "beginDate": "1990",
+            "endDate": "1998",
+            "displayDate": "late 1990–1998",
+            "publicAccess": true
+        }
+    ]
 }

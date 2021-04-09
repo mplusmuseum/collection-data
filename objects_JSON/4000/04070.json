@@ -1,0 +1,137 @@
+{
+    "id": 4070,
+    "sortNumber": "CL   2015     1   19",
+    "publicAccess": true,
+    "objectNumber": "CL.2015.1.19",
+    "classification": {
+        "area": {
+            "en": [
+                "Design and Architecture"
+            ],
+            "zh-hant": [
+                "設計與建築"
+            ]
+        },
+        "category": {
+            "en": [
+                "Book/Periodical"
+            ],
+            "zh-hant": [
+                "書藉/期刊"
+            ]
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "The Scottish book",
+        "zh-hant": null
+    },
+    "displayDate": {
+        "en": "2012",
+        "zh-hant": "2012"
+    },
+    "beginDate": 2012,
+    "endDate": 2012,
+    "dimension": {
+        "en": "overall (closed): 1.1 × 22.1 × 30.5 cm",
+        "zh-hant": "整體 （合上）: 1.1 × 22.1 × 30.5 厘米"
+    },
+    "medium": {
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong. Gift of WORK, 2014",
+        "zh-hant": "M+，香港，WORK捐贈，2014年"
+    },
+    "constituents": [
+        {
+            "id": 1302,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 846,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
+            }
+        }
+    ],
+    "images": [],
+    "color": {
+        "predominant": [
+            {
+                "color": "#D7D2C6",
+                "value": 48.1
+            },
+            {
+                "color": "#CED4D7",
+                "value": 14.3
+            },
+            {
+                "color": "#CFCFC6",
+                "value": 10.8
+            },
+            {
+                "color": "#CACFD7",
+                "value": 7.7
+            },
+            {
+                "color": "#CCCFCD",
+                "value": 4.9
+            },
+            {
+                "color": "#9A9282",
+                "value": 3.9
+            },
+            {
+                "color": "#C1A884",
+                "value": 3.9
+            },
+            {
+                "color": "#91764E",
+                "value": 2.7
+            }
+        ],
+        "search": {
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 3.9
+                },
+                {
+                    "color": "gray",
+                    "value": 3.9
+                },
+                {
+                    "color": "white",
+                    "value": 85.8
+                },
+                {
+                    "color": "brown",
+                    "value": 2.7
+                }
+            ]
+        }
+    },
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 22.1,
+        "height": 1.1,
+        "depth": 30.5
+    }
+}

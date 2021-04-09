@@ -26,22 +26,22 @@
         }
     },
     "title": {
-        "en": "WERK No. 3: Repetition",
+        "en": "WERK No. 3 : REPETITION",
         "zh-hant": "WERK第3期：重覆"
     },
     "displayDate": {
-        "en": "2001",
+        "en": "copyright 2001",
         "zh-hant": "2001"
     },
     "beginDate": 2001,
     "endDate": 2001,
     "dimension": {
-        "en": "overall (closed): 0.3 × 29.8 × 44 cm\r\r\noverall (open): 2.9 × 59 × 44 cm",
+        "en": "overall (closed): 0.5 × 29.7 × 44.1 cm",
         "zh-hant": "整體 （合上）: 0.3 × 29.8 × 44 厘米\r\n整體 （打開）: 2.9 × 59 × 44 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -51,15 +51,29 @@
         {
             "id": 846,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Publisher",
+                "zh-hant": "出版社"
             }
         },
         {
             "id": 1302,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Editor",
+                "zh-hant": "創意總監"
+            }
+        },
+        {
+            "id": 1302,
+            "role": {
+                "en": "Creative Director",
+                "zh-hant": "創意總監"
+            }
+        },
+        {
+            "id": 5390,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
@@ -147,8 +161,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 29.8,
-        "height": 0.3,
-        "depth": 44
+        "width": 29.7,
+        "height": 0.5,
+        "depth": 44.1
     }
 }

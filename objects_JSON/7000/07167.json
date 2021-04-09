@@ -30,12 +30,12 @@
         }
     },
     "title": {
-        "en": "Xiangqian Museum",
-        "zh-hant": "向前美術館"
+        "en": "Xiangqian Art Museum III",
+        "zh-hant": "向前美術館 III"
     },
     "displayDate": {
         "en": "2010–ongoing",
-        "zh-hant": "2000年至今"
+        "zh-hant": "2010年至今"
     },
     "beginDate": 2010,
     "endDate": null,
@@ -60,11 +60,101 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#B5B3C0",
+                "value": 28.4
+            },
+            {
+                "color": "#8E8898",
+                "value": 15.7
+            },
+            {
+                "color": "#846C70",
+                "value": 14.1
+            },
+            {
+                "color": "#CBD8DA",
+                "value": 10.1
+            },
+            {
+                "color": "#77888C",
+                "value": 3.7
+            },
+            {
+                "color": "#C4B9C2",
+                "value": 3
+            },
+            {
+                "color": "#34313A",
+                "value": 2.9
+            },
+            {
+                "color": "#877782",
+                "value": 2.7
+            },
+            {
+                "color": "#DFD2D2",
+                "value": 2.7
+            },
+            {
+                "color": "#C8D2CE",
+                "value": 2.5
+            },
+            {
+                "color": "#242130",
+                "value": 2.3
+            },
+            {
+                "color": "#546978",
+                "value": 1.7
+            },
+            {
+                "color": "#7A5556",
+                "value": 1.2
+            },
+            {
+                "color": "#808F88",
+                "value": 1.2
+            },
+            {
+                "color": "#343C40",
+                "value": 0.9
+            },
+            {
+                "color": "#2C3A41",
+                "value": 0.8
+            },
+            {
+                "color": "#43393A",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 1.2
+                },
+                {
+                    "color": "gray",
+                    "value": 70.4
+                },
+                {
+                    "color": "white",
+                    "value": 15.4
+                },
+                {
+                    "color": "black",
+                    "value": 7.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

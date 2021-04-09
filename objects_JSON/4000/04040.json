@@ -26,22 +26,22 @@
         }
     },
     "title": {
-        "en": "WERK No. 14: 3 Cap",
+        "en": "WERK No. 14 : 3 Cap",
         "zh-hant": "WERK第14期：3 Cap"
     },
     "displayDate": {
-        "en": "2007",
-        "zh-hant": "2007"
+        "en": "copyright 2007",
+        "zh-hant": "copyright 2007"
     },
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
-        "en": "overall (closed): 2.1 × 22 × 29.8 cm",
+        "en": "overall (closed): 2.2 × 22.3 × 29.8 cm",
         "zh-hant": "整體 （合上）: 2.1 × 22 × 29.8 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -51,15 +51,22 @@
         {
             "id": 846,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Publisher",
+                "zh-hant": "出版社"
             }
         },
         {
             "id": 1302,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Designer/Producer",
+                "zh-hant": "設計師／生產商"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
@@ -135,8 +142,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 22,
-        "height": 2.1,
+        "width": 22.3,
+        "height": 2.2,
         "depth": 29.8
     }
 }

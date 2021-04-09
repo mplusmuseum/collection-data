@@ -21,8 +21,12 @@
             ]
         },
         "archivalLevel": {
-            "en": null,
-            "zh-hant": null
+            "en": [
+                "Sub-fonds"
+            ],
+            "zh-hant": [
+                "副全宗"
+            ]
         }
     },
     "title": {
@@ -31,7 +35,7 @@
     },
     "displayDate": {
         "en": "1928–1973, made 1981",
-        "zh-hant": "1928年至1973年，1981年製造"
+        "zh-hant": "1928至1973年，1981年製造"
     },
     "beginDate": 1928,
     "endDate": 1981,
@@ -40,14 +44,15 @@
         "zh-hant": "整體: 76 x 102 厘米"
     },
     "medium": {
-        "en": "screen print in white ink on clear polyester film; screen print on paper; custom-made rag paper",
-        "zh-hant": "絲網印刷於透明聚酯纖維膠片，絲網印刷紙本及特製布漿紙"
+        "en": "screen print on polyester film, screen print on paper, and custom-made rag paper",
+        "zh-hant": "絲網印刷聚酯纖維膠片，絲網印刷紙本及特製布漿紙"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [{
+    "constituents": [
+        {
             "id": 2999,
             "role": {
                 "en": "Designer",

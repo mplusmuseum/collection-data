@@ -35,7 +35,7 @@
     },
     "displayDate": {
         "en": "1966",
-        "zh-hant": "1966年"
+        "zh-hant": "1966"
     },
     "beginDate": 1966,
     "endDate": 1966,
@@ -60,11 +60,49 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#FEF9F8",
+                "value": 73.5
+            },
+            {
+                "color": "#F92A0B",
+                "value": 7.8
+            },
+            {
+                "color": "#F4967C",
+                "value": 6.9
+            },
+            {
+                "color": "#F59083",
+                "value": 4.8
+            },
+            {
+                "color": "#FB4319",
+                "value": 3.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 11.7
+                },
+                {
+                    "color": "red",
+                    "value": 10.9
+                },
+                {
+                    "color": "white",
+                    "value": 73.5
+                }
+            ]
         }
     },
     "dimensionDetails": {

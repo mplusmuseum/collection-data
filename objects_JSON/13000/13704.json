@@ -32,8 +32,8 @@
         }
     },
     "title": {
-        "en": "Roof plan, Asia Terminals Centre (now ATL Logistics Centre) Phase 1 and 2 (circa 1982–circa1992), Kwai Chung, Hong Kong",
-        "zh-hant": "香港葵涌亞洲貨櫃中心（現為亞洲貨櫃物流中心）第一、二期（約1982至約1992年）天台平面圖"
+        "en": "Roof plan, ATL Container Freight Station (now ATL Logistics Centre) Phase 1 and 2 (1979–1988), Kwai Chung, Hong Kong",
+        "zh-hant": "香港葵涌亞洲貨櫃大廈（現為亞洲貨櫃物流中心）第一、二期（1979至1988年）天台平面圖"
     },
     "displayDate": {
         "en": "9 November 1982, last amended 10 November 1987, digitised [2000s]",
@@ -62,11 +62,41 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#838383",
+                "value": 86.8
+            },
+            {
+                "color": "#3F3F3F",
+                "value": 7.4
+            },
+            {
+                "color": "#E8E8E8",
+                "value": 5.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 86.8
+                },
+                {
+                    "color": "white",
+                    "value": 5.8
+                },
+                {
+                    "color": "black",
+                    "value": 7.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

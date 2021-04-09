@@ -26,22 +26,22 @@
         }
     },
     "title": {
-        "en": "WERK No. 21: Martine Bedin",
+        "en": "WERK No. 21 : Martine Bedin",
         "zh-hant": "WERK第21期：Martine Bedin"
     },
     "displayDate": {
-        "en": "2014",
+        "en": "copyright 2014",
         "zh-hant": "2014"
     },
     "beginDate": 2014,
     "endDate": 2014,
     "dimension": {
-        "en": "overall (closed): 2.6 × 22.2 × 30.5 cm",
+        "en": "overall (closed): 2.9 × 22.8 × 30.7 cm",
         "zh-hant": "整體 （合上）: 2.6 × 22.2 × 30.5 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -51,8 +51,8 @@
         {
             "id": 846,
             "role": {
-                "en": "Design Firm",
-                "zh-hant": "設計師事務所"
+                "en": "Publisher",
+                "zh-hant": "出版社"
             }
         },
         {
@@ -60,6 +60,13 @@
             "role": {
                 "en": "Designer",
                 "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
@@ -111,8 +118,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 22.2,
-        "height": 2.6,
-        "depth": 30.5
+        "width": 22.8,
+        "height": 2.9,
+        "depth": 30.7
     }
 }

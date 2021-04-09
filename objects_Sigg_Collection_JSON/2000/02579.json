@@ -40,7 +40,7 @@
         "zh-hant": "整體: 124 × 189 × 4.5 厘米"
     },
     "medium": {
-        "en": "chromogenic colour print mounted to aluminium",
+        "en": "chromogenic print",
         "zh-hant": "彩色照片"
     },
     "creditLine": {
@@ -152,19 +152,15 @@
         "height": 124,
         "depth": 4.5
     },
-    "concepts": {
-        "title": {
-            "en": "Video Art and New Media Art Movement",
-            "zh-hant": "影像藝術及新媒體藝術運動"
-        },
-        "description": {
-            "en": "Zhang Peili’s groundbreaking 1988 work 30x30 signified the beginning of video art in China. With the increasing accessibility of personal computers and the rise of conceptualism, video art and new media art flourished in the mid-1990s as flexible and innovative mediums that enabled immersive visual and mental experiences, as well as fresh perspectives on the contemporary cultural landscape in China.",
-            "zh-hant": "張培力1988年的作品《30x30》是一個突破，代表着中國影像藝術的開始。 隨著個人電腦日漸普及，加上概念主義的興起，影像藝術和新媒體藝術在1990年代中期蓬勃發展。這種靈活又創新的媒體，為觀眾提供身臨其境的視覺及情感體驗，並為中國當代文化景觀帶來嶄新視角。"
-        },
-        "timeline": "Artist Movements",
-        "beginDate": "1987",
-        "endDate": "2010",
-        "displayDate": "1987–2010",
-        "publicAccess": true
-    }
+    "concepts": [
+        {
+            "title": "Video Art and New Media Art Movement",
+            "description": "Zhang Peili’s groundbreaking 1988 work 30x30 signified the beginning of video art in China. With the increasing accessibility of personal computers and the rise of conceptualism, video art and new media art flourished in the mid-1990s as flexible and innovative mediums that enabled immersive visual and mental experiences, as well as fresh perspectives on the contemporary cultural landscape in China.",
+            "timeline": "Artist Movements",
+            "beginDate": "1987",
+            "endDate": "2010",
+            "displayDate": "1987–2010",
+            "publicAccess": true
+        }
+    ]
 }

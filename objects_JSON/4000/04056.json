@@ -26,22 +26,22 @@
         }
     },
     "title": {
-        "en": "PEDDERZINE No. 1: Whatever Spring/Summer 2007",
+        "en": "PEDDERZINE No. 1 : Whatever : Spring/Summer 2007",
         "zh-hant": "PEDDERZINE第1期：無所謂"
     },
     "displayDate": {
-        "en": "2007",
-        "zh-hant": "2007"
+        "en": "Spring/Summer 2007",
+        "zh-hant": "Spring/Summer 2007"
     },
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
-        "en": "overall (closed): 1 × 23.1 × 29.7 cm\r\r\noverall (open): 6.5 × 39.7 × 29.7 cm",
+        "en": "overall (closed): 1 × 23.2 × 29.7 cm",
         "zh-hant": "整體 （合上）: 1 × 23.1 × 29.7 厘米\r\n整體 （打開）: 6.5 × 39.7 × 29.7 厘米"
     },
     "medium": {
-        "en": "offset print on paper",
-        "zh-hant": "柯式印刷紙本"
+        "en": "print on paper",
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of WORK, 2014",
@@ -51,15 +51,22 @@
         {
             "id": 846,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Designer",
+                "zh-hant": "設計師"
             }
         },
         {
-            "id": 1302,
+            "id": 5349,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
@@ -179,7 +186,7 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 23.1,
+        "width": 23.2,
         "height": 1,
         "depth": 29.7
     }

@@ -17,7 +17,7 @@
                 "Ephemera"
             ],
             "zh-hant": [
-                "暫時性的媒材"
+                "短期印刷品"
             ]
         },
         "archivalLevel": {
@@ -63,36 +63,43 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#E8E0DA",
-                "value": 88.8
+                "color": "#DFDDDA",
+                "value": 54.6
             },
             {
-                "color": "#908A84",
-                "value": 3.1
+                "color": "#E0E0DD",
+                "value": 22.7
             },
             {
-                "color": "#323237",
-                "value": 2.2
+                "color": "#E2E2E6",
+                "value": 14.4
             },
             {
-                "color": "#C7C6C1",
-                "value": 1.1
+                "color": "#CAC8C9",
+                "value": 1.8
+            },
+            {
+                "color": "#D6D7D6",
+                "value": 1.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 4.2
+                    "value": 1.8
                 },
                 {
                     "color": "white",
-                    "value": 88.8
+                    "value": 93.5
                 },
                 {
                     "color": "black",

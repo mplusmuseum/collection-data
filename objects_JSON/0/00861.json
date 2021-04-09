@@ -48,11 +48,53 @@
         "zh-hant": "M+，香港"
     },
     "constituents": [],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D1D5D5",
+                "value": 41
+            },
+            {
+                "color": "#DFE1E0",
+                "value": 39.4
+            },
+            {
+                "color": "#666E71",
+                "value": 6.1
+            },
+            {
+                "color": "#3A3F41",
+                "value": 5.9
+            },
+            {
+                "color": "#423E3C",
+                "value": 2.3
+            },
+            {
+                "color": "#393B3E",
+                "value": 1.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 6.1
+                },
+                {
+                    "color": "white",
+                    "value": 80.3
+                },
+                {
+                    "color": "black",
+                    "value": 10
+                }
+            ]
         }
     },
     "dimensionDetails": {

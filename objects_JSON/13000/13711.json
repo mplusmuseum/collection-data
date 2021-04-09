@@ -32,8 +32,8 @@
         }
     },
     "title": {
-        "en": "Notes, schedules, block plan and key plan, Asia Terminals Centre (now ATL Logistics Centre) Phase 3, 4 and 5 (circa 1989–1994), Kwai Chung, Hong Kong",
-        "zh-hant": "香港葵涌亞洲貨櫃中心（現為亞洲貨櫃物流中心）第三、四、五期（約1989至1994年）各項須知、日程表、樓宇位置圖和索引圖"
+        "en": "Notes, schedules, block plan and key plan, ATL Container Freight Station (now ATL Logistics Centre) Phase 3, 4 and 5 (circa 1989–1994), Kwai Chung, Hong Kong",
+        "zh-hant": "香港葵涌亞洲貨櫃大廈（現為亞洲貨櫃物流中心）第三、四、五期（約1989至1994年）各項須知、日程表、樓宇位置圖和索引圖"
     },
     "displayDate": {
         "en": "July 1989, last amended 1 March 1994, digitised [2000s]",
@@ -62,11 +62,33 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#F0F0F0",
+                "value": 87.4
+            },
+            {
+                "color": "#898989",
+                "value": 8.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 8.8
+                },
+                {
+                    "color": "white",
+                    "value": 87.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

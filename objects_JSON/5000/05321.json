@@ -35,7 +35,7 @@
     },
     "displayDate": {
         "en": "[1970s–1980s]",
-        "zh-hant": "[1970年代至1980年代]"
+        "zh-hant": "[1970至1980年代]"
     },
     "beginDate": 1970,
     "endDate": 1989,
@@ -67,11 +67,61 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#9A9186",
+                "value": 24.2
+            },
+            {
+                "color": "#BCC4C7",
+                "value": 23.7
+            },
+            {
+                "color": "#B2B3BB",
+                "value": 22.6
+            },
+            {
+                "color": "#A09F90",
+                "value": 7.5
+            },
+            {
+                "color": "#9A696C",
+                "value": 6.8
+            },
+            {
+                "color": "#9A999E",
+                "value": 4.4
+            },
+            {
+                "color": "#ACADA0",
+                "value": 3.1
+            },
+            {
+                "color": "#AEA49B",
+                "value": 1.7
+            },
+            {
+                "color": "#8F838C",
+                "value": 1.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 6.8
+                },
+                {
+                    "color": "gray",
+                    "value": 88.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

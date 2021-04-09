@@ -32,8 +32,8 @@
         }
     },
     "title": {
-        "en": "Ground floor plan, Asia Terminals Centre (now ATL Logistics Centre) (circa 1982–1994), Kwai Chung, Hong Kong",
-        "zh-hant": "香港葵涌亞洲貨櫃中心（現為亞洲貨櫃物流中心）（約1982至1994年）地下平面圖"
+        "en": "Ground floor plan, ATL Container Freight Station (now ATL Logistics Centre) (1979–1994), Kwai Chung, Hong Kong",
+        "zh-hant": "香港葵涌亞洲貨櫃大廈（現為亞洲貨櫃物流中心）（1979至1994年）地下平面圖"
     },
     "displayDate": {
         "en": "[circa 1982–2000s]",
@@ -62,11 +62,53 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EDEEE1",
+                "value": 57.5
+            },
+            {
+                "color": "#E2B525",
+                "value": 18.9
+            },
+            {
+                "color": "#DEE6DA",
+                "value": 9.2
+            },
+            {
+                "color": "#EEE9E1",
+                "value": 5.4
+            },
+            {
+                "color": "#DEBC49",
+                "value": 3.8
+            },
+            {
+                "color": "#737568",
+                "value": 0.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 22.7
+                },
+                {
+                    "color": "gray",
+                    "value": 0.8
+                },
+                {
+                    "color": "white",
+                    "value": 72.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

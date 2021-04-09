@@ -32,8 +32,8 @@
         }
     },
     "title": {
-        "en": "Interior photograph, showing a vehicle on the gentle sloped ramp, Asia Terminals Centre (now ATL Logistics Centre) (circa 1982–1994), Kwai Chung, Hong Kong",
-        "zh-hant": "香港葵涌亞洲貨櫃中心（現為亞洲貨櫃物流中心）（約1982至1994年）內部照片，顯示車輛行駛於斜坡道上"
+        "en": "Interior photograph, showing a vehicle on the gentle sloped ramp, ATL Container Freight Station (now ATL Logistics Centre) (1979–1994), Kwai Chung, Hong Kong",
+        "zh-hant": "香港葵涌亞洲貨櫃大廈（現為亞洲貨櫃物流中心）（1979至1994年）內部照片，顯示車輛行駛於斜坡道上"
     },
     "displayDate": {
         "en": "[circa 1986–2000s]",
@@ -62,11 +62,81 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#49472C",
+                "value": 18.8
+            },
+            {
+                "color": "#7F816D",
+                "value": 16.3
+            },
+            {
+                "color": "#636041",
+                "value": 15.5
+            },
+            {
+                "color": "#3C3F2A",
+                "value": 12.4
+            },
+            {
+                "color": "#B8C3B6",
+                "value": 8.5
+            },
+            {
+                "color": "#D8DCCD",
+                "value": 8.5
+            },
+            {
+                "color": "#1F291E",
+                "value": 4.6
+            },
+            {
+                "color": "#6D6241",
+                "value": 3.9
+            },
+            {
+                "color": "#8B9587",
+                "value": 3.4
+            },
+            {
+                "color": "#2A332A",
+                "value": 1.4
+            },
+            {
+                "color": "#5A5D43",
+                "value": 1.4
+            },
+            {
+                "color": "#3E4134",
+                "value": 1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 28.2
+                },
+                {
+                    "color": "white",
+                    "value": 8.5
+                },
+                {
+                    "color": "black",
+                    "value": 7
+                },
+                {
+                    "color": "brown",
+                    "value": 52
+                }
+            ]
         }
     },
     "dimensionDetails": {

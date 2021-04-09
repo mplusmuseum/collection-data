@@ -32,8 +32,8 @@
         }
     },
     "title": {
-        "en": "Photograph, lookup view of external wall, Asia Terminals Centre (now ATL Logistics Centre) (circa 1982–1994), Kwai Chung, Hong Kong",
-        "zh-hant": "香港葵涌亞洲貨櫃中心（現為亞洲貨櫃物流中心）（約1982至1994年）外牆仰視照片"
+        "en": "Photograph, lookup view of external wall, ATL Container Freight Station (now ATL Logistics Centre) (1979–1994), Kwai Chung, Hong Kong",
+        "zh-hant": "香港葵涌亞洲貨櫃大廈（現為亞洲貨櫃物流中心）（1979至1994年）外牆仰視照片"
     },
     "displayDate": {
         "en": "[circa 1992–2000s]",
@@ -62,11 +62,101 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#122821",
+                "value": 11.7
+            },
+            {
+                "color": "#010605",
+                "value": 11.3
+            },
+            {
+                "color": "#000000",
+                "value": 11.3
+            },
+            {
+                "color": "#7C9882",
+                "value": 11
+            },
+            {
+                "color": "#ABBFAE",
+                "value": 9.6
+            },
+            {
+                "color": "#172D1E",
+                "value": 6.4
+            },
+            {
+                "color": "#CACFBB",
+                "value": 5.7
+            },
+            {
+                "color": "#031015",
+                "value": 5.5
+            },
+            {
+                "color": "#547D6F",
+                "value": 5.4
+            },
+            {
+                "color": "#83D0CA",
+                "value": 4.1
+            },
+            {
+                "color": "#010602",
+                "value": 3.9
+            },
+            {
+                "color": "#567B64",
+                "value": 3.3
+            },
+            {
+                "color": "#39747A",
+                "value": 2.2
+            },
+            {
+                "color": "#112B2F",
+                "value": 1.8
+            },
+            {
+                "color": "#4D7D7A",
+                "value": 1.6
+            },
+            {
+                "color": "#000103",
+                "value": 1.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "green",
+                    "value": 20.7
+                },
+                {
+                    "color": "gray",
+                    "value": 9.6
+                },
+                {
+                    "color": "white",
+                    "value": 5.7
+                },
+                {
+                    "color": "black",
+                    "value": 47
+                },
+                {
+                    "color": "teal",
+                    "value": 13.4
+                }
+            ]
         }
     },
     "dimensionDetails": {
