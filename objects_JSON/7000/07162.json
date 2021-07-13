@@ -37,7 +37,7 @@
     "endDate": 1985,
     "dimension": {
         "en": "overall: 21.4 × 31.5 × 0.3 cm",
-        "zh-hant": "整體：21.4 × 31.5 × 0.3 厘米"
+        "zh-hant": "整體: 21.4 × 31.5 × 0.3 厘米"
     },
     "medium": {
         "en": "offset lithograph",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1723,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

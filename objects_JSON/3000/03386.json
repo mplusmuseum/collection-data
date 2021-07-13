@@ -39,7 +39,7 @@
     "endDate": 2000,
     "dimension": {
         "en": "sheet: 188.3 × 103.1 cm\r\r\nimage: 181 × 86.5 cm",
-        "zh-hant": "紙本: 188.3 × 103.1 厘米  圖像: 181 × 86.5 厘米"
+        "zh-hant": "紙本: 188.3 × 103.1 厘米\r\r\n圖像: 181 × 86.5 厘米"
     },
     "medium": {
         "en": "chromogenic print",
@@ -49,7 +49,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 539,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Photograph of three images in a column. The top image shows a topless man lying face down on a bench. In the middle image, a figure presses a branding iron on the man's upper right back. The bottom image shows a mark featuring three rows of digits on the man’s skin."

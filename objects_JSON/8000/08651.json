@@ -37,7 +37,7 @@
     "endDate": 1955,
     "dimension": {
         "en": "overall (closed): 0.1 × 26.2 × 33.2 cm",
-        "zh-hant": "整體 （合上）: 0.1 × 26.4 × 33.4 厘米"
+        "zh-hant": "整體 （合上）: 0.1 × 26.2 × 33.2 厘米"
     },
     "medium": {
         "en": "print on paper",
@@ -47,12 +47,100 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 2794,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 2794,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 2801,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E7C98C",
+                "value": 47.5
+            },
+            {
+                "color": "#EEDCBE",
+                "value": 15.4
+            },
+            {
+                "color": "#C3534E",
+                "value": 13.3
+            },
+            {
+                "color": "#CD9C7F",
+                "value": 5.1
+            },
+            {
+                "color": "#7F5F4F",
+                "value": 3.8
+            },
+            {
+                "color": "#CFD3D7",
+                "value": 3.5
+            },
+            {
+                "color": "#82776C",
+                "value": 2.3
+            },
+            {
+                "color": "#8C7859",
+                "value": 2
+            },
+            {
+                "color": "#804B47",
+                "value": 1.6
+            },
+            {
+                "color": "#D3D4C1",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 68
+                },
+                {
+                    "color": "red",
+                    "value": 14.9
+                },
+                {
+                    "color": "gray",
+                    "value": 2.3
+                },
+                {
+                    "color": "white",
+                    "value": 4.9
+                },
+                {
+                    "color": "brown",
+                    "value": 5.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

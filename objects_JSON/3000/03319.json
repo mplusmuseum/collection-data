@@ -37,7 +37,7 @@
     "endDate": 2009,
     "dimension": {
         "en": "overall: 49.6 × 380.6 cm\r\r\nsheet: 49.6 × 332 cm",
-        "zh-hant": "整體: 49.6 × 380.6 厘米  紙本: 49.6 × 332 厘米"
+        "zh-hant": "整體: 49.6 × 380.6 厘米\r\r\n紙本: 49.6 × 332 厘米"
     },
     "medium": {
         "en": "inkjet print on Xuan paper mounted on linen",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 537,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Print on horizontally orientated rice paper depicting a panoramic landscape in grey tones with large waves on the viewer's far left. Rocky mountains surrounded by mist feature in the centre and on both sides."

@@ -37,7 +37,7 @@
     "endDate": 1987,
     "dimension": {
         "en": "sheet: 50.7 × 38 cm \r\r\nimage: 45.1 × 30 cm",
-        "zh-hant": "紙本: 50.7 × 38  厘米\r\r\n圖像: 45.1× 30 厘米"
+        "zh-hant": "紙本: 50.7 × 38 厘米 \r\r\n圖像: 45.1 × 30 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2789,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

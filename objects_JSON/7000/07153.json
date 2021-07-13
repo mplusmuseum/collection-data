@@ -37,7 +37,7 @@
     "endDate": 1965,
     "dimension": {
         "en": "overall: 60.9 × 50.4 cm\r\r\nimage: 46 × 45.6 cm",
-        "zh-hant": "整體: 60.9 × 50.4 厘米\r\n圖像: 46 × 45.6 厘米"
+        "zh-hant": "整體: 60.9 × 50.4 厘米\r\r\n圖像: 46 × 45.6 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -47,10 +47,18 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1716,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Monochrome photograph of a blurred hand reaching out from the bottom centre above a paved road, which disappears into the distance. In the upper half, open fields with small shrubs lie on both sides of the road."
         }
     ],
     "color": {

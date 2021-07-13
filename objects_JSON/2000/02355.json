@@ -37,7 +37,7 @@
     "endDate": 1998,
     "dimension": {
         "en": "sheet: 126.9 × 90.3 cm\r\r\nimage: 112.6 × 87.9 cm",
-        "zh-hant": "紙本: 126.9 × 90.3 厘米  圖像: 112.6 × 87.9 厘米"
+        "zh-hant": "紙本: 126.9 × 90.3 厘米\r\r\n圖像: 112.6 × 87.9 厘米"
     },
     "medium": {
         "en": "chromogenic print",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 485,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Photograph of four clay figures against a cloudy sky. On the viewer's left, a figure in the foreground holds a pistol, standing below the silhouette of tree branches. Three figures in the dim background include two seated men and a figure on the far right standing with a raised fist."

@@ -39,7 +39,7 @@
     "endDate": 2015,
     "dimension": {
         "en": "sheet: 55 × 74.8 cm\r\r\nimage: 40 × 59.9 cm",
-        "zh-hant": "紙本: 55 × 74.8 厘米 圖像: 40 × 59.9 厘米"
+        "zh-hant": "紙本: 55 × 74.8 厘米\r\r\n圖像: 40 × 59.9 厘米"
     },
     "medium": {
         "en": "inkjet print",
@@ -49,10 +49,18 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2756,
+            "role": {
+                "en": "Photographer",
+                "zh-hant": "攝影師"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Photograph of three children on a rooftop, surrounded by television antennae. In the centre, a barefoot girl holding a vertical pole looks at the camera with an amused expression. A boy farther behind, on the viewer's left, stands with hands on his hips. Buildings and mountains feature in the background."
         }
     ],
     "color": {

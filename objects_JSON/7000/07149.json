@@ -37,7 +37,7 @@
     "endDate": 1963,
     "dimension": {
         "en": "overall: 60.9 × 50.5 cm\r\r\nimage: 56 × 39.6 cm",
-        "zh-hant": "整體: 60.9 × 50.5 厘米\r\n圖像: 56 × 39.6 厘米"
+        "zh-hant": "整體: 60.9 × 50.5 厘米\r\r\n圖像: 56 × 39.6 厘米"
     },
     "medium": {
         "en": "silver-print proof",
@@ -47,10 +47,18 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1716,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Monochrome photograph showing a hand from the left and the right, pressing against the sides of a figure's face, squishing their expression slightly. The figure's dark shirt stands out against the tall dried grass behind. A large pillared structure on the viewer's upper left stretches into the distance."
         }
     ],
     "color": {

@@ -37,7 +37,7 @@
     "endDate": 1959,
     "dimension": {
         "en": "overall (mount board): 37.2 × 52.5 cm\r\nsheet: 24.9 × 34 cm",
-        "zh-hant": "整體 （連板）: 37.2 × 52.5 厘米 紙本: 24.9 × 34 厘米"
+        "zh-hant": "整體 （連板）: 37.2 × 52.5 厘米\r\n紙本: 24.9 × 34 厘米"
     },
     "medium": {
         "en": "hand-painted colour photograph",
@@ -47,10 +47,39 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2797,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        },
+        {
+            "id": 2798,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 2799,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 1675,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Hand-painted colour photograph of a hall balcony with pillars between railing stretching from the viewer's right to the centre. Windows with green curtains line the wall on the left. A row of tables, each surrounded by four chairs, stands between the windows and the pillars."
         }
     ],
     "color": {

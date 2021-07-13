@@ -47,12 +47,136 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 2794,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 2794,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 2801,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#F3E386",
+                "value": 47.2
+            },
+            {
+                "color": "#E8CE75",
+                "value": 15
+            },
+            {
+                "color": "#7EA8C0",
+                "value": 7.6
+            },
+            {
+                "color": "#F3E7D5",
+                "value": 7.2
+            },
+            {
+                "color": "#CDD2D6",
+                "value": 4
+            },
+            {
+                "color": "#D9625F",
+                "value": 2.7
+            },
+            {
+                "color": "#CA8568",
+                "value": 2.5
+            },
+            {
+                "color": "#83667C",
+                "value": 2
+            },
+            {
+                "color": "#5F725E",
+                "value": 1.5
+            },
+            {
+                "color": "#88637A",
+                "value": 1.2
+            },
+            {
+                "color": "#7095A2",
+                "value": 1.1
+            },
+            {
+                "color": "#557A5E",
+                "value": 1.1
+            },
+            {
+                "color": "#C9CCD2",
+                "value": 1
+            },
+            {
+                "color": "#7A6E64",
+                "value": 0.9
+            },
+            {
+                "color": "#4B4E4C",
+                "value": 0.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 2.7
+                },
+                {
+                    "color": "orange",
+                    "value": 2.5
+                },
+                {
+                    "color": "pink",
+                    "value": 1.2
+                },
+                {
+                    "color": "green",
+                    "value": 2.6
+                },
+                {
+                    "color": "gray",
+                    "value": 1.6
+                },
+                {
+                    "color": "white",
+                    "value": 12.2
+                },
+                {
+                    "color": "yellow",
+                    "value": 62.2
+                },
+                {
+                    "color": "purple",
+                    "value": 2
+                },
+                {
+                    "color": "teal",
+                    "value": 8.7
+                }
+            ]
         }
     },
     "dimensionDetails": {

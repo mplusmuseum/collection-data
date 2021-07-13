@@ -30,8 +30,8 @@
         "zh-hant": "樂聲牌收音機，DX-350型"
     },
     "displayDate": {
-        "en": "designed 1952",
-        "zh-hant": "1952年設計"
+        "en": "1952",
+        "zh-hant": "1952年"
     },
     "beginDate": 1952,
     "endDate": 1952,
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1697,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

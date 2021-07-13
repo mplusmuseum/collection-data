@@ -37,7 +37,7 @@
     "endDate": 1998,
     "dimension": {
         "en": "each (approx.): 30 × 30 × 10 cm\r\r\noverall (largest): 25 × 38 × 25 cm",
-        "zh-hant": "各約: 30 × 30 × 10 厘米\r\n整體 （最大）: 25 × 38 × 25 厘米"
+        "zh-hant": "各 （約）: 30 × 30 × 10 厘米\r\r\n整體 （最大）: 25 × 38 × 25 厘米"
     },
     "medium": {
         "en": "stainless steel and granite",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 571,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Sculpture in which two distinct piles of blocks sit side by side. Each consists of four separate blocks placed together to form an F-like shape with the longest section on the bottom. The form furthest from us is built with bricks of rough granite. The form closer to us is built with matching bricks of stainless steel."

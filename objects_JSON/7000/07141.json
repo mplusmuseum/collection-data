@@ -37,7 +37,7 @@
     "endDate": 1977,
     "dimension": {
         "en": "overall: 37 × 56 cm\r\r\nimage: 37 × 56 cm",
-        "zh-hant": "整體: 37 × 56 厘米\r\n圖像: 37 × 56 厘米"
+        "zh-hant": "整體: 37 × 56 厘米\r\r\n圖像: 37 × 56 厘米"
     },
     "medium": {
         "en": "silver-print proof",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1716,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

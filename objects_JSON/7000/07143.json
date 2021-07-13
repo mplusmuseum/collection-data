@@ -37,7 +37,7 @@
     "endDate": 1979,
     "dimension": {
         "en": "overall: 50.5 × 60.9 cm\r\r\nimage: 37 × 56 cm",
-        "zh-hant": "整體: 50.5 × 60.9 厘米\r\n圖像: 37 × 56 厘米"
+        "zh-hant": "整體: 50.5 × 60.9 厘米\r\r\n圖像: 37 × 56 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -47,10 +47,18 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1716,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Monochrome photograph of men in swimming trunks on a sandy beach, which occupies three quarters of the photograph from the bottom, with the sea and sky at the top. The men lie in rows with a large gap in-between each man and their feet pointing towards the viewer. The face of the man lying closest to us is scrunched up as if in displeasure."
         }
     ],
     "color": {

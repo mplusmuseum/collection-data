@@ -39,7 +39,7 @@
     "endDate": 1995,
     "dimension": {
         "en": "dimensions variable",
-        "zh-hant": "尺寸不一"
+        "zh-hant": "尺寸可變"
     },
     "medium": {
         "en": "five-channel VHS transferred to digital video (colour, sound), wooden cabinet and upholstered chairs",
@@ -49,7 +49,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 510,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

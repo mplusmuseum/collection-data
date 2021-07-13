@@ -39,7 +39,7 @@
     "endDate": 2000,
     "dimension": {
         "en": "sheet: 99.3 × 144 cm\r\r\nimage: 87.3 × 132 cm",
-        "zh-hant": "紙本: 99.3 × 144 厘米  圖像: 87.3 × 132 厘米"
+        "zh-hant": "紙本: 99.3 × 144 厘米\r\r\n圖像: 87.3 × 132 厘米"
     },
     "medium": {
         "en": "chromogenic print",
@@ -49,7 +49,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 539,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Photograph of a topless man with tattooed upper arms lying face down on a white massage table. His shaved head and hands, which clutch the edge of the mattress, are in the foreground. Two small tufts of grass appear to be growing out of his upper left back."

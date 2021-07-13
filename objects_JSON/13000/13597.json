@@ -40,8 +40,8 @@
         "zh-hant": "紙本 （目測）: 77.2 × 52.7 厘米\r\r\n連框: 89.8 × 61.5 × 2.7 厘米"
     },
     "medium": {
-        "en": "gouache and screen print on paper",
-        "zh-hant": "水粉及絲網印刷紙本"
+        "en": "screen print and gouache on paper",
+        "zh-hant": "絲網印刷及水粉紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -56,11 +56,89 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#DBD5CB",
+                "value": 44.9
+            },
+            {
+                "color": "#7787B7",
+                "value": 14.7
+            },
+            {
+                "color": "#836F48",
+                "value": 8.9
+            },
+            {
+                "color": "#605B4A",
+                "value": 7.1
+            },
+            {
+                "color": "#8ABC7B",
+                "value": 5.1
+            },
+            {
+                "color": "#333439",
+                "value": 4.9
+            },
+            {
+                "color": "#6DA9CB",
+                "value": 4.3
+            },
+            {
+                "color": "#555565",
+                "value": 2.8
+            },
+            {
+                "color": "#C4875B",
+                "value": 1.7
+            },
+            {
+                "color": "#688192",
+                "value": 1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 1.7
+                },
+                {
+                    "color": "gray",
+                    "value": 9.9
+                },
+                {
+                    "color": "green",
+                    "value": 5.1
+                },
+                {
+                    "color": "white",
+                    "value": 44.9
+                },
+                {
+                    "color": "blue",
+                    "value": 14.7
+                },
+                {
+                    "color": "black",
+                    "value": 4.9
+                },
+                {
+                    "color": "teal",
+                    "value": 5.3
+                },
+                {
+                    "color": "brown",
+                    "value": 8.9
+                }
+            ]
         }
     },
     "dimensionDetails": {

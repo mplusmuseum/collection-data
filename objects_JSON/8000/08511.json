@@ -37,7 +37,7 @@
     "endDate": 1959,
     "dimension": {
         "en": "overall (mount board): 37.2 × 52.5 cm\r\nsheet: 21.1 × 48.9 cm",
-        "zh-hant": "整體 （連板）: 37.2 × 52.5 厘米 紙本: 21.1 × 48.9 厘米"
+        "zh-hant": "整體 （連板）: 37.2 × 52.5 厘米\r\n紙本: 21.1 × 48.9 厘米"
     },
     "medium": {
         "en": "hand-painted colour photograph",
@@ -47,10 +47,39 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2797,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        },
+        {
+            "id": 2798,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 2799,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 1675,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Hand-painted colour photograph showing a wide-angle view of a large banquet hall. In the middle, a stage with a gold backdrop featuring a red emblem stand behind a sea of white-clothed round tables. Two rows of tables lie between white pillars with gold patterns and windows on the viewer's right."
         }
     ],
     "color": {

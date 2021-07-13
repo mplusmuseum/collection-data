@@ -37,7 +37,7 @@
     "endDate": 2003,
     "dimension": {
         "en": "sheet: 50.5 × 50.6 cm\r\r\nimage: 48 × 48 cm",
-        "zh-hant": "紙本: 50.5 × 50.6 厘米  圖像: 48 × 48 厘米"
+        "zh-hant": "紙本: 50.5 × 50.6 厘米\r\r\n圖像: 48 × 48 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 522,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph shot at night of parrots on brightly lit branches in the foreground, above an area with grass and a wire fence in the middle ground, on the viewer's right. An animal with pointed ears sits beside the fence on the left. The background features trees and power lines."

@@ -37,7 +37,7 @@
     "endDate": 2002,
     "dimension": {
         "en": "sheet: 50.5 × 50.7 cm\r\r\nimage: 48 × 47.8 cm",
-        "zh-hant": "紙本: 50.5 × 50.7 厘米  圖像: 48 × 47.8 厘米"
+        "zh-hant": "紙本: 50.5 × 50.7 厘米\r\r\n圖像: 48 × 47.8 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 522,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a pair of pale and translucent giraffes, which appear to be mirrored, in the centre of an open space at night. Part of a shadowy girafffe appears on the viewer's left. Two trees stand in the left half, and silhouettes of plants form a line across the photograph."

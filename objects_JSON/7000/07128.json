@@ -37,7 +37,7 @@
     "endDate": 1975,
     "dimension": {
         "en": "overall (closed): 0.9 × 15.6 × 31.9 cm",
-        "zh-hant": "整體 （合上）: 31.8 × 44.5 厘米"
+        "zh-hant": "整體 （合上）: 0.9 × 15.6 × 31.9 厘米"
     },
     "medium": {
         "en": "offset lithograph on paper",
@@ -47,10 +47,25 @@
         "en": "M+, Hong Kong. Gift of Henry Steiner, 2017",
         "zh-hant": "M+，香港，石漢瑞捐贈，2017年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1712,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 1713,
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Offset lithograph brochure on paper. In the upper half of the black cover, each word of 'Progress Hong Kong' is tilted and printed in white, red, and blue respectively. White Chinese characters are printed in the top left corner, above the word 'Progress'."
         }
     ],
     "color": {

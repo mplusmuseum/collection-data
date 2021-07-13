@@ -38,8 +38,8 @@
     "beginDate": 2007,
     "endDate": 2008,
     "dimension": {
-        "en": "dimension variable",
-        "zh-hant": "連框 （各）: 46.9 × 34.7 × 1.3 厘米"
+        "en": "dimensions variable",
+        "zh-hant": "尺寸可變"
     },
     "medium": {
         "en": "oil on paper",
@@ -49,7 +49,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 603,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Oil painting on paper depicting an aerial view of a landscape rendered in grey tones with a white border. A vertical road extending from the bottom meets a road that cuts across the lower section of the landscape diagonally. The middle ground and upper section show numerous roads among trees."

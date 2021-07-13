@@ -37,7 +37,7 @@
     "endDate": 2002,
     "dimension": {
         "en": "sheet: 50.6 × 50.6 cm\r\r\nimage: 48 × 47.9 cm",
-        "zh-hant": "紙本: 50.6 × 50.6 厘米  圖像: 48 × 47.9 厘米"
+        "zh-hant": "紙本: 50.6 × 50.6 厘米\r\r\n圖像: 48 × 47.9 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 522,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of shadowy emu-like birds in the left half. They appear to be superimposed on a night view of an area comprising a lit foreground with stones and a dark background with silhouettes of trees. Starburst rays emanate from the top of a pole in the upper right section."

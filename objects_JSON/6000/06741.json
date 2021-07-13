@@ -38,8 +38,8 @@
     "beginDate": 1950,
     "endDate": 1954,
     "dimension": {
-        "en": "frame: 31 × 69.5 × 1.3 cm\r\r\nsheet (sight): 20 × 51.4 cm",
-        "zh-hant": "連框: 31 × 69.5 × 1.3 厘米  紙本 （目測）: 20 × 51.4 厘米"
+        "en": "sheet: 24.4 × 56 cm\r\r\nimage: 20.2 × 52.1 cm",
+        "zh-hant": "紙本: 24.4 × 56 厘米\r\r\n圖像: 20.2 × 52.1 厘米"
     },
     "medium": {
         "en": "ink and paint on paper",
@@ -49,15 +49,7 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [
-        {
-            "id": 1529,
-            "role": {
-                "en": "Maker",
-                "zh-hant": "創作者"
-            }
-        }
-    ],
+    "constituents": [],
     "images": [
         {
             "altText": null
@@ -108,10 +100,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "frame",
+        "element": "sheet",
         "unit": "cm",
-        "width": 69.5,
-        "height": 31,
-        "depth": 1.3
+        "width": 56,
+        "height": 24.4,
+        "depth": null
     }
 }

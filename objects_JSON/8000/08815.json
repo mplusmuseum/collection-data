@@ -37,7 +37,7 @@
     "endDate": 1985,
     "dimension": {
         "en": "overall: 130.5 × 194 cm\r\r\nframe: 133.8 × 197 cm",
-        "zh-hant": "整體: 130.5 × 194 厘米  連框: 133.8 × 197 厘米"
+        "zh-hant": "整體: 130.5 × 194 厘米\r\r\n連框: 133.8 × 197 厘米"
     },
     "medium": {
         "en": "acrylic on canvas",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong. Gift of the artist, 2017",
         "zh-hant": "M+，香港，藝術家捐贈，2017年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2810,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

@@ -37,7 +37,7 @@
     "endDate": 2008,
     "dimension": {
         "en": "frame (approx.): 183.4 × 154 × 56 cm",
-        "zh-hant": "連框（約）：183.4 × 154 × 56 厘米"
+        "zh-hant": "連框 （約）: 183.4 × 154 × 56 厘米"
     },
     "medium": {
         "en": "pencil, coloured pencil, watercolour on paper, silk embroidery and artist frame",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 589,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

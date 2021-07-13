@@ -39,7 +39,7 @@
     "endDate": 2001,
     "dimension": {
         "en": "overall: 182 × 206 × 5.6 cm\r\r\neach: 179 × 48.2 cm",
-        "zh-hant": "整體: 182 × 206 × 5.6 厘米  各: 179 × 48.2 厘米"
+        "zh-hant": "整體: 182 × 206 × 5.6 厘米\r\r\n各: 179 × 48.2 厘米"
     },
     "medium": {
         "en": "tea and coffee stains on rice paper",
@@ -49,7 +49,15 @@
         "en": "M+, Hong Kong. Gift of Liang Quan, 2017",
         "zh-hant": "M+，香港，梁銓捐贈，2017年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1679,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

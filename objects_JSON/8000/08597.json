@@ -47,12 +47,110 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 2794,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#955B4A",
+                "value": 22.7
+            },
+            {
+                "color": "#B36450",
+                "value": 19.7
+            },
+            {
+                "color": "#C4A576",
+                "value": 12.7
+            },
+            {
+                "color": "#5D676B",
+                "value": 9.2
+            },
+            {
+                "color": "#8F7757",
+                "value": 6.2
+            },
+            {
+                "color": "#E0E3E4",
+                "value": 4.9
+            },
+            {
+                "color": "#964F42",
+                "value": 4
+            },
+            {
+                "color": "#707263",
+                "value": 3.1
+            },
+            {
+                "color": "#B0594A",
+                "value": 2.2
+            },
+            {
+                "color": "#45423D",
+                "value": 2.2
+            },
+            {
+                "color": "#6F7670",
+                "value": 2.1
+            },
+            {
+                "color": "#E4E4DE",
+                "value": 2
+            },
+            {
+                "color": "#454849",
+                "value": 1.8
+            },
+            {
+                "color": "#CDC7BD",
+                "value": 1.8
+            },
+            {
+                "color": "#E4E5E7",
+                "value": 1.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 48.6
+                },
+                {
+                    "color": "orange",
+                    "value": 12.7
+                },
+                {
+                    "color": "gray",
+                    "value": 16.3
+                },
+                {
+                    "color": "white",
+                    "value": 8.1
+                },
+                {
+                    "color": "black",
+                    "value": 4
+                },
+                {
+                    "color": "brown",
+                    "value": 6.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

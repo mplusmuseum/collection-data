@@ -37,7 +37,7 @@
     "endDate": 1995,
     "dimension": {
         "en": "overall (sight): 27.2 × 37 cm\r\r\nframe: 38 × 48.5 cm",
-        "zh-hant": "整體 （目測）: 27.2 × 37 厘米  連框: 38 × 48.5 厘米"
+        "zh-hant": "整體 （目測）: 27.2 × 37 厘米\r\r\n連框: 38 × 48.5 厘米"
     },
     "medium": {
         "en": "pastel on paper",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 556,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Pastel drawing on greyish green paper depicting two figures in ballet leotards and white tights with their backs turned. One figure is in the left foreground, facing the back of the other figure on the right. They do plies with their left hands on a barre."

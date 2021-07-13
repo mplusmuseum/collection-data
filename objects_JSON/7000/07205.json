@@ -37,7 +37,7 @@
     "endDate": 1984,
     "dimension": {
         "en": "overall: 50.5 × 60.9 cm\r\r\nimage: 37.5 × 56.2 cm",
-        "zh-hant": "整體: 50.5 × 60.9 厘米\r\n圖像: 37.5 × 56.2 厘米"
+        "zh-hant": "整體: 50.5 × 60.9 厘米\r\r\n圖像: 37.5 × 56.2 厘米"
     },
     "medium": {
         "en": "silver-print proof",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong. Gift of Chang, Chao-Tang, 2017",
         "zh-hant": "M+，香港，張照堂捐贈，2017年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1716,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

@@ -26,8 +26,8 @@
         }
     },
     "title": {
-        "en": "Anica mini card phone, model A11",
-        "zh-hant": "Anica 迷你卡片手機，A11型"
+        "en": "Anica card phone, model A11",
+        "zh-hant": "Anica 卡片手機，A11型"
     },
     "displayDate": {
         "en": "2016",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1709,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": [

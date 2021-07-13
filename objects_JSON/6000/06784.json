@@ -26,7 +26,7 @@
         }
     },
     "title": {
-        "en": "Printing proof, Mass Transit Railway Corporation, No Matter What You’re Looking for…Take MTR",
+        "en": "Printing proof, 'No Matter What You’re Looking for…Take MTR', Mass Transit Railway Corporation (Eating Version)",
         "zh-hant": "香港鐵路有限公司「無論想食乜，搭地鐵就得」海報試校樣張"
     },
     "displayDate": {
@@ -36,12 +36,12 @@
     "beginDate": 1992,
     "endDate": 1992,
     "dimension": {
-        "en": "sheet (each, approx.): 51.5 × 72.8 cm\r\r\nimage (each, approx.): 34.2 × 65.9 cm",
-        "zh-hant": "紙本 （各, 約）: 51.5 × 72.8 厘米  圖像 （各, 約）: 34.2 × 65.9 厘米"
+        "en": "sheet: 50.9 × 72.8 cm\r\r\nimage: 32.9 × 65.9 cm",
+        "zh-hant": "紙本: 50.9 × 72.8 厘米\r\r\n圖像: 32.9 × 65.9 厘米"
     },
     "medium": {
-        "en": "offset lithograph",
-        "zh-hant": "柯式石印"
+        "en": "lithograph",
+        "zh-hant": "平版印刷"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2017",
@@ -59,24 +59,25 @@
     "images": [
         {
             "altText": null
-        },
-        {
-            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#EAE0C6",
-                "value": 89.4
+                "color": "#E5DFCF",
+                "value": 67.7
             },
             {
-                "color": "#38322F",
-                "value": 3.4
+                "color": "#3F3936",
+                "value": 21.4
             },
             {
-                "color": "#7E776B",
-                "value": 2.2
+                "color": "#7D756C",
+                "value": 4.8
+            },
+            {
+                "color": "#E6E4D7",
+                "value": 3.9
             }
         ],
         "search": {
@@ -87,15 +88,19 @@
                 },
                 {
                     "color": "gray",
-                    "value": 2.2
+                    "value": 4.8
                 },
                 {
                     "color": "black",
-                    "value": 3.4
+                    "value": 21.4
                 },
                 {
                     "color": "yellow",
                     "value": 89.4
+                },
+                {
+                    "color": "white",
+                    "value": 71.6
                 }
             ]
         }
@@ -104,7 +109,7 @@
         "element": "sheet",
         "unit": "cm",
         "width": 72.8,
-        "height": 51.5,
+        "height": 50.9,
         "depth": null
     }
 }

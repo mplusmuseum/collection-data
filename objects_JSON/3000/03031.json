@@ -37,7 +37,7 @@
     "endDate": 2003,
     "dimension": {
         "en": "sheet: 50.6 × 50.3 cm\r\r\nimage: 48 × 47.9 cm",
-        "zh-hant": "紙本: 50.6 × 50.3 厘米  圖像: 48 × 47.9 厘米"
+        "zh-hant": "紙本: 50.6 × 50.3 厘米\r\r\n圖像: 48 × 47.9 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 522,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph shot at night of a flock of flamingos standing in a body of water in the foreground and on the grass behind, in the right half. Several flamingos appear blurry. The flamingos are reflected in the water. Silhouettes of trees stretch across the middle ground."

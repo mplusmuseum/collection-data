@@ -47,12 +47,94 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 2794,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#B43E40",
+                "value": 26.2
+            },
+            {
+                "color": "#E0D0B6",
+                "value": 17.8
+            },
+            {
+                "color": "#9F393B",
+                "value": 13
+            },
+            {
+                "color": "#CAAC80",
+                "value": 10
+            },
+            {
+                "color": "#7F7667",
+                "value": 8
+            },
+            {
+                "color": "#81806F",
+                "value": 4.2
+            },
+            {
+                "color": "#8D7A5F",
+                "value": 4.1
+            },
+            {
+                "color": "#846552",
+                "value": 3.8
+            },
+            {
+                "color": "#49423E",
+                "value": 3.2
+            },
+            {
+                "color": "#CACCD0",
+                "value": 2.7
+            },
+            {
+                "color": "#D3D7D9",
+                "value": 2.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 39.2
+                },
+                {
+                    "color": "orange",
+                    "value": 27.8
+                },
+                {
+                    "color": "gray",
+                    "value": 12.2
+                },
+                {
+                    "color": "white",
+                    "value": 5.3
+                },
+                {
+                    "color": "black",
+                    "value": 3.2
+                },
+                {
+                    "color": "brown",
+                    "value": 7.9
+                }
+            ]
         }
     },
     "dimensionDetails": {

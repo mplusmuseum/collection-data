@@ -26,8 +26,8 @@
         }
     },
     "title": {
-        "en": "AIEK mini card phone, model mini-V8",
-        "zh-hant": "AIEK迷你卡片手機，mini-V8型"
+        "en": "AIEK card phone, model mini-V8",
+        "zh-hant": "AIEK卡片手機，mini-V8型"
     },
     "displayDate": {
         "en": "2014",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1706,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": [

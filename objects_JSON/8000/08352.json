@@ -39,20 +39,28 @@
     "endDate": 2015,
     "dimension": {
         "en": "frame: 79 × 58.8 × 3.2 cm\r\r\nimage (sight): 60.1 × 39.9 cm",
-        "zh-hant": "連框： 79 × 58.8 × 3.2 厘米\r\n圖像 （目測）： 60.1 × 39.9 厘米"
+        "zh-hant": "連框: 79 × 58.8 × 3.2 厘米\r\r\n圖像 （目測）: 60.1 × 39.9 厘米"
     },
     "medium": {
-        "en": "archival digital print",
-        "zh-hant": "收藏級數碼打印"
+        "en": "inkjet print",
+        "zh-hant": "噴墨印刷"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2756,
+            "role": {
+                "en": "Photographer",
+                "zh-hant": "攝影師"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Photograph of a narrow alley stretching from the dark foreground to the middle ground, which is partially lit. Cables hang from a cluster of pipes, which criss-cross each other above the wet concrete floor. Steps lead towards the viewer's right in the bottom right corner."
         }
     ],
     "color": {

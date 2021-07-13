@@ -32,11 +32,11 @@
         "zh-hant": "可攜帶城市：北京"
     },
     "displayDate": {
-        "en": "2004",
+        "en": "2001",
         "zh-hant": "2004"
     },
-    "beginDate": 2004,
-    "endDate": 2004,
+    "beginDate": 2001,
+    "endDate": 2001,
     "dimension": {
         "en": "overall (open): 66 × 152 × 85 cm\r\r\noverall (closed): 33 × 81 × 87 cm",
         "zh-hant": "整體 （打開）: 66 × 152 × 85 厘米\r\r\n整體 （合上）: 33 × 81 × 87 厘米"
@@ -49,7 +49,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 545,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

@@ -37,7 +37,7 @@
     "endDate": 1953,
     "dimension": {
         "en": "overall (closed): 0.1 × 26.4 × 37.1 cm",
-        "zh-hant": "整體 （合上）: 0.1 × 26.4 × 37 厘米"
+        "zh-hant": "整體 （合上）: 0.1 × 26.4 × 37.1 厘米"
     },
     "medium": {
         "en": "print on paper",
@@ -47,12 +47,168 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 2794,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 2794,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 1671,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E5D8C2",
+                "value": 15.3
+            },
+            {
+                "color": "#DCB269",
+                "value": 10.2
+            },
+            {
+                "color": "#5D8351",
+                "value": 9.6
+            },
+            {
+                "color": "#5F7B90",
+                "value": 6.6
+            },
+            {
+                "color": "#463F3B",
+                "value": 6
+            },
+            {
+                "color": "#D2977A",
+                "value": 5.8
+            },
+            {
+                "color": "#7F6050",
+                "value": 4.7
+            },
+            {
+                "color": "#60758E",
+                "value": 3.8
+            },
+            {
+                "color": "#796E65",
+                "value": 3.6
+            },
+            {
+                "color": "#CCCDB6",
+                "value": 3.3
+            },
+            {
+                "color": "#606D72",
+                "value": 2.9
+            },
+            {
+                "color": "#C4CCD1",
+                "value": 2.8
+            },
+            {
+                "color": "#D36F66",
+                "value": 2.8
+            },
+            {
+                "color": "#867554",
+                "value": 2.7
+            },
+            {
+                "color": "#CACDD3",
+                "value": 2.5
+            },
+            {
+                "color": "#656C79",
+                "value": 2.5
+            },
+            {
+                "color": "#5E6B62",
+                "value": 2.3
+            },
+            {
+                "color": "#3A3A3E",
+                "value": 2.2
+            },
+            {
+                "color": "#493933",
+                "value": 1.4
+            },
+            {
+                "color": "#759BB8",
+                "value": 1.3
+            },
+            {
+                "color": "#3E4543",
+                "value": 1.2
+            },
+            {
+                "color": "#767868",
+                "value": 1.2
+            },
+            {
+                "color": "#7B4C47",
+                "value": 1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 31.4
+                },
+                {
+                    "color": "red",
+                    "value": 3.8
+                },
+                {
+                    "color": "gray",
+                    "value": 15.2
+                },
+                {
+                    "color": "green",
+                    "value": 9.6
+                },
+                {
+                    "color": "white",
+                    "value": 2.5
+                },
+                {
+                    "color": "black",
+                    "value": 10.8
+                },
+                {
+                    "color": "yellow",
+                    "value": 3.3
+                },
+                {
+                    "color": "teal",
+                    "value": 11.6
+                },
+                {
+                    "color": "brown",
+                    "value": 7.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

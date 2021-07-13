@@ -47,12 +47,88 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 2794,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 2794,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 1671,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#DFC590",
+                "value": 48
+            },
+            {
+                "color": "#85704C",
+                "value": 22
+            },
+            {
+                "color": "#C85B3B",
+                "value": 8.4
+            },
+            {
+                "color": "#82583D",
+                "value": 6.4
+            },
+            {
+                "color": "#C7CCD0",
+                "value": 4.2
+            },
+            {
+                "color": "#EEE1C5",
+                "value": 4
+            },
+            {
+                "color": "#CD5132",
+                "value": 3.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 48
+                },
+                {
+                    "color": "red",
+                    "value": 11.9
+                },
+                {
+                    "color": "white",
+                    "value": 4.2
+                },
+                {
+                    "color": "yellow",
+                    "value": 4
+                },
+                {
+                    "color": "brown",
+                    "value": 28.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

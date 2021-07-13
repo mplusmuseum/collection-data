@@ -37,7 +37,7 @@
     "endDate": 2013,
     "dimension": {
         "en": "overall (each, approx. ): 20 × 15 × 5 cm",
-        "zh-hant": "整體約 （各）: 20 × 15 × 5 厘米"
+        "zh-hant": "整體 （各, 約 ）: 20 × 15 × 5 厘米"
     },
     "medium": {
         "en": "wood veneer, light reflective material, glass bead, reactive pigment, resin, and textiles",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1744,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

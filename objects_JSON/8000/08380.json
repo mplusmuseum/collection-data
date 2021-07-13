@@ -37,7 +37,7 @@
     "endDate": 2001,
     "dimension": {
         "en": "167.6 × 548.6 × 426.7 cm",
-        "zh-hant": "167.6 × 548.6 × 426.7厘米"
+        "zh-hant": "167.6 × 548.6 × 426.7 厘米"
     },
     "medium": {
         "en": "Plexiglas, foam core board, projections, and lamps",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2778,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

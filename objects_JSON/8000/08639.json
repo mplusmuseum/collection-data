@@ -47,12 +47,120 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 2794,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 2794,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 1671,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D2694A",
+                "value": 15.2
+            },
+            {
+                "color": "#E2E4D0",
+                "value": 15.1
+            },
+            {
+                "color": "#CB4C39",
+                "value": 15.1
+            },
+            {
+                "color": "#EFE3C9",
+                "value": 12.7
+            },
+            {
+                "color": "#E6D493",
+                "value": 10
+            },
+            {
+                "color": "#E5D987",
+                "value": 6.5
+            },
+            {
+                "color": "#CB4031",
+                "value": 3.1
+            },
+            {
+                "color": "#3C3B31",
+                "value": 3
+            },
+            {
+                "color": "#C0C674",
+                "value": 2.9
+            },
+            {
+                "color": "#CED4D6",
+                "value": 2.8
+            },
+            {
+                "color": "#463F2D",
+                "value": 2.3
+            },
+            {
+                "color": "#7C4833",
+                "value": 1.8
+            },
+            {
+                "color": "#81864D",
+                "value": 1.8
+            },
+            {
+                "color": "#9D3E33",
+                "value": 1.7
+            },
+            {
+                "color": "#837F47",
+                "value": 1.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 35
+                },
+                {
+                    "color": "white",
+                    "value": 17.9
+                },
+                {
+                    "color": "yellow",
+                    "value": 32.1
+                },
+                {
+                    "color": "black",
+                    "value": 3
+                },
+                {
+                    "color": "brown",
+                    "value": 7.5
+                }
+            ]
         }
     },
     "dimensionDetails": {

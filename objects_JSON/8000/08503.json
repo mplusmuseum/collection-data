@@ -37,7 +37,7 @@
     "endDate": 1959,
     "dimension": {
         "en": "overall (mount board): 37.1 × 52.5 cm\r\nsheet: 26.4 × 38.7 cm",
-        "zh-hant": "整體 （連板）: 37.1 × 52.5 厘米 紙本: 26.4 × 38.7 厘米"
+        "zh-hant": "整體 （連板）: 37.1 × 52.5 厘米\r\n紙本: 26.4 × 38.7 厘米"
     },
     "medium": {
         "en": "hand-painted colour photograph",
@@ -47,10 +47,39 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2797,
+            "role": {
+                "en": "Architectural Firm",
+                "zh-hant": "建築師事務所"
+            }
+        },
+        {
+            "id": 2798,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 2799,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 1675,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Hand-painted colour photograph showing the interior of a brightly lit, spacious entrance hall with reflective floor tiles. Chandeliers hang from the white coffered ceiling in the upper half. Green plants in blue and white pots on wooden stands are between large doorways on the viewer's right. ."
         }
     ],
     "color": {

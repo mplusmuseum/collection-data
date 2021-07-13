@@ -37,7 +37,7 @@
     "endDate": 1962,
     "dimension": {
         "en": "overall: 60.8 × 50.5 cm\r\r\nimage: 56 × 45.7 cm",
-        "zh-hant": "整體: 60.8 × 50.5 厘米\r\n圖像: 56 × 45.7 厘米"
+        "zh-hant": "整體: 60.8 × 50.5 厘米\r\r\n圖像: 56 × 45.7 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1716,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

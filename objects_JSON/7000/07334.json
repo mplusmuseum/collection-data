@@ -37,7 +37,7 @@
     "endDate": 1999,
     "dimension": {
         "en": "frame: 124.9 × 99.3 × 2 cm\r\r\nsheet: 113.5 × 88 cm",
-        "zh-hant": "連框: 124.9 × 99.3 × 2 厘米  紙本: 113.5 × 88 厘米"
+        "zh-hant": "連框: 124.9 × 99.3 × 2 厘米\r\r\n紙本: 113.5 × 88 厘米"
     },
     "medium": {
         "en": "chromogenic print",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1755,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Colour print of a large pink tropical flower displayed over a background of Hong Kong’s Victoria Harbour under a blue sky. Fine cracks appear across the work, imitating the surface of an old oil painting."

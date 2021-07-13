@@ -37,7 +37,7 @@
     "endDate": 1998,
     "dimension": {
         "en": "sheet: 95.4 × 127.1 cm\r\r\nimage: 90.1 × 120.1 cm",
-        "zh-hant": "紙本: 95.4 × 127.1 厘米  圖像: 90.1 × 120.1 厘米"
+        "zh-hant": "紙本: 95.4 × 127.1 厘米\r\r\n圖像: 90.1 × 120.1 厘米"
     },
     "medium": {
         "en": "chromogenic print",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 485,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Photograph of three small clay figures and a wooden figure. On the viewer’s right, a clay figure in front of red fabric sits with its head tilted towards a bald clay figure. The wooden figure stands behind the red fabric. On the left is the rear view of a clay figure."

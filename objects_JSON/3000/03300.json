@@ -37,7 +37,7 @@
     "endDate": 2002,
     "dimension": {
         "en": "sheet: 50.5 × 51 cm\r\r\nimage: 48 × 48 cm",
-        "zh-hant": "紙本: 50.5 × 51 厘米  圖像: 48 × 48 厘米"
+        "zh-hant": "紙本: 50.5 × 51 厘米\r\r\n圖像: 48 × 48 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 522,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph shot at night of lotus flower and leave-shaped luminous structures in water in the upper half. The water in the lower half features the back of a shadowy waterbird. Shrubs are on the viewer's right. Flower-shaped luminous structures on poles stand on the ground in the upper left."

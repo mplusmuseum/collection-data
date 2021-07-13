@@ -27,7 +27,7 @@
     },
     "title": {
         "en": "Panda radio, model 601",
-        "zh-hant": "熊貓牌601型收音機"
+        "zh-hant": "熊貓牌收音機，601型"
     },
     "displayDate": {
         "en": "1956",
@@ -37,20 +37,28 @@
     "endDate": 1956,
     "dimension": {
         "en": "overall: 27 × 40 × 20 cm",
-        "zh-hant": "整體: 22.6 × 39 × 18 厘米"
+        "zh-hant": "整體: 27 × 40 × 20 厘米"
     },
     "medium": {
         "en": "bakelite, electronic parts, and fabric",
-        "zh-hant": "塑膠、電子零件、布料"
+        "zh-hant": "電木、電子零件、布料"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1745,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
-            "altText": null
+            "altText": "Radio made out of Bakelite, electronic parts, and fabric with a black, rectangular body and slightly wider base. Two windows in the upper half of the rectangular, white casing facing viewers show the gold striped fabric covering the speaker. The lower half features a frequency display between two silver dials."
         }
     ],
     "color": {

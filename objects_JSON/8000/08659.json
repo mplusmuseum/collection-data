@@ -37,7 +37,7 @@
     "endDate": 1956,
     "dimension": {
         "en": "overall (closed): 0.1 × 25.5 × 33.3 cm",
-        "zh-hant": "整體 （合上）: 0.1 × 25.7 × 33.3 厘米"
+        "zh-hant": "整體 （合上）: 0.1 × 25.5 × 33.3 厘米"
     },
     "medium": {
         "en": "print on paper",
@@ -47,12 +47,84 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [],
+    "constituents": [
+        {
+            "id": 2794,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 2794,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 2801,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C1C3B0",
+                "value": 17.5
+            },
+            {
+                "color": "#878A79",
+                "value": 17
+            },
+            {
+                "color": "#A7B7A8",
+                "value": 15.6
+            },
+            {
+                "color": "#EBE1CE",
+                "value": 13.6
+            },
+            {
+                "color": "#8F9C8F",
+                "value": 13.4
+            },
+            {
+                "color": "#6C675E",
+                "value": 7.7
+            },
+            {
+                "color": "#4A473F",
+                "value": 7.2
+            },
+            {
+                "color": "#CED4D7",
+                "value": 5.3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 71.2
+                },
+                {
+                    "color": "white",
+                    "value": 18.9
+                },
+                {
+                    "color": "black",
+                    "value": 7.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

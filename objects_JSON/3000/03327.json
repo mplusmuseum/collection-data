@@ -37,7 +37,7 @@
     "endDate": 2009,
     "dimension": {
         "en": "dimensions variable",
-        "zh-hant": "尺寸不一"
+        "zh-hant": "尺寸可變"
     },
     "medium": {
         "en": "wood",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 535,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Installation consisting of hundreds of bare twigs sticking up out of the floor like a miniature forest of knobby trees."

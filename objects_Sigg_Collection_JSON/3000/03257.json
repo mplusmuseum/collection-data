@@ -37,7 +37,7 @@
     "endDate": 2007,
     "dimension": {
         "en": "overall: 314 × 92.5 × 3.3 cm\r\r\nimage: 314 × 84.4 cm",
-        "zh-hant": "整體: 314 × 92.5 × 3.3 厘米  圖像: 314 × 84.4 厘米"
+        "zh-hant": "整體: 314 × 92.5 × 3.3 厘米\r\r\n圖像: 314 × 84.4 厘米"
     },
     "medium": {
         "en": "oil on paper",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 603,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Oil painting on paper depicting mostly Chinese and some English gold texts of different sizes and typefaces. Several of the texts on the vertically orientated scroll are framed with a rectangular border. A yellow octagon with black text is in the middle, below a fan featuring a landscape painting."

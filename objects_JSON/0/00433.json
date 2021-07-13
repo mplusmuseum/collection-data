@@ -37,7 +37,7 @@
     "endDate": 1992,
     "dimension": {
         "en": "sheet (sight): 68.4 × 97.5 cm\r\r\nimage (sight): 58.7 × 88 cm\r\r\nframe: 73.6 × 102.5 × 4.8 cm",
-        "zh-hant": "框架: 73.5 × 102.5 × 4.7 厘米\r\r\n圖像: 58.5 × 88 厘米"
+        "zh-hant": "紙本 （目測）: 68.4 × 97.5 厘米\r\r\n圖像 （目測）: 58.7 × 88 厘米\r\r\n連框: 73.6 × 102.5 × 4.8 厘米"
     },
     "medium": {
         "en": "print on archvial paper",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong. Gift of Liu Heung-Shing, 2012",
         "zh-hant": "M+，香港，劉香成捐贈，2012年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 496,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

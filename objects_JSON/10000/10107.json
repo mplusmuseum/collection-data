@@ -58,11 +58,97 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Film still showing two women side by side. The woman in the left is white and is wearing an old-fashioned dress, staring straight ahead with a determined expression. The woman on the right is black and is dressed in an old-fashioned maid’s uniform. She is looking at the woman on the left and is saying something to her."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#312D29",
+                "value": 15.5
+            },
+            {
+                "color": "#2B2417",
+                "value": 14.1
+            },
+            {
+                "color": "#7E7368",
+                "value": 12.7
+            },
+            {
+                "color": "#31241C",
+                "value": 8.8
+            },
+            {
+                "color": "#CBBFAE",
+                "value": 8.3
+            },
+            {
+                "color": "#707D73",
+                "value": 6
+            },
+            {
+                "color": "#735847",
+                "value": 4.8
+            },
+            {
+                "color": "#1E1403",
+                "value": 4.6
+            },
+            {
+                "color": "#D9A28B",
+                "value": 4.2
+            },
+            {
+                "color": "#6B5C48",
+                "value": 4.1
+            },
+            {
+                "color": "#76796B",
+                "value": 2.8
+            },
+            {
+                "color": "#1B1E12",
+                "value": 2.6
+            },
+            {
+                "color": "#1E0E03",
+                "value": 2.3
+            },
+            {
+                "color": "#313933",
+                "value": 2.2
+            },
+            {
+                "color": "#A1C0C2",
+                "value": 1.2
+            },
+            {
+                "color": "#121910",
+                "value": 1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 4.2
+                },
+                {
+                    "color": "gray",
+                    "value": 30.9
+                },
+                {
+                    "color": "black",
+                    "value": 51.2
+                },
+                {
+                    "color": "brown",
+                    "value": 8.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -37,7 +37,7 @@
     "endDate": 2002,
     "dimension": {
         "en": "sheet: 50.6 × 50.6 cm\r\r\nimage: 48 × 47.9 cm",
-        "zh-hant": "紙本: 50.6 × 50.6 厘米  圖像: 48 × 47.9 厘米"
+        "zh-hant": "紙本: 50.6 × 50.6 厘米\r\r\n圖像: 48 × 47.9 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 522,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of a translucent catlike animal sitting upright in the right half. It appears to be superimposed on a night view of an area surrounded by trees. The ground behind a pole ladder in the middle slopes slightly upwards. A pylon and power lines are in the background."

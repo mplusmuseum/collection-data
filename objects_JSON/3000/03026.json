@@ -37,7 +37,7 @@
     "endDate": 2005,
     "dimension": {
         "en": "overall: 49.6 × 60.9 cm\r\r\nimage: 21 × 56.2 cm",
-        "zh-hant": "整體: 49.6 × 60.9 厘米  圖像: 21 × 56.2 厘米"
+        "zh-hant": "整體: 49.6 × 60.9 厘米\r\r\n圖像: 21 × 56.2 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 506,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome and horizontally-orientated photograph of a muddy open field with areas of grass. On the viewer's left, piles of bags containing sand or soil form a line into the distance. The bags in the foreground are opened."
