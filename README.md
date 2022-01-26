@@ -4,7 +4,7 @@ M+ is building a collection of twentieth and twenty-first century visual culture
 
 M+ is embracing the practice of open access and working towards releasing as much of our collections metadata as possible. Our goal is to unlock the museum’s institutional knowledge and release it into the public domain, driven by M+’s mission as a public institution. Read more about our open access journey [here](https://medium.com/mpluslabs/open-access-ahead-8dfe9984344d). 
 
-This dataset contains textual information for about 2,200 records from the M+ Collections and will be updated periodically as the museum conducts further research and accessions works. It includes basic metadata for each artwork, including accession number, title, date, classification, medium, and dimensions.
+This dataset contains textual information for about 9,300 records from the M+ Collections and will be updated periodically as the museum conducts further research and accessions works. It includes basic metadata for each artwork, including accession number, title, date, classification, medium, and dimensions.
 
 At this time, the dataset is available in CSV format, encoded in UTF-8. While UTF-8 is the standard for multilingual character encodings, it is not correctly interpreted by Excel on a Mac. Users of Excel on a Mac can convert the UTF-8 to UTF-16 so the file can be imported correctly. The dataset is also available in JSON.
 
@@ -50,7 +50,7 @@ M+正以立足香港、放眼全球的視野，致力建立二十及二十一世
 
 M+積極實踐「開放取用」，盡量發佈更多藏品元數據。M+作為公共機構，以將博物館的知識發放至公共領域為己任。更多有關本館「開放取用」計劃的進程，可點擊[這裏](https://medium.com/mpluslabs/open-access-ahead-8dfe9984344d)參閱。
 
-本數據集包含約2,200項M+藏品的文字紀錄。隨着博物館繼續進行研究工作和新藏品登記入冊，數據集亦將定期更新。數據集內存每件作品的基本元數據，包括登記號碼、標題、日期、類別、媒介及尺寸。
+本數據集包含約9,300項M+藏品的文字紀錄。隨着博物館繼續進行研究工作和新藏品登記入冊，數據集亦將定期更新。數據集內存每件作品的基本元數據，包括登記號碼、標題、日期、類別、媒介及尺寸。
 數據集以UTF-8編碼，現時可以CSV格式下載。UTF-8是標準的編碼格式，通用於多種語言字元，惟Mac系統的Excel檔案不能正確顯示此編碼。Mac系統的用戶可將UTF-8編碼轉換為UTF-16編碼，以順利讀取Excel檔案。數據集亦可以JSON格式下載。
 
 本數據集按CC0 1.0通用授權條款存放到公共領域。
