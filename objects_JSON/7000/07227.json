@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -18,7 +18,7 @@
                 "Print"
             ],
             "zh-hant": [
-                "設計物件",
+                "設計品",
                 "版畫"
             ]
         },
@@ -49,7 +49,29 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2955,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 2986,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
+            }
+        },
+        {
+            "id": 2987,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Beer label made of foil and paper depicting a logo of waves below a red sun with radiating beams that extend to a frame of gold foil. The word 'ASAHI' is featured below the logo and within the frame. Four lines of Japanese text are printed below the frame."

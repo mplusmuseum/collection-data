@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -33,7 +33,7 @@
         "en": "designed 2007, made 2008",
         "zh-hant": "2007年設計，2008年製造"
     },
-    "beginDate": 2008,
+    "beginDate": 2007,
     "endDate": 2008,
     "dimension": {
         "en": "overall (base): 32.8 × 21.4 × 21.4 cm\r\r\neach (speaker): 30.5 × 13.3 × 13.3 cm",
@@ -47,7 +47,22 @@
         "en": "M+, Hong Kong. Gift of Michael Young, 2014",
         "zh-hant": "M+，香港，邁克爾．揚捐贈，2014年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 552,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 5223,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

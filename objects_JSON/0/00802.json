@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -47,14 +47,16 @@
         "en": "M+, Hong Kong. Gift of Michael Young, 2014",
         "zh-hant": "M+，香港，邁克爾．揚捐贈，2014年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 552,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        }
+    ],
     "images": [
-        {
-            "altText": null
-        },
-        {
-            "altText": null
-        },
         {
             "altText": null
         },

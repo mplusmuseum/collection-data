@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -50,6 +50,13 @@
     "constituents": [
         {
             "id": 1245,
+            "role": {
+                "en": "Architect",
+                "zh-hant": "建築師"
+            }
+        },
+        {
+            "id": 1535,
             "role": {
                 "en": "Architect",
                 "zh-hant": "建築師"

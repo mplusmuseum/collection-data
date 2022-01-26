@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -40,14 +40,29 @@
         "zh-hant": "整體: 17.7 × 29 × 29 厘米"
     },
     "medium": {
-        "en": "aluminium alloy and electronic parts",
+        "en": "aluminium alloy and electronic components",
         "zh-hant": "鋁合金及電子零件"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2938,
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
+        },
+        {
+            "id": 5222,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

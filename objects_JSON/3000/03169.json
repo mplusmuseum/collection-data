@@ -49,8 +49,28 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 607,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
         {
             "altText": null
         }
@@ -58,100 +78,72 @@
     "color": {
         "predominant": [
             {
-                "color": "#2D2C2A",
-                "value": 20.8
+                "color": "#17171B",
+                "value": 21.8
             },
             {
-                "color": "#727267",
-                "value": 12.1
+                "color": "#15161F",
+                "value": 16.4
             },
             {
-                "color": "#F4F4F1",
-                "value": 8.5
+                "color": "#191717",
+                "value": 11.7
             },
             {
-                "color": "#27262B",
-                "value": 8.2
+                "color": "#BABBB3",
+                "value": 11.6
             },
             {
-                "color": "#77716C",
+                "color": "#70523F",
                 "value": 7.3
             },
             {
-                "color": "#1A1D28",
-                "value": 6.3
+                "color": "#7D7571",
+                "value": 5.1
             },
             {
-                "color": "#2B1D1A",
-                "value": 4
+                "color": "#191C1C",
+                "value": 3.2
             },
             {
-                "color": "#E1DBDA",
-                "value": 3.8
+                "color": "#3D2D26",
+                "value": 3.2
             },
             {
-                "color": "#72737D",
-                "value": 3.4
+                "color": "#D0CDCB",
+                "value": 3
             },
             {
-                "color": "#2D3330",
-                "value": 2.8
+                "color": "#96978F",
+                "value": 2.9
             },
             {
-                "color": "#765A4C",
-                "value": 2.3
+                "color": "#CCD4E5",
+                "value": 2.6
             },
             {
-                "color": "#282419",
-                "value": 2.3
+                "color": "#F0F8FA",
+                "value": 2.5
             },
             {
-                "color": "#707B80",
-                "value": 2.1
+                "color": "#E6EDE7",
+                "value": 1.1
             },
             {
-                "color": "#758079",
-                "value": 2.1
-            },
-            {
-                "color": "#CCD8DB",
-                "value": 1.5
-            },
-            {
-                "color": "#CACCD7",
-                "value": 1.5
-            },
-            {
-                "color": "#D4DCD7",
+                "color": "#73747D",
                 "value": 1
             },
             {
-                "color": "#1A1D13",
-                "value": 1
+                "color": "#0E1215",
+                "value": 0.9
             },
             {
-                "color": "#797178",
-                "value": 0.8
-            },
-            {
-                "color": "#1B261A",
-                "value": 0.7
-            },
-            {
-                "color": "#75424E",
-                "value": 0.7
-            },
-            {
-                "color": "#444E68",
-                "value": 0.7
-            },
-            {
-                "color": "#6B5B42",
+                "color": "#E3DEE2",
                 "value": 0.6
             },
             {
-                "color": "#1F322B",
-                "value": 0.5
+                "color": "#2F281C",
+                "value": 0.6
             }
         ],
         "search": {
@@ -162,11 +154,11 @@
                 },
                 {
                     "color": "gray",
-                    "value": 27.8
+                    "value": 20.6
                 },
                 {
                     "color": "white",
-                    "value": 16.3
+                    "value": 9.7
                 },
                 {
                     "color": "blue",
@@ -174,11 +166,11 @@
                 },
                 {
                     "color": "black",
-                    "value": 46.7
+                    "value": 57.7
                 },
                 {
                     "color": "brown",
-                    "value": 2.9
+                    "value": 7.3
                 }
             ]
         }

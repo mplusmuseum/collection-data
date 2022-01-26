@@ -26,7 +26,7 @@
         }
     },
     "title": {
-        "en": "Rock arrangement at the Central Gate",
+        "en": "Rock Arrangement at the Central Gate",
         "zh-hant": "中門前的石組"
     },
     "displayDate": {
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 904,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": null,

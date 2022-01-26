@@ -43,7 +43,7 @@
     },
     "medium": {
         "en": "single-channel digital video (colour, silent)",
-        "zh-hant": "單頻道數碼錄像（彩色，無聲）"
+        "zh-hant": "單頻道數碼錄像（彩色、無聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -61,120 +61,125 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#767C8B",
+                "color": "#825251",
+                "value": 18.4
+            },
+            {
+                "color": "#425175",
                 "value": 14.5
             },
             {
-                "color": "#6E7A83",
-                "value": 11.7
+                "color": "#CEACAC",
+                "value": 8.7
             },
             {
-                "color": "#BAC3D1",
-                "value": 11.3
+                "color": "#D08D87",
+                "value": 8.5
             },
             {
-                "color": "#AEC1D1",
-                "value": 11.1
+                "color": "#DA917C",
+                "value": 6.9
             },
             {
-                "color": "#080707",
-                "value": 9.8
+                "color": "#897173",
+                "value": 6.8
             },
             {
-                "color": "#CA8780",
-                "value": 6.5
+                "color": "#6A6B7A",
+                "value": 6
             },
             {
-                "color": "#DB9988",
-                "value": 5.9
+                "color": "#293047",
+                "value": 5.4
             },
             {
-                "color": "#351E1E",
-                "value": 4.7
+                "color": "#8A5444",
+                "value": 3.9
             },
             {
-                "color": "#887D7B",
-                "value": 2.3
+                "color": "#4A2D30",
+                "value": 3.4
             },
             {
-                "color": "#191C28",
-                "value": 2.3
+                "color": "#B2B8CA",
+                "value": 2.6
             },
             {
-                "color": "#BACCB5",
-                "value": 2.1
+                "color": "#819DC7",
+                "value": 2.6
             },
             {
-                "color": "#687A99",
-                "value": 2
+                "color": "#3F3B45",
+                "value": 2.2
             },
             {
-                "color": "#2A282E",
-                "value": 2
+                "color": "#776972",
+                "value": 1.4
             },
             {
-                "color": "#7D4A46",
-                "value": 1.9
-            },
-            {
-                "color": "#C7B2AB",
-                "value": 1.9
-            },
-            {
-                "color": "#9EBDD9",
-                "value": 1.5
-            },
-            {
-                "color": "#727B70",
+                "color": "#779284",
                 "value": 1.2
             },
             {
-                "color": "#845C4F",
-                "value": 0.8
+                "color": "#ADCCB3",
+                "value": 1
             },
             {
-                "color": "#566876",
-                "value": 0.8
+                "color": "#B7C4C6",
+                "value": 1
             },
             {
-                "color": "#8D838B",
-                "value": 0.7
+                "color": "#757F81",
+                "value": 0.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 14
+                    "value": 34.2
                 },
                 {
                     "color": "orange",
-                    "value": 5.9
+                    "value": 6.9
                 },
                 {
                     "color": "gray",
-                    "value": 55.6
+                    "value": 18.7
                 },
                 {
                     "color": "green",
-                    "value": 2.1
+                    "value": 1
                 },
                 {
                     "color": "blue",
-                    "value": 2
+                    "value": 19.8
                 },
                 {
                     "color": "black",
-                    "value": 14.1
+                    "value": 2.2
                 },
                 {
                     "color": "teal",
-                    "value": 1.5
+                    "value": 3.8
+                },
+                {
+                    "color": "pink",
+                    "value": 8.7
                 }
             ]
         }

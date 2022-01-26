@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -17,7 +17,7 @@
                 "Design Object"
             ],
             "zh-hant": [
-                "設計物件"
+                "設計品"
             ]
         },
         "archivalLevel": {
@@ -47,7 +47,22 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2955,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 2956,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Two dark blue cigarette boxes lie side by side against a white background. The box on the left depicts Japanese characters printed vertically on its cover. The box on the right depicts a golden dove with an olive branch in its beak and text underneath that reads 'Peace cigarettes'."

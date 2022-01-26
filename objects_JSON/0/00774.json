@@ -40,7 +40,7 @@
     "beginDate": 1999,
     "endDate": 2003,
     "dimension": {
-        "en": "overall: 255 × 171 × 5 cm",
+        "en": "overall: 255.8 × 1532.2 × 5.1 cm",
         "zh-hant": "整體: 255 × 171 × 5 厘米"
     },
     "medium": {
@@ -51,7 +51,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 525,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Acrylic and ink wall-sized painting composed of nine side-by-side panels, each densely packed with Chinese and English characters rendered in thick black ink. In the upper right corner, on the last two panels at our far right, the characters are faded, like a grey shadow."
@@ -132,8 +140,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 171,
-        "height": 255,
-        "depth": 5
+        "width": 1532.2,
+        "height": 255.8,
+        "depth": 5.1
     }
 }

@@ -21,7 +21,7 @@
             ],
             "zh-hant": [
                 "錄像",
-                "行為"
+                "行為展演"
             ]
         },
         "archivalLevel": {
@@ -60,11 +60,104 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": "A blindfolded woman sits on a chair with her legs spread. She wears a lacy white brassiere and a long white skirt that has been rolled up and is held in place so that her genitals are exposed. Her genitals are covered in white shaving cream. She holds a razor that is being dipped into a cup of water."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#272623",
+                "value": 30
+            },
+            {
+                "color": "#2B262D",
+                "value": 16.8
+            },
+            {
+                "color": "#272B28",
+                "value": 13.2
+            },
+            {
+                "color": "#7D1612",
+                "value": 9.5
+            },
+            {
+                "color": "#321D1B",
+                "value": 5.5
+            },
+            {
+                "color": "#85663C",
+                "value": 4.9
+            },
+            {
+                "color": "#2F2534",
+                "value": 2.8
+            },
+            {
+                "color": "#7C5537",
+                "value": 2.3
+            },
+            {
+                "color": "#342C1D",
+                "value": 2.1
+            },
+            {
+                "color": "#C5AB7D",
+                "value": 2
+            },
+            {
+                "color": "#DFCCB2",
+                "value": 1.7
+            },
+            {
+                "color": "#281B25",
+                "value": 1.2
+            },
+            {
+                "color": "#2C2737",
+                "value": 1
+            },
+            {
+                "color": "#515B5F",
+                "value": 0.9
+            },
+            {
+                "color": "#451211",
+                "value": 0.8
+            },
+            {
+                "color": "#606C63",
+                "value": 0.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 10.3
+                },
+                {
+                    "color": "orange",
+                    "value": 3.7
+                },
+                {
+                    "color": "gray",
+                    "value": 1.7
+                },
+                {
+                    "color": "black",
+                    "value": 72.5
+                },
+                {
+                    "color": "brown",
+                    "value": 7.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -17,7 +17,7 @@
                 "Design Object"
             ],
             "zh-hant": [
-                "設計物件"
+                "設計品"
             ]
         },
         "archivalLevel": {
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1353,
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

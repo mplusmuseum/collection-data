@@ -44,7 +44,7 @@
         "zh-hant": "影片長度: 10 分 23 秒"
     },
     "medium": {
-        "en": "single-channel Betacam tape transferred to digital video (colour, sound)",
+        "en": "single-channel Betacam transferred to digital video (colour, sound)",
         "zh-hant": "單頻道數碼錄像（彩色，有聲）"
     },
     "creditLine": {
@@ -63,56 +63,76 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#CD9444",
-                "value": 35.3
+                "color": "#EEC161",
+                "value": 36.8
             },
             {
-                "color": "#824014",
-                "value": 15.2
+                "color": "#C6871E",
+                "value": 21.5
             },
             {
-                "color": "#B97B28",
+                "color": "#FCF297",
                 "value": 10.4
             },
             {
-                "color": "#C17C44",
-                "value": 10.2
+                "color": "#83380B",
+                "value": 8.8
             },
             {
-                "color": "#965E19",
-                "value": 10.1
+                "color": "#310602",
+                "value": 6.6
             },
             {
-                "color": "#91562F",
-                "value": 7.6
+                "color": "#9C5D09",
+                "value": 5.4
             },
             {
-                "color": "#411605",
-                "value": 4.8
+                "color": "#CC8551",
+                "value": 2.8
             },
             {
-                "color": "#9D6B30",
-                "value": 3
+                "color": "#8C5232",
+                "value": 2
+            },
+            {
+                "color": "#650C05",
+                "value": 1.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "orange",
-                    "value": 55.9
+                    "value": 61.1
                 },
                 {
                     "color": "red",
-                    "value": 4.8
+                    "value": 8.2
                 },
                 {
                     "color": "brown",
-                    "value": 35.9
+                    "value": 16.2
+                },
+                {
+                    "color": "yellow",
+                    "value": 10.4
                 }
             ]
         }

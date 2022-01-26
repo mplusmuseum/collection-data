@@ -41,13 +41,21 @@
     },
     "medium": {
         "en": "ink on paper",
-        "zh-hant": "水墨紙本"
+        "zh-hant": "墨水紙本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 603,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Ink painting on paper showing Chinese characters written with bold and expressive brushstrokes and ink splashes. A rectangular sheet featuring an image with Chinese characters printed on top is placed in the middle of the vertically-orientated scroll. The bottom quarter of the scroll remains blank."

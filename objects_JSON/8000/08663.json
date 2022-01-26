@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書藉/期刊"
+                "書籍/期刊"
             ]
         },
         "archivalLevel": {
@@ -26,12 +26,12 @@
         }
     },
     "title": {
-        "en": "Manhua, vol. 72",
-        "zh-hant": null
+        "en": null,
+        "zh-hant": "漫畫半月刊 ：總七十二期"
     },
     "displayDate": {
-        "en": "1956",
-        "zh-hant": "1956"
+        "en": "September 1956",
+        "zh-hant": "1956年9月"
     },
     "beginDate": 1956,
     "endDate": 1956,
@@ -52,14 +52,21 @@
             "id": 2794,
             "role": {
                 "en": "Artist",
-                "zh-hant": "藝術家"
+                "zh-hant": "編輯／剪接"
             }
         },
         {
-            "id": 2795,
+            "id": 5394,
             "role": {
-                "en": "Publisher",
-                "zh-hant": "出版社"
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 2794,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
             }
         },
         {

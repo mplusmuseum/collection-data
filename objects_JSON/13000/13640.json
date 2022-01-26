@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -45,11 +45,11 @@
     },
     "medium": {
         "en": "ink on paper",
-        "zh-hant": "ink on paper"
+        "zh-hant": "墨水紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Kurita Shigetaka, 2018",
-        "zh-hant": "M+, Hong Kong. Gift of Kurita Shigetaka, 2018"
+        "zh-hant": "M+，香港，栗田穣崇捐贈，2018年"
     },
     "constituents": [
         {
@@ -67,11 +67,45 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E3E3E3",
+                "value": 31.6
+            },
+            {
+                "color": "#E2E2E4",
+                "value": 24
+            },
+            {
+                "color": "#E2E4E4",
+                "value": 17.2
+            },
+            {
+                "color": "#E3E4E2",
+                "value": 13.6
+            },
+            {
+                "color": "#E3E4E3",
+                "value": 6.8
+            },
+            {
+                "color": "#E3E2E3",
+                "value": 6.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 99.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

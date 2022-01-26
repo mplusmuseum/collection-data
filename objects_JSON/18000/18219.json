@@ -58,11 +58,87 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#12110F",
+                "value": 45.2
+            },
+            {
+                "color": "#2B2F2F",
+                "value": 18.9
+            },
+            {
+                "color": "#2F2F34",
+                "value": 10.2
+            },
+            {
+                "color": "#281B18",
+                "value": 5.2
+            },
+            {
+                "color": "#1E1A14",
+                "value": 3.6
+            },
+            {
+                "color": "#BC1A15",
+                "value": 2.5
+            },
+            {
+                "color": "#5B626E",
+                "value": 2
+            },
+            {
+                "color": "#5B676E",
+                "value": 1.9
+            },
+            {
+                "color": "#8B130E",
+                "value": 1.8
+            },
+            {
+                "color": "#567BC8",
+                "value": 1.7
+            },
+            {
+                "color": "#240602",
+                "value": 1.3
+            },
+            {
+                "color": "#4F6080",
+                "value": 1.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 5.6
+                },
+                {
+                    "color": "gray",
+                    "value": 3.9
+                },
+                {
+                    "color": "blue",
+                    "value": 2.9
+                },
+                {
+                    "color": "black",
+                    "value": 83.2
+                }
+            ]
         }
     },
     "dimensionDetails": null

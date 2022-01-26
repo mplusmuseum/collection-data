@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -49,7 +49,7 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Kurita Shigetaka, 2018",
-        "zh-hant": "M+, Hong Kong. Gift of Kurita Shigetaka, 2018"
+        "zh-hant": "M+，香港，栗田穣崇捐贈，2018年"
     },
     "constituents": [
         {
@@ -67,11 +67,69 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E3E3E5",
+                "value": 30
+            },
+            {
+                "color": "#E5E4E4",
+                "value": 20.1
+            },
+            {
+                "color": "#E5E7E7",
+                "value": 19.7
+            },
+            {
+                "color": "#E5E3E5",
+                "value": 5.2
+            },
+            {
+                "color": "#E6E6E5",
+                "value": 4.8
+            },
+            {
+                "color": "#322E2D",
+                "value": 4.4
+            },
+            {
+                "color": "#E6E7E6",
+                "value": 4.1
+            },
+            {
+                "color": "#7D7875",
+                "value": 3.2
+            },
+            {
+                "color": "#2F2E32",
+                "value": 2.8
+            },
+            {
+                "color": "#7A7B81",
+                "value": 2.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 5.9
+                },
+                {
+                    "color": "white",
+                    "value": 83.9
+                },
+                {
+                    "color": "black",
+                    "value": 7.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

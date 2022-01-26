@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -17,7 +17,7 @@
                 "Design Object"
             ],
             "zh-hant": [
-                "設計物件"
+                "設計品"
             ]
         },
         "archivalLevel": {
@@ -41,13 +41,21 @@
     },
     "medium": {
         "en": "plastic and electronic parts",
-        "zh-hant": "塑膠、電子零件"
+        "zh-hant": "塑膠及電子零件"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2953,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Pencil sharpener made out of plastic and electronic parts with a cuboid form, which is rounded on the side facing viewers. The words 'ROBO for curious KIDS' is printed on the transparent compartment. The top features a blue triangle with a hole, a red square with a hole, and a yellow button behind."

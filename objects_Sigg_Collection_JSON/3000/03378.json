@@ -21,7 +21,7 @@
             ],
             "zh-hant": [
                 "錄像",
-                "行為"
+                "行為展演"
             ]
         },
         "archivalLevel": {
@@ -60,11 +60,105 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#81573D",
+                "value": 23.6
+            },
+            {
+                "color": "#292822",
+                "value": 19.4
+            },
+            {
+                "color": "#BE8969",
+                "value": 18.9
+            },
+            {
+                "color": "#412A21",
+                "value": 9.5
+            },
+            {
+                "color": "#2F341F",
+                "value": 8.4
+            },
+            {
+                "color": "#302C1F",
+                "value": 7.4
+            },
+            {
+                "color": "#766F66",
+                "value": 1.9
+            },
+            {
+                "color": "#773033",
+                "value": 1.1
+            },
+            {
+                "color": "#DBC8BB",
+                "value": 1.1
+            },
+            {
+                "color": "#6F7063",
+                "value": 1
+            },
+            {
+                "color": "#695B47",
+                "value": 1
+            },
+            {
+                "color": "#E32938",
+                "value": 1
+            },
+            {
+                "color": "#212520",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 18.9
+                },
+                {
+                    "color": "red",
+                    "value": 2.1
+                },
+                {
+                    "color": "gray",
+                    "value": 2.9
+                },
+                {
+                    "color": "white",
+                    "value": 1.1
+                },
+                {
+                    "color": "black",
+                    "value": 27.7
+                },
+                {
+                    "color": "brown",
+                    "value": 42.5
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -9,17 +9,15 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
             "en": [
-                "Design Object",
-                "Video"
+                "Design Object"
             ],
             "zh-hant": [
-                "設計物件",
-                "錄像"
+                "設計品"
             ]
         },
         "archivalLevel": {
@@ -38,12 +36,12 @@
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
-        "en": "overall: 18 × 17 × 33.7 cm\r\r\nduration (video): 9 min. 58 sec.",
-        "zh-hant": "整體: 18 × 17 × 33.7 厘米  影片長度: 9 分 58 秒"
+        "en": "overall: 18 × 17 × 33.7 cm",
+        "zh-hant": "整體：18 × 17 × 33.7 厘米"
     },
     "medium": {
-        "en": "resin, aluminium, electronics, and single-channel digital video (colour, sound)",
-        "zh-hant": "樹脂、鋁，電子產品及單頻道數碼錄像（彩色，有聲）"
+        "en": "resin, aluminium and electronics",
+        "zh-hant": "樹脂、鋁，電子產品"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -52,6 +50,20 @@
     "constituents": [
         {
             "id": 29,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 1372,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 1373,
             "role": {
                 "en": "Designer",
                 "zh-hant": "設計師"
@@ -79,9 +91,6 @@
         },
         {
             "altText": null
-        },
-        {
-            "altText": "Video still in which workers wearing blue shirts and sitting on either side of a production line in a factory hold different vaguely dance-like poses. One woman in the foreground reaches for a cardboard box in the production line while the man next to her stretches his arm in an exaggerated motion to affix something to a white object."
         }
     ],
     "color": {

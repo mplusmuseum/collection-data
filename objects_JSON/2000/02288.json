@@ -27,7 +27,7 @@
     },
     "title": {
         "en": "Fake Covers (ARTnews)",
-        "zh-hant": "假封面(ARTnews)"
+        "zh-hant": "假封面（ARTnews）"
     },
     "displayDate": {
         "en": "1996",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 608,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Photograph depicting a magazine cover with 'ARTnews' printed on top and just below, 'WASHINGTON, HERE I COME!' on the viewer's left. A large banner in the bottom half with text and drawings, including a figure pulling a cart and a winged centaur, is held up against a building."

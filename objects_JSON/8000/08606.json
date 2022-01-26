@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書藉/期刊"
+                "書籍/期刊"
             ]
         },
         "archivalLevel": {
@@ -56,10 +56,24 @@
             }
         },
         {
+            "id": 5394,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
             "id": 2795,
             "role": {
                 "en": "Publisher",
                 "zh-hant": "出版社"
+            }
+        },
+        {
+            "id": 5395,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],

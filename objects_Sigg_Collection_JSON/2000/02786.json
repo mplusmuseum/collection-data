@@ -29,7 +29,7 @@
     },
     "title": {
         "en": "Obsession Century Celebration",
-        "zh-hant": "意亂情迷 － 百年慶典"
+        "zh-hant": "意亂情迷──百年慶典"
     },
     "displayDate": {
         "en": "2003",
@@ -49,8 +49,28 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 609,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
         {
             "altText": null
         }
@@ -58,87 +78,55 @@
     "color": {
         "predominant": [
             {
-                "color": "#E8DFDC",
-                "value": 12.7
+                "color": "#3C231E",
+                "value": 24.6
             },
             {
-                "color": "#C2C5D3",
-                "value": 12
+                "color": "#230804",
+                "value": 17.4
             },
             {
-                "color": "#805C49",
-                "value": 9.3
+                "color": "#825943",
+                "value": 16
             },
             {
-                "color": "#82706F",
-                "value": 8.6
+                "color": "#DFE1EE",
+                "value": 10
             },
             {
-                "color": "#37221F",
-                "value": 8.3
+                "color": "#C39576",
+                "value": 7.2
             },
             {
-                "color": "#767582",
-                "value": 8
+                "color": "#826E6C",
+                "value": 5.6
             },
             {
-                "color": "#302D32",
-                "value": 5.9
+                "color": "#D6C1BB",
+                "value": 3.9
             },
             {
-                "color": "#1A0703",
-                "value": 4
+                "color": "#6D4A48",
+                "value": 2.7
             },
             {
-                "color": "#241F20",
-                "value": 3.7
-            },
-            {
-                "color": "#EAF7FB",
-                "value": 3.7
-            },
-            {
-                "color": "#C5977E",
-                "value": 2.9
-            },
-            {
-                "color": "#734D4B",
-                "value": 2.8
-            },
-            {
-                "color": "#191927",
-                "value": 2.6
-            },
-            {
-                "color": "#80737D",
+                "color": "#797686",
                 "value": 2.3
             },
             {
-                "color": "#ECE7EB",
-                "value": 2.1
+                "color": "#F0E9EF",
+                "value": 2.2
             },
             {
-                "color": "#FDFDF9",
-                "value": 1.8
+                "color": "#272020",
+                "value": 1.5
             },
             {
-                "color": "#161019",
+                "color": "#766972",
                 "value": 1.1
             },
             {
-                "color": "#21151E",
-                "value": 1.1
-            },
-            {
-                "color": "#010209",
-                "value": 1.1
-            },
-            {
-                "color": "#58627F",
-                "value": 0.9
-            },
-            {
-                "color": "#98ABD4",
+                "color": "#CBA881",
                 "value": 0.9
             }
         ],
@@ -146,19 +134,19 @@
             "google": [
                 {
                     "color": "orange",
-                    "value": 2.9
+                    "value": 8.1
                 },
                 {
                     "color": "red",
-                    "value": 2.8
+                    "value": 44.7
                 },
                 {
                     "color": "gray",
-                    "value": 31
+                    "value": 12.9
                 },
                 {
                     "color": "white",
-                    "value": 20.3
+                    "value": 12.3
                 },
                 {
                     "color": "blue",
@@ -166,7 +154,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 27.8
+                    "value": 1.5
                 },
                 {
                     "color": "teal",
@@ -174,7 +162,7 @@
                 },
                 {
                     "color": "brown",
-                    "value": 9.3
+                    "value": 16
                 }
             ]
         }

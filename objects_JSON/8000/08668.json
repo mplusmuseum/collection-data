@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書藉/期刊"
+                "書籍/期刊"
             ]
         },
         "archivalLevel": {
@@ -26,17 +26,17 @@
         }
     },
     "title": {
-        "en": "Manhua, vol. 77",
-        "zh-hant": null
+        "en": null,
+        "zh-hant": "漫畫半月刊 ：總七十七期"
     },
     "displayDate": {
-        "en": "1956",
-        "zh-hant": "1956"
+        "en": "November 1956",
+        "zh-hant": "1956年11月"
     },
     "beginDate": 1956,
     "endDate": 1956,
     "dimension": {
-        "en": "overall (closed): 25.6 × 33.6 cm",
+        "en": "overall (closed): 0.1 × 25.6 × 33.5 cm",
         "zh-hant": "整體 （合上）: 25.6 × 33.6 厘米"
     },
     "medium": {
@@ -49,17 +49,17 @@
     },
     "constituents": [
         {
+            "id": 5394,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
             "id": 2794,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"
-            }
-        },
-        {
-            "id": 2795,
-            "role": {
-                "en": "Publisher",
-                "zh-hant": "出版社"
             }
         },
         {
@@ -167,7 +167,7 @@
         "element": "overall",
         "unit": "cm",
         "width": 25.6,
-        "height": 0,
-        "depth": 33.6
+        "height": 0.1,
+        "depth": 33.5
     }
 }

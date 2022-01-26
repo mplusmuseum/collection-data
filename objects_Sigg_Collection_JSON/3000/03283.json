@@ -43,7 +43,7 @@
     },
     "medium": {
         "en": "single-channel digital video (colour, sound)",
-        "zh-hant": "single-channel digital video (colour, sound)"
+        "zh-hant": "單頻道數碼錄像（彩色、有聲）"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
@@ -65,13 +65,113 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E9F8F0",
+                "value": 44.8
+            },
+            {
+                "color": "#010800",
+                "value": 14
+            },
+            {
+                "color": "#080807",
+                "value": 6.4
+            },
+            {
+                "color": "#787C67",
+                "value": 5.5
+            },
+            {
+                "color": "#6C7F74",
+                "value": 4
+            },
+            {
+                "color": "#263622",
+                "value": 4
+            },
+            {
+                "color": "#403924",
+                "value": 3.2
+            },
+            {
+                "color": "#ECF7F7",
+                "value": 2.8
+            },
+            {
+                "color": "#363D24",
+                "value": 2.8
+            },
+            {
+                "color": "#756643",
+                "value": 2.4
+            },
+            {
+                "color": "#131B02",
+                "value": 1.7
+            },
+            {
+                "color": "#42271B",
+                "value": 1.4
+            },
+            {
+                "color": "#847F71",
+                "value": 1.1
+            },
+            {
+                "color": "#354033",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 5.1
+                },
+                {
+                    "color": "green",
+                    "value": 4
+                },
+                {
+                    "color": "white",
+                    "value": 47.7
+                },
+                {
+                    "color": "black",
+                    "value": 21.3
+                },
+                {
+                    "color": "brown",
+                    "value": 17
+                }
+            ]
         }
     },
-    "dimensionDetails": null,
+    "dimensionDetails": {
+        "element": "duration",
+        "unit": null,
+        "width": null,
+        "height": null,
+        "depth": null
+    },
     "concepts": null
 }

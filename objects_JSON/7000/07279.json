@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -41,13 +41,35 @@
     },
     "medium": {
         "en": "plastic and electronic parts",
-        "zh-hant": "塑膠、電子零件"
+        "zh-hant": "塑膠及電子零件"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2942,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 5549,
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
+        },
+        {
+            "id": 2943,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Vacuum cleaner made of plastic and electronic parts with a pastel pink body. The cleaner stands upright with the brush bar at the bottom. Two tubes attached to lilac hoses flank the transparent, cylindrical drum. Three vacuum attachments lie on the ground, on the viewer's left."

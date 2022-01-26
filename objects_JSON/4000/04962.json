@@ -41,13 +41,21 @@
     },
     "medium": {
         "en": "inkjet print",
-        "zh-hant": "噴墨印刷"
+        "zh-hant": "噴墨印相"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Martin Parr, 2014",
         "zh-hant": "M+，香港，Martin Parr捐贈，2014年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1029,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

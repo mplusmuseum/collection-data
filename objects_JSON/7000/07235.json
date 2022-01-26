@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -36,7 +36,7 @@
     "beginDate": 1961,
     "endDate": 1961,
     "dimension": {
-        "en": "overall: 13.5 cm; 6.6 cm diametre",
+        "en": "overall: 13.5 cm\r\r\n6.6 cm diametre",
         "zh-hant": "整體: 13.5 × 6.6 厘米"
     },
     "medium": {
@@ -47,7 +47,29 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 5487,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 2938,
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
+        },
+        {
+            "id": 2990,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Transparent glass bottle with yellow logo printed on its side depicting Japanese characters that mean 'soy sauce'. The bottle has a wide base and tapered neck. A red polystyrene plastic cap with a spout sits on the left next to the bottle."

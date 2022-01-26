@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書藉/期刊"
+                "書籍/期刊"
             ]
         },
         "archivalLevel": {
@@ -31,7 +31,7 @@
     },
     "displayDate": {
         "en": "Autumn 2005/Winter 2006",
-        "zh-hant": "Autumn 2005/Winter 2006"
+        "zh-hant": "2005年秋/2006年冬"
     },
     "beginDate": 2005,
     "endDate": 2006,
@@ -53,6 +53,34 @@
             "role": {
                 "en": "Publisher",
                 "zh-hant": "出版社"
+            }
+        },
+        {
+            "id": 1302,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 1302,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 3033,
+            "role": {
+                "en": "Design Firm",
+                "zh-hant": "設計師事務所"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],

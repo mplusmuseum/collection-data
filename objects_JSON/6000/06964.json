@@ -14,10 +14,10 @@
         },
         "category": {
             "en": [
-                "Film"
+                "Video"
             ],
             "zh-hant": [
-                "電影"
+                "錄像"
             ]
         },
         "archivalLevel": {
@@ -40,8 +40,8 @@
         "zh-hant": "影片長度: 15 分 20 秒"
     },
     "medium": {
-        "en": "single-channel Super 8mm film and DV tape transferred to digital video (colour, sound)",
-        "zh-hant": "單頻道超8毫米菲林及DV影帶轉數碼錄像（彩色，有聲）"
+        "en": "single-channel digital video (colour, sound)",
+        "zh-hant": "單頻道數碼錄像（彩色、有聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -59,88 +59,124 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#1E2034",
-                "value": 32.5
+                "color": "#6A3137",
+                "value": 17.7
             },
             {
-                "color": "#7EC2E4",
-                "value": 23.5
+                "color": "#33192C",
+                "value": 10.3
             },
             {
-                "color": "#476376",
-                "value": 9.7
+                "color": "#6E7089",
+                "value": 9.2
             },
             {
-                "color": "#3F506B",
-                "value": 7
+                "color": "#49242D",
+                "value": 8.6
             },
             {
-                "color": "#536268",
-                "value": 5.1
+                "color": "#29192E",
+                "value": 8.5
             },
             {
-                "color": "#070518",
-                "value": 5.1
+                "color": "#36303B",
+                "value": 8
             },
             {
-                "color": "#373742",
-                "value": 3.4
+                "color": "#666E8C",
+                "value": 7.8
             },
             {
-                "color": "#293842",
-                "value": 2.4
+                "color": "#7C4A38",
+                "value": 4.7
             },
             {
-                "color": "#4F5563",
+                "color": "#27061E",
+                "value": 4.7
+            },
+            {
+                "color": "#480D23",
+                "value": 3
+            },
+            {
+                "color": "#18031D",
+                "value": 2.9
+            },
+            {
+                "color": "#651626",
+                "value": 2.5
+            },
+            {
+                "color": "#292437",
                 "value": 2.3
             },
             {
-                "color": "#A3E7F1",
+                "color": "#D28C6A",
                 "value": 1.9
             },
             {
-                "color": "#201526",
-                "value": 0.9
+                "color": "#7B6C6B",
+                "value": 1.7
             },
             {
-                "color": "#3D4548",
-                "value": 0.9
+                "color": "#919CB1",
+                "value": 0.8
             },
             {
-                "color": "#BCD4B9",
-                "value": 0.6
+                "color": "#463B3C",
+                "value": 0.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 7.4
+                    "value": 1.7
                 },
                 {
                     "color": "green",
-                    "value": 0.6
+                    "value": 0.7
                 },
                 {
                     "color": "blue",
-                    "value": 39.5
+                    "value": 17
                 },
                 {
                     "color": "black",
-                    "value": 11.8
+                    "value": 8.8
                 },
                 {
                     "color": "purple",
-                    "value": 0.9
+                    "value": 28.6
                 },
                 {
                     "color": "teal",
-                    "value": 35.1
+                    "value": 0.8
+                },
+                {
+                    "color": "red",
+                    "value": 36.6
+                },
+                {
+                    "color": "orange",
+                    "value": 1.9
                 }
             ]
         }

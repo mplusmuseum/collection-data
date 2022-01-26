@@ -43,7 +43,7 @@
     },
     "medium": {
         "en": "single-channel digital video (black and white, silent)",
-        "zh-hant": "單頻道數碼錄像（黑白，無聲）"
+        "zh-hant": "單頻道數碼錄像（黑白、無聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -61,32 +61,44 @@
     "images": [
         {
             "altText": "Monochrome video still depicting a medium-sized dog in motion, running across a lawn next to a person’s legs."
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#303030",
-                "value": 36.2
+                "color": "#3C3C3C",
+                "value": 38.1
             },
             {
-                "color": "#8F8F8F",
-                "value": 33.5
+                "color": "#7C7C7C",
+                "value": 32.4
             },
             {
-                "color": "#BEBEBE",
-                "value": 29.7
+                "color": "#BFBFBF",
+                "value": 29.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 63.2
+                    "value": 61.9
                 },
                 {
                     "color": "black",
-                    "value": 36.2
+                    "value": 38.1
                 }
             ]
         }

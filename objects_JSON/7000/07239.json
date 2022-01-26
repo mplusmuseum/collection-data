@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -18,7 +18,7 @@
                 "Print"
             ],
             "zh-hant": [
-                "設計物件",
+                "設計品",
                 "版畫"
             ]
         },
@@ -49,7 +49,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2988,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

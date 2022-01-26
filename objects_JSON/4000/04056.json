@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書藉/期刊"
+                "書籍/期刊"
             ]
         },
         "archivalLevel": {
@@ -31,7 +31,7 @@
     },
     "displayDate": {
         "en": "Spring/Summer 2007",
-        "zh-hant": "Spring/Summer 2007"
+        "zh-hant": "2007年春夏"
     },
     "beginDate": 2007,
     "endDate": 2007,
@@ -53,6 +53,20 @@
             "role": {
                 "en": "Designer",
                 "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 5349,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        },
+        {
+            "id": 5389,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],

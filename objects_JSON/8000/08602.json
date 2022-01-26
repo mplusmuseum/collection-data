@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書藉/期刊"
+                "書籍/期刊"
             ]
         },
         "archivalLevel": {
@@ -31,7 +31,7 @@
     },
     "displayDate": {
         "en": "published October 1950",
-        "zh-hant": "published October 1950"
+        "zh-hant": "1950年10月出版"
     },
     "beginDate": 1950,
     "endDate": 1950,
@@ -53,6 +53,27 @@
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"
+            }
+        },
+        {
+            "id": 5394,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 5395,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "印刷商"
+            }
+        },
+        {
+            "id": 5395,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],
