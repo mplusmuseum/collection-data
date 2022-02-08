@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書藉/期刊"
+                "書籍/期刊"
             ]
         },
         "archivalLevel": {
@@ -26,7 +26,7 @@
         }
     },
     "title": {
-        "en": "The Blind Man, No. 2",
+        "en": "THE BLIND MAN : No. 2",
         "zh-hant": "《盲人》雜誌，第2期"
     },
     "displayDate": {
@@ -36,7 +36,7 @@
     "beginDate": 1917,
     "endDate": 1917,
     "dimension": {
-        "en": "overall (closed): 0.3 x 20.6 x 28.2 cm.",
+        "en": "overall (closed): 0.3 × 20.5 × 28 cm",
         "zh-hant": "整體 （合上）: 0.3 x 20.6 x 28.2 厘米."
     },
     "medium": {
@@ -52,7 +52,7 @@
             "id": 5170,
             "role": {
                 "en": "Publisher",
-                "zh-hant": "出版社"
+                "zh-hant": "編輯／剪接"
             }
         },
         {
@@ -71,6 +71,13 @@
         },
         {
             "id": 4363,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 5170,
             "role": {
                 "en": "Editor",
                 "zh-hant": "編輯／剪接"
@@ -118,5 +125,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 20.5,
+        "height": 0.3,
+        "depth": 28
+    }
 }

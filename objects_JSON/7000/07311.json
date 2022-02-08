@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -41,13 +41,21 @@
     },
     "medium": {
         "en": "plastic and electronic parts",
-        "zh-hant": "塑膠、電子零件"
+        "zh-hant": "塑膠及電子零件"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 2953,
+            "role": {
+                "en": "Manufacturer",
+                "zh-hant": "製造商"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Radio made out of plastic and electronic parts with a slim, square form. The green and red square side facing the viewer features a round, black speaker in the centre with 'ROBO for curious KIDS' printed between two yellow circles. A blue and a red thumbwheel are on top."

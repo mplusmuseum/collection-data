@@ -30,8 +30,8 @@
         "zh-hant": "無題(休憩園裏的石組)"
     },
     "displayDate": {
-        "en": "1954, printed 1990s",
-        "zh-hant": "1954年，1990年代印刷"
+        "en": "photographed 1954, printed 1990s",
+        "zh-hant": "1954年拍攝，1990年代印刷"
     },
     "beginDate": 1954,
     "endDate": 1999,
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 904,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [],
     "color": {
         "predominant": null,

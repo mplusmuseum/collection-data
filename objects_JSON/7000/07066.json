@@ -40,8 +40,8 @@
         "zh-hant": "影片長度: 13 分 30 秒"
     },
     "medium": {
-        "en": "single-channel HD digital video (colour, sound)",
-        "zh-hant": "單頻道高清數碼錄像（彩色、有聲）"
+        "en": "single-channel digital video (colour, sound)",
+        "zh-hant": "單頻道數碼錄像（彩色、有聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong. M+ Council for New Art Fund, 2019",
@@ -59,93 +59,101 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#0E0E0C",
-                "value": 18.2
+                "color": "#0D0D0B",
+                "value": 16.5
             },
             {
                 "color": "#707E70",
-                "value": 13.8
+                "value": 14.3
             },
             {
-                "color": "#BFCDD1",
-                "value": 12.8
+                "color": "#BFCED1",
+                "value": 12.6
             },
             {
-                "color": "#353C37",
-                "value": 7.1
+                "color": "#2E342F",
+                "value": 8.7
+            },
+            {
+                "color": "#5D6E45",
+                "value": 4.8
             },
             {
                 "color": "#758183",
-                "value": 4.9
-            },
-            {
-                "color": "#5D6D45",
                 "value": 4.6
             },
             {
-                "color": "#717664",
-                "value": 4.3
+                "color": "#313922",
+                "value": 4.4
             },
             {
-                "color": "#363F26",
-                "value": 3.8
+                "color": "#727765",
+                "value": 4.2
             },
             {
-                "color": "#786F66",
+                "color": "#AFC2B4",
                 "value": 3.7
             },
             {
-                "color": "#AFC2B3",
+                "color": "#776E65",
                 "value": 3.4
             },
             {
-                "color": "#1B1A1D",
-                "value": 3.3
-            },
-            {
                 "color": "#71634B",
-                "value": 2.5
-            },
-            {
-                "color": "#3A2821",
-                "value": 2.5
+                "value": 2.7
             },
             {
                 "color": "#637B54",
-                "value": 2.2
+                "value": 2.6
             },
             {
-                "color": "#372F20",
-                "value": 2
+                "color": "#393021",
+                "value": 2.5
             },
             {
-                "color": "#7E8089",
+                "color": "#3B2821",
+                "value": 2.1
+            },
+            {
+                "color": "#1E1D21",
+                "value": 1.7
+            },
+            {
+                "color": "#283322",
                 "value": 1.6
             },
             {
-                "color": "#6E5041",
+                "color": "#7F818A",
                 "value": 1.2
             },
             {
-                "color": "#2C3826",
+                "color": "#6E4F3F",
                 "value": 1.1
             },
             {
-                "color": "#D0C4AE",
+                "color": "#CFC4AC",
                 "value": 0.9
             },
             {
-                "color": "#693D3C",
-                "value": 0.9
-            },
-            {
-                "color": "#1D1F2C",
-                "value": 0.6
+                "color": "#693E3C",
+                "value": 0.8
             }
         ],
         "search": {
@@ -156,23 +164,27 @@
                 },
                 {
                     "color": "red",
-                    "value": 0.9
+                    "value": 0.8
                 },
                 {
                     "color": "gray",
-                    "value": 44.5
+                    "value": 31.5
                 },
                 {
                     "color": "green",
-                    "value": 7.9
+                    "value": 8.9
                 },
                 {
                     "color": "black",
-                    "value": 33.7
+                    "value": 31.6
                 },
                 {
                     "color": "brown",
-                    "value": 7.5
+                    "value": 8.2
+                },
+                {
+                    "color": "white",
+                    "value": 12.6
                 }
             ]
         }

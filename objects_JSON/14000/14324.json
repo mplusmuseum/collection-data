@@ -42,8 +42,8 @@
         "zh-hant": "影片長度: 9 分 23 秒"
     },
     "medium": {
-        "en": "single-channel HD digital video (black and white, sound)",
-        "zh-hant": "單頻道高清數碼錄像（黑白，有聲）"
+        "en": "single-channel digital video (black and white, sound)",
+        "zh-hant": "單頻道數碼錄像（黑白、有聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -61,96 +61,44 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#1E1B1A",
-                "value": 22.4
+                "color": "#212121",
+                "value": 77.8
             },
             {
-                "color": "#C4CBD7",
-                "value": 16.9
+                "color": "#D8D8D8",
+                "value": 11.1
             },
             {
-                "color": "#CAD8E2",
-                "value": 12
-            },
-            {
-                "color": "#F5F3F2",
-                "value": 8.9
-            },
-            {
-                "color": "#3A331F",
-                "value": 7.2
-            },
-            {
-                "color": "#706962",
-                "value": 6.6
-            },
-            {
-                "color": "#665937",
-                "value": 4.4
-            },
-            {
-                "color": "#3A2C25",
-                "value": 2.5
-            },
-            {
-                "color": "#273244",
-                "value": 2.4
-            },
-            {
-                "color": "#88AECD",
-                "value": 1.9
-            },
-            {
-                "color": "#3D3B3F",
-                "value": 1.5
-            },
-            {
-                "color": "#706F61",
-                "value": 1.4
-            },
-            {
-                "color": "#92ACCC",
-                "value": 1.3
-            },
-            {
-                "color": "#6B707A",
-                "value": 1.3
-            },
-            {
-                "color": "#495970",
-                "value": 1.1
-            },
-            {
-                "color": "#6A6540",
-                "value": 1
-            },
-            {
-                "color": "#72818D",
-                "value": 0.9
-            },
-            {
-                "color": "#1C1F13",
-                "value": 0.8
-            },
-            {
-                "color": "#715440",
-                "value": 0.7
+                "color": "#787878",
+                "value": 11.1
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 27
+                    "value": 11.1
                 },
                 {
                     "color": "white",
-                    "value": 20.9
+                    "value": 11.1
                 },
                 {
                     "color": "blue",
@@ -158,7 +106,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 27.1
+                    "value": 77.8
                 },
                 {
                     "color": "teal",

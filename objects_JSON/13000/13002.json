@@ -21,7 +21,7 @@
             ],
             "zh-hant": [
                 "錄像",
-                "行為"
+                "行為展演"
             ]
         },
         "archivalLevel": {
@@ -60,11 +60,69 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#000000",
+                "value": 82.7
+            },
+            {
+                "color": "#0B0101",
+                "value": 5.2
+            },
+            {
+                "color": "#000005",
+                "value": 3.4
+            },
+            {
+                "color": "#93AED8",
+                "value": 1.2
+            },
+            {
+                "color": "#FDAB03",
+                "value": 1
+            },
+            {
+                "color": "#D96315",
+                "value": 1
+            },
+            {
+                "color": "#040003",
+                "value": 0.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 2
+                },
+                {
+                    "color": "black",
+                    "value": 92.1
+                },
+                {
+                    "color": "teal",
+                    "value": 1.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -27,7 +27,7 @@
     },
     "title": {
         "en": "Fake Covers (Newsweek)",
-        "zh-hant": "假封面(Newsweek)"
+        "zh-hant": "假封面（Newsweek）"
     },
     "displayDate": {
         "en": "1996",
@@ -47,7 +47,15 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 608,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Photograph depicting a magazine cover with 'Newsweek' printed on top and a barcode and prices for different countries below. A portrait of a man in a suit is on the viewer's right. A painting of a figure is on the left, behind the coverline, which reads 'Too Materialistic Too Spiritualized'."

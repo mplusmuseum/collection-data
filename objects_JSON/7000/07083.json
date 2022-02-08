@@ -10,7 +10,7 @@
                 "Visual Art"
             ],
             "zh-hant": [
-                "設計與建築",
+                "設計及建築",
                 "視覺藝術"
             ]
         },
@@ -38,12 +38,12 @@
     "beginDate": 1970,
     "endDate": 1972,
     "dimension": {
-        "en": "sheet: 52.9 × 76.9 cm",
+        "en": "overall: 53 × 77 cm",
         "zh-hant": "紙本: 52.9 × 76.9 厘米"
     },
     "medium": {
         "en": "offset lithograph",
-        "zh-hant": "柯式石印"
+        "zh-hant": "平版印刷"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -73,10 +73,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "overall",
         "unit": "cm",
-        "width": 76.9,
-        "height": 52.9,
+        "width": 77,
+        "height": 53,
         "depth": null
     }
 }

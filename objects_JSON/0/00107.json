@@ -41,13 +41,21 @@
     },
     "medium": {
         "en": "black and white print",
-        "zh-hant": "黑白沖印"
+        "zh-hant": "黑白照片"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 518,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

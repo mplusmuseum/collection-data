@@ -41,13 +41,21 @@
     },
     "medium": {
         "en": "oil on linen",
-        "zh-hant": "油彩麻布本"
+        "zh-hant": "油彩亞麻布本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 931,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

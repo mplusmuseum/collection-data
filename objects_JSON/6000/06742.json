@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -17,7 +17,7 @@
                 "Signage"
             ],
             "zh-hant": [
-                "標牌"
+                "標識"
             ]
         },
         "archivalLevel": {
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 1529,
+            "role": {
+                "en": "Maker",
+                "zh-hant": "創作者"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null

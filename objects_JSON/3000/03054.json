@@ -43,7 +43,7 @@
     },
     "medium": {
         "en": "single-channel analogue tape transferred to digital video (colour, sound)",
-        "zh-hant": "單頻道類比錄影帶轉數碼錄像（彩色、有聲）"
+        "zh-hant": "單頻道模擬錄影帶轉數碼錄像（彩色、有聲）"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
@@ -61,77 +61,101 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#000000",
-                "value": 48.1
+                "color": "#7D6D4F",
+                "value": 11
             },
             {
-                "color": "#157A01",
-                "value": 13.7
+                "color": "#DBCFBC",
+                "value": 10.4
             },
             {
-                "color": "#022B00",
-                "value": 12.3
+                "color": "#222434",
+                "value": 9.7
             },
             {
-                "color": "#2B3A00",
-                "value": 2.8
+                "color": "#7C8246",
+                "value": 9.5
             },
             {
-                "color": "#B2D078",
-                "value": 2.6
+                "color": "#67743A",
+                "value": 7.5
             },
             {
-                "color": "#527A06",
-                "value": 2.6
+                "color": "#3C3420",
+                "value": 7
             },
             {
-                "color": "#F2F4DC",
-                "value": 2.5
+                "color": "#2B2724",
+                "value": 5.4
             },
             {
-                "color": "#C9BF64",
-                "value": 1.9
+                "color": "#38261D",
+                "value": 5.4
             },
             {
-                "color": "#91CF6B",
+                "color": "#8B8172",
+                "value": 5.2
+            },
+            {
+                "color": "#F0EFE0",
+                "value": 3.6
+            },
+            {
+                "color": "#3B421F",
+                "value": 3.6
+            },
+            {
+                "color": "#807C4E",
+                "value": 3.6
+            },
+            {
+                "color": "#795A47",
+                "value": 3.4
+            },
+            {
+                "color": "#2C292F",
+                "value": 2.3
+            },
+            {
+                "color": "#475065",
+                "value": 1.7
+            },
+            {
+                "color": "#82836C",
+                "value": 1.6
+            },
+            {
+                "color": "#150802",
                 "value": 1.4
             },
             {
-                "color": "#280400",
+                "color": "#281E05",
                 "value": 1.3
             },
             {
-                "color": "#6F790B",
-                "value": 1.1
+                "color": "#BFAB84",
+                "value": 1.2
             },
             {
-                "color": "#49BD08",
+                "color": "#283107",
                 "value": 1
-            },
-            {
-                "color": "#342900",
-                "value": 1
-            },
-            {
-                "color": "#78963B",
-                "value": 1
-            },
-            {
-                "color": "#C0C872",
-                "value": 0.8
-            },
-            {
-                "color": "#F5ECD9",
-                "value": 0.8
-            },
-            {
-                "color": "#DCC275",
-                "value": 0.7
             }
         ],
         "search": {
@@ -142,7 +166,7 @@
                 },
                 {
                     "color": "orange",
-                    "value": 0.7
+                    "value": 1.2
                 },
                 {
                     "color": "green",
@@ -150,11 +174,11 @@
                 },
                 {
                     "color": "white",
-                    "value": 0.8
+                    "value": 14
                 },
                 {
                     "color": "black",
-                    "value": 48.1
+                    "value": 24.2
                 },
                 {
                     "color": "yellow",
@@ -162,7 +186,15 @@
                 },
                 {
                     "color": "brown",
-                    "value": 5
+                    "value": 49.5
+                },
+                {
+                    "color": "gray",
+                    "value": 5.2
+                },
+                {
+                    "color": "blue",
+                    "value": 1.7
                 }
             ]
         }

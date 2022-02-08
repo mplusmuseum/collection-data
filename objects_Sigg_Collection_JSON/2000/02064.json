@@ -47,13 +47,18 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 608,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Gouache painting and drawing on paper. Wearing a suit, a man resembling the artist stands at a podium backed by a row of flags. A line of text resembling close captioning reads: “The relations in the art world are the same as the relations between states in the post Cold War era”."
-        },
-        {
-            "altText": null
         }
     ],
     "color": {

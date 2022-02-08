@@ -47,13 +47,18 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 660,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Sepia-toned photograph of a stairway leading above ground from a dark recess. A woman is walking down in the foreground while many other figures are walking up. The light from the stairway highlights the clouds of dust in the air."
-        },
-        {
-            "altText": null
         }
     ],
     "color": {

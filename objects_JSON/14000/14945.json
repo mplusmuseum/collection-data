@@ -43,7 +43,7 @@
     },
     "medium": {
         "en": "single-channel U-matic tape transferred to digital video (colour, sound)",
-        "zh-hant": "單頻道數碼錄像（彩色，有聲）"
+        "zh-hant": "單頻道U-matic錄影帶轉數碼錄像（彩色，有聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of an anonymous donor, 2018",
@@ -61,84 +61,88 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#844C35",
-                "value": 30.8
+                "color": "#91744D",
+                "value": 37.5
             },
             {
-                "color": "#E2DAD1",
-                "value": 29
+                "color": "#CCBEAC",
+                "value": 12.1
             },
             {
-                "color": "#F2F2EB",
-                "value": 9.7
+                "color": "#B99F7D",
+                "value": 11.7
             },
             {
-                "color": "#87817C",
-                "value": 7.1
+                "color": "#781C13",
+                "value": 10.6
             },
             {
-                "color": "#373532",
-                "value": 3
+                "color": "#8A674C",
+                "value": 6.4
             },
             {
-                "color": "#7F7F78",
-                "value": 3
+                "color": "#3B231B",
+                "value": 5.1
             },
             {
-                "color": "#452720",
-                "value": 2.5
+                "color": "#81300E",
+                "value": 3.6
             },
             {
-                "color": "#B6846D",
-                "value": 2.2
+                "color": "#3A2F1C",
+                "value": 2.7
             },
             {
-                "color": "#797B82",
-                "value": 1.8
+                "color": "#8B7F71",
+                "value": 2.1
             },
             {
-                "color": "#65352F",
-                "value": 1.4
-            },
-            {
-                "color": "#BBBEC6",
-                "value": 1.1
-            },
-            {
-                "color": "#353837",
+                "color": "#62201E",
                 "value": 1
             },
             {
-                "color": "#BCC1C4",
-                "value": 0.9
+                "color": "#262322",
+                "value": 0.8
             },
             {
-                "color": "#7D8284",
-                "value": 0.9
+                "color": "#BC977A",
+                "value": 0.7
             },
             {
-                "color": "#37363A",
-                "value": 0.9
+                "color": "#425D85",
+                "value": 0.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 3.9
+                    "value": 20.4
                 },
                 {
                     "color": "orange",
-                    "value": 2.2
+                    "value": 12.4
                 },
                 {
                     "color": "gray",
-                    "value": 14.9
+                    "value": 14.2
                 },
                 {
                     "color": "white",
@@ -146,11 +150,15 @@
                 },
                 {
                     "color": "black",
-                    "value": 4.9
+                    "value": 0.8
                 },
                 {
                     "color": "brown",
-                    "value": 30.8
+                    "value": 46.7
+                },
+                {
+                    "color": "blue",
+                    "value": 0.6
                 }
             ]
         }

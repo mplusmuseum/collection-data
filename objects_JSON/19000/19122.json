@@ -43,7 +43,7 @@
     },
     "medium": {
         "en": "single-channel digital video (colour, sound)",
-        "zh-hant": "單頻道數碼錄像（彩色，有聲）"
+        "zh-hant": "單頻道數碼錄像（彩色、有聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -61,36 +61,42 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#D68D72",
-                "value": 53.2
+                "color": "#D78D73",
+                "value": 44.8
             },
             {
-                "color": "#D98882",
-                "value": 29.2
+                "color": "#D78781",
+                "value": 34.5
             },
             {
-                "color": "#97644E",
-                "value": 11.2
+                "color": "#93634F",
+                "value": 13.1
             },
             {
-                "color": "#915852",
-                "value": 1.8
+                "color": "#915A54",
+                "value": 2.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "orange",
-                    "value": 53.2
+                    "value": 44.8
                 },
                 {
                     "color": "red",
-                    "value": 42.3
+                    "value": 50.4
                 }
             ]
         }

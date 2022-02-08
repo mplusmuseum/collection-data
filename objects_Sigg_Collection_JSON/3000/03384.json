@@ -42,8 +42,8 @@
         "zh-hant": "影片長度: 27 分"
     },
     "medium": {
-        "en": "single-channel HD digital video (black and white, sound)",
-        "zh-hant": "單頻道高清數碼錄像（黑白，有聲）"
+        "en": "single-channel digital video (black and white, sound)",
+        "zh-hant": "單頻道數碼錄像（黑白、有聲）"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
@@ -60,49 +60,53 @@
     ],
     "images": [
         {
-            "altText": "Seven by five grid of stills from a monochrome video. Images include landscapes and skyscapes, and some feature men in top hats."
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#2A2A29",
-                "value": 53.7
+                "color": "#38342F",
+                "value": 26.8
             },
             {
-                "color": "#787776",
-                "value": 18.7
+                "color": "#0E0C09",
+                "value": 22.7
             },
             {
-                "color": "#DEDDDC",
-                "value": 8.3
+                "color": "#747069",
+                "value": 21.3
             },
             {
-                "color": "#120C0C",
-                "value": 4.9
+                "color": "#140F0C",
+                "value": 17.2
             },
             {
-                "color": "#252426",
-                "value": 3.7
+                "color": "#040301",
+                "value": 5
             },
             {
-                "color": "#2C2E2D",
-                "value": 3.1
-            },
-            {
-                "color": "#15120E",
-                "value": 1.8
-            },
-            {
-                "color": "#050101",
-                "value": 0.8
+                "color": "#6F6E65",
+                "value": 2.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 18.7
+                    "value": 23.9
                 },
                 {
                     "color": "white",
@@ -110,7 +114,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 68
+                    "value": 71.6
                 }
             ]
         }

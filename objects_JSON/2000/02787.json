@@ -49,8 +49,28 @@
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 609,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
         {
             "altText": null
         }
@@ -58,92 +78,52 @@
     "color": {
         "predominant": [
             {
-                "color": "#D9CECC",
-                "value": 12.7
+                "color": "#7F7872",
+                "value": 26.6
             },
             {
-                "color": "#89807C",
-                "value": 10.7
+                "color": "#868782",
+                "value": 18
             },
             {
-                "color": "#171716",
-                "value": 10.6
+                "color": "#C1C1BD",
+                "value": 16.3
             },
             {
-                "color": "#81827D",
-                "value": 10.4
+                "color": "#DBE519",
+                "value": 8.8
             },
             {
-                "color": "#EB2767",
-                "value": 9.1
+                "color": "#40413C",
+                "value": 6.9
             },
             {
-                "color": "#333134",
-                "value": 7.4
-            },
-            {
-                "color": "#7A797C",
-                "value": 7.2
-            },
-            {
-                "color": "#CFD0CB",
+                "color": "#737F03",
                 "value": 6.1
             },
             {
-                "color": "#D5D3D7",
-                "value": 4.7
+                "color": "#C4C3C3",
+                "value": 4.1
             },
             {
-                "color": "#D67D93",
-                "value": 2.4
+                "color": "#7E817D",
+                "value": 2.5
             },
             {
-                "color": "#F3EEF1",
-                "value": 1.5
+                "color": "#343C01",
+                "value": 2.2
             },
             {
-                "color": "#CFD9D0",
-                "value": 1.5
+                "color": "#C4C7C3",
+                "value": 1.8
             },
             {
-                "color": "#70787C",
-                "value": 1
+                "color": "#3E413C",
+                "value": 1.2
             },
             {
-                "color": "#D4DB2C",
-                "value": 0.9
-            },
-            {
-                "color": "#798114",
-                "value": 0.9
-            },
-            {
-                "color": "#7C837C",
-                "value": 0.8
-            },
-            {
-                "color": "#313636",
+                "color": "#797F3A",
                 "value": 0.6
-            },
-            {
-                "color": "#87CF26",
-                "value": 0.6
-            },
-            {
-                "color": "#6E5547",
-                "value": 0.6
-            },
-            {
-                "color": "#3B2920",
-                "value": 0.6
-            },
-            {
-                "color": "#EAE12F",
-                "value": 0.5
-            },
-            {
-                "color": "#F5F7F8",
-                "value": 0.5
             }
         ],
         "search": {
@@ -154,7 +134,7 @@
                 },
                 {
                     "color": "gray",
-                    "value": 30.1
+                    "value": 69.3
                 },
                 {
                     "color": "green",
@@ -166,15 +146,15 @@
                 },
                 {
                     "color": "black",
-                    "value": 19.2
+                    "value": 8.1
                 },
                 {
                     "color": "yellow",
-                    "value": 1.5
+                    "value": 8.8
                 },
                 {
                     "color": "brown",
-                    "value": 1.5
+                    "value": 9
                 }
             ]
         }

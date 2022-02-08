@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -47,11 +47,16 @@
         "en": "M+, Hong Kong. Gift of Barry Friedman and Marc Benda, 2013",
         "zh-hant": "M+，香港，Barry Friedman及Marc Benda捐贈，2013年"
     },
-    "constituents": [],
-    "images": [
+    "constituents": [
         {
-            "altText": null
-        },
+            "id": 549,
+            "role": {
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        }
+    ],
+    "images": [
         {
             "altText": null
         }

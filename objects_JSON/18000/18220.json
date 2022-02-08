@@ -38,7 +38,7 @@
     "beginDate": 1981,
     "endDate": 1981,
     "dimension": {
-        "en": "duration: 1 min. 26 sec.",
+        "en": "duration: 2 min. 11 sec.",
         "zh-hant": "影片長度: 1 分 26 秒"
     },
     "medium": {
@@ -58,11 +58,39 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#7F7F7F",
+                "value": 61.5
+            },
+            {
+                "color": "#141414",
+                "value": 38.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 61.5
+                },
+                {
+                    "color": "black",
+                    "value": 38.4
+                }
+            ]
         }
     },
     "dimensionDetails": null

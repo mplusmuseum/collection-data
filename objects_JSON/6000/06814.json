@@ -42,8 +42,8 @@
         "zh-hant": "影片長度: 83 分"
     },
     "medium": {
-        "en": "single-channel HDV, SDV, VHS, and cellphone camera footage edited and transferred to digital video (colour, sound)",
-        "zh-hant": "單頻道HDV，SDV，VHS影帶及手機錄製影片剪輯轉數碼錄像（彩色，有聲）"
+        "en": "HDV tape, SDV, VHS tape, and cellphone camera footage edited and transferred to single-channel digital video (colour, sound)",
+        "zh-hant": "HDV影帶、SDV影片、VHS影帶及手機影片剪輯並轉錄成單頻道數碼錄像（彩色，有聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -61,52 +61,100 @@
     "images": [
         {
             "altText": "Video installation depicting a film projected on the wall of room with benches. The film shows a man in a pink shirt on a watercraft with cargo. An ocean liner is in the background."
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#291B1D",
-                "value": 35.3
+                "color": "#AAB4C3",
+                "value": 18.7
             },
             {
-                "color": "#1A0E15",
-                "value": 31.3
+                "color": "#443E28",
+                "value": 10
             },
             {
-                "color": "#3A2F30",
-                "value": 13.2
+                "color": "#ADB6BC",
+                "value": 9.1
             },
             {
-                "color": "#766668",
-                "value": 5.9
+                "color": "#7E888C",
+                "value": 6.6
             },
             {
-                "color": "#E7DAE3",
-                "value": 3.8
+                "color": "#252B39",
+                "value": 6.2
             },
             {
-                "color": "#0E0309",
-                "value": 1.9
+                "color": "#2E3534",
+                "value": 6
             },
             {
-                "color": "#42363E",
-                "value": 1.9
+                "color": "#BABBAF",
+                "value": 5.8
             },
             {
-                "color": "#CBB6B8",
-                "value": 1.8
+                "color": "#2F3037",
+                "value": 5.4
             },
             {
-                "color": "#73616D",
+                "color": "#33332C",
+                "value": 5
+            },
+            {
+                "color": "#838C85",
+                "value": 4.9
+            },
+            {
+                "color": "#27333A",
+                "value": 4.8
+            },
+            {
+                "color": "#B3B9B4",
+                "value": 4.1
+            },
+            {
+                "color": "#818474",
+                "value": 2.7
+            },
+            {
+                "color": "#767B85",
+                "value": 2
+            },
+            {
+                "color": "#362922",
                 "value": 1.4
+            },
+            {
+                "color": "#3F432D",
+                "value": 1.1
+            },
+            {
+                "color": "#BEBAB1",
+                "value": 1
+            },
+            {
+                "color": "#485468",
+                "value": 0.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 9.1
+                    "value": 54.8
                 },
                 {
                     "color": "white",
@@ -114,7 +162,15 @@
                 },
                 {
                     "color": "black",
-                    "value": 83.5
+                    "value": 28.8
+                },
+                {
+                    "color": "blue",
+                    "value": 0.7
+                },
+                {
+                    "color": "brown",
+                    "value": 11.1
                 }
             ]
         }

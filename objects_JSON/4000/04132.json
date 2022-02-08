@@ -9,7 +9,7 @@
                 "Design and Architecture"
             ],
             "zh-hant": [
-                "設計與建築"
+                "設計及建築"
             ]
         },
         "category": {
@@ -47,13 +47,18 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 868,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Light brown bamboo architectural model with a dome shape, which narrows towards the base and tapers to a small opening at the apex. Horizontal rings and bundles of curved strips, reaching from the top to the bottom, form the structure. Two strips from each bundle protrude outwards near the bottom."
-        },
-        {
-            "altText": null
         },
         {
             "altText": null

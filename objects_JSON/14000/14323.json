@@ -42,8 +42,8 @@
         "zh-hant": "影片長度: 19 分 25 秒"
     },
     "medium": {
-        "en": "single-channel HD digital video (colour, silent)",
-        "zh-hant": "單頻道高清數碼錄像（彩色、無聲）"
+        "en": "single-channel digital video (colour, silent)",
+        "zh-hant": "單頻道數碼錄像（彩色、無聲）"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -58,11 +58,86 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#030302",
+                "value": 45.9
+            },
+            {
+                "color": "#C2D8E8",
+                "value": 13.5
+            },
+            {
+                "color": "#C7D3E4",
+                "value": 10.8
+            },
+            {
+                "color": "#DAD5D1",
+                "value": 5.1
+            },
+            {
+                "color": "#323136",
+                "value": 3.7
+            },
+            {
+                "color": "#313536",
+                "value": 3.7
+            },
+            {
+                "color": "#72747B",
+                "value": 3.4
+            },
+            {
+                "color": "#7E7673",
+                "value": 2.7
+            },
+            {
+                "color": "#6D7478",
+                "value": 2.3
+            },
+            {
+                "color": "#E8E8E3",
+                "value": 2.1
+            },
+            {
+                "color": "#AED2EC",
+                "value": 2.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 8.5
+                },
+                {
+                    "color": "white",
+                    "value": 31.5
+                },
+                {
+                    "color": "black",
+                    "value": 53.3
+                },
+                {
+                    "color": "teal",
+                    "value": 2.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -43,14 +43,31 @@
     },
     "medium": {
         "en": "single-channel digital video (colour, sound)",
-        "zh-hant": "單頻道數碼錄像（彩色，有聲）"
+        "zh-hant": "單頻道數碼錄像（彩色、有聲）"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
         "zh-hant": "M+ 希克藏品（捐贈），香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 594,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
         {
             "altText": null
         }
@@ -58,75 +75,75 @@
     "color": {
         "predominant": [
             {
-                "color": "#2B2924",
-                "value": 43.6
+                "color": "#22231E",
+                "value": 15.8
             },
             {
-                "color": "#312C22",
-                "value": 19.8
+                "color": "#858679",
+                "value": 13.1
             },
             {
-                "color": "#7A6F6A",
-                "value": 7.2
+                "color": "#1F231F",
+                "value": 12.4
             },
             {
-                "color": "#3A2B25",
-                "value": 5.2
+                "color": "#342D1D",
+                "value": 7.7
             },
             {
-                "color": "#7B7982",
-                "value": 3.3
+                "color": "#867F75",
+                "value": 6.9
             },
             {
-                "color": "#1E211F",
-                "value": 2.9
+                "color": "#7A8D84",
+                "value": 6.7
             },
             {
-                "color": "#333136",
-                "value": 2.5
+                "color": "#746144",
+                "value": 6.5
             },
             {
-                "color": "#725446",
-                "value": 2.3
+                "color": "#1B1E14",
+                "value": 6.4
             },
             {
-                "color": "#7C7F72",
-                "value": 2.1
+                "color": "#6F5341",
+                "value": 4.7
             },
             {
-                "color": "#8C818A",
-                "value": 2
+                "color": "#72302B",
+                "value": 4.3
             },
             {
-                "color": "#C2C0CE",
-                "value": 1.7
+                "color": "#412B21",
+                "value": 4.1
             },
             {
-                "color": "#C1B0AD",
-                "value": 1
+                "color": "#161E13",
+                "value": 3.7
             },
             {
-                "color": "#BFADBC",
-                "value": 1
-            },
-            {
-                "color": "#2B2D20",
-                "value": 0.9
+                "color": "#A6BDB4",
+                "value": 3.2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 18.3
+                    "value": 29.9
                 },
                 {
                     "color": "black",
-                    "value": 74.7
+                    "value": 46.1
                 },
                 {
                     "color": "brown",
-                    "value": 2.3
+                    "value": 15.3
+                },
+                {
+                    "color": "red",
+                    "value": 4.3
                 }
             ]
         }

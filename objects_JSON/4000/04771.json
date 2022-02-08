@@ -41,13 +41,21 @@
     },
     "medium": {
         "en": "oil on hemp canvas",
-        "zh-hant": "油彩麻布本"
+        "zh-hant": "油彩大麻布本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 920,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Oil painting on hemp canvas consisting of three rectangular swatches of color. An olive green swatch covers half of the painting, with the remaining half split between a pale brown and lighter brown color."

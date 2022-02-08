@@ -41,13 +41,21 @@
     },
     "medium": {
         "en": "inkjet print",
-        "zh-hant": "噴墨印刷"
+        "zh-hant": "噴墨印相"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Fan Ho, 2015",
-        "zh-hant": "M+，香港，何藩捐贈，2012年"
+        "zh-hant": "M+，香港，何藩捐贈，2015年"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 660,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": null
