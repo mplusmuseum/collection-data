@@ -41,7 +41,7 @@
     "endDate": 2017,
     "dimension": {
         "en": "dimensions variable\r\r\nduration (channel 1): 2 min. 17 sec.\r\r\nduration (channel 2): 2 min. 17 sec.\r\r\nduration (channel 3): 2 min. 17 sec.\r\r\nduration (channel 4): 2 min. 17 sec.",
-        "zh-hant": "影片長度 （MP4_Screen 1 ARTIST KILLS POET Sw1）: 2 分 17 秒\r\r\n影片長度 （MOV_ARTIST KILLS POET Sw A）: 2 分 13 秒\r\r\n影片長度 （MP4_Screen 2 ARTIST KILLS POET Sw2）: 2 分 17 秒\r\r\n影片長度 （MOV_ARTIST KILLS POET Sw C）: 2 分 13 秒\r\r\n影片長度 （MOV_Screen 3 ARTIST KILLS POET E1）: 2 分 17 秒\r\r\n影片長度 （MP4_Screen 4 ARTIST KILLS POET E2）: 2 分 17 秒"
+        "zh-hant": "尺寸可變\r\r\n影片長度 （頻道 1）: 2 分 17 秒\r\r\n影片長度 （頻道 2）: 2 分 17 秒\r\r\n影片長度 （頻道 3）: 2 分 17 秒\r\r\n影片長度 （頻道 4）: 2 分 17 秒"
     },
     "medium": {
         "en": "four-channel digital video installation (black and white, sound)",
@@ -60,11 +60,33 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#FEFEFE",
+                "value": 90.7
+            },
+            {
+                "color": "#060606",
+                "value": 8.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 90.7
+                },
+                {
+                    "color": "black",
+                    "value": 8.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -159,8 +159,15 @@
     },
     "concepts": [
         {
-            "title": "Gaudy Art",
-            "description": "Gaudy Art is a term coined by the critic Li Xianting to refer to a short-lived art movement in the 1990s that focused on appropriating the kitsch aesthetics of Chinese consumer culture. Work affilitated with this movement addresses the meaningless, superficial reproduction of cultural motifs in consumer products. Artists associated with Gaudy Art include Xu Yihu, Chang Xugong, and Feng Zhenjie.",
+            "id": 31,
+            "title": {
+                "en": "Gaudy Art",
+                "zh-hant": "艷俗藝術"
+            },
+            "description": {
+                "en": "Gaudy Art is a term coined by the critic Li Xianting to refer to a short-lived art movement in the 1990s that focused on appropriating the kitsch aesthetics of Chinese consumer culture. Work affilitated with this movement addresses the meaningless, superficial reproduction of cultural motifs in consumer products. Artists associated with Gaudy Art include Xu Yihu, Chang Xugong, and Feng Zhenjie.",
+                "zh-hant": "「艷俗藝術」是評論家栗憲庭所創的語彙，用來指九十年代一場短暫的藝術運動。艷俗藝術挪用及不斷複製中國消費文化中符號及其媚俗美學，其藝術創作表達無意義、膚淺的消費主義。代表藝術家包括徐一暉、常徐功和俸正傑。"
+            },
             "timeline": "Artist Movements",
             "beginDate": "1990",
             "endDate": "1999",

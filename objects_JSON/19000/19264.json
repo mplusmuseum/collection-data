@@ -36,8 +36,8 @@
     "beginDate": 1970,
     "endDate": 1970,
     "dimension": {
-        "en": "overall (approx.): 260 x 292 x 46 cm",
-        "zh-hant": "整體 （約）: 260 x 292 x 46 厘米"
+        "en": "overall: 267 × 293 × 150 cm",
+        "zh-hant": "整體: 267 × 293 × 150 厘米"
     },
     "medium": {
         "en": "cast aluminum, glass and metal",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 293,
+        "height": 267,
+        "depth": 150
+    }
 }

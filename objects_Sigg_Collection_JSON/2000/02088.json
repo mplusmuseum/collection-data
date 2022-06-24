@@ -40,7 +40,7 @@
         "zh-hant": "整體 （合上）: 18 × 59 × 44 厘米\r\r\n整體 （打開）: 57 × 44 × 77 厘米"
     },
     "medium": {
-        "en": "leather case, ink on wood, and black and white photographic print",
+        "en": "leather case, ink on wood, and black-and-white photographic print",
         "zh-hant": "皮箱、墨水，木及黑白照片"
     },
     "creditLine": {
@@ -135,8 +135,15 @@
     },
     "concepts": [
         {
-            "title": "Xiamen Dada",
-            "description": "Xiamen Dada was an avant-garde artist group founded in 1986 in Xiamen. Inspired by the European avant-garde movement Dada, the group was interested in incorporating the notion of destruction and chance into performances and readymade works. Major members include Huang Yongping, Lin Jianhua, and Jia Yaoming.",
+            "id": 23,
+            "title": {
+                "en": "Xiamen Dada",
+                "zh-hant": "廈門達達"
+            },
+            "description": {
+                "en": "Xiamen Dada was an avant-garde artist group founded in 1986 in Xiamen. Inspired by the European avant-garde movement Dada, the group was interested in incorporating the notion of destruction and chance into performances and readymade works. Major members include Huang Yongping, Lin Jianhua, and Jia Yaoming.",
+                "zh-hant": "「廈門達達」是在1986年於廈門創立的前衛藝術團體。受到歐洲前衛藝術運動「達達主義」所啟發，藝術家經常將虛無與偶然兩項元素融入現成的物品和演出當中。核心成員包括黃永砯、林嘉華和焦耀明。"
+            },
             "timeline": "Artist Groups",
             "beginDate": "1986",
             "endDate": "1989",

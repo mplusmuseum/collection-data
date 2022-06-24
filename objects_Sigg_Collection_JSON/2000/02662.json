@@ -102,8 +102,15 @@
     },
     "concepts": [
         {
-            "title": "Cultural Revolution Art",
-            "description": "Cultural Revolution Art was a continuation of post-1949 Social Realist Art, and purposely served to promote a sense of positivity and heroicism during the Cultural Revolution. Most of the artworks in this period were produced through government commission.",
+            "id": 5,
+            "title": {
+                "en": "Cultural Revolution Art",
+                "zh-hant": "文革藝術"
+            },
+            "description": {
+                "en": "Cultural Revolution Art was a continuation of post-1949 Social Realist Art, and purposely served to promote a sense of positivity and heroicism during the Cultural Revolution. Most of the artworks in this period were produced through government commission.",
+                "zh-hant": "「文革藝術」是1949年後社會現實主義藝術的延續，在文化大革命期間以促進積極性和英雄主義感為目的。 這段期間創作的大部分作品都是政府主導的。"
+            },
             "timeline": "Artist Movements",
             "beginDate": "1966",
             "endDate": "1976",

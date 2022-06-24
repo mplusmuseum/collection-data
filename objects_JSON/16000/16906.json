@@ -36,8 +36,8 @@
     "beginDate": 1965,
     "endDate": 1965,
     "dimension": {
-        "en": "overall : 71 x 49 cm\r\r\nimage: 53.5 x 38.5 cm",
-        "zh-hant": "整體 : 71 x 49 厘米\r\r\n圖像: 53.5 x 38.5 厘米"
+        "en": "sheet: 70.9 × 49.1 cm\r\r\nimage: 55.3 × 39.2 cm",
+        "zh-hant": "紙本: 70.9 × 49.1 厘米\r\r\n圖像: 55.3 × 39.2 厘米"
     },
     "medium": {
         "en": "colour ink on Japanese paper mounted on paperboard",
@@ -185,5 +185,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 49.1,
+        "height": 70.9,
+        "depth": null
+    }
 }

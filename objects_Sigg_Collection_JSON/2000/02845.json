@@ -40,7 +40,7 @@
         "zh-hant": "圖像 （目測）: 25.5 × 17 厘米\r\r\n紙本 （目測）: 31.8 × 23 厘米"
     },
     "medium": {
-        "en": "woodcut",
+        "en": "woodcut print",
         "zh-hant": "木刻版畫"
     },
     "creditLine": {
@@ -98,8 +98,15 @@
     },
     "concepts": [
         {
-            "title": "Stars Group",
-            "description": "Stars Group was an avant-garde artist collective active 1979–1983 in Beijing. These amateur artists were known for their diverse artistic practices advocating active political and social intervention. Major members include Huang Rui, Wang Keping, Ma Desheng, and Ai Weiwei.",
+            "id": 21,
+            "title": {
+                "en": "Stars Group",
+                "zh-hant": "星星畫會"
+            },
+            "description": {
+                "en": "Stars Group was an avant-garde artist collective active 1979–1983 in Beijing. These amateur artists were known for their diverse artistic practices advocating active political and social intervention. Major members include Huang Rui, Wang Keping, Ma Desheng, and Ai Weiwei.",
+                "zh-hant": "「星星畫會」是一個活躍於1979至1983年的北京前衛藝術團體，由業餘藝術家組成。其藝術實踐涵蓋廣泛，並積極干預政治及社會議題。核心成員包括黃銳、王克平、馬德升及艾未未等人。"
+            },
             "timeline": "Artist Groups",
             "beginDate": "1979",
             "endDate": "1980",

@@ -36,8 +36,8 @@
     "beginDate": 1965,
     "endDate": 1965,
     "dimension": {
-        "en": "overall: 73.5 x 50.5 cm\r\r\nimage: 58 x 40 cm",
-        "zh-hant": "整體: 73.5 x 50.5 厘米\r\r\n圖像: 58 x 40 厘米"
+        "en": "sheet: 73.3 × 50.3 cm\r\r\nimage: 58.4 × 40 cm",
+        "zh-hant": "紙本: 73.3 × 50.3 厘米\r\r\n圖像: 58.4 × 40 厘米"
     },
     "medium": {
         "en": "colour ink on Japanese paper mounted on paperboard",
@@ -64,55 +64,55 @@
     "color": {
         "predominant": [
             {
-                "color": "#667045",
-                "value": 34.8
+                "color": "#768953",
+                "value": 37.5
             },
             {
-                "color": "#B86B4B",
-                "value": 16.4
+                "color": "#E39478",
+                "value": 27.4
             },
             {
-                "color": "#9A533A",
-                "value": 13.5
+                "color": "#DC6F60",
+                "value": 13.2
             },
             {
-                "color": "#777D49",
-                "value": 9.9
+                "color": "#CED6A9",
+                "value": 3.5
             },
             {
-                "color": "#E3DCD2",
-                "value": 9.7
+                "color": "#D2BA87",
+                "value": 3
             },
             {
-                "color": "#CBCCB6",
-                "value": 3.9
+                "color": "#8D9359",
+                "value": 2.5
             },
             {
-                "color": "#BCA47B",
-                "value": 2.6
+                "color": "#F8DDC4",
+                "value": 2.3
             },
             {
-                "color": "#83804B",
-                "value": 1.9
+                "color": "#C0BA7F",
+                "value": 2.2
             },
             {
-                "color": "#97835A",
-                "value": 1.5
+                "color": "#B0C187",
+                "value": 2.1
             },
             {
-                "color": "#B54B29",
-                "value": 1.5
+                "color": "#B8BE84",
+                "value": 2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 31.4
+                    "value": 13.2
                 },
                 {
                     "color": "orange",
-                    "value": 2.6
+                    "value": 32.6
                 },
                 {
                     "color": "gray",
@@ -125,9 +125,23 @@
                 {
                     "color": "brown",
                     "value": 48.1
+                },
+                {
+                    "color": "green",
+                    "value": 42.1
+                },
+                {
+                    "color": "yellow",
+                    "value": 7.6
                 }
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 50.3,
+        "height": 73.3,
+        "depth": null
+    }
 }
