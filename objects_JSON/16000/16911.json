@@ -36,8 +36,8 @@
     "beginDate": 1970,
     "endDate": 1970,
     "dimension": {
-        "en": "overall: 49 x 31 cm",
-        "zh-hant": "整體: 49 x 31 厘米"
+        "en": "overall: 43.5 × 31.5 cm\r\r\nimage: 29.1 × 27.2 cm",
+        "zh-hant": "整體: 43.5 × 31.5 厘米\r\r\n圖像: 29.1 × 27.2 厘米"
     },
     "medium": {
         "en": "aquatint",
@@ -105,5 +105,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 31.5,
+        "height": 43.5,
+        "depth": null
+    }
 }

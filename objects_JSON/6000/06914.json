@@ -58,61 +58,47 @@
     ],
     "images": [
         {
+            "altText": "White three-wheeled mini-truck featuring two doors and a small open bed. The vehicle has one front wheel and two rear wheels."
+        },
+        {
+            "altText": null
+        },
+        {
             "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#141615",
-                "value": 46.5
+                "color": "#CECDCC",
+                "value": 34.9
             },
             {
-                "color": "#3E3E3B",
-                "value": 13.5
+                "color": "#C3C3AB",
+                "value": 29.3
             },
             {
-                "color": "#77854B",
-                "value": 9.2
+                "color": "#83817D",
+                "value": 19.4
             },
             {
-                "color": "#636563",
-                "value": 8.1
+                "color": "#878676",
+                "value": 5.5
             },
             {
-                "color": "#5F5F5B",
-                "value": 6.5
+                "color": "#36332F",
+                "value": 4.1
             },
             {
-                "color": "#5D5D5D",
-                "value": 4.8
-            },
-            {
-                "color": "#313623",
-                "value": 1.8
-            },
-            {
-                "color": "#CFD4B7",
-                "value": 1.7
-            },
-            {
-                "color": "#0B0104",
-                "value": 1.4
-            },
-            {
-                "color": "#0F080A",
-                "value": 1.1
-            },
-            {
-                "color": "#AFB97A",
-                "value": 1
+                "color": "#322D20",
+                "value": 3.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 19.5
+                    "value": 24.8
                 },
                 {
                     "color": "green",
@@ -120,15 +106,19 @@
                 },
                 {
                     "color": "black",
-                    "value": 62.5
+                    "value": 7.7
                 },
                 {
                     "color": "yellow",
-                    "value": 1.7
+                    "value": 29.3
                 },
                 {
                     "color": "brown",
                     "value": 1.8
+                },
+                {
+                    "color": "white",
+                    "value": 34.9
                 }
             ]
         }

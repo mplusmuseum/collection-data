@@ -36,8 +36,8 @@
     "beginDate": 1988,
     "endDate": 1988,
     "dimension": {
-        "en": "frame: 173 × 131 × 7 cm\r\r\noverall (sight): 159.5 × 117 cm",
-        "zh-hant": "連框: 173 × 131 × 7 厘米\r\r\n整體 （目測）: 159.5 × 117 厘米"
+        "en": "frame: 172.8 × 130.9 × 9.5 cm\r\r\noverall (sight): 158 × 115.5 cm",
+        "zh-hant": "連框: 172.8 × 130.9 × 9.5 厘米\r\r\n整體 （目測）: 158 × 115.5 厘米"
     },
     "medium": {
         "en": "oil on canvas",
@@ -96,14 +96,21 @@
     "dimensionDetails": {
         "element": "frame",
         "unit": "cm",
-        "width": 131,
-        "height": 173,
-        "depth": 7
+        "width": 130.9,
+        "height": 172.8,
+        "depth": 9.5
     },
     "concepts": [
         {
-            "title": "Northern Art Collective",
-            "description": "The Northern Art Collective was active in the late 1980s. It was established in 1984 in Harbin, Heilongjiang, by a group of artists including Wang Guangyi, Shu Qun, and Ren Jian. Rather than focusing on formalism and aesthetics— aspects praised by academia at the time—the collective was interested in bringing forward the spiritual notion of the sublime and rationality in their works, which were marked by cold colour tone and abstract compositions.",
+            "id": 26,
+            "title": {
+                "en": "Northern Art Collective",
+                "zh-hant": "北方藝術群體"
+            },
+            "description": {
+                "en": "The Northern Art Collective was active in the late 1980s. It was established in 1984 in Harbin, Heilongjiang, by a group of artists including Wang Guangyi, Shu Qun, and Ren Jian. Rather than focusing on formalism and aesthetics— aspects praised by academia at the time—the collective was interested in bringing forward the spiritual notion of the sublime and rationality in their works, which were marked by cold colour tone and abstract compositions.",
+                "zh-hant": "「北方藝術群體」是1984年創立於黑龍江哈爾濱並活躍於80年代後期的藝術家群體。核心成員包括王廣義、舒群和任戩。"
+            },
             "timeline": "Artist Groups",
             "beginDate": "1984",
             "endDate": "1990",

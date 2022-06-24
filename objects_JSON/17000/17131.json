@@ -36,8 +36,8 @@
     "beginDate": 1976,
     "endDate": 1976,
     "dimension": {
-        "en": "overall: 47.6 x 69.9 cm",
-        "zh-hant": "整體: 47.6 x 69.9 厘米"
+        "en": "sheet: 35.4 × 50.6 cm",
+        "zh-hant": "紙本: 35.4 × 50.6 厘米"
     },
     "medium": {
         "en": "ink and pastel on paper",
@@ -64,35 +64,31 @@
     "color": {
         "predominant": [
             {
-                "color": "#D5CAB9",
-                "value": 62.6
+                "color": "#EDE0CA",
+                "value": 72.2
             },
             {
-                "color": "#847C6F",
-                "value": 10.7
+                "color": "#807668",
+                "value": 10.1
             },
             {
-                "color": "#3A3326",
-                "value": 10
+                "color": "#473E2F",
+                "value": 7.2
             },
             {
-                "color": "#443F37",
-                "value": 6.2
-            },
-            {
-                "color": "#DAD8C9",
+                "color": "#685B49",
                 "value": 4.1
             },
             {
-                "color": "#3D3028",
-                "value": 1.5
+                "color": "#4B453D",
+                "value": 2.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 10.7
+                    "value": 10.1
                 },
                 {
                     "color": "white",
@@ -100,10 +96,24 @@
                 },
                 {
                     "color": "black",
-                    "value": 17.7
+                    "value": 10
+                },
+                {
+                    "color": "yellow",
+                    "value": 72.2
+                },
+                {
+                    "color": "brown",
+                    "value": 4.1
                 }
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 50.6,
+        "height": 35.4,
+        "depth": null
+    }
 }

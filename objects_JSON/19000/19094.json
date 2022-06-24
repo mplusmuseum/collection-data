@@ -36,8 +36,8 @@
     "beginDate": 1968,
     "endDate": 1972,
     "dimension": {
-        "en": "overall: 28 x 96 cm",
-        "zh-hant": "整體: 28 x 96 厘米"
+        "en": "overall: 29 × 98.5 × 0.1 cm",
+        "zh-hant": "整體: 29 × 98.5 × 0.1 厘米"
     },
     "medium": {
         "en": "silk",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 98.5,
+        "height": 29,
+        "depth": 0.1
+    }
 }

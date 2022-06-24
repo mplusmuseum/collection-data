@@ -41,7 +41,7 @@
     "endDate": 2017,
     "dimension": {
         "en": "dimensions variable\r\r\nduration (channel 1): 60 min.\r\r\nduration (channel 2): 59 sec.",
-        "zh-hant": "影片長度 （MP4_YHCHI - SYMI - E）: 60 分\r\r\n影片長度 （MP4_YHCHI - SYMI - F）: 59 秒"
+        "zh-hant": "尺寸可變\r\r\n影片長度 （頻道 1）: 60 分\r\r\n影片長度 （頻道 2）: 59 秒"
     },
     "medium": {
         "en": "two-channel digital video compilation (colour, sound)",
@@ -60,11 +60,65 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#000000",
+                "value": 50.4
+            },
+            {
+                "color": "#F7F7CD",
+                "value": 15.1
+            },
+            {
+                "color": "#000004",
+                "value": 10.5
+            },
+            {
+                "color": "#000100",
+                "value": 6.4
+            },
+            {
+                "color": "#020000",
+                "value": 4.5
+            },
+            {
+                "color": "#060500",
+                "value": 3.4
+            },
+            {
+                "color": "#060700",
+                "value": 2.1
+            },
+            {
+                "color": "#83836C",
+                "value": 1.6
+            },
+            {
+                "color": "#242315",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "black",
+                    "value": 78.7
+                },
+                {
+                    "color": "yellow",
+                    "value": 15.1
+                },
+                {
+                    "color": "brown",
+                    "value": 1.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -41,7 +41,7 @@
     "endDate": 2017,
     "dimension": {
         "en": "duration: 1 min. 5 sec.",
-        "zh-hant": "影片長度 （MP4）: 1 分 5 秒\r\r\n影片長度 （MOV）: 59 秒"
+        "zh-hant": "影片長度: 1 分 5 秒"
     },
     "medium": {
         "en": "single-channel digital video (black and white, sound)",
@@ -60,11 +60,33 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#FFFFFF",
+                "value": 91
+            },
+            {
+                "color": "#050505",
+                "value": 8.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 91
+                },
+                {
+                    "color": "black",
+                    "value": 8.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

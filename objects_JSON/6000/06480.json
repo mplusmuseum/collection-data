@@ -56,11 +56,37 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CCCAC7",
+                "value": 80.2
+            },
+            {
+                "color": "#8F887D",
+                "value": 10.2
+            },
+            {
+                "color": "#D0D0CD",
+                "value": 8.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 90.4
+                },
+                {
+                    "color": "white",
+                    "value": 8.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -126,8 +126,15 @@
     "dimensionDetails": null,
     "concepts": [
         {
-            "title": "Pearl River Delta",
-            "description": "Pearl River Delta is a geographic term that also denotes artists who work in Guangdong Province, Hong Kong, and Macau. At a distance from Beijing and Shanghai, artists produce conceptual work to reflect immediate lived experiences brought about by economic reform in Southern China. They address subjects of everyday urban life as well as politics. Artists active in this region include the Yangjiang Group, the Big Tail Elephant Group, Lee Kit, and Pak Sheung Chuen.",
+            "id": 29,
+            "title": {
+                "en": "Pearl River Delta",
+                "zh-hant": "珠江三角洲"
+            },
+            "description": {
+                "en": "Pearl River Delta is a geographic term that also denotes artists who work in Guangdong Province, Hong Kong, and Macau. At a distance from Beijing and Shanghai, artists produce conceptual work to reflect immediate lived experiences brought about by economic reform in Southern China. They address subjects of everyday urban life as well as politics. Artists active in this region include the Yangjiang Group, the Big Tail Elephant Group, Lee Kit, and Pak Sheung Chuen.",
+                "zh-hant": "珠江三角洲是個地理名詞，同時泛指活躍於廣東省、香港和澳門的藝術家。珠江三角洲距離北京和上海甚遠，此地的藝術家通過概念藝術來反映華南經濟改革所帶來的直接生活體驗。除了政治議題，他們還觸及都市日常生活。活躍於該地區的藝術家包括陽江組、大尾象、李傑和白雙全。"
+            },
             "timeline": "Artist Groups",
             "beginDate": "1994",
             "endDate": "1996",

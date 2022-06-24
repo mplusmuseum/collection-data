@@ -41,7 +41,7 @@
     "endDate": 2017,
     "dimension": {
         "en": "dimensions variable\r\r\nduration (channel 1): 7 min. 48 sec.\r\r\nduration (channel 2): 7 min. 49 sec.",
-        "zh-hant": "影片長度 （MP4_SAMSUNG MEANS TO DIE E）: 7 分 48 秒\r\r\n影片長度 （MOV_SAMSUNG MEANS TO DIE）: 7 分 49 秒\r\r\n影片長度 （MP4_SMTD K）: 7 分 48 秒\r\r\n影片長度 （MOV_SAMSUNG MEANS TO DIE K）: 7 分 49 秒"
+        "zh-hant": "尺寸可變\r\r\n影片長度 （頻道 1）: 7 分 48 秒\r\r\n影片長度 （頻道 2）: 7 分 49 秒"
     },
     "medium": {
         "en": "two-channel digital video installation (colour, sound)",
@@ -60,11 +60,152 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#010101",
+                "value": 24.7
+            },
+            {
+                "color": "#06080D",
+                "value": 14.4
+            },
+            {
+                "color": "#010108",
+                "value": 6.4
+            },
+            {
+                "color": "#251B05",
+                "value": 5
+            },
+            {
+                "color": "#110803",
+                "value": 4.9
+            },
+            {
+                "color": "#000300",
+                "value": 4.7
+            },
+            {
+                "color": "#EDE6DD",
+                "value": 4.5
+            },
+            {
+                "color": "#806439",
+                "value": 4.1
+            },
+            {
+                "color": "#271810",
+                "value": 3.3
+            },
+            {
+                "color": "#2B2010",
+                "value": 2.9
+            },
+            {
+                "color": "#F2F719",
+                "value": 2.6
+            },
+            {
+                "color": "#FAF716",
+                "value": 2.6
+            },
+            {
+                "color": "#CCAC76",
+                "value": 2.5
+            },
+            {
+                "color": "#070C0F",
+                "value": 1.7
+            },
+            {
+                "color": "#070B0A",
+                "value": 1.6
+            },
+            {
+                "color": "#111300",
+                "value": 1.1
+            },
+            {
+                "color": "#283625",
+                "value": 1
+            },
+            {
+                "color": "#29322B",
+                "value": 0.9
+            },
+            {
+                "color": "#222718",
+                "value": 0.9
+            },
+            {
+                "color": "#5F3E15",
+                "value": 0.8
+            },
+            {
+                "color": "#0C0B0E",
+                "value": 0.8
+            },
+            {
+                "color": "#010508",
+                "value": 0.8
+            },
+            {
+                "color": "#030005",
+                "value": 0.7
+            },
+            {
+                "color": "#E2E2D7",
+                "value": 0.6
+            },
+            {
+                "color": "#755133",
+                "value": 0.6
+            },
+            {
+                "color": "#E4E849",
+                "value": 0.6
+            },
+            {
+                "color": "#E1DE4A",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 2.5
+                },
+                {
+                    "color": "green",
+                    "value": 1
+                },
+                {
+                    "color": "white",
+                    "value": 5.1
+                },
+                {
+                    "color": "black",
+                    "value": 66.9
+                },
+                {
+                    "color": "yellow",
+                    "value": 6.4
+                },
+                {
+                    "color": "brown",
+                    "value": 13.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

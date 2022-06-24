@@ -36,8 +36,8 @@
     "beginDate": 1975,
     "endDate": 1975,
     "dimension": {
-        "en": "sheet: 47.6 x 62.9 cm",
-        "zh-hant": "紙本: 47.6 x 62.9 厘米"
+        "en": "sheet: 50.5 × 34.9 cm",
+        "zh-hant": "紙本: 50.5 × 34.9 厘米"
     },
     "medium": {
         "en": "ink and poster paint on paper",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 34.9,
+        "height": 50.5,
+        "depth": null
+    }
 }
