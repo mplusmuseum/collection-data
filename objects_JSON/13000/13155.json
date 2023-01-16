@@ -36,8 +36,8 @@
     "beginDate": 1957,
     "endDate": 1957,
     "dimension": {
-        "en": "image: 21.6 × 35.2 cm",
-        "zh-hant": "圖像: 21.6 × 35.2 厘米"
+        "en": "overall: 21.5 × 35.2 × 2.5 cm",
+        "zh-hant": "整體︰21.5 × 35.2 × 2.5 厘米"
     },
     "medium": {
         "en": "inkjet print mounted on foamboard",
@@ -64,27 +64,27 @@
     "color": {
         "predominant": [
             {
-                "color": "#DADADA",
-                "value": 55.4
+                "color": "#DDDCDB",
+                "value": 48.9
             },
             {
-                "color": "#888888",
-                "value": 38.5
+                "color": "#CCCCCA",
+                "value": 35.6
             },
             {
-                "color": "#323232",
-                "value": 6.1
+                "color": "#969491",
+                "value": 10.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 38.5
+                    "value": 10.6
                 },
                 {
                     "color": "white",
-                    "value": 55.4
+                    "value": 84.4
                 },
                 {
                     "color": "black",
@@ -94,10 +94,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "image",
+        "element": "overall",
         "unit": "cm",
         "width": 35.2,
-        "height": 21.6,
-        "depth": null
+        "height": 21.5,
+        "depth": 2.5
     }
 }

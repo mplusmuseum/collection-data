@@ -36,14 +36,14 @@
         "zh-hant": "主要收集了呂壽琨與友人出遊照片的照片集"
     },
     "displayDate": {
-        "en": "1963–1972",
+        "en": "1968–1972",
         "zh-hant": "1963至1972年代"
     },
-    "beginDate": 1963,
+    "beginDate": 1968,
     "endDate": 1972,
     "dimension": {
         "en": "overall: 25.2 × 36.5 × 0.7 cm",
-        "zh-hant": "整體: 25.2 × 36.5 × 0.7 厘米"
+        "zh-hant": "整體︰25.2 × 36.5 × 0.7 厘米"
     },
     "medium": {
         "en": "silver gelatin print, ink on newsprint and ink on paper",
@@ -62,11 +62,49 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E6E6E0",
+                "value": 40.4
+            },
+            {
+                "color": "#D5D2CB",
+                "value": 38.2
+            },
+            {
+                "color": "#85817A",
+                "value": 8.8
+            },
+            {
+                "color": "#3C3932",
+                "value": 5.9
+            },
+            {
+                "color": "#231E18",
+                "value": 3.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 8.8
+                },
+                {
+                    "color": "white",
+                    "value": 78.6
+                },
+                {
+                    "color": "black",
+                    "value": 9.5
+                }
+            ]
         }
     },
     "dimensionDetails": {

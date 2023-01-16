@@ -41,7 +41,7 @@
     "endDate": 1988,
     "dimension": {
         "en": "sheet: 51 x 38.2 cm",
-        "zh-hant": "紙本: 51 x 38.2 厘米"
+        "zh-hant": "紙本︰51 x 38.2 厘米"
     },
     "medium": {
         "en": "ink on paper",
@@ -60,17 +60,35 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EFEBE3",
+                "value": 87.6
+            },
+            {
+                "color": "#F3F2EC",
+                "value": 11
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 98.7
+                }
+            ]
         }
     },
     "dimensionDetails": {
         "element": "sheet",
         "unit": "cm",
-        "width": null,
+        "width": 38.2,
         "height": 51,
         "depth": null
     }

@@ -37,7 +37,7 @@
     "endDate": 1998,
     "dimension": {
         "en": "sheet: 100 × 99.5 cm\r\r\nimage: 90 × 89.5 cm",
-        "zh-hant": "紙本: 100 × 99.5 厘米\r\r\n圖像: 90 × 89.5 厘米"
+        "zh-hant": "紙本︰100 × 99.5 厘米\r\r\n圖像︰90 × 89.5 厘米"
     },
     "medium": {
         "en": "chromogenic print",
@@ -64,40 +64,28 @@
     "color": {
         "predominant": [
             {
-                "color": "#D8E9F1",
-                "value": 37
+                "color": "#E6E0CE",
+                "value": 79.6
             },
             {
-                "color": "#D49B22",
-                "value": 19.9
+                "color": "#E6E5DA",
+                "value": 11.8
             },
             {
-                "color": "#D1AE5D",
-                "value": 18.9
-            },
-            {
-                "color": "#000000",
-                "value": 7.1
-            },
-            {
-                "color": "#070228",
-                "value": 5
-            },
-            {
-                "color": "#C0CFC8",
-                "value": 3.3
-            },
-            {
-                "color": "#2D0601",
-                "value": 1.6
-            },
-            {
-                "color": "#E0E9F4",
+                "color": "#897785",
                 "value": 1.3
             },
             {
-                "color": "#8D5A3A",
-                "value": 1
+                "color": "#908181",
+                "value": 1.1
+            },
+            {
+                "color": "#766E80",
+                "value": 0.8
+            },
+            {
+                "color": "#D4DCD6",
+                "value": 0.5
             }
         ],
         "search": {
@@ -112,7 +100,7 @@
                 },
                 {
                     "color": "white",
-                    "value": 41.6
+                    "value": 91.9
                 },
                 {
                     "color": "blue",
@@ -125,6 +113,10 @@
                 {
                     "color": "brown",
                     "value": 1
+                },
+                {
+                    "color": "gray",
+                    "value": 3.2
                 }
             ]
         }

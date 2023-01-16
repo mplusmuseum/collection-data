@@ -36,8 +36,8 @@
     "beginDate": 1957,
     "endDate": 1957,
     "dimension": {
-        "en": "image: 23.8 × 35.2 cm",
-        "zh-hant": "圖像: 23.8 × 35.2 厘米"
+        "en": "overall: 23.5 × 35.1 × 2.5 cm",
+        "zh-hant": "整體︰23.5 × 35.1 × 2.5 厘米"
     },
     "medium": {
         "en": "black and white photograph mounted on foamboard",
@@ -64,40 +64,44 @@
     "color": {
         "predominant": [
             {
-                "color": "#272727",
-                "value": 45.4
+                "color": "#E6E6E5",
+                "value": 37.3
             },
             {
-                "color": "#F1F1F1",
-                "value": 40.5
+                "color": "#797672",
+                "value": 30.8
             },
             {
-                "color": "#797979",
-                "value": 14.1
+                "color": "#403D3A",
+                "value": 19.6
+            },
+            {
+                "color": "#D8D8D6",
+                "value": 8.7
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 14.1
+                    "value": 30.8
                 },
                 {
                     "color": "white",
-                    "value": 40.5
+                    "value": 46
                 },
                 {
                     "color": "black",
-                    "value": 45.4
+                    "value": 19.6
                 }
             ]
         }
     },
     "dimensionDetails": {
-        "element": "image",
+        "element": "overall",
         "unit": "cm",
-        "width": 35.2,
-        "height": 23.8,
-        "depth": null
+        "width": 35.1,
+        "height": 23.5,
+        "depth": 2.5
     }
 }

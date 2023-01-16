@@ -41,7 +41,7 @@
     "endDate": 1999,
     "dimension": {
         "en": "sheet: 56.1 x 76.2 cm",
-        "zh-hant": "紙本: 56.1 x 76.2 厘米"
+        "zh-hant": "紙本︰56.1 x 76.2 厘米"
     },
     "medium": {
         "en": "marker ink on paper",
@@ -60,17 +60,35 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EEEAE3",
+                "value": 51.6
+            },
+            {
+                "color": "#F2F1EA",
+                "value": 43.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 95.2
+                }
+            ]
         }
     },
     "dimensionDetails": {
         "element": "sheet",
         "unit": "cm",
-        "width": null,
+        "width": 76.2,
         "height": 56.1,
         "depth": null
     }
