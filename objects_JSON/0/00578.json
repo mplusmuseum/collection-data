@@ -37,7 +37,7 @@
     "endDate": 1981,
     "dimension": {
         "en": "frame: 74.3 × 101.6 × 4.7 cm\r\r\nsheet (sight): 69.2 × 96.4 cm\r\r\nimage (sight): 59.7 × 87.8 cm",
-        "zh-hant": "連框: 74.3 × 101.6 × 4.7 厘米\r\r\n紙本 （目測）: 69.2 × 96.4 厘米\r\r\n圖像 （目測）: 59.7 × 87.8 厘米"
+        "zh-hant": "連框︰74.3 × 101.6 × 4.7 厘米\r\r\n紙本 （目測）︰69.2 × 96.4 厘米\r\r\n圖像 （目測）︰59.7 × 87.8 厘米"
     },
     "medium": {
         "en": "print on archival paper",
@@ -64,23 +64,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#CCCCCC",
-                "value": 40.1
+                "color": "#21201F",
+                "value": 25.1
             },
             {
-                "color": "#292929",
-                "value": 34.7
+                "color": "#C2C2C4",
+                "value": 21.1
             },
             {
-                "color": "#7D7D7D",
-                "value": 25.2
+                "color": "#807C7C",
+                "value": 17.9
+            },
+            {
+                "color": "#232123",
+                "value": 12.6
+            },
+            {
+                "color": "#B6B4B5",
+                "value": 9.7
+            },
+            {
+                "color": "#939192",
+                "value": 5.6
+            },
+            {
+                "color": "#B8B6B6",
+                "value": 4
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 25.2
+                    "value": 58.3
                 },
                 {
                     "color": "white",
@@ -88,7 +104,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 34.7
+                    "value": 37.7
                 }
             ]
         }

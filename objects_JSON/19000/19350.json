@@ -38,8 +38,8 @@
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
-        "en": "dimensions variable\r\r\noverall (sculptures, each approx.): 12 x 8 cm",
-        "zh-hant": "尺寸可變\r\r\n整體 （雕塑, 各 約）: 12 x 8 厘米"
+        "en": "overall: 130 × 600.3 × 15.2 cm",
+        "zh-hant": "整體︰130 × 600.3 × 15.2 厘米"
     },
     "medium": {
         "en": "concrete and iron stands",
@@ -66,10 +66,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "overall",
         "unit": "cm",
-        "width": 15.2,
-        "height": 10.2,
-        "depth": null
+        "width": 600.3,
+        "height": 130,
+        "depth": 15.2
     }
 }

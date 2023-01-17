@@ -37,7 +37,7 @@
     "endDate": 2011,
     "dimension": {
         "en": "overall: 300 × 7 cm\r\r\noverall: 285.5 × 7 cm\r\r\noverall: 78 × 7 cm\r\r\noverall: 22.9 × 7 cm",
-        "zh-hant": "整體: 300 × 7 厘米\r\r\n整體: 285.5 × 7 厘米\r\r\n整體: 78 × 7 厘米\r\r\n整體: 22.9 × 7 厘米"
+        "zh-hant": "整體︰300 × 7 厘米\r\r\n整體︰285.5 × 7 厘米\r\r\n整體︰78 × 7 厘米\r\r\n整體︰22.9 × 7 厘米"
     },
     "medium": {
         "en": "gold phoebe (wood)",
@@ -64,20 +64,16 @@
     "color": {
         "predominant": [
             {
-                "color": "#D0D0C9",
-                "value": 64.5
+                "color": "#E9E7E2",
+                "value": 58.8
             },
             {
-                "color": "#766F63",
-                "value": 15
+                "color": "#E6E5E1",
+                "value": 24
             },
             {
-                "color": "#C6C3BB",
-                "value": 13.9
-            },
-            {
-                "color": "#796445",
-                "value": 3.2
+                "color": "#BB9B6F",
+                "value": 13.3
             }
         ],
         "search": {
@@ -88,11 +84,15 @@
                 },
                 {
                     "color": "white",
-                    "value": 64.5
+                    "value": 82.8
                 },
                 {
                     "color": "brown",
                     "value": 3.2
+                },
+                {
+                    "color": "orange",
+                    "value": 13.3
                 }
             ]
         }

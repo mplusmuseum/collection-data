@@ -36,8 +36,8 @@
     "beginDate": 2014,
     "endDate": 2014,
     "dimension": {
-        "en": "overall: 45 x 45 x 45 cm",
-        "zh-hant": "整體: 45 x 45 x 45 厘米"
+        "en": "overall: 32.5 × 34 × 34.2 cm",
+        "zh-hant": "整體︰32.5 × 34 × 34.2 厘米"
     },
     "medium": {
         "en": "oyster shells, wax, hand painted copper trees, figurines, wooden base, glass box",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 34,
+        "height": 32.5,
+        "depth": 34.2
+    }
 }

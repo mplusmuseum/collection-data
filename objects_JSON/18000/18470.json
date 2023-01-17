@@ -41,7 +41,7 @@
     "endDate": 1976,
     "dimension": {
         "en": "sheet: 50.2 x 37.9 cm",
-        "zh-hant": "紙本: 50.2 x 37.9 厘米"
+        "zh-hant": "紙本︰50.2 x 37.9 厘米"
     },
     "medium": {
         "en": "ink and graphite on paper",
@@ -60,17 +60,35 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#F0ECE4",
+                "value": 80.2
+            },
+            {
+                "color": "#F0EFE5",
+                "value": 16.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 96.2
+                }
+            ]
         }
     },
     "dimensionDetails": {
         "element": "sheet",
         "unit": "cm",
-        "width": null,
+        "width": 37.9,
         "height": 50.2,
         "depth": null
     }

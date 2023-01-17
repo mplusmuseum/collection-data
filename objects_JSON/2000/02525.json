@@ -39,7 +39,7 @@
     "endDate": 2000,
     "dimension": {
         "en": "each (approx.): 27.5 × 46 × 13 cm",
-        "zh-hant": "各 （約）: 27.5 × 46 × 13 厘米"
+        "zh-hant": "各 （約）︰27.5 × 46 × 13 厘米"
     },
     "medium": {
         "en": "concrete, silkworms and silk thread",
@@ -66,35 +66,39 @@
     "color": {
         "predominant": [
             {
-                "color": "#AFB5B9",
-                "value": 31.6
+                "color": "#E3E4E6",
+                "value": 43.2
             },
             {
-                "color": "#949A9C",
-                "value": 26.7
+                "color": "#B98B65",
+                "value": 25
             },
             {
-                "color": "#84847B",
-                "value": 21.3
+                "color": "#CECAC6",
+                "value": 19.9
             },
             {
-                "color": "#939795",
-                "value": 8.4
+                "color": "#C29566",
+                "value": 3.1
             },
             {
-                "color": "#858278",
-                "value": 7.6
+                "color": "#CDCBCC",
+                "value": 2
+            },
+            {
+                "color": "#A17758",
+                "value": 1.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 95.5
+                    "value": 19.9
                 },
                 {
                     "color": "white",
-                    "value": 13.6
+                    "value": 45.2
                 },
                 {
                     "color": "black",
@@ -103,6 +107,14 @@
                 {
                     "color": "teal",
                     "value": 1.5
+                },
+                {
+                    "color": "orange",
+                    "value": 28.1
+                },
+                {
+                    "color": "brown",
+                    "value": 1.9
                 }
             ]
         }

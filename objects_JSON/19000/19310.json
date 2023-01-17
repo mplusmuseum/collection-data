@@ -36,8 +36,8 @@
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
-        "en": "overall: 120 x 30 x 70 cm",
-        "zh-hant": "整體: 120 x 30 x 70 厘米"
+        "en": "overall: 49 × 99 × 41 cm",
+        "zh-hant": "整體︰49 × 99 × 41 厘米"
     },
     "medium": {
         "en": "metal and coloured glass",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 99,
+        "height": 49,
+        "depth": 41
+    }
 }
