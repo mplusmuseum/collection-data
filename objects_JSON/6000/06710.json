@@ -36,8 +36,8 @@
     "beginDate": 1977,
     "endDate": 1977,
     "dimension": {
-        "en": "hammer: 26 x 13 x 5.1 cm approx.\r\r\nsickle: 36.8 x 29.2 x 5.1 cm approx.",
-        "zh-hant": "鎚：約26 x 13 x 51厘米\r\n鐮：約368 x 292 x 51厘米"
+        "en": "overall (approx.): 40 × 40 × 10 cm",
+        "zh-hant": "整體 （約）︰40 × 40 × 10 厘米"
     },
     "medium": {
         "en": "wood and steel",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 40,
+        "height": 40,
+        "depth": 10
+    }
 }

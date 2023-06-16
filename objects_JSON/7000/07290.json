@@ -36,8 +36,8 @@
     "beginDate": 1988,
     "endDate": 1988,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "overall: 5.3 × 34.5 × 25.3 cm",
+        "zh-hant": "整體︰5.3 × 34.5 × 25.3 厘米"
     },
     "medium": {
         "en": "plastic and electronic parts",
@@ -132,5 +132,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 34.5,
+        "height": 5.3,
+        "depth": 25.3
+    }
 }

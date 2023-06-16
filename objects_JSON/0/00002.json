@@ -1,0 +1,103 @@
+{
+    "id": 2,
+    "sortNumber": "2012  1800",
+    "publicAccess": true,
+    "objectNumber": "2012.1800",
+    "classification": {
+        "area": {
+            "en": [
+                "Visual Art"
+            ],
+            "zh-hant": [
+                "視覺藝術"
+            ]
+        },
+        "category": {
+            "en": [
+                "Photography"
+            ],
+            "zh-hant": [
+                "攝影"
+            ]
+        },
+        "archivalLevel": {
+            "en": null,
+            "zh-hant": null
+        }
+    },
+    "title": {
+        "en": "No Title",
+        "zh-hant": "無標題"
+    },
+    "displayDate": {
+        "en": "1960s",
+        "zh-hant": "1960年代"
+    },
+    "beginDate": 1960,
+    "endDate": 1969,
+    "dimension": {
+        "en": "overall: 49.5 × 40 cm",
+        "zh-hant": "整體︰49.5 × 40 厘米"
+    },
+    "medium": {
+        "en": "black and white print",
+        "zh-hant": "黑白照片"
+    },
+    "creditLine": {
+        "en": "M+, Hong Kong",
+        "zh-hant": "M+，香港"
+    },
+    "constituents": [
+        {
+            "id": 378,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
+    "color": {
+        "predominant": [
+            {
+                "color": "#797369",
+                "value": 59.2
+            },
+            {
+                "color": "#3A3531",
+                "value": 20
+            },
+            {
+                "color": "#D6D2C8",
+                "value": 17.2
+            }
+        ],
+        "search": {
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 59.2
+                },
+                {
+                    "color": "white",
+                    "value": 17.2
+                },
+                {
+                    "color": "black",
+                    "value": 20
+                }
+            ]
+        }
+    },
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 40,
+        "height": 49.5,
+        "depth": null
+    }
+}

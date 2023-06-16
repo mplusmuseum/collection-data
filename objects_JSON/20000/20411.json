@@ -40,7 +40,7 @@
     "beginDate": 1962,
     "endDate": 1962,
     "dimension": {
-        "en": "frame: 42.3 × 34.8 × 2.2 cm\r\r\nsheet: 29.9 × 20.8 cm",
+        "en": "sheet: 29.9 × 20.8 cm",
         "zh-hant": "連框︰42.3 × 34.8 × 2.2 厘米\r\r\n紙本︰29.9 × 20.8 厘米"
     },
     "medium": {
@@ -68,10 +68,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "frame",
+        "element": "sheet",
         "unit": "cm",
-        "width": 34.8,
-        "height": 42.3,
-        "depth": 2.2
+        "width": 20.8,
+        "height": 29.9,
+        "depth": null
     }
 }

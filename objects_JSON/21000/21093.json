@@ -27,7 +27,7 @@
     },
     "title": {
         "en": "Harry Seidler Drawings",
-        "zh-hant": "亨利．施得拿作品繪圖"
+        "zh-hant": "亨利‧施得拿作品繪圖"
     },
     "displayDate": {
         "en": "1981",
@@ -56,11 +56,57 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#B4C4CA",
+                "value": 41.7
+            },
+            {
+                "color": "#7E888D",
+                "value": 17.3
+            },
+            {
+                "color": "#DCDCD6",
+                "value": 13
+            },
+            {
+                "color": "#DFDDD8",
+                "value": 10.9
+            },
+            {
+                "color": "#C9CCCA",
+                "value": 4.7
+            },
+            {
+                "color": "#717378",
+                "value": 3.4
+            },
+            {
+                "color": "#888A89",
+                "value": 2.1
+            },
+            {
+                "color": "#8C8B88",
+                "value": 2.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 66.7
+                },
+                {
+                    "color": "white",
+                    "value": 28.6
+                }
+            ]
         }
     },
     "dimensionDetails": null

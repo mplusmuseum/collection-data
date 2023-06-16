@@ -36,8 +36,8 @@
     "beginDate": 1958,
     "endDate": 1958,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "overall: 49.5 × 24 × 21 cm",
+        "zh-hant": "整體︰49.5 × 24 × 21 厘米"
     },
     "medium": {
         "en": "metal, plastic, paint, cord and machine parts",
@@ -143,5 +143,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 24,
+        "height": 49.5,
+        "depth": 21
+    }
 }

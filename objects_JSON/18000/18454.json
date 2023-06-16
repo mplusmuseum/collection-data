@@ -27,7 +27,7 @@
     },
     "title": {
         "en": "Manop Srisomporn Archive",
-        "zh-hant": "馬諾．士索龐檔案藏品"
+        "zh-hant": "馬諾‧士索龐檔案藏品"
     },
     "displayDate": {
         "en": "[1970–1980s]",
@@ -56,11 +56,37 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E9E5DB",
+                "value": 63.4
+            },
+            {
+                "color": "#28272C",
+                "value": 30.2
+            },
+            {
+                "color": "#E9E9EB",
+                "value": 2.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 66.1
+                },
+                {
+                    "color": "black",
+                    "value": 30.2
+                }
+            ]
         }
     },
     "dimensionDetails": null

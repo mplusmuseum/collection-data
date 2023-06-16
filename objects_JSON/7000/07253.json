@@ -36,8 +36,8 @@
     "beginDate": 1973,
     "endDate": 1973,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "overall: 1.9 × 12 × 8.3 cm",
+        "zh-hant": "整體︰1.9 × 12 × 8.3 厘米"
     },
     "medium": {
         "en": "plastic, aluminium, and electronic parts",
@@ -105,5 +105,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 12,
+        "height": 1.9,
+        "depth": 8.3
+    }
 }

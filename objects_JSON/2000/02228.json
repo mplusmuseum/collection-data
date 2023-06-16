@@ -59,60 +59,63 @@
     "images": [
         {
             "altText": "Photograph of a lotus flower with petals tinged purple at the edges. The flower is depicted within a cyan circle."
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#F0F7FA",
-                "value": 40.5
+                "color": "#E0DBD3",
+                "value": 50.8
             },
             {
-                "color": "#E8EDF8",
-                "value": 18.6
+                "color": "#55AEBD",
+                "value": 17.9
             },
             {
-                "color": "#02CEDB",
-                "value": 12.6
+                "color": "#E5E4DB",
+                "value": 14.5
             },
             {
-                "color": "#8694D6",
-                "value": 8.8
+                "color": "#4EA8BC",
+                "value": 3.6
             },
             {
-                "color": "#08E3DE",
-                "value": 7
+                "color": "#1A9BB2",
+                "value": 3
             },
             {
-                "color": "#018FCE",
-                "value": 4
+                "color": "#088BA3",
+                "value": 1.4
             },
             {
-                "color": "#010101",
-                "value": 1.3
+                "color": "#047A96",
+                "value": 1.4
             },
             {
-                "color": "#8A73CB",
-                "value": 1.3
+                "color": "#905B44",
+                "value": 1.1
             },
             {
-                "color": "#F0F7F3",
-                "value": 0.7
+                "color": "#A5C0C1",
+                "value": 0.9
             },
             {
-                "color": "#8B5A5A",
-                "value": 0.7
+                "color": "#CFDAD3",
+                "value": 0.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 0.7
+                    "value": 1.1
                 },
                 {
                     "color": "white",
-                    "value": 59.8
+                    "value": 66.1
                 },
                 {
                     "color": "blue",
@@ -128,7 +131,11 @@
                 },
                 {
                     "color": "teal",
-                    "value": 23.5
+                    "value": 27.3
+                },
+                {
+                    "color": "gray",
+                    "value": 0.9
                 }
             ]
         }

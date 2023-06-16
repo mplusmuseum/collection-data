@@ -36,11 +36,11 @@
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
-        "en": "each: 300 × 80 × 120 cm",
-        "zh-hant": "各︰300 × 80 × 120 厘米"
+        "en": "dimensions variable",
+        "zh-hant": "尺寸可變"
     },
     "medium": {
-        "en": "wood",
+        "en": "metal, paint and wood",
         "zh-hant": "木"
     },
     "creditLine": {
@@ -93,11 +93,5 @@
             ]
         }
     },
-    "dimensionDetails": {
-        "element": "overall",
-        "unit": "cm",
-        "width": 80,
-        "height": 300,
-        "depth": 120
-    }
+    "dimensionDetails": null
 }
