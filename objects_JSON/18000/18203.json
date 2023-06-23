@@ -34,7 +34,7 @@
         "zh-hant": "1989年，2020年重製"
     },
     "beginDate": 1989,
-    "endDate": 2019,
+    "endDate": 2020,
     "dimension": {
         "en": "overall: 113.1 x 99.2 x 85.3 cm",
         "zh-hant": "整體︰113.1 x 99.2 x 85.3 厘米"
@@ -56,11 +56,45 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C1BEB7",
+                "value": 67.9
+            },
+            {
+                "color": "#9C968E",
+                "value": 14.9
+            },
+            {
+                "color": "#D1D0C9",
+                "value": 8.8
+            },
+            {
+                "color": "#897152",
+                "value": 3.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 82.8
+                },
+                {
+                    "color": "white",
+                    "value": 8.8
+                },
+                {
+                    "color": "brown",
+                    "value": 3.8
+                }
+            ]
         }
     },
     "dimensionDetails": null

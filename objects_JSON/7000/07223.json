@@ -36,8 +36,8 @@
     "beginDate": 1955,
     "endDate": 1955,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "overall: 27 × 31 × 28.5 cm",
+        "zh-hant": "整體︰27 × 31 × 28.5 厘米"
     },
     "medium": {
         "en": "metal, plastic, and electronic parts",
@@ -104,5 +104,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 31,
+        "height": 27,
+        "depth": 28.5
+    }
 }

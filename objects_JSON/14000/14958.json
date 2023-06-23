@@ -60,11 +60,69 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#1C1C1C",
+                "value": 39.8
+            },
+            {
+                "color": "#827A71",
+                "value": 16.2
+            },
+            {
+                "color": "#C9C0B3",
+                "value": 13.5
+            },
+            {
+                "color": "#292B2B",
+                "value": 11.2
+            },
+            {
+                "color": "#232327",
+                "value": 9
+            },
+            {
+                "color": "#2F1A1C",
+                "value": 1.6
+            },
+            {
+                "color": "#89634B",
+                "value": 1.5
+            },
+            {
+                "color": "#81705A",
+                "value": 1.4
+            },
+            {
+                "color": "#C5A98A",
+                "value": 1.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 1.2
+                },
+                {
+                    "color": "gray",
+                    "value": 29.7
+                },
+                {
+                    "color": "black",
+                    "value": 61.5
+                },
+                {
+                    "color": "brown",
+                    "value": 3
+                }
+            ]
         }
     },
     "dimensionDetails": {

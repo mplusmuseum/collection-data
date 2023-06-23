@@ -36,8 +36,8 @@
     "beginDate": 1940,
     "endDate": 1940,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "overall: 22.6 × 21 × 21 cm",
+        "zh-hant": "整體︰22.6 × 21 × 21 厘米"
     },
     "medium": {
         "en": "wood, metal, heating wire, and electronic parts",
@@ -113,5 +113,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 21,
+        "height": 22.6,
+        "depth": 21
+    }
 }

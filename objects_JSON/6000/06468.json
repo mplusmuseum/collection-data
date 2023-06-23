@@ -36,8 +36,8 @@
     "beginDate": 2014,
     "endDate": 2014,
     "dimension": {
-        "en": "overall: 243.5 × 91.3 cm\r\r\nframed: 253.5 × 101.3 × 3.2 cm",
-        "zh-hant": "連框︰253.5 × 101.3 × 3.2 厘米  整體︰243.5 × 91.3 厘米"
+        "en": "overall: 243.5 × 91.3 cm\r\r\nframe: 253.5 × 101.3 × 3.2 cm",
+        "zh-hant": "整體︰243.5 × 91.3 厘米\r\r\n連框︰253.5 × 101.3 × 3.2 厘米"
     },
     "medium": {
         "en": "oil on canvas",
@@ -110,10 +110,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "frame",
+        "element": "overall",
         "unit": "cm",
-        "width": 101.3,
-        "height": 253.5,
-        "depth": 3.2
+        "width": 91.3,
+        "height": 243.5,
+        "depth": null
     }
 }

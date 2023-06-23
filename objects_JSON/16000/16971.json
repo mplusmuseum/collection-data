@@ -54,13 +54,122 @@
                 "en": "Designer",
                 "zh-hant": "設計師"
             }
+        },
+        {
+            "id": 5483,
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
+            }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#F5E8E2",
+                "value": 57.6
+            },
+            {
+                "color": "#212027",
+                "value": 6.8
+            },
+            {
+                "color": "#F392B1",
+                "value": 5.9
+            },
+            {
+                "color": "#1A1D27",
+                "value": 4.1
+            },
+            {
+                "color": "#139AD5",
+                "value": 4.1
+            },
+            {
+                "color": "#D1E3E9",
+                "value": 3.2
+            },
+            {
+                "color": "#F0F1E8",
+                "value": 2.3
+            },
+            {
+                "color": "#72C1DF",
+                "value": 2
+            },
+            {
+                "color": "#877877",
+                "value": 1.1
+            },
+            {
+                "color": "#D5D8E1",
+                "value": 1.1
+            },
+            {
+                "color": "#814658",
+                "value": 0.9
+            },
+            {
+                "color": "#2A2725",
+                "value": 0.9
+            },
+            {
+                "color": "#E4CEDC",
+                "value": 0.9
+            },
+            {
+                "color": "#E7EDE8",
+                "value": 0.9
+            },
+            {
+                "color": "#341E20",
+                "value": 0.8
+            },
+            {
+                "color": "#4579C2",
+                "value": 0.7
+            },
+            {
+                "color": "#0A5B88",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 0.9
+                },
+                {
+                    "color": "pink",
+                    "value": 5.9
+                },
+                {
+                    "color": "gray",
+                    "value": 1.1
+                },
+                {
+                    "color": "white",
+                    "value": 66
+                },
+                {
+                    "color": "blue",
+                    "value": 1.3
+                },
+                {
+                    "color": "black",
+                    "value": 12.6
+                },
+                {
+                    "color": "teal",
+                    "value": 6.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

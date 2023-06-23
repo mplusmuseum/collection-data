@@ -49,6 +49,13 @@
     },
     "constituents": [
         {
+            "id": 5251,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
+        },
+        {
             "id": 4347,
             "role": {
                 "en": "Editor",
@@ -60,6 +67,20 @@
             "role": {
                 "en": "Editor",
                 "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 5252,
+            "role": {
+                "en": "Editor",
+                "zh-hant": "編輯／剪接"
+            }
+        },
+        {
+            "id": 5253,
+            "role": {
+                "en": "Maker",
+                "zh-hant": "創作者"
             }
         }
     ],

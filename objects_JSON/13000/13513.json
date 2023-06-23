@@ -56,11 +56,49 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": "Photocopied bulletin on paper depicting an outline of a tilted square with two corners left outside the page. A circle, split horizontally into two, lies in the square with Japanese text on our left. The text 'WoDeCo 1' features at the top."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E2E1DF",
+                "value": 53.6
+            },
+            {
+                "color": "#323032",
+                "value": 21.4
+            },
+            {
+                "color": "#E2E0E1",
+                "value": 17.2
+            },
+            {
+                "color": "#6F6D6E",
+                "value": 2.8
+            },
+            {
+                "color": "#312F2E",
+                "value": 2.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 2.8
+                },
+                {
+                    "color": "white",
+                    "value": 70.8
+                },
+                {
+                    "color": "black",
+                    "value": 23.8
+                }
+            ]
         }
     },
     "dimensionDetails": null
