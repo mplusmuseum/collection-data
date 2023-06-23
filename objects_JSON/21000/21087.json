@@ -41,7 +41,7 @@
     },
     "medium": {
         "en": "bound lithography on paper",
-        "zh-hant": "bound lithography on paper"
+        "zh-hant": "裝訂平版印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -56,11 +56,53 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C6A981",
+                "value": 55.1
+            },
+            {
+                "color": "#B57857",
+                "value": 22.1
+            },
+            {
+                "color": "#4F483E",
+                "value": 9.2
+            },
+            {
+                "color": "#5B5448",
+                "value": 4.8
+            },
+            {
+                "color": "#4A4035",
+                "value": 4.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 55.1
+                },
+                {
+                    "color": "gray",
+                    "value": 4.8
+                },
+                {
+                    "color": "black",
+                    "value": 13.8
+                },
+                {
+                    "color": "brown",
+                    "value": 22.1
+                }
+            ]
         }
     },
     "dimensionDetails": {
