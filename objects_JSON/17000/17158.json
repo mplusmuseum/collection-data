@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Postcard, Museo Alchimia",
-        "zh-hant": "Museo Alchimia明信片"
+        "zh-hant": "Museo Alchimia 明信片"
     },
     "displayDate": {
         "en": "1985",
@@ -60,11 +60,57 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EAE9E5",
+                "value": 36.3
+            },
+            {
+                "color": "#1F1E1C",
+                "value": 31.2
+            },
+            {
+                "color": "#E9E196",
+                "value": 12.2
+            },
+            {
+                "color": "#E9E7E1",
+                "value": 11.1
+            },
+            {
+                "color": "#18160E",
+                "value": 3.1
+            },
+            {
+                "color": "#807E7B",
+                "value": 2.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 2.1
+                },
+                {
+                    "color": "white",
+                    "value": 47.3
+                },
+                {
+                    "color": "black",
+                    "value": 34.3
+                },
+                {
+                    "color": "yellow",
+                    "value": 12.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

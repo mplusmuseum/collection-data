@@ -56,83 +56,102 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#121212",
-                "value": 32.9
+                "color": "#010401",
+                "value": 17.8
             },
             {
-                "color": "#1C1D33",
-                "value": 20.2
+                "color": "#000201",
+                "value": 17.2
             },
             {
-                "color": "#28292E",
-                "value": 17.5
+                "color": "#282C28",
+                "value": 15.1
             },
             {
-                "color": "#333738",
-                "value": 7.5
+                "color": "#0F100E",
+                "value": 9.7
             },
             {
-                "color": "#04061A",
-                "value": 5.2
+                "color": "#030605",
+                "value": 9.7
             },
             {
-                "color": "#787E7C",
-                "value": 2.2
+                "color": "#050A06",
+                "value": 5.6
             },
             {
-                "color": "#CAD0CC",
-                "value": 1.9
+                "color": "#768FC7",
+                "value": 4.4
             },
             {
-                "color": "#5F676B",
-                "value": 1.9
+                "color": "#6B6C75",
+                "value": 2.6
             },
             {
-                "color": "#E6E8EC",
-                "value": 1.7
+                "color": "#404044",
+                "value": 2.6
             },
             {
-                "color": "#616369",
-                "value": 1.1
+                "color": "#5F655F",
+                "value": 2.1
             },
             {
-                "color": "#E0E7E9",
-                "value": 1.1
+                "color": "#E8E5DF",
+                "value": 1.6
             },
             {
-                "color": "#2F306C",
-                "value": 0.8
+                "color": "#F8F9F3",
+                "value": 1.5
             },
             {
-                "color": "#C2C3C0",
-                "value": 0.7
+                "color": "#C3C8DE",
+                "value": 1.5
             },
             {
-                "color": "#1C5FE7",
-                "value": 0.7
+                "color": "#0F1518",
+                "value": 1.4
+            },
+            {
+                "color": "#191B12",
+                "value": 1.2
+            },
+            {
+                "color": "#6E7265",
+                "value": 1
+            },
+            {
+                "color": "#696E71",
+                "value": 0.9
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 5.9
+                    "value": 8.1
                 },
                 {
                     "color": "blue",
-                    "value": 21.6
+                    "value": 4.4
                 },
                 {
                     "color": "white",
-                    "value": 4.7
+                    "value": 3.1
                 },
                 {
                     "color": "black",
-                    "value": 63.1
+                    "value": 80.2
                 }
             ]
         }

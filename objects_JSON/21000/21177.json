@@ -36,7 +36,7 @@
     "beginDate": 1971,
     "endDate": 2018,
     "dimension": {
-        "en": "26 items",
+        "en": "31 items",
         "zh-hant": "26 份/張/件"
     },
     "medium": {
@@ -56,11 +56,37 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E4E1DB",
+                "value": 58.5
+            },
+            {
+                "color": "#E4E3DD",
+                "value": 28.9
+            },
+            {
+                "color": "#86837E",
+                "value": 7.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 7.7
+                },
+                {
+                    "color": "white",
+                    "value": 87.4
+                }
+            ]
         }
     },
     "dimensionDetails": null

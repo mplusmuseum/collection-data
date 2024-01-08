@@ -13,8 +13,12 @@
             ]
         },
         "category": {
-            "en": null,
-            "zh-hant": null
+            "en": [
+                "Design Drawing"
+            ],
+            "zh-hant": [
+                "設計繪圖"
+            ]
         },
         "archivalLevel": {
             "en": [
@@ -27,7 +31,7 @@
     },
     "title": {
         "en": "House of Tai Ping Archive",
-        "zh-hant": "House of Tai Ping 作品檔案"
+        "zh-hant": "太平地氈檔案"
     },
     "displayDate": {
         "en": "[1970s–1990s]",
@@ -56,11 +60,61 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E4DFD6",
+                "value": 69.2
+            },
+            {
+                "color": "#E3E3D9",
+                "value": 13
+            },
+            {
+                "color": "#B1BFC5",
+                "value": 4.2
+            },
+            {
+                "color": "#D3BC7F",
+                "value": 3.4
+            },
+            {
+                "color": "#4A6576",
+                "value": 2.1
+            },
+            {
+                "color": "#7A888E",
+                "value": 2
+            },
+            {
+                "color": "#96938C",
+                "value": 1.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 3.4
+                },
+                {
+                    "color": "gray",
+                    "value": 8
+                },
+                {
+                    "color": "white",
+                    "value": 82.2
+                },
+                {
+                    "color": "teal",
+                    "value": 2.1
+                }
+            ]
         }
     },
     "dimensionDetails": null

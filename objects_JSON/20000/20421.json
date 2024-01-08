@@ -30,14 +30,14 @@
         "zh-hant": "巴馬丹拿項目檔案"
     },
     "displayDate": {
-        "en": "1970–2008",
-        "zh-hant": "1970–2008"
+        "en": "1959–June 2003",
+        "zh-hant": "1959年至2003年6月"
     },
-    "beginDate": 1970,
-    "endDate": 2008,
+    "beginDate": 1959,
+    "endDate": 2003,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "2896 items",
+        "zh-hant": "2896 份/張/件"
     },
     "medium": {
         "en": null,
@@ -56,11 +56,37 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CEBFB1",
+                "value": 91.7
+            },
+            {
+                "color": "#9D877D",
+                "value": 2.3
+            },
+            {
+                "color": "#8E6665",
+                "value": 2.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 2.2
+                },
+                {
+                    "color": "gray",
+                    "value": 94.1
+                }
+            ]
         }
     },
     "dimensionDetails": null

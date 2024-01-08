@@ -36,8 +36,8 @@
     "beginDate": 2015,
     "endDate": 2017,
     "dimension": {
-        "en": "overall: 218.4 x 17.8 x 12.7cm",
-        "zh-hant": "整體︰218.4 x 17.8 x 12.7厘米"
+        "en": "overall: 218.5 × 24 × 24 cm",
+        "zh-hant": "整體︰218.5 × 24 × 24 厘米"
     },
     "medium": {
         "en": "found polystyrene packagings, seashell, cosmetic compact mirror, artificial plant, Aqua-Resin, fiberglass, plaster, wood, mirror, metal, epoxy putty and pigment dispersion",
@@ -85,5 +85,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 24,
+        "height": 218.5,
+        "depth": 24
+    }
 }

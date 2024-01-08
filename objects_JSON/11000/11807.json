@@ -45,7 +45,7 @@
     },
     "medium": {
         "en": "printout on paper",
-        "zh-hant": "列印紙本"
+        "zh-hant": "印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -68,23 +68,27 @@
     "color": {
         "predominant": [
             {
-                "color": "#F6F6F6",
-                "value": 89.6
+                "color": "#E7E7E9",
+                "value": 90.9
             },
             {
-                "color": "#868686",
-                "value": 8.6
+                "color": "#8A8A8C",
+                "value": 4
+            },
+            {
+                "color": "#DBDBDB",
+                "value": 3.3
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 8.6
+                    "value": 4
                 },
                 {
                     "color": "white",
-                    "value": 89.6
+                    "value": 94.2
                 }
             ]
         }

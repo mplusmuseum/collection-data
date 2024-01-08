@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Postcard, Formalismo Funzionale Column No. 4, Trix and Robert Haussman",
-        "zh-hant": "印有特麗克絲與羅伯特‧豪斯曼作品Formalismo Funzionale Column No. 4的明信片"
+        "zh-hant": "印有特麗克絲與羅伯特‧豪斯曼作品 Formalismo Funzionale Column No. 4的明信片"
     },
     "displayDate": {
         "en": "1980",
@@ -67,11 +67,89 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CFB8AD",
+                "value": 31.3
+            },
+            {
+                "color": "#866154",
+                "value": 15.9
+            },
+            {
+                "color": "#BF9887",
+                "value": 10.8
+            },
+            {
+                "color": "#341E19",
+                "value": 10
+            },
+            {
+                "color": "#7582A1",
+                "value": 5.2
+            },
+            {
+                "color": "#AFBAC0",
+                "value": 4.4
+            },
+            {
+                "color": "#7A7F97",
+                "value": 4.2
+            },
+            {
+                "color": "#290D05",
+                "value": 3.2
+            },
+            {
+                "color": "#907B74",
+                "value": 3.1
+            },
+            {
+                "color": "#784F4B",
+                "value": 3
+            },
+            {
+                "color": "#B6BBC3",
+                "value": 2.5
+            },
+            {
+                "color": "#7F92AF",
+                "value": 1.1
+            },
+            {
+                "color": "#849199",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 32
+                },
+                {
+                    "color": "orange",
+                    "value": 10.8
+                },
+                {
+                    "color": "gray",
+                    "value": 42.1
+                },
+                {
+                    "color": "blue",
+                    "value": 9.4
+                },
+                {
+                    "color": "teal",
+                    "value": 1.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -34,13 +34,13 @@
         "zh-hant": "霍榮齡平面設計檔案"
     },
     "displayDate": {
-        "en": "1969–[2000s]",
+        "en": "1969–2020",
         "zh-hant": "1969年至[2000年代]"
     },
     "beginDate": 1969,
-    "endDate": 2000,
+    "endDate": 2020,
     "dimension": {
-        "en": "overall: 21 x 29.7 cm\r\r\n3 sheets",
+        "en": "176 items",
         "zh-hant": "整體︰21 x 29.7 厘米\r\r\n3 紙本"
     },
     "medium": {
@@ -60,11 +60,45 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#BEAD98",
+                "value": 63.4
+            },
+            {
+                "color": "#B39E83",
+                "value": 16
+            },
+            {
+                "color": "#82583A",
+                "value": 9.3
+            },
+            {
+                "color": "#A38D74",
+                "value": 6.2
+            },
+            {
+                "color": "#B4957B",
+                "value": 1.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 87.4
+                },
+                {
+                    "color": "brown",
+                    "value": 9.3
+                }
+            ]
         }
     },
     "dimensionDetails": null

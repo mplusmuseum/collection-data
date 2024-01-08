@@ -40,8 +40,8 @@
     "beginDate": 1968,
     "endDate": 1968,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "5 items",
+        "zh-hant": "5 份/張/件"
     },
     "medium": {
         "en": null,
@@ -60,11 +60,29 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C8B490",
+                "value": 82.7
+            },
+            {
+                "color": "#D4C4A4",
+                "value": 14.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 97.2
+                }
+            ]
         }
     },
     "dimensionDetails": null

@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Postcard, MGM, UFO (Lapo Binazzi, Sandro Bachi)",
-        "zh-hant": "印有UFO（拉波‧比納齊和桑德羅‧巴基）作品MGM的明信片"
+        "zh-hant": "印有UFO（拉波‧比納齊和桑德羅‧巴基）作品 MGM 的明信片"
     },
     "displayDate": {
         "en": "1980",
@@ -67,11 +67,49 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D8D2CA",
+                "value": 47.6
+            },
+            {
+                "color": "#C0C0C7",
+                "value": 22.1
+            },
+            {
+                "color": "#C2987B",
+                "value": 16.2
+            },
+            {
+                "color": "#DCDBD5",
+                "value": 5.8
+            },
+            {
+                "color": "#9095A3",
+                "value": 3.3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 16.2
+                },
+                {
+                    "color": "gray",
+                    "value": 25.5
+                },
+                {
+                    "color": "white",
+                    "value": 53.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Postcard, Pastennacchio (1978), chair, Riccardo Dalisi",
-        "zh-hant": "印有里卡爾多‧達利西作品Pastennacchio（1978年）椅子的明信片"
+        "zh-hant": "印有里卡爾多‧達利西作品 Pastennacchio（1978年）椅子的明信片"
     },
     "displayDate": {
         "en": "[circa 1979]",
@@ -60,11 +60,29 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EDEBE6",
+                "value": 65.2
+            },
+            {
+                "color": "#EBEBE5",
+                "value": 31.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 96.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

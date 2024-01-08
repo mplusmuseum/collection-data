@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Postcard, Paramount (1975), lamp, Lapo Binazzi (UFO)",
-        "zh-hant": "印有拉波‧比納齊（UFO）作品Paramount（1975年）檯燈的明信片"
+        "zh-hant": "印有拉波‧比納齊（UFO）作品 Paramount（1975年）檯燈的明信片"
     },
     "displayDate": {
         "en": "[circa 1979]",
@@ -60,11 +60,29 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#ECEBE5",
+                "value": 58.9
+            },
+            {
+                "color": "#EBEAE5",
+                "value": 37.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 96.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

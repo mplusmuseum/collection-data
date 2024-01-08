@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Postcard, Territorio (1978), chair, Antonio Davide",
-        "zh-hant": "印有安東尼奧‧達維德作品Territorio（1978年）椅子的明信片"
+        "zh-hant": "印有安東尼奧‧達維德作品 Territorio（1978年）椅子的明信片"
     },
     "displayDate": {
         "en": "[circa 1979]",
@@ -60,11 +60,29 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EBE9E4",
+                "value": 65.1
+            },
+            {
+                "color": "#EBEAE5",
+                "value": 32.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 97.5
+                }
+            ]
         }
     },
     "dimensionDetails": {
