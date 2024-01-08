@@ -1,23 +1,25 @@
 {
-    "id": 2132,
-    "sortNumber": "2012  1450",
+    "id": 3436,
+    "sortNumber": "2012  1162",
     "publicAccess": true,
-    "objectNumber": "2012.1450",
+    "objectNumber": "2012.1162",
     "classification": {
         "area": {
             "en": [
+                "Moving Image",
                 "Visual Art"
             ],
             "zh-hant": [
+                "流動影像",
                 "視覺藝術"
             ]
         },
         "category": {
             "en": [
-                "Painting"
+                "Digital"
             ],
             "zh-hant": [
-                "繪畫"
+                "數碼"
             ]
         },
         "archivalLevel": {
@@ -26,22 +28,22 @@
         }
     },
     "title": {
-        "en": "Mauensee (No.100)",
-        "zh-hant": "Mauensee（第100號）"
+        "en": "Memories at Grandma's",
+        "zh-hant": "外婆家的記憶"
     },
     "displayDate": {
-        "en": "2001",
-        "zh-hant": "2001"
+        "en": "2009",
+        "zh-hant": "2009"
     },
-    "beginDate": 2001,
-    "endDate": 2001,
+    "beginDate": 2009,
+    "endDate": 2009,
     "dimension": {
-        "en": "sheet: 260 cm\r\r\nimage: 260 cm",
-        "zh-hant": "紙本︰260 厘米\r\r\n圖像︰260 厘米"
+        "en": "duration (channel 1): 33 sec.\r\r\nduration (channel 2): 8 min. 2 sec.",
+        "zh-hant": "影片長度 （頻道 1）︰33 秒\r\r\n影片長度 （頻道 2）︰8 分 2 秒"
     },
     "medium": {
-        "en": "airbrush on canvas",
-        "zh-hant": "噴繪布本"
+        "en": "two-channel Flash file (black and white, sound)",
+        "zh-hant": "二頻道數碼檔案（黑白，有聲）"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
@@ -49,26 +51,20 @@
     },
     "constituents": [
         {
-            "id": 608,
+            "id": 505,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"
             }
         }
     ],
-    "images": null,
+    "images": [],
     "color": {
         "predominant": null,
         "search": {
             "google": null
         }
     },
-    "dimensionDetails": {
-        "element": "sheet",
-        "unit": "cm",
-        "width": null,
-        "height": 260,
-        "depth": null
-    },
+    "dimensionDetails": null,
     "concepts": null
 }
