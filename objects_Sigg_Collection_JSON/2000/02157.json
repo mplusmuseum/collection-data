@@ -38,8 +38,8 @@
     "beginDate": 1999,
     "endDate": 2000,
     "dimension": {
-        "en": "overall (man with long hair):170 x 60 x 50 cm \r\r\noverall (woman and child): 169 x 42 x 40 cm \r\r\noverall (man with short hair): 163 x 45 x 57 cm \r\r\noverall (croaching man): 81 x 56 x 60 cm",
-        "zh-hant": "整體（長髮男子）：170 x 60 x 50 厘米\r\r\n整體（母子）：169 x 42 x 40 厘米\r\r\n整體（短髮男子）：163 x 45 x 57 厘米\r\r\n整體（蹲坐男子）：81 x 56 x 60 厘米"
+        "en": "overall (man with long hair): 170 × 60 × 50 cm\r\r\noverall (woman and child): 169 × 42 × 40 cm\r\r\noverall (man with short hair): 163 × 45 × 57 cm\r\r\noverall (croaching man): 81 × 56 × 60 cm",
+        "zh-hant": "整體（長髮男子）：170 × 60 × 50 厘米\r\r\n整體（母子）：169 × 42 × 40 厘米\r\r\n整體（短髮男子）：163 × 45 × 57 厘米\r\r\n整體（蹲坐男子）：81 × 56 × 60 厘米"
     },
     "medium": {
         "en": "fibre-reinforced resin, wood, metal, and paint",
@@ -65,6 +65,12 @@
             "google": null
         }
     },
-    "dimensionDetails": null,
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 60,
+        "height": 170,
+        "depth": 50
+    },
     "concepts": null
 }
