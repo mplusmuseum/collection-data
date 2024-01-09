@@ -36,7 +36,7 @@
     "beginDate": 1967,
     "endDate": 1969,
     "dimension": {
-        "en": "overall: 88 x 37 cm",
+        "en": "overall: 88 × 37 cm",
         "zh-hant": "整體︰88 x 37 厘米"
     },
     "medium": {
@@ -70,5 +70,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 37,
+        "height": 88,
+        "depth": null
+    }
 }

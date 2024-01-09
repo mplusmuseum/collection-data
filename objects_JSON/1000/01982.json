@@ -36,8 +36,8 @@
     "beginDate": 1988,
     "endDate": 1988,
     "dimension": {
-        "en": "430 x 640 x 1220 cm",
-        "zh-hant": "430 x 640 x 1220 厘米"
+        "en": "overall (approx.): 430 × 640 × 1220 cm",
+        "zh-hant": "整體 （約）︰430 × 640 × 1220 厘米"
     },
     "medium": {
         "en": "Japanese cedar-veneered wood, steel, fabric, granite, glass, and acrylic",
@@ -170,9 +170,9 @@
     },
     "dimensionDetails": {
         "element": "overall",
-        "unit": null,
-        "width": null,
-        "height": null,
-        "depth": null
+        "unit": "cm",
+        "width": 640,
+        "height": 430,
+        "depth": 1220
     }
 }

@@ -36,7 +36,7 @@
     "beginDate": 1968,
     "endDate": 1994,
     "dimension": {
-        "en": "overall: 50 x 121.5 x 61.5 cm",
+        "en": "overall: 50 × 121.5 × 61.5 cm",
         "zh-hant": "整體︰50 x 121.5 x 61.5 厘米"
     },
     "medium": {
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 121.5,
+        "height": 50,
+        "depth": 61.5
+    }
 }

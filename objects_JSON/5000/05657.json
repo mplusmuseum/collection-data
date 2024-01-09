@@ -36,7 +36,7 @@
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
-        "en": "overall: 208.3 x 127 cm",
+        "en": "overall: 208.3 × 127 cm",
         "zh-hant": "整體︰208.3 x 127 厘米"
     },
     "medium": {
@@ -113,5 +113,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 127,
+        "height": 208.3,
+        "depth": null
+    }
 }

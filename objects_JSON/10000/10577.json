@@ -36,7 +36,7 @@
     "beginDate": 1930,
     "endDate": 1949,
     "dimension": {
-        "en": "overall: 13 x 13 cm",
+        "en": "sheet: 13 × 13 cm",
         "zh-hant": "整體︰13 x 13 厘米"
     },
     "medium": {
@@ -166,10 +166,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "overall",
-        "unit": null,
-        "width": null,
-        "height": null,
+        "element": "sheet",
+        "unit": "cm",
+        "width": 13,
+        "height": 13,
         "depth": null
     }
 }

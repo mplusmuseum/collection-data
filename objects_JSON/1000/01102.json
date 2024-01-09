@@ -36,8 +36,8 @@
     "beginDate": 1989,
     "endDate": 1989,
     "dimension": {
-        "en": "overall: 75.6 x 19.6 x 74.3",
-        "zh-hant": "整體︰75.6 x 19.6 x 74.3"
+        "en": "overall: 75.6 × 19.6 × 74.3 cm",
+        "zh-hant": "整體︰75.6 × 19.6 × 74.3 厘米"
     },
     "medium": {
         "en": "waterbed, water, and fish",
@@ -117,5 +117,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 19.6,
+        "height": 75.6,
+        "depth": 74.3
+    }
 }

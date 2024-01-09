@@ -36,7 +36,7 @@
     "beginDate": 1968,
     "endDate": 1972,
     "dimension": {
-        "en": "overall: 125 x 30 cm",
+        "en": "overall: 125 × 30 cm",
         "zh-hant": "整體︰125 x 30 厘米"
     },
     "medium": {
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 30,
+        "height": 125,
+        "depth": null
+    }
 }

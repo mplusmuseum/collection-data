@@ -36,7 +36,7 @@
     "beginDate": 1959,
     "endDate": 1959,
     "dimension": {
-        "en": "sheet: 65 x 50 cm",
+        "en": "sheet: 65 × 50 cm",
         "zh-hant": "紙本︰65 x 50 厘米"
     },
     "medium": {
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 50,
+        "height": 65,
+        "depth": null
+    }
 }

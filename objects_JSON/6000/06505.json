@@ -36,7 +36,7 @@
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
-        "en": "147.5 x 168 cm",
+        "en": "sheet: 147.5 × 168 cm",
         "zh-hant": "147.5 x 168 厘米"
     },
     "medium": {
@@ -105,5 +105,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 168,
+        "height": 147.5,
+        "depth": null
+    }
 }

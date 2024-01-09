@@ -36,7 +36,7 @@
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
-        "en": "148 x 32 x 17 cm",
+        "en": "overall: 148 × 32 × 17 cm",
         "zh-hant": "148 x 32 x 17 厘米"
     },
     "medium": {
@@ -121,5 +121,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 32,
+        "height": 148,
+        "depth": 17
+    }
 }

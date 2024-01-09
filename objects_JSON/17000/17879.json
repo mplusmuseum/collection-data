@@ -36,7 +36,7 @@
     "beginDate": 1966,
     "endDate": 1994,
     "dimension": {
-        "en": "overall: 52.8 x 142.8 x 142.5 cm",
+        "en": "overall: 52.8 × 142.8 × 142.5 cm",
         "zh-hant": "整體︰52.8 x 142.8 x 142.5 厘米"
     },
     "medium": {
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 142.8,
+        "height": 52.8,
+        "depth": 142.5
+    }
 }

@@ -36,7 +36,7 @@
     "beginDate": 1953,
     "endDate": 1953,
     "dimension": {
-        "en": "sheet: 24.1 x 19 cm",
+        "en": "sheet: 24.1 × 19 cm",
         "zh-hant": "紙本︰24.1 x 19 厘米"
     },
     "medium": {
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 19,
+        "height": 24.1,
+        "depth": null
+    }
 }
