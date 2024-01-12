@@ -36,8 +36,8 @@
     "beginDate": 1970,
     "endDate": 1970,
     "dimension": {
-        "en": "overall: 45 x 42 cm",
-        "zh-hant": "整體︰45 x 42 厘米"
+        "en": "sheet: 45 × 42 cm",
+        "zh-hant": "紙本︰45 × 42 厘米"
     },
     "medium": {
         "en": "etching",
@@ -97,5 +97,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 42,
+        "height": 45,
+        "depth": null
+    }
 }

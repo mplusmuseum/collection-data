@@ -36,8 +36,8 @@
     "beginDate": 1984,
     "endDate": 1984,
     "dimension": {
-        "en": "overall: 207 x 40 x 40 cm",
-        "zh-hant": "整體︰207 x 40 x 40 厘米"
+        "en": "overall: 207 × 40 × 40 cm",
+        "zh-hant": "整體︰207 × 40 × 40 厘米"
     },
     "medium": {
         "en": "aluminium",
@@ -100,5 +100,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 40,
+        "height": 207,
+        "depth": 40
+    }
 }

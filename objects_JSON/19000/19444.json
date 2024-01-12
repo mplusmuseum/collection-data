@@ -36,8 +36,8 @@
     "beginDate": 1988,
     "endDate": 1988,
     "dimension": {
-        "en": "overall: 75.5 x 55 cm",
-        "zh-hant": "整體︰75.5 x 55 厘米"
+        "en": "sheet: 75.5 × 55 cm",
+        "zh-hant": "紙本︰75.5 × 55 厘米"
     },
     "medium": {
         "en": "etching",
@@ -97,5 +97,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 55,
+        "height": 75.5,
+        "depth": null
+    }
 }

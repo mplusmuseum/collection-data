@@ -38,8 +38,8 @@
     "beginDate": 1967,
     "endDate": 1971,
     "dimension": {
-        "en": "sheet: 87 x 60 x 2 cm",
-        "zh-hant": "紙本︰87 x 60 x 2 厘米"
+        "en": "frame: 87 × 60 × 2 cm",
+        "zh-hant": "連框︰87 × 60 × 2 厘米"
     },
     "medium": {
         "en": "offset printing on paper",
@@ -65,5 +65,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "frame",
+        "unit": "cm",
+        "width": 60,
+        "height": 87,
+        "depth": 2
+    }
 }

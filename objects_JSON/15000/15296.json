@@ -36,8 +36,8 @@
     "beginDate": 1970,
     "endDate": 2019,
     "dimension": {
-        "en": "96.5 x 80 cm",
-        "zh-hant": "96.5 x 80 厘米"
+        "en": "sheet: 96.5 × 80 cm",
+        "zh-hant": "紙本︰96.5 × 80 厘米"
     },
     "medium": {
         "en": "inkjet print",
@@ -89,5 +89,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 80,
+        "height": 96.5,
+        "depth": null
+    }
 }

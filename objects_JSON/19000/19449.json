@@ -36,8 +36,8 @@
     "beginDate": 1993,
     "endDate": 1993,
     "dimension": {
-        "en": "overall: 39 x 51 cm",
-        "zh-hant": "整體︰39 x 51 厘米"
+        "en": "sheet: 39 × 51 cm",
+        "zh-hant": "紙本︰39 × 51 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -97,5 +97,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 51,
+        "height": 39,
+        "depth": null
+    }
 }

@@ -36,8 +36,8 @@
     "beginDate": 1979,
     "endDate": 1979,
     "dimension": {
-        "en": "overall: 46 x 46 cm",
-        "zh-hant": "整體︰46 x 46 厘米"
+        "en": "sheet: 46 × 46 cm",
+        "zh-hant": "紙本︰46 × 46 厘米"
     },
     "medium": {
         "en": "woodcut print",
@@ -117,5 +117,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 46,
+        "height": 46,
+        "depth": null
+    }
 }

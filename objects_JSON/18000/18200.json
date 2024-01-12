@@ -36,8 +36,8 @@
     "beginDate": 2015,
     "endDate": 2015,
     "dimension": {
-        "en": "overall: 184 x 387 cm",
-        "zh-hant": "整體︰184 x 387 厘米"
+        "en": "sheet: 184 × 387 cm\r\r\nimage: 169.2 × 365.9 cm",
+        "zh-hant": "紙本︰184 × 387 厘米\r\r\n圖像︰169.2 × 365.9 厘米"
     },
     "medium": {
         "en": "ink on silk",
@@ -94,10 +94,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "overall",
+        "element": "sheet",
         "unit": "cm",
-        "width": 385,
-        "height": 183.6,
+        "width": 387,
+        "height": 184,
         "depth": null
     }
 }

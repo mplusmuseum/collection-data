@@ -38,8 +38,8 @@
     "beginDate": 1991,
     "endDate": 1991,
     "dimension": {
-        "en": "112 x 145.5 cm",
-        "zh-hant": "112 x 145.5 厘米"
+        "en": "sheet: 112 × 145.5 cm",
+        "zh-hant": "紙本︰112 × 145.5 厘米"
     },
     "medium": {
         "en": "ink, colour, and collage on paper",
@@ -65,5 +65,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 145.5,
+        "height": 112,
+        "depth": null
+    }
 }

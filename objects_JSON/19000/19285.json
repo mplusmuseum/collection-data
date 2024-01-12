@@ -36,8 +36,8 @@
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
-        "en": "overall: 177 x 70 x 70 cm",
-        "zh-hant": "整體︰177 x 70 x 70 厘米"
+        "en": "overall: 177 × 70 × 70 cm",
+        "zh-hant": "整體︰177 × 70 × 70 厘米"
     },
     "medium": {
         "en": "single shaft clothing rack on casters with four metal arms, frosted light bulbs, cable, cleaning sponge, puff sleeve, bamboo mat, sink strainer, clamps, thread, cowrie shells, wig, plastic net tube, aluminium reflector, knitting yarn, papier mâché, watercolour, lacquer paint, metal rings, metal chain, cosmetic sponge, fringe, necklaces, rosary, pine cones, stainless steel racks, and ball bearings",
@@ -105,5 +105,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 70,
+        "height": 177,
+        "depth": 70
+    }
 }

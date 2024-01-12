@@ -36,8 +36,8 @@
     "beginDate": 1983,
     "endDate": 1983,
     "dimension": {
-        "en": "overall: 140 x 400 cm",
-        "zh-hant": "整體︰140 x 400 厘米"
+        "en": "overall: 400 × 140 cm",
+        "zh-hant": "整體︰400 × 140 厘米"
     },
     "medium": {
         "en": "cotton",
@@ -156,5 +156,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 140,
+        "height": 400,
+        "depth": null
+    }
 }

@@ -36,8 +36,8 @@
     "beginDate": 1964,
     "endDate": 1964,
     "dimension": {
-        "en": "frame: 46 x 108 cm",
-        "zh-hant": "連框︰46 x 108 厘米"
+        "en": "frame: 46 × 108 cm",
+        "zh-hant": "連框︰46 × 108 厘米"
     },
     "medium": {
         "en": "ink and colour on paper",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "frame",
+        "unit": "cm",
+        "width": 108,
+        "height": 46,
+        "depth": null
+    }
 }

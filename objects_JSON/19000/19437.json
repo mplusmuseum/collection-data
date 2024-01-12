@@ -36,8 +36,8 @@
     "beginDate": 1974,
     "endDate": 1974,
     "dimension": {
-        "en": "overall: 52 x 55 cm",
-        "zh-hant": "整體︰52 x 55 厘米"
+        "en": "sheet: 52 × 55 cm",
+        "zh-hant": "紙本︰52 × 55 厘米"
     },
     "medium": {
         "en": "pencil on paper",
@@ -81,5 +81,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 55,
+        "height": 52,
+        "depth": null
+    }
 }

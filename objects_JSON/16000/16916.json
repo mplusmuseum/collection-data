@@ -36,8 +36,8 @@
     "beginDate": 1960,
     "endDate": 1960,
     "dimension": {
-        "en": "overall: 30 x 24.5 cm",
-        "zh-hant": "整體︰30 x 24.5 厘米"
+        "en": "sheet: 30 × 24.5 cm",
+        "zh-hant": "紙本︰30 × 24.5 厘米"
     },
     "medium": {
         "en": "aquatint and intaglio print",
@@ -133,5 +133,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 24.5,
+        "height": 30,
+        "depth": null
+    }
 }

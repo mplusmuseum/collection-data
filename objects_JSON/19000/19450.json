@@ -36,8 +36,8 @@
     "beginDate": 1995,
     "endDate": 1995,
     "dimension": {
-        "en": "overall: 50 x 58 cm",
-        "zh-hant": "整體︰50 x 58 厘米"
+        "en": "sheet: 50 × 58 cm",
+        "zh-hant": "紙本︰50 × 58 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -89,5 +89,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 58,
+        "height": 50,
+        "depth": null
+    }
 }

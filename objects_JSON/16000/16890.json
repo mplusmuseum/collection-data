@@ -36,8 +36,8 @@
     "beginDate": 2016,
     "endDate": 2016,
     "dimension": {
-        "en": "duration: 1 min. 22 sec.\r\r\noverall: 325 x 241 x 8 cm",
-        "zh-hant": "影片長度︰1 分 22 秒\r\r\n整體︰325 x 241 x 8 厘米"
+        "en": "duration: 1 min. 22 sec.\r\r\noverall: 325 × 241 × 8 cm",
+        "zh-hant": "影片長度︰1 分 22 秒\r\r\n整體︰325 × 241 × 8 厘米"
     },
     "medium": {
         "en": "seven-channel digital video installation (colour, silent)",
@@ -145,5 +145,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "duration",
+        "unit": null,
+        "width": null,
+        "height": null,
+        "depth": null
+    }
 }

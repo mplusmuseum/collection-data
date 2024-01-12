@@ -36,8 +36,8 @@
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
-        "en": "sheet (sight): 49.9 × 34.7 cm",
-        "zh-hant": "紙本 （目測）︰49.9 × 34.7 厘米"
+        "en": "frame: 78.2 × 63.6 × 3.5 cm\r\r\nsheet: 49.7 × 34.9 cm",
+        "zh-hant": "連框︰78.2 × 63.6 × 3.5 厘米\r\r\n紙本︰49.7 × 34.9 厘米"
     },
     "medium": {
         "en": "ink and watercolour on metalic cardboard",
@@ -64,10 +64,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 34.7,
-        "height": 49.9,
-        "depth": null
+        "width": 63.6,
+        "height": 78.2,
+        "depth": 3.5
     }
 }

@@ -36,8 +36,8 @@
     "beginDate": 1999,
     "endDate": 1999,
     "dimension": {
-        "en": "sheet: 98.3 x 66.6 cm",
-        "zh-hant": "紙本︰98.3 x 66.6 厘米"
+        "en": "sheet: 98.3 × 66.6 cm",
+        "zh-hant": "紙本︰98.3 × 66.6 厘米"
     },
     "medium": {
         "en": "lithography on paper",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 66.6,
+        "height": 98.3,
+        "depth": null
+    }
 }

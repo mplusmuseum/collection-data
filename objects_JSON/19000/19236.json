@@ -38,8 +38,8 @@
     "beginDate": 2015,
     "endDate": 2020,
     "dimension": {
-        "en": "overall (approx.):146 x 200 x 200 cm",
-        "zh-hant": "整體 （約）:146 x 200 x 200 厘米"
+        "en": "overall (approx.): 146 × 200 × 200 cm",
+        "zh-hant": "整體 （約）︰146 × 200 × 200 厘米"
     },
     "medium": {
         "en": "stainless steel",
@@ -107,5 +107,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 200,
+        "height": 146,
+        "depth": 200
+    }
 }

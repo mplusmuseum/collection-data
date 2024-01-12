@@ -38,8 +38,8 @@
     "beginDate": 1970,
     "endDate": 2019,
     "dimension": {
-        "en": "37 x 46 cm",
-        "zh-hant": "37 x 46 厘米"
+        "en": "sheet: 37 × 46 cm",
+        "zh-hant": "紙本︰37 × 46 厘米"
     },
     "medium": {
         "en": "inkjet print",
@@ -95,5 +95,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 46,
+        "height": 37,
+        "depth": null
+    }
 }

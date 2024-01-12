@@ -36,8 +36,8 @@
     "beginDate": 1995,
     "endDate": 1995,
     "dimension": {
-        "en": "overall: 30 x 30 x 15 cm",
-        "zh-hant": "整體︰30 x 30 x 15 厘米"
+        "en": "overall: 30 × 30 × 15 cm",
+        "zh-hant": "整體︰30 × 30 × 15 厘米"
     },
     "medium": {
         "en": "modelling paper, fabric, modelling paste, colour paint, and honeycomb board",
@@ -70,5 +70,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 30,
+        "height": 30,
+        "depth": 15
+    }
 }

@@ -36,8 +36,8 @@
     "beginDate": 2010,
     "endDate": 2019,
     "dimension": {
-        "en": "overall: 60 x 30 x 30 cm",
-        "zh-hant": "整體︰60 x 30 x 30 厘米"
+        "en": "overall: 60 × 30 × 30 cm",
+        "zh-hant": "整體︰60 × 30 × 30 厘米"
     },
     "medium": {
         "en": "plastic and wood",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 30,
+        "height": 60,
+        "depth": 30
+    }
 }
