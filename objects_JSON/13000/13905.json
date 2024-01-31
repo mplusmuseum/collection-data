@@ -36,8 +36,8 @@
     "beginDate": 1914,
     "endDate": 1914,
     "dimension": {
-        "en": "sheet (sight): 24.4 x 19.1  cm\r\r\nimage (sight): 21.9 x 14.8 cm\r\r\nframe: 39 × 34 × 2.5 cm",
-        "zh-hant": "紙本 （目測）︰24.4 x 19.1  厘米\r\r\n圖像 （目測）︰21.9 x 14.8 厘米\r\r\n連框︰39 × 34 × 2.5 厘米"
+        "en": "frame: 34 × 39 × 2.5 cm\r\r\nsheet (sight): 19.1 × 24.2 cm\r\r\nimage (sight): 14.8 × 21.9 cm",
+        "zh-hant": "連框︰34 × 39 × 2.5 厘米\r\r\n紙本 （目測）︰19.1 × 24.2 厘米\r\r\n圖像 （目測）︰14.8 × 21.9 厘米"
     },
     "medium": {
         "en": "black and white print",
@@ -64,10 +64,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 24.2,
-        "height": 19.1,
-        "depth": null
+        "width": 39,
+        "height": 34,
+        "depth": 2.5
     }
 }

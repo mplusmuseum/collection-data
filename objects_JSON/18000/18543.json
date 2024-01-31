@@ -30,7 +30,7 @@
         }
     },
     "title": {
-        "en": "Sketch, Karl Gutzlaff, British Hong Kong: fact and fable",
+        "en": "Sketch, Karl Gutzlaff, British Hong Kong: Fact and Fable",
         "zh-hant": "《British Hong Kong: Fact and Fable》一書中郭士立的速寫"
     },
     "displayDate": {
@@ -60,11 +60,33 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E2DEDB",
+                "value": 92.4
+            },
+            {
+                "color": "#7D7A77",
+                "value": 4.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 4.5
+                },
+                {
+                    "color": "white",
+                    "value": 92.4
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -38,8 +38,8 @@
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
-        "en": "overall: 122 x 152 cm",
-        "zh-hant": "整體︰122 x 152 厘米"
+        "en": "overall: 122 × 152 cm",
+        "zh-hant": "整體︰122 × 152 厘米"
     },
     "medium": {
         "en": "acrylic and inkjet transfer on cardboard, porcelin sink and urinal basin, mirror,  plastic bowl, plastic soap dish, plastic spray bottle, plastic container, plastic pill cases, plastic brush, plastic hook, brackets, chrome steel toilet paper holder, soap, tissues, q-tip, t-shirt, light switch box, and metal hardware",
@@ -123,5 +123,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 152,
+        "height": 122,
+        "depth": null
+    }
 }

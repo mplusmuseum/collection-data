@@ -38,8 +38,8 @@
     "beginDate": 2014,
     "endDate": 2014,
     "dimension": {
-        "en": "overall: 8 x 65 x 65 cm",
-        "zh-hant": "整體︰8 x 65 x 65 厘米"
+        "en": "overall: 8 × 65 × 65 cm",
+        "zh-hant": "整體︰8 × 65 × 65 厘米"
     },
     "medium": {
         "en": "concrete, plastic cup, and glass",
@@ -65,5 +65,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 65,
+        "height": 8,
+        "depth": 65
+    }
 }

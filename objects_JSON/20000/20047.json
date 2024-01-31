@@ -38,8 +38,8 @@
     "beginDate": 1987,
     "endDate": 1987,
     "dimension": {
-        "en": "overall: 152 x 178 cm",
-        "zh-hant": "整體︰152 x 178 厘米"
+        "en": "sheet: 152 × 178 cm",
+        "zh-hant": "紙本︰152 × 178 厘米"
     },
     "medium": {
         "en": "chromogenic print, screen print on canvas",
@@ -65,5 +65,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 178,
+        "height": 152,
+        "depth": null
+    }
 }

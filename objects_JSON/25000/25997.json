@@ -36,14 +36,14 @@
         "zh-hant": "Milk Design 國泰航空機艙餐具項目檔案"
     },
     "displayDate": {
-        "en": "2006–2007",
-        "zh-hant": "2006–2007"
+        "en": "[circa 2006]–[circa 2007]",
+        "zh-hant": "[約2006年]至[約2007年]"
     },
     "beginDate": 2006,
     "endDate": 2007,
     "dimension": {
-        "en": "4 items",
-        "zh-hant": "4 份/張/件"
+        "en": "24 items",
+        "zh-hant": "24 份/張/件"
     },
     "medium": {
         "en": null,
@@ -62,11 +62,37 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E5E6E9",
+                "value": 89.6
+            },
+            {
+                "color": "#E7E5E5",
+                "value": 5
+            },
+            {
+                "color": "#88898C",
+                "value": 2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 2
+                },
+                {
+                    "color": "white",
+                    "value": 94.6
+                }
+            ]
         }
     },
     "dimensionDetails": null

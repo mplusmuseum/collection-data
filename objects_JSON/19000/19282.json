@@ -36,8 +36,8 @@
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
-        "en": "overall: 60 x 44 x 35 cm",
-        "zh-hant": "整體︰60 x 44 x 35 厘米"
+        "en": "overall: 60 × 44 × 35 cm",
+        "zh-hant": "整體︰60 × 44 × 35 厘米"
     },
     "medium": {
         "en": "oil on stone resin",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 44,
+        "height": 60,
+        "depth": 35
+    }
 }

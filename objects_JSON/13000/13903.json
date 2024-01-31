@@ -36,8 +36,8 @@
     "beginDate": 1941,
     "endDate": 1941,
     "dimension": {
-        "en": "sheet: 6.5 x 4 cm",
-        "zh-hant": "紙本︰6.5 x 4 厘米"
+        "en": "sheet: 6.5 × 4 cm",
+        "zh-hant": "紙本︰6.5 × 4 厘米"
     },
     "medium": {
         "en": "pochoir, graphite on paper",
@@ -77,5 +77,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 4,
+        "height": 6.5,
+        "depth": null
+    }
 }

@@ -36,8 +36,8 @@
     "beginDate": 2014,
     "endDate": 2014,
     "dimension": {
-        "en": "overall: 24 x 40 x 51 cm\r\r\n15 x 20 x 35 cm",
-        "zh-hant": "整體︰24 x 40 x 51 厘米\r\r\n15 x 20 x 35 厘米"
+        "en": "overall: 24 × 40 × 51 cm\r\r\noverall: 15 × 20 × 35 cm",
+        "zh-hant": "整體︰24 × 40 × 51 厘米\r\r\n整體︰15 × 20 × 35 厘米"
     },
     "medium": {
         "en": "cardboard, wood, glass, pencil and ballpoint pen on paper packages, banana milk, cigarette, and poker",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 40,
+        "height": 24,
+        "depth": 51
+    }
 }

@@ -36,8 +36,8 @@
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
-        "en": "artist frame: 120.4 × 180.4 × 4.8 cm",
-        "zh-hant": "原框︰120.4 × 180.4 × 4.8 厘米"
+        "en": "sheet (sight): 119.6 × 179.2 cm\r\r\nframe: 120.5 × 180.5 × 4.6 cm",
+        "zh-hant": "紙本 （目測）︰119.6 × 179.2 厘米\r\r\n連框︰120.5 × 180.5 × 4.6 厘米"
     },
     "medium": {
         "en": "chromogenic print",
@@ -166,10 +166,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "artist frame",
+        "element": "sheet",
         "unit": "cm",
-        "width": 180.4,
-        "height": 120.4,
-        "depth": 4.8
+        "width": 179.2,
+        "height": 119.6,
+        "depth": null
     }
 }

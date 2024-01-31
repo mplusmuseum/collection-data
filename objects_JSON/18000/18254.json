@@ -38,8 +38,8 @@
     "beginDate": 2017,
     "endDate": 2017,
     "dimension": {
-        "en": "overall (average): 180 x 180 x 10 cm",
-        "zh-hant": "整體 （平均）︰180 x 180 x 10 厘米"
+        "en": "overall (average): 180 × 180 × 10 cm",
+        "zh-hant": "整體 （平均）︰180 × 180 × 10 厘米"
     },
     "medium": {
         "en": "metal shelf, inkjet print mounted on Dibond and glass",
@@ -65,5 +65,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 180,
+        "height": 180,
+        "depth": 10
+    }
 }

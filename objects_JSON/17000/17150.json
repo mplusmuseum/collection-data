@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Envelope, Progettazioni di immagini per il XX secolo",
-        "zh-hant": "Progettazioni di immagini per il XX secolo信封"
+        "zh-hant": "Progettazioni di immagini per il XX secolo 信封"
     },
     "displayDate": {
         "en": "[circa 1979]",
@@ -60,11 +60,77 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E6E3DF",
+                "value": 57.2
+            },
+            {
+                "color": "#42403D",
+                "value": 10.3
+            },
+            {
+                "color": "#3E3D40",
+                "value": 9.4
+            },
+            {
+                "color": "#7B7671",
+                "value": 5.3
+            },
+            {
+                "color": "#D2AE7D",
+                "value": 3.7
+            },
+            {
+                "color": "#E4E4DE",
+                "value": 3.4
+            },
+            {
+                "color": "#C99778",
+                "value": 2.6
+            },
+            {
+                "color": "#846352",
+                "value": 1.7
+            },
+            {
+                "color": "#363B39",
+                "value": 1.1
+            },
+            {
+                "color": "#DAD9DE",
+                "value": 0.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 6.4
+                },
+                {
+                    "color": "gray",
+                    "value": 5.3
+                },
+                {
+                    "color": "white",
+                    "value": 61.3
+                },
+                {
+                    "color": "black",
+                    "value": 20.8
+                },
+                {
+                    "color": "brown",
+                    "value": 1.7
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -38,8 +38,8 @@
     "beginDate": 1935,
     "endDate": 1965,
     "dimension": {
-        "en": "each (disc, set of 6): 20 cm diametre \r\r\noverall (turntable): 24.8 cm diametre\r\r\noverall (box): 37.5 x 37.5 x 8.5 cm",
-        "zh-hant": "各（唱片，共六件）︰20 x 20 厘米 \r\r\n整體（轉盤）︰24.8 x 24.8  厘米\r\r\n整體（盒子）︰37.5 x 37.5 x 8.5  厘米"
+        "en": "overall (box): 8.5 × 37.5 × 37.5 cm",
+        "zh-hant": "整體（盒子）︰8.5 × 37.5 × 37.5 厘米"
     },
     "medium": {
         "en": "dual-sided offset lithograph on cardboard; plastic container; motorised brass turntable mounted on wood upholstered in textile",
@@ -72,5 +72,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 37.5,
+        "height": 8.5,
+        "depth": 37.5
+    }
 }

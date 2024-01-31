@@ -36,8 +36,8 @@
     "beginDate": 1976,
     "endDate": 1976,
     "dimension": {
-        "en": "sheet: 67.9 x 88.2 cm",
-        "zh-hant": "紙本︰67.9 x 88.2 厘米"
+        "en": "sheet: 67.9 × 88.2 cm",
+        "zh-hant": "紙本︰67.9 × 88.2 厘米"
     },
     "medium": {
         "en": "ink, pastel, and poster paint on paper",
@@ -105,5 +105,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 88.2,
+        "height": 67.9,
+        "depth": null
+    }
 }

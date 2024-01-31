@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Postcard, La Credenza (1978), Alessandro Guerriero",
-        "zh-hant": "印有亞歷山德羅‧圭列羅作品La Credenza（1978年）的明信片"
+        "zh-hant": "印有亞歷山德羅‧圭列羅作品 La Credenza（1978年）的明信片"
     },
     "displayDate": {
         "en": "[circa 1979]",
@@ -60,11 +60,65 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E5E1DC",
+                "value": 72.4
+            },
+            {
+                "color": "#322B32",
+                "value": 9.2
+            },
+            {
+                "color": "#E9E8E3",
+                "value": 6.1
+            },
+            {
+                "color": "#91807C",
+                "value": 2.5
+            },
+            {
+                "color": "#3F3537",
+                "value": 2.1
+            },
+            {
+                "color": "#BB9585",
+                "value": 1.3
+            },
+            {
+                "color": "#7C5356",
+                "value": 1.3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 1.3
+                },
+                {
+                    "color": "red",
+                    "value": 1.3
+                },
+                {
+                    "color": "gray",
+                    "value": 2.5
+                },
+                {
+                    "color": "white",
+                    "value": 78.5
+                },
+                {
+                    "color": "black",
+                    "value": 11.3
+                }
+            ]
         }
     },
     "dimensionDetails": {

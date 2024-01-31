@@ -36,8 +36,8 @@
     "beginDate": 2001,
     "endDate": 2001,
     "dimension": {
-        "en": "sheet: 70 x 100 cm",
-        "zh-hant": "紙本︰70 x 100 厘米"
+        "en": "sheet: 70 × 100 cm",
+        "zh-hant": "紙本︰70 × 100 厘米"
     },
     "medium": {
         "en": "lithography on paper",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 100,
+        "height": 70,
+        "depth": null
+    }
 }

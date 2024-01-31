@@ -36,8 +36,8 @@
     "beginDate": 1993,
     "endDate": 1993,
     "dimension": {
-        "en": "59 x 84 cm",
-        "zh-hant": "59 x 84 厘米"
+        "en": "sheet: 59 × 84 cm",
+        "zh-hant": "紙本︰59 × 84 厘米"
     },
     "medium": {
         "en": "lithograph",
@@ -169,5 +169,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 84,
+        "height": 59,
+        "depth": null
+    }
 }

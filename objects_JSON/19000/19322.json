@@ -36,8 +36,8 @@
     "beginDate": 2009,
     "endDate": 2009,
     "dimension": {
-        "en": "overall: (approx.): 120 x 60 x 100 cm",
-        "zh-hant": "整體︰（約）︰120 x 60 x 100 厘米"
+        "en": "overall (approx.): 120 × 60 × 100 cm",
+        "zh-hant": "整體 （約）︰120 × 60 × 100 厘米"
     },
     "medium": {
         "en": "coated wood",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 60,
+        "height": 120,
+        "depth": 100
+    }
 }

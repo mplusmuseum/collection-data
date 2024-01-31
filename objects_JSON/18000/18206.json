@@ -38,8 +38,8 @@
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
-        "en": "90.5 x 104.5 cm",
-        "zh-hant": "90.5 x 104.5 厘米"
+        "en": "sheet: 90.5 × 104.5 cm",
+        "zh-hant": "紙本︰90.5 × 104.5 厘米"
     },
     "medium": {
         "en": "ink, colour, and collage on paper",
@@ -163,5 +163,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 104.5,
+        "height": 90.5,
+        "depth": null
+    }
 }

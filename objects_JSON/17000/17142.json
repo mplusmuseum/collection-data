@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Postcard, Rendez-vous (1976), dressing table, Nazareno Noja",
-        "zh-hant": "印有納薩雷諾‧諾哈作品Rendez-vous（1976年）化妝台的明信片"
+        "zh-hant": "印有納薩雷諾‧諾哈作品 Rendez-vous（1976年）化妝台的明信片"
     },
     "displayDate": {
         "en": "[circa 1979]",
@@ -60,11 +60,41 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EBE8E2",
+                "value": 45.6
+            },
+            {
+                "color": "#EBEAE5",
+                "value": 44.5
+            },
+            {
+                "color": "#BE6249",
+                "value": 3.9
+            },
+            {
+                "color": "#9C3A2E",
+                "value": 2.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 6.5
+                },
+                {
+                    "color": "white",
+                    "value": 90.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

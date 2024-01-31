@@ -36,11 +36,11 @@
     "beginDate": 1981,
     "endDate": 1981,
     "dimension": {
-        "en": "overall: 45 x 45 x 186cm",
-        "zh-hant": "整體︰45 x 45 x 186厘米"
+        "en": "overall: 186 × 45 × 45 cm",
+        "zh-hant": "整體︰186 × 45 × 45 厘米"
     },
     "medium": {
-        "en": "enameled steel and aluminium",
+        "en": "enamelled steel and aluminium",
         "zh-hant": "搪瓷不鏽鋼及鋁"
     },
     "creditLine": {
@@ -88,5 +88,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 45,
+        "height": 186,
+        "depth": 45
+    }
 }

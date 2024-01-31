@@ -36,12 +36,12 @@
     "beginDate": 1990,
     "endDate": 1990,
     "dimension": {
-        "en": "152.4 x 152.4 x 15.25 cm",
-        "zh-hant": "152.4 x 152.4 x 15.25 厘米"
+        "en": "overall: 152.4 × 152.4 × 15.3 cm",
+        "zh-hant": "整體︰152.4 × 152.4 × 15.3 厘米"
     },
     "medium": {
         "en": "lightbox and colour transparency",
-        "zh-hant": "燈箱、彩色透明膠片"
+        "zh-hant": "燈箱及彩色透明正片"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of the artist in honour of Dr. Lars Nittve, 2016",
@@ -181,5 +181,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 152.4,
+        "height": 152.4,
+        "depth": 15.3
+    }
 }

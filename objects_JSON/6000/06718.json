@@ -38,11 +38,11 @@
     "beginDate": 1984,
     "endDate": 1984,
     "dimension": {
-        "en": "images (each): 35.5 x 40.6 cm\r\r\n\rpanels (each)\r: 34 x 81 cm",
-        "zh-hant": "圖像（各）：35.5 x 40.6 厘米\r\n 屏（各） ︰34 x 81 厘米"
+        "en": "each (image): 35.5 × 40.6 cm\r\r\neach (panel): 34 × 81 cm",
+        "zh-hant": "各（圖像）︰35.5 × 40.6 厘米\r\r\n各（屏）︰34 × 81 厘米"
     },
     "medium": {
-        "en": "photograph and and pigment print on museum board",
+        "en": "photograph and pigment print on museum board",
         "zh-hant": "照片、墨水打印、展板"
     },
     "creditLine": {
@@ -135,5 +135,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "each",
+        "unit": "cm",
+        "width": 40.6,
+        "height": 35.5,
+        "depth": null
+    }
 }

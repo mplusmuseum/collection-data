@@ -38,8 +38,8 @@
     "beginDate": 1993,
     "endDate": 1993,
     "dimension": {
-        "en": "image: 69 × 69 cm\r\r\nframe: 84 x 84 x 2 cm",
-        "zh-hant": "圖像︰69 × 69 厘米\r\r\n連框︰84 x 84 x 2 厘米"
+        "en": "frame: 84 × 84 × 2 cm\r\r\nimage: 69 × 69 cm",
+        "zh-hant": "連框︰84 × 84 × 2 厘米\r\r\n圖像︰69 × 69 厘米"
     },
     "medium": {
         "en": "ink and colour on paper",
@@ -128,10 +128,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "image",
+        "element": "frame",
         "unit": "cm",
-        "width": 69,
-        "height": 69,
-        "depth": null
+        "width": 84,
+        "height": 84,
+        "depth": 2
     }
 }

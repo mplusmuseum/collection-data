@@ -36,8 +36,8 @@
     "beginDate": 1978,
     "endDate": 1978,
     "dimension": {
-        "en": "overall: 40.5 x 39 cm",
-        "zh-hant": "整體︰40.5 x 39 厘米"
+        "en": "sheet: 40.5 × 39 cm",
+        "zh-hant": "紙本︰40.5 × 39 厘米"
     },
     "medium": {
         "en": "pencil on paper",
@@ -93,5 +93,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 39,
+        "height": 40.5,
+        "depth": null
+    }
 }

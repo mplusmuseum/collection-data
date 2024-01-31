@@ -36,8 +36,8 @@
     "beginDate": 1997,
     "endDate": 2014,
     "dimension": {
-        "en": "overall: 250 x 250 x 250 cm",
-        "zh-hant": "整體︰250 x 250 x 250 厘米"
+        "en": "overall: 250 × 250 × 250 cm",
+        "zh-hant": "整體︰250 × 250 × 250 厘米"
     },
     "medium": {
         "en": "cotton thread, bamboo embroidery frame, and needle",
@@ -151,9 +151,9 @@
     },
     "dimensionDetails": {
         "element": "overall",
-        "unit": null,
-        "width": null,
-        "height": null,
-        "depth": null
+        "unit": "cm",
+        "width": 250,
+        "height": 250,
+        "depth": 250
     }
 }

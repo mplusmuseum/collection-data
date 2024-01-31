@@ -36,8 +36,8 @@
     "beginDate": 1924,
     "endDate": 1938,
     "dimension": {
-        "en": "sheet: 32 x 23 cm",
-        "zh-hant": "紙本︰32 x 23 厘米"
+        "en": "sheet: 32 × 32 cm",
+        "zh-hant": "紙本︰32 × 32 厘米"
     },
     "medium": {
         "en": "colour lithograph on paper",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 32,
+        "height": 32,
+        "depth": null
+    }
 }

@@ -36,8 +36,8 @@
     "beginDate": 2009,
     "endDate": 2009,
     "dimension": {
-        "en": "overall: 262 x 524 x 524",
-        "zh-hant": "整體︰262 x 524 x 524"
+        "en": "overall: 262 × 524 × 524 cm",
+        "zh-hant": "整體︰262 × 524 × 524 厘米"
     },
     "medium": {
         "en": "63.4 kilos of stones and nylon threads",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 524,
+        "height": 262,
+        "depth": 524
+    }
 }

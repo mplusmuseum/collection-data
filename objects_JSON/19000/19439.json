@@ -36,8 +36,8 @@
     "beginDate": 1975,
     "endDate": 1975,
     "dimension": {
-        "en": "overall: 51.5 x 51.5 cm",
-        "zh-hant": "整體︰51.5 x 51.5 厘米"
+        "en": "sheet: 51.5 × 51.5 cm",
+        "zh-hant": "紙本︰51.5 × 51.5 厘米"
     },
     "medium": {
         "en": "aquatint",
@@ -105,5 +105,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 51.5,
+        "height": 51.5,
+        "depth": null
+    }
 }

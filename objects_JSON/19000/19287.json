@@ -36,8 +36,8 @@
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
-        "en": "overall: 72 x 52 x 23.5 cm",
-        "zh-hant": "整體︰72 x 52 x 23.5 厘米"
+        "en": "overall: 72 × 52 × 23.5 cm",
+        "zh-hant": "整體︰72 × 52 × 23.5 厘米"
     },
     "medium": {
         "en": "leaf skeleton, motor, steel and glass",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 52,
+        "height": 72,
+        "depth": 23.5
+    }
 }

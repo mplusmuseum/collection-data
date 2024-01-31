@@ -36,8 +36,8 @@
     "beginDate": 1967,
     "endDate": 1969,
     "dimension": {
-        "en": "overall: 125 x 30 cm",
-        "zh-hant": "整體︰125 x 30 厘米"
+        "en": "overall: 125 × 30 cm",
+        "zh-hant": "整體︰125 × 30 厘米"
     },
     "medium": {
         "en": "cotton",
@@ -142,5 +142,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 30,
+        "height": 125,
+        "depth": null
+    }
 }

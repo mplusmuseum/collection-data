@@ -36,11 +36,11 @@
     "beginDate": 2018,
     "endDate": 2018,
     "dimension": {
-        "en": "overall: 190 x 150 x 15 cm",
-        "zh-hant": "整體︰190 x 150 x 15 厘米"
+        "en": "overall: 190 × 150 × 15 cm",
+        "zh-hant": "整體︰190 × 150 × 15 厘米"
     },
     "medium": {
-        "en": "Arduino, custom circuit, Geiger Muller tube, aluminum, carbon fiber tube, cement brick",
+        "en": "Arduino, custom circuit, Geiger Muller tube, aluminium, carbon fiber tube, cement brick",
         "zh-hant": "Arduino、定制電路、蓋革穆勒管、鋁、碳纖維管、水泥磚"
     },
     "creditLine": {
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 150,
+        "height": 190,
+        "depth": 15
+    }
 }

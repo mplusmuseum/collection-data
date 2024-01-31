@@ -36,8 +36,8 @@
     "beginDate": 2008,
     "endDate": 2008,
     "dimension": {
-        "en": "overall: 32.7 × 60  x 60 cm",
-        "zh-hant": "整體︰32.7 × 60  x 60 厘米"
+        "en": "overall: 32.7 × 60 × 60 cm",
+        "zh-hant": "整體︰32.7 × 60 × 60 厘米"
     },
     "medium": {
         "en": "bamboo",
@@ -111,8 +111,8 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": null,
+        "width": 60,
         "height": 32.7,
-        "depth": null
+        "depth": 60
     }
 }

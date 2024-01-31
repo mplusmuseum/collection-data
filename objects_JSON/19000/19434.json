@@ -36,8 +36,8 @@
     "beginDate": 1973,
     "endDate": 1973,
     "dimension": {
-        "en": "overall: 65 x 50 cm",
-        "zh-hant": "整體︰65 x 50 厘米"
+        "en": "sheet: 65 × 50 cm",
+        "zh-hant": "紙本︰65 × 50 厘米"
     },
     "medium": {
         "en": "etching",
@@ -81,5 +81,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 50,
+        "height": 65,
+        "depth": null
+    }
 }

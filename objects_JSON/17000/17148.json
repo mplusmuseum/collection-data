@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Postcard, Sinerpica (1979), lamp, Michele De Lucchi",
-        "zh-hant": "印有米歇爾‧德盧基作品Sinerpica（1979年）檯燈的明信片"
+        "zh-hant": "印有米歇爾‧德盧基作品 Sinerpica（1979年）檯燈的明信片"
     },
     "displayDate": {
         "en": "[circa 1979]",
@@ -60,11 +60,29 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EDEBE6",
+                "value": 63.7
+            },
+            {
+                "color": "#ECEBE6",
+                "value": 34.3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 97.9
+                }
+            ]
         }
     },
     "dimensionDetails": {

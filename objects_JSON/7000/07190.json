@@ -38,8 +38,8 @@
     "beginDate": 1989,
     "endDate": 1989,
     "dimension": {
-        "en": "folded: 16 × 9.5 cm\r\r\nopen: 16 x 195 cm",
-        "zh-hant": "合上：16 × 9.5厘米\r\r\n打開：16 x 195厘米"
+        "en": "overall (folded): 16 × 9.5 cm\r\r\nsheet (open): 16 × 195 cm",
+        "zh-hant": "整體 （折疊）︰16 × 9.5 厘米\r\r\n紙本 （打開）︰16 × 195 厘米"
     },
     "medium": {
         "en": "ink on paper",
@@ -126,7 +126,7 @@
         }
     },
     "dimensionDetails": {
-        "element": "image",
+        "element": "overall",
         "unit": "cm",
         "width": 9.5,
         "height": 16,

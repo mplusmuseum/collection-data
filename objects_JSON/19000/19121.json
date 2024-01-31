@@ -36,8 +36,8 @@
     "beginDate": 2000,
     "endDate": 2000,
     "dimension": {
-        "en": "sheet: 103.1 x 70 cm",
-        "zh-hant": "紙本︰103.1 x 70 厘米"
+        "en": "sheet: 103.1 × 70 cm",
+        "zh-hant": "紙本︰103.1 × 70 厘米"
     },
     "medium": {
         "en": "offset lithograph",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 70,
+        "height": 103.1,
+        "depth": null
+    }
 }

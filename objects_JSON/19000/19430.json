@@ -36,8 +36,8 @@
     "beginDate": 1970,
     "endDate": 1970,
     "dimension": {
-        "en": "overall: 41 x 41 cm",
-        "zh-hant": "整體︰41 x 41 厘米"
+        "en": "sheet: 41 × 41 cm",
+        "zh-hant": "紙本︰41 × 41 厘米"
     },
     "medium": {
         "en": "aquatint",
@@ -89,5 +89,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 41,
+        "height": 41,
+        "depth": null
+    }
 }

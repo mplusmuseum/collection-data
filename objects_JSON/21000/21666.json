@@ -36,8 +36,8 @@
     "beginDate": 2002,
     "endDate": 2002,
     "dimension": {
-        "en": "100 x 70 cm",
-        "zh-hant": "100 x 70 厘米"
+        "en": "sheet: 100 × 70 cm",
+        "zh-hant": "紙本︰100 × 70 厘米"
     },
     "medium": {
         "en": "lithograph",
@@ -109,5 +109,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 70,
+        "height": 100,
+        "depth": null
+    }
 }

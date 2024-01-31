@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Folder, Il Mobile Infinito",
-        "zh-hant": "Il Mobile Infinito文件夾"
+        "zh-hant": "Il Mobile Infinito 文件夾"
     },
     "displayDate": {
         "en": "[1981]",
@@ -60,11 +60,73 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EDEBE7",
+                "value": 79.6
+            },
+            {
+                "color": "#EBE9DF",
+                "value": 5.4
+            },
+            {
+                "color": "#E8DD95",
+                "value": 3
+            },
+            {
+                "color": "#E7D495",
+                "value": 2.3
+            },
+            {
+                "color": "#2B2925",
+                "value": 1.8
+            },
+            {
+                "color": "#88837E",
+                "value": 1.1
+            },
+            {
+                "color": "#432E28",
+                "value": 0.9
+            },
+            {
+                "color": "#725243",
+                "value": 0.8
+            },
+            {
+                "color": "#232226",
+                "value": 0.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 1.1
+                },
+                {
+                    "color": "white",
+                    "value": 85
+                },
+                {
+                    "color": "yellow",
+                    "value": 5.4
+                },
+                {
+                    "color": "black",
+                    "value": 3.5
+                },
+                {
+                    "color": "brown",
+                    "value": 0.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -36,8 +36,8 @@
     "beginDate": 1967,
     "endDate": 1969,
     "dimension": {
-        "en": "overall: 61 x 37 cm",
-        "zh-hant": "整體︰61 x 37 厘米"
+        "en": "overall: 61 × 37 cm",
+        "zh-hant": "整體︰61 × 37 厘米"
     },
     "medium": {
         "en": "silk",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 37,
+        "height": 61,
+        "depth": null
+    }
 }
