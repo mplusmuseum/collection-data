@@ -1,8 +1,8 @@
 {
-    "id": 2324,
-    "sortNumber": "2012   480",
+    "id": 3069,
+    "sortNumber": "2012  1202",
     "publicAccess": true,
-    "objectNumber": "2012.480",
+    "objectNumber": "2012.1202",
     "classification": {
         "area": {
             "en": [
@@ -14,10 +14,10 @@
         },
         "category": {
             "en": [
-                "Photography"
+                "Installation"
             ],
             "zh-hant": [
-                "攝影"
+                "裝置藝術"
             ]
         },
         "archivalLevel": {
@@ -26,22 +26,22 @@
         }
     },
     "title": {
-        "en": "BBE July 1997",
-        "zh-hant": "大限（有效期1997年7月）"
+        "en": "Trekking Around The Mountain No. 2",
+        "zh-hant": "轉山 No. 2"
     },
     "displayDate": {
-        "en": "1997",
-        "zh-hant": "1997"
+        "en": "2007",
+        "zh-hant": "2007"
     },
-    "beginDate": 1997,
-    "endDate": 1997,
+    "beginDate": 2007,
+    "endDate": 2007,
     "dimension": {
-        "en": "overall: 99.5 × 87 × 0.6 cm",
-        "zh-hant": "整體︰99.5 × 87 × 0.6 厘米"
+        "en": "overall (approx.): 143 × 246 × 246 cm",
+        "zh-hant": "整體 （約）︰143 × 246 × 246 厘米"
     },
     "medium": {
-        "en": "gelatin silver print mounted on foam board, sealing wax and string",
-        "zh-hant": "銀鹽照片裱於泡棉板、封蠟及細繩"
+        "en": "metal, wood, resin, acrylic, and electric components",
+        "zh-hant": "金屬、木、樹脂、亞加力、電子零件"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
@@ -49,7 +49,7 @@
     },
     "constituents": [
         {
-            "id": 230,
+            "id": 515,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"
@@ -64,55 +64,51 @@
     "color": {
         "predominant": [
             {
-                "color": "#22211E",
-                "value": 38.5
+                "color": "#000000",
+                "value": 85.5
             },
             {
-                "color": "#C4B5A1",
-                "value": 34.5
+                "color": "#061A03",
+                "value": 3.1
             },
             {
-                "color": "#D8D7CB",
-                "value": 7.9
+                "color": "#BDCACD",
+                "value": 2
             },
             {
-                "color": "#9B886E",
-                "value": 6.5
+                "color": "#768C7E",
+                "value": 1.9
             },
             {
-                "color": "#B59E85",
-                "value": 4.1
+                "color": "#E2E5EF",
+                "value": 1.5
             },
             {
-                "color": "#857C6B",
-                "value": 3.5
+                "color": "#234026",
+                "value": 1.1
+            },
+            {
+                "color": "#AEBEB4",
+                "value": 1
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 3.5
+                    "value": 4.8
                 },
                 {
-                    "color": "black",
-                    "value": 38.5
-                },
-                {
-                    "color": "purple",
-                    "value": 7.7
-                },
-                {
-                    "color": "orange",
-                    "value": 38.6
+                    "color": "green",
+                    "value": 4.2
                 },
                 {
                     "color": "white",
-                    "value": 7.9
+                    "value": 1.5
                 },
                 {
-                    "color": "brown",
-                    "value": 6.5
+                    "color": "black",
+                    "value": 85.5
                 }
             ]
         }
@@ -120,9 +116,9 @@
     "dimensionDetails": {
         "element": "overall",
         "unit": "cm",
-        "width": 87,
-        "height": 99.5,
-        "depth": 0.6
+        "width": 246,
+        "height": 143,
+        "depth": 246
     },
     "concepts": null
 }

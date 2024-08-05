@@ -43,7 +43,7 @@
     },
     "medium": {
         "en": "single-channel digital video installation (colour, silent), video player and CRT monitor",
-        "zh-hant": "單頻道數碼錄像裝置（彩色、無聲），錄像播放器及陰極射線管顯示器"
+        "zh-hant": "單頻道數碼錄像裝置（彩色、無聲）、錄像播放器及陰極射線管顯示器"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
@@ -118,5 +118,22 @@
         "height": null,
         "depth": null
     },
-    "concepts": null
+    "concepts": [
+        {
+            "id": 101,
+            "title": {
+                "en": null,
+                "zh-hant": null
+            },
+            "description": {
+                "en": null,
+                "zh-hant": null
+            },
+            "timeline": "Style",
+            "beginDate": null,
+            "endDate": null,
+            "displayDate": null,
+            "publicAccess": true
+        }
+    ]
 }
