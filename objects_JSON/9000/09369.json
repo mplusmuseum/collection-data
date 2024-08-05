@@ -40,8 +40,8 @@
     "beginDate": 1990,
     "endDate": 1990,
     "dimension": {
-        "en": "sheet: 179.7 × 96.6 cm",
-        "zh-hant": "紙本︰179.7 × 96.6 厘米"
+        "en": "overall: 237 × 122.2 × 3.8 cm\r\r\nsheet: 179.7 × 96.4 cm",
+        "zh-hant": "整體︰237 × 122.2 × 3.8 厘米\r\r\n紙本︰179.7 × 96.4 厘米"
     },
     "medium": {
         "en": "ink and colour on paper",
@@ -138,10 +138,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "overall",
         "unit": "cm",
-        "width": 96.6,
-        "height": 179.7,
-        "depth": null
+        "width": 122.2,
+        "height": 237,
+        "depth": 3.8
     }
 }

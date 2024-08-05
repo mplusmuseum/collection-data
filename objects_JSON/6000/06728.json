@@ -38,8 +38,8 @@
     "beginDate": 1996,
     "endDate": 2007,
     "dimension": {
-        "en": "sheet: 64.6 × 91.6 cm\r\r\nimage: 64.6 × 91.5 cm",
-        "zh-hant": "紙本︰64.6 × 91.6 厘米\r\r\n圖像︰64.6 × 91.5 厘米"
+        "en": "frame: 68 × 96 × 3.5 cm\r\r\nsheet: 64.6 × 91.6 cm\r\r\nimage: 64.6 × 91.5 cm",
+        "zh-hant": "連框︰68 × 96 × 3.5 厘米\r\r\n紙本︰64.6 × 91.6 厘米\r\r\n圖像︰64.6 × 91.5 厘米"
     },
     "medium": {
         "en": "inkjet print",
@@ -148,10 +148,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 91.6,
-        "height": 64.6,
-        "depth": null
+        "width": 96,
+        "height": 68,
+        "depth": 3.5
     }
 }

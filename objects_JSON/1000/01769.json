@@ -40,8 +40,8 @@
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
-        "en": "sheet: 159 × 97 cm",
-        "zh-hant": "紙本︰159 × 97 厘米"
+        "en": "frame: 174.5 × 112 × 1.3 cm\r\r\nsheet: 168.5 × 106 cm\r\r\nimage: 158.5 × 97 cm",
+        "zh-hant": "連框︰174.5 × 112 × 1.3 厘米\r\r\n紙本︰168.5 × 106 厘米\r\r\n圖像︰158.5 × 97 厘米"
     },
     "medium": {
         "en": "ink and colour on paper",
@@ -118,10 +118,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 97,
-        "height": 159,
-        "depth": null
+        "width": 112,
+        "height": 174.5,
+        "depth": 1.3
     }
 }
