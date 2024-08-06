@@ -36,8 +36,8 @@
     "beginDate": 1982,
     "endDate": 1982,
     "dimension": {
-        "en": "sheet: 100 × 70.7 cm",
-        "zh-hant": "紙本︰100 × 70.7 厘米"
+        "en": "frame: 109 × 79 × 4.2 cm\r\r\nsheet: 100 × 70.7 cm",
+        "zh-hant": "連框︰109 × 79 × 4.2 厘米\r\r\n紙本︰100 × 70.7 厘米"
     },
     "medium": {
         "en": "offset lithograph",
@@ -122,10 +122,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "overall",
+        "element": "frame",
         "unit": "cm",
-        "width": 70.7,
-        "height": 100,
-        "depth": null
+        "width": 79,
+        "height": 109,
+        "depth": 4.2
     }
 }

@@ -36,8 +36,8 @@
     "beginDate": 1984,
     "endDate": 2017,
     "dimension": {
-        "en": "sheet: 51 × 40.7 cm\r\r\nimage: 38.2 × 38 cm",
-        "zh-hant": "紙本︰51 × 40.7 厘米\r\r\n圖像︰38.2 × 38 厘米"
+        "en": "frame: 73.7 × 52.7 × 3.5 cm\r\r\nsheet: 51 × 40.7 cm\r\r\nimage: 38.2 × 38 cm",
+        "zh-hant": "連框︰73.7 × 52.7 × 3.5 厘米\r\r\n紙本︰51 × 40.7 厘米\r\r\n圖像︰38.2 × 38 厘米"
     },
     "medium": {
         "en": "selenium-toned gelatin silver print",
@@ -118,10 +118,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 40.7,
-        "height": 51,
-        "depth": null
+        "width": 52.7,
+        "height": 73.7,
+        "depth": 3.5
     }
 }

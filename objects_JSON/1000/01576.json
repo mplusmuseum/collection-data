@@ -36,8 +36,8 @@
     "beginDate": 1963,
     "endDate": 1963,
     "dimension": {
-        "en": "sheet: 48.7 × 12.5 cm",
-        "zh-hant": "紙本︰48.7 × 12.5 厘米"
+        "en": "frame: 68.5 × 40.5 × 3.5 cm\r\r\nsheet: 48.7 × 12.5 cm",
+        "zh-hant": "連框︰68.5 × 40.5 × 3.5 厘米\r\r\n紙本︰48.7 × 12.5 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -82,10 +82,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 12.5,
-        "height": 48.7,
-        "depth": null
+        "width": 40.5,
+        "height": 68.5,
+        "depth": 3.5
     }
 }

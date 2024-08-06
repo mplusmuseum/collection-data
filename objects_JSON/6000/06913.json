@@ -38,8 +38,8 @@
     "beginDate": 1995,
     "endDate": 1995,
     "dimension": {
-        "en": "image (sight): 100 × 125.5 cm\r\r\nframe: 126.5 × 151.1 cm",
-        "zh-hant": "圖像 （目測）︰100 × 125.5 厘米\r\r\n連框︰126.5 × 151.1 厘米"
+        "en": "frame: 126.2 × 151.1 × 6 cm\r\r\nsheet (sight): 100 × 125.5 cm",
+        "zh-hant": "連框︰126.2 × 151.1 × 6 厘米\r\r\n紙本 （目測）︰100 × 125.5 厘米"
     },
     "medium": {
         "en": "inkjet print",
@@ -104,10 +104,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "image",
+        "element": "frame",
         "unit": "cm",
-        "width": 127,
-        "height": 101,
-        "depth": null
+        "width": 151.1,
+        "height": 126.2,
+        "depth": 6
     }
 }

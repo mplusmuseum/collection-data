@@ -38,12 +38,12 @@
     "beginDate": 1990,
     "endDate": 1990,
     "dimension": {
-        "en": "sheet (sight): 99 × 114.7 cm\r\r\nframe: 116 × 132.8 × 3.3 cm",
-        "zh-hant": "紙本 （目測）︰99 × 114.7 厘米\r\r\n連框︰116 × 132.8 × 3.3 厘米"
+        "en": "overall (frame): 116 × 132.8 × 3.3 cm\r\r\nsheet (sight): 99 × 114.7 cm",
+        "zh-hant": "整體 （連框）︰116 × 132.8 × 3.3 厘米\r\r\n紙本 （目測）︰99 × 114.7 厘米"
     },
     "medium": {
         "en": "acrylic, aluminium, ink and colour on handmade paper",
-        "zh-hant": "塑膠彩，鋁及水墨設色手工紙本"
+        "zh-hant": "塑膠彩、鋁及水墨設色手工紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -88,10 +88,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "overall",
         "unit": "cm",
-        "width": 114.7,
-        "height": 99,
-        "depth": null
+        "width": 132.8,
+        "height": 116,
+        "depth": 3.3
     }
 }

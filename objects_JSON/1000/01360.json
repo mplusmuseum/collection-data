@@ -36,8 +36,8 @@
     "beginDate": 1960,
     "endDate": 1969,
     "dimension": {
-        "en": "sheet: 44.7 × 13.3 cm",
-        "zh-hant": "紙本︰44.7 × 13.3 厘米"
+        "en": "frame: 68.4 × 40.4 × 3.5 cm\r\r\nsheet: 44.7 × 13.3 cm",
+        "zh-hant": "連框︰68.4 × 40.4 × 3.5 厘米\r\r\n紙本︰44.7 × 13.3 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -58,7 +58,7 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Monochrome photograph taken from above of two large X-shaped markings, one above the other, on the ground. A person stands just above the centre of each X, looking towards the bottom and casting shadows below them."
         }
     ],
     "color": {
@@ -94,10 +94,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 13.3,
-        "height": 44.7,
-        "depth": null
+        "width": 40.4,
+        "height": 68.4,
+        "depth": 3.5
     }
 }
