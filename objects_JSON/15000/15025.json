@@ -49,13 +49,6 @@
     },
     "constituents": [
         {
-            "id": 2986,
-            "role": {
-                "en": "Archive Creator",
-                "zh-hant": "建檔者"
-            }
-        },
-        {
             "id": 4156,
             "role": {
                 "en": "Designer",
@@ -74,6 +67,13 @@
             "role": {
                 "en": "Commissioned by",
                 "zh-hant": "委約方"
+            }
+        },
+        {
+            "id": 2986,
+            "role": {
+                "en": "Printer",
+                "zh-hant": "印刷商"
             }
         }
     ],

@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Photograph for Film Biweekly, Tony Au (director, art director)",
-        "zh-hant": "區丁平（導演, 美術指導）照片，刊於《電影雙周刊》"
+        "zh-hant": "區丁平（導演、美術指導）照片，刊於《電影雙周刊》"
     },
     "displayDate": {
         "en": "1981",
@@ -60,11 +60,49 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CCC2AE",
+                "value": 35.1
+            },
+            {
+                "color": "#29241C",
+                "value": 30.8
+            },
+            {
+                "color": "#81735B",
+                "value": 14.8
+            },
+            {
+                "color": "#24211C",
+                "value": 10.1
+            },
+            {
+                "color": "#8E8470",
+                "value": 5.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 35.1
+                },
+                {
+                    "color": "black",
+                    "value": 40.9
+                },
+                {
+                    "color": "brown",
+                    "value": 20.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

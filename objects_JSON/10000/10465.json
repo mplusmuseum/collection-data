@@ -63,29 +63,20 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#A1A1A1",
-                "value": 39.3
+                "color": "#DEDEDE",
+                "value": 66.5
             },
             {
-                "color": "#9D9DA0",
-                "value": 32.2
-            },
-            {
-                "color": "#A2A4A3",
-                "value": 11.9
-            },
-            {
-                "color": "#ACACAE",
-                "value": 10.4
-            },
-            {
-                "color": "#A1A19F",
-                "value": 3.1
+                "color": "#DBDBD9",
+                "value": 31.9
             }
         ],
         "search": {
@@ -93,6 +84,10 @@
                 {
                     "color": "gray",
                     "value": 97
+                },
+                {
+                    "color": "white",
+                    "value": 98.4
                 }
             ]
         }

@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書籍/期刊"
+                "書籍／期刊"
             ]
         },
         "archivalLevel": {
@@ -41,7 +41,7 @@
     "endDate": 1969,
     "dimension": {
         "en": "7 items",
-        "zh-hant": "7 份/張/件"
+        "zh-hant": "7 份／張／件"
     },
     "medium": {
         "en": "printing ink on newsprint",
@@ -60,11 +60,45 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D5C6AC",
+                "value": 79.7
+            },
+            {
+                "color": "#CAB595",
+                "value": 7.8
+            },
+            {
+                "color": "#978B79",
+                "value": 5.7
+            },
+            {
+                "color": "#948368",
+                "value": 5.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 87.4
+                },
+                {
+                    "color": "gray",
+                    "value": 5.7
+                },
+                {
+                    "color": "brown",
+                    "value": 5.5
+                }
+            ]
         }
     },
     "dimensionDetails": null

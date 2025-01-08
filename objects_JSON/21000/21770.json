@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Photograph for Film Biweekly, George Lam Tsz-cheung (actor, singer)",
-        "zh-hant": "林子祥（演員，歌星）照片，刊於《電影雙周刊》"
+        "zh-hant": "林子祥（演員、歌星）照片，刊於《電影雙周刊》"
     },
     "displayDate": {
         "en": "1981",
@@ -60,11 +60,45 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D0CDC6",
+                "value": 34.9
+            },
+            {
+                "color": "#2C2B27",
+                "value": 25.8
+            },
+            {
+                "color": "#85827B",
+                "value": 22.1
+            },
+            {
+                "color": "#E4E3DD",
+                "value": 13
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 22.1
+                },
+                {
+                    "color": "white",
+                    "value": 47.9
+                },
+                {
+                    "color": "black",
+                    "value": 25.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

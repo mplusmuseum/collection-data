@@ -58,11 +58,37 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Ink and acrylic painting on canvas depicting billowing forms characterised by a variety of brushstrokes, splashes, and ink layers. A few hints of red punctuate the dark surface."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#292725",
+                "value": 61.6
+            },
+            {
+                "color": "#7C756C",
+                "value": 31.2
+            },
+            {
+                "color": "#B5AEA1",
+                "value": 3
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 34.2
+                },
+                {
+                    "color": "black",
+                    "value": 61.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

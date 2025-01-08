@@ -41,7 +41,7 @@
     "endDate": 1974,
     "dimension": {
         "en": "4 items",
-        "zh-hant": "4 份/張/件"
+        "zh-hant": "4 份／張／件"
     },
     "medium": {
         "en": "ink on paper",
@@ -60,11 +60,25 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E8E2D4",
+                "value": 97.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 97.8
+                }
+            ]
         }
     },
     "dimensionDetails": null

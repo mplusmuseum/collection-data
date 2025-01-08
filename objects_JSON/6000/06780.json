@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書籍/期刊"
+                "書籍／期刊"
             ]
         },
         "archivalLevel": {
@@ -44,7 +44,7 @@
         "zh-hant": "印刷紙本"
     },
     "creditLine": {
-        "en": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong), 2017",
+        "en": "M+, Hong Kong. Gift of anothermountainman (Stanley Wong Ping Pui), 2017",
         "zh-hant": "M+，香港，又一山人（黃炳培）捐贈，2017年"
     },
     "constituents": [
@@ -56,47 +56,27 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#6F7181",
-                "value": 24.3
+                "color": "#CDC9C3",
+                "value": 61.9
             },
             {
-                "color": "#B4BDCE",
-                "value": 21.3
-            },
-            {
-                "color": "#776D75",
-                "value": 19.8
-            },
-            {
-                "color": "#332A2B",
-                "value": 15
-            },
-            {
-                "color": "#556076",
-                "value": 5.5
-            },
-            {
-                "color": "#201717",
-                "value": 5.5
-            },
-            {
-                "color": "#695C5F",
-                "value": 3
-            },
-            {
-                "color": "#060101",
-                "value": 1.9
+                "color": "#202020",
+                "value": 35.5
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 68.5
+                    "value": 61.9
                 },
                 {
                     "color": "blue",
@@ -104,7 +84,7 @@
                 },
                 {
                     "color": "black",
-                    "value": 22.4
+                    "value": 35.5
                 }
             ]
         }

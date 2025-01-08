@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Photograph for Film Biweekly, Teddy Robin (executive producer, director, actor, singer, composer)",
-        "zh-hant": "泰迪羅賓 (關維鵬)（監製、導演、演員、歌星、作曲家）照片，刊於《電影雙周刊》"
+        "zh-hant": "泰迪羅賓（關維鵬）（監製、導演、演員、歌星、作曲家）照片，刊於《電影雙周刊》"
     },
     "displayDate": {
         "en": "1983",
@@ -60,11 +60,45 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#76736D",
+                "value": 40.5
+            },
+            {
+                "color": "#35332E",
+                "value": 33
+            },
+            {
+                "color": "#D7D6D1",
+                "value": 14.1
+            },
+            {
+                "color": "#CCC9C3",
+                "value": 10.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 51.3
+                },
+                {
+                    "color": "white",
+                    "value": 14.1
+                },
+                {
+                    "color": "black",
+                    "value": 33
+                }
+            ]
         }
     },
     "dimensionDetails": {

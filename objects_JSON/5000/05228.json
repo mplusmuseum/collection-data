@@ -44,11 +44,11 @@
         "zh-hant": "紙本︰58.5 × 24 厘米"
     },
     "medium": {
-        "en": "paint, felt-tip pen, graphite, ball point pen and iron gall ink on paper",
-        "zh-hant": "顏料、墨水及石墨紙本"
+        "en": "paint, felt-tip pen, graphite, ball point pen, and pen ink on paper",
+        "zh-hant": "顏料、氈頭筆、石墨、原子筆及墨水紙本"
     },
     "creditLine": {
-        "en": "M+, Hong Kong. Gift of Nam Wah Neonlight & Electrical Mfy, Ltd., 2015",
+        "en": "M+, Hong Kong. Gift of Nam Wah Neonlight & Electrical Manufactory, Ltd., 2015",
         "zh-hant": "M+，香港，南華霓虹燈電器廠有限公司捐贈，2015年"
     },
     "constituents": [
@@ -63,45 +63,44 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#B1BAC1",
-                "value": 31.4
+                "color": "#E0D2B3",
+                "value": 52.2
             },
             {
-                "color": "#86765B",
-                "value": 31.1
+                "color": "#D1BE96",
+                "value": 19.6
             },
             {
-                "color": "#B8BFC7",
-                "value": 15.2
+                "color": "#AFCB8C",
+                "value": 9
             },
             {
-                "color": "#477B42",
-                "value": 7.8
+                "color": "#94BE78",
+                "value": 5.1
             },
             {
-                "color": "#98A0A6",
-                "value": 4.2
+                "color": "#DEDCBA",
+                "value": 3.4
             },
             {
-                "color": "#958A75",
-                "value": 3
+                "color": "#74A363",
+                "value": 2.9
             },
             {
-                "color": "#8F5962",
-                "value": 1.1
+                "color": "#DF939D",
+                "value": 2.2
             },
             {
-                "color": "#959478",
-                "value": 0.9
-            },
-            {
-                "color": "#89845F",
-                "value": 0.8
+                "color": "#D6CC7E",
+                "value": 1
             }
         ],
         "search": {
@@ -112,7 +111,7 @@
                 },
                 {
                     "color": "orange",
-                    "value": 0.9
+                    "value": 71.8
                 },
                 {
                     "color": "gray",
@@ -120,11 +119,19 @@
                 },
                 {
                     "color": "green",
-                    "value": 7.8
+                    "value": 17
                 },
                 {
                     "color": "brown",
                     "value": 34.9
+                },
+                {
+                    "color": "pink",
+                    "value": 2.2
+                },
+                {
+                    "color": "yellow",
+                    "value": 4.4
                 }
             ]
         }

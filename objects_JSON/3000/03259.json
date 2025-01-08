@@ -80,29 +80,23 @@
     "images": [
         {
             "altText": "Acrylic painting on a vertical rectangle of transparent PVC depicting loosely rendered grey calligraphy."
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#878689",
-                "value": 37.6
+                "color": "#DCDDD8",
+                "value": 65
             },
             {
-                "color": "#8B8A89",
-                "value": 23.8
-            },
-            {
-                "color": "#878586",
-                "value": 20.2
-            },
-            {
-                "color": "#B4B5BA",
-                "value": 9.9
-            },
-            {
-                "color": "#929493",
-                "value": 3.8
+                "color": "#DFDFDE",
+                "value": 33.9
             }
         ],
         "search": {
@@ -110,6 +104,10 @@
                 {
                     "color": "gray",
                     "value": 95.2
+                },
+                {
+                    "color": "white",
+                    "value": 98.9
                 }
             ]
         }

@@ -45,10 +45,10 @@
     },
     "medium": {
         "en": "paint and felt-tip pen on paper",
-        "zh-hant": "paint and felt-tip pen on paper"
+        "zh-hant": "顏料及氈頭筆紙本"
     },
     "creditLine": {
-        "en": "M+, Hong Kong. Gift of Nam Wah Neonlight & Electrical Mfy, Ltd., 2015",
+        "en": "M+, Hong Kong. Gift of Nam Wah Neonlight & Electrical Manufactory, Ltd., 2015",
         "zh-hant": "M+，香港，南華霓虹燈電器廠有限公司捐贈，2015年"
     },
     "constituents": [
@@ -60,11 +60,65 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CCB892",
+                "value": 48.2
+            },
+            {
+                "color": "#D4C4A5",
+                "value": 30.4
+            },
+            {
+                "color": "#446497",
+                "value": 10
+            },
+            {
+                "color": "#D0774B",
+                "value": 2.1
+            },
+            {
+                "color": "#CFD1BB",
+                "value": 2
+            },
+            {
+                "color": "#4F7899",
+                "value": 1.3
+            },
+            {
+                "color": "#BBCEBB",
+                "value": 1.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 80.7
+                },
+                {
+                    "color": "green",
+                    "value": 1.2
+                },
+                {
+                    "color": "blue",
+                    "value": 10
+                },
+                {
+                    "color": "white",
+                    "value": 2
+                },
+                {
+                    "color": "teal",
+                    "value": 1.3
+                }
+            ]
         }
     },
     "dimensionDetails": {

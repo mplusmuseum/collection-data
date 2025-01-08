@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書籍/期刊"
+                "書籍／期刊"
             ]
         },
         "archivalLevel": {
@@ -41,7 +41,7 @@
     "endDate": 2002,
     "dimension": {
         "en": "19 items",
-        "zh-hant": "19 份/張/件"
+        "zh-hant": "19 份／張／件"
     },
     "medium": {
         "en": "printing ink on newsprint",
@@ -60,11 +60,36 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E1E0DB",
+                "value": 37.3
+            },
+            {
+                "color": "#908E8A",
+                "value": 2.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 2.9
+                },
+                {
+                    "color": "white",
+                    "value": 94
+                }
+            ]
         }
     },
     "dimensionDetails": null

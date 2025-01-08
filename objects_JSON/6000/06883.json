@@ -27,7 +27,7 @@
     },
     "title": {
         "en": "ET-B9",
-        "zh-hant": "ET-B9"
+        "zh-hant": null
     },
     "displayDate": {
         "en": "designed 2011, made 2014",
@@ -59,28 +59,30 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#FAFAFA",
-                "value": 89.7
+                "color": "#E6E5E5",
+                "value": 94.5
             },
             {
-                "color": "#F1EFF0",
-                "value": 4.5
-            },
-            {
-                "color": "#FAFAFC",
-                "value": 3.8
+                "color": "#D0D0CA",
+                "value": 3.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "white",
-                    "value": 98
+                    "value": 98.1
                 }
             ]
         }

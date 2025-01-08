@@ -44,11 +44,11 @@
         "zh-hant": "紙本︰26.5 × 46.2 厘米"
     },
     "medium": {
-        "en": "paint, felt-tip pen and iron gall ink on paper",
-        "zh-hant": "paint, felt-tip pen and iron gall ink on paper"
+        "en": "paint, felt-tip pen, and pen ink on paper",
+        "zh-hant": "顏料、氈頭筆及墨水紙本"
     },
     "creditLine": {
-        "en": "M+, Hong Kong. Gift of Nam Wah Neonlight & Electrical Mfy, Ltd., 2015",
+        "en": "M+, Hong Kong. Gift of Nam Wah Neonlight & Electrical Manufactory, Ltd., 2015",
         "zh-hant": "M+，香港，南華霓虹燈電器廠有限公司捐贈，2015年"
     },
     "constituents": [
@@ -60,11 +60,77 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C7B28F",
+                "value": 61.6
+            },
+            {
+                "color": "#CDBEA1",
+                "value": 17.2
+            },
+            {
+                "color": "#2E3C5F",
+                "value": 7.1
+            },
+            {
+                "color": "#2B3651",
+                "value": 2.5
+            },
+            {
+                "color": "#907C59",
+                "value": 2.1
+            },
+            {
+                "color": "#C9CDB8",
+                "value": 1.6
+            },
+            {
+                "color": "#BECDB9",
+                "value": 0.9
+            },
+            {
+                "color": "#CE8F70",
+                "value": 0.9
+            },
+            {
+                "color": "#6178BF",
+                "value": 0.8
+            },
+            {
+                "color": "#B7BDCB",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 79.7
+                },
+                {
+                    "color": "gray",
+                    "value": 2.2
+                },
+                {
+                    "color": "green",
+                    "value": 0.9
+                },
+                {
+                    "color": "blue",
+                    "value": 10.4
+                },
+                {
+                    "color": "brown",
+                    "value": 2.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -36,8 +36,8 @@
     "beginDate": 2006,
     "endDate": 2006,
     "dimension": {
-        "en": "sheet: 127 × 160 cm\r\r\nimage: 122 × 152.5 cm",
-        "zh-hant": "紙本︰127 × 160 厘米\r\r\n圖像︰122 × 152.5 厘米"
+        "en": "frame: 126 × 156.4 × 6.8 cm\r\r\nimage: 122 × 152.5 cm",
+        "zh-hant": "連框︰126 × 156.4 × 6.8 厘米\r\r\n圖像︰122 × 152.5 厘米"
     },
     "medium": {
         "en": "chromogenic print",
@@ -102,10 +102,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 160,
-        "height": 127,
-        "depth": null
+        "width": 156.4,
+        "height": 126,
+        "depth": 6.8
     }
 }

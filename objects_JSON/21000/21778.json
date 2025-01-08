@@ -31,7 +31,7 @@
     },
     "title": {
         "en": "Photograph for Film Biweekly, Kam Ping-hing (film critic, scriptwriter, director)",
-        "zh-hant": "金炳興（影評人, 編劇, 導演）照片，刊於《電影雙周刊》"
+        "zh-hant": "金炳興（影評人、編劇、導演）照片，刊於《電影雙周刊》"
     },
     "displayDate": {
         "en": "1983",
@@ -60,11 +60,49 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#191816",
+                "value": 80
+            },
+            {
+                "color": "#7A7772",
+                "value": 5.6
+            },
+            {
+                "color": "#D5D3CC",
+                "value": 4.8
+            },
+            {
+                "color": "#12110D",
+                "value": 4.6
+            },
+            {
+                "color": "#DDDCD6",
+                "value": 1.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 5.6
+                },
+                {
+                    "color": "white",
+                    "value": 6.7
+                },
+                {
+                    "color": "black",
+                    "value": 84.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

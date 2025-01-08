@@ -45,10 +45,10 @@
     },
     "medium": {
         "en": "paint and felt-tip pen on paper",
-        "zh-hant": "顏料、墨水及石墨紙本"
+        "zh-hant": "顏料及氈頭筆紙本"
     },
     "creditLine": {
-        "en": "M+, Hong Kong. Gift of Nam Wah Neonlight & Electrical Mfy, Ltd., 2015",
+        "en": "M+, Hong Kong. Gift of Nam Wah Neonlight & Electrical Manufactory, Ltd., 2015",
         "zh-hant": "M+，香港，南華霓虹燈電器廠有限公司捐贈，2015年"
     },
     "constituents": [
@@ -60,11 +60,77 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D1C3A6",
+                "value": 74.5
+            },
+            {
+                "color": "#C0AB84",
+                "value": 7.7
+            },
+            {
+                "color": "#416390",
+                "value": 4.5
+            },
+            {
+                "color": "#6D3C3D",
+                "value": 4.1
+            },
+            {
+                "color": "#7A4E3D",
+                "value": 1.1
+            },
+            {
+                "color": "#D1D0C1",
+                "value": 1
+            },
+            {
+                "color": "#487095",
+                "value": 1
+            },
+            {
+                "color": "#B6B8C3",
+                "value": 0.8
+            },
+            {
+                "color": "#B2BABE",
+                "value": 0.7
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 82.2
+                },
+                {
+                    "color": "red",
+                    "value": 4.1
+                },
+                {
+                    "color": "gray",
+                    "value": 1.5
+                },
+                {
+                    "color": "blue",
+                    "value": 5.5
+                },
+                {
+                    "color": "white",
+                    "value": 1
+                },
+                {
+                    "color": "brown",
+                    "value": 1.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

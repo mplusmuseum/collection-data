@@ -14,10 +14,10 @@
         },
         "category": {
             "en": [
-                "Photography"
+                "Archival Documentation"
             ],
             "zh-hant": [
-                "攝影"
+                "檔案文獻"
             ]
         },
         "archivalLevel": {
@@ -30,7 +30,7 @@
         }
     },
     "title": {
-        "en": "Inserted paper, with hand wriiten notes 'Corey Yuen's photo for Film Biweekly is missing'",
+        "en": "Inserted paper, with handwritten notes 'Corey Yuen's photo for Film Biweekly is missing'",
         "zh-hant": "代替照片放入的紙張，上有「給電影雙周刊的元奎照片不見了」的手寫字句"
     },
     "displayDate": {
@@ -60,11 +60,25 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EAEAEA",
+                "value": 97.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 97.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

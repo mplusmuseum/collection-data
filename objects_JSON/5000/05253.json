@@ -45,10 +45,10 @@
     },
     "medium": {
         "en": "paint, felt-tip pen and coloured pencil on paper",
-        "zh-hant": "paint, felt-tip pen and coloured pencil on paper"
+        "zh-hant": "顏料、氈頭筆及彩色鉛筆紙本"
     },
     "creditLine": {
-        "en": "M+, Hong Kong. Gift of Nam Wah Neonlight & Electrical Mfy, Ltd., 2015",
+        "en": "M+, Hong Kong. Gift of Nam Wah Neonlight & Electrical Manufactory, Ltd., 2015",
         "zh-hant": "M+，香港，南華霓虹燈電器廠有限公司捐贈，2015年"
     },
     "constituents": [
@@ -63,44 +63,51 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#B0A597",
-                "value": 47.7
+                "color": "#D8CBB4",
+                "value": 75.5
             },
             {
-                "color": "#A19688",
-                "value": 18.3
+                "color": "#BB1C32",
+                "value": 15.3
             },
             {
-                "color": "#B9BCBE",
-                "value": 10.7
+                "color": "#9E1D2E",
+                "value": 2.1
             },
             {
-                "color": "#8D2E37",
-                "value": 9.3
+                "color": "#C56065",
+                "value": 2
             },
             {
-                "color": "#992431",
-                "value": 8.3
-            },
-            {
-                "color": "#BABCC0",
-                "value": 1.4
+                "color": "#D5D5C8",
+                "value": 1.8
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 17.6
+                    "value": 19.5
                 },
                 {
                     "color": "gray",
                     "value": 78.2
+                },
+                {
+                    "color": "orange",
+                    "value": 75.5
+                },
+                {
+                    "color": "white",
+                    "value": 1.8
                 }
             ]
         }

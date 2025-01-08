@@ -41,7 +41,7 @@
     "endDate": 1975,
     "dimension": {
         "en": "3 items",
-        "zh-hant": "3 份/張/件"
+        "zh-hant": "3 份／張／件"
     },
     "medium": {
         "en": "ink on paper",
@@ -60,11 +60,37 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E8E1D3",
+                "value": 98.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 98.8
+                }
+            ]
         }
     },
     "dimensionDetails": null
