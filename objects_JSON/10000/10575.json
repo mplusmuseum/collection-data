@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書籍/期刊"
+                "書籍／期刊"
             ]
         },
         "archivalLevel": {
@@ -70,11 +70,53 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E9E2D6",
+                "value": 78.1
+            },
+            {
+                "color": "#CB463B",
+                "value": 6.2
+            },
+            {
+                "color": "#CA3C2F",
+                "value": 5.6
+            },
+            {
+                "color": "#7F796D",
+                "value": 3.5
+            },
+            {
+                "color": "#3F3A34",
+                "value": 3.1
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 11.7
+                },
+                {
+                    "color": "gray",
+                    "value": 3.5
+                },
+                {
+                    "color": "white",
+                    "value": 78.1
+                },
+                {
+                    "color": "black",
+                    "value": 3.1
+                }
+            ]
         }
     },
     "dimensionDetails": {

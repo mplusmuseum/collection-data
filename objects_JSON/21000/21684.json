@@ -60,68 +60,48 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#C2C7D2",
-                "value": 32.9
+                "color": "#DBDDE5",
+                "value": 57.8
             },
             {
-                "color": "#BCC8D0",
-                "value": 23.9
+                "color": "#DECEC2",
+                "value": 9.2
             },
             {
-                "color": "#C8BDAA",
-                "value": 14.7
+                "color": "#D9DCBE",
+                "value": 7.6
             },
             {
-                "color": "#F37CBE",
-                "value": 3.9
+                "color": "#E8BBD5",
+                "value": 5.9
             },
             {
-                "color": "#E2C879",
-                "value": 2.7
+                "color": "#D1DEE1",
+                "value": 4.5
             },
             {
-                "color": "#ED84AF",
-                "value": 2.6
+                "color": "#DDD899",
+                "value": 4.3
             },
             {
-                "color": "#BCBDAA",
-                "value": 2.4
+                "color": "#DADE9C",
+                "value": 3.4
             },
             {
-                "color": "#B3D683",
+                "color": "#C2D6CD",
+                "value": 1.9
+            },
+            {
+                "color": "#DEA2C3",
                 "value": 1.8
-            },
-            {
-                "color": "#262D3B",
-                "value": 1.7
-            },
-            {
-                "color": "#D7DE71",
-                "value": 1.7
-            },
-            {
-                "color": "#9B9384",
-                "value": 1.7
-            },
-            {
-                "color": "#DCD376",
-                "value": 1.6
-            },
-            {
-                "color": "#B6C4B9",
-                "value": 1.6
-            },
-            {
-                "color": "#D5BECF",
-                "value": 1.5
-            },
-            {
-                "color": "#758288",
-                "value": 0.9
             }
         ],
         "search": {
@@ -132,7 +112,7 @@
                 },
                 {
                     "color": "pink",
-                    "value": 8
+                    "value": 7.7
                 },
                 {
                     "color": "gray",
@@ -144,11 +124,15 @@
                 },
                 {
                     "color": "yellow",
-                    "value": 3.3
+                    "value": 15.3
                 },
                 {
                     "color": "black",
                     "value": 1.7
+                },
+                {
+                    "color": "white",
+                    "value": 73.3
                 }
             ]
         }

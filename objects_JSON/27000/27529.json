@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書籍/期刊"
+                "書籍／期刊"
             ]
         },
         "archivalLevel": {
@@ -41,7 +41,7 @@
     "endDate": 1988,
     "dimension": {
         "en": "41 items",
-        "zh-hant": "41 份/張/件"
+        "zh-hant": "41 份／張／件"
     },
     "medium": {
         "en": "printing ink on newsprint",
@@ -60,11 +60,47 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        },
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D6C6AB",
+                "value": 78.4
+            },
+            {
+                "color": "#86765E",
+                "value": 13.7
+            },
+            {
+                "color": "#E8E8E2",
+                "value": 3.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 78.4
+                },
+                {
+                    "color": "white",
+                    "value": 3.4
+                },
+                {
+                    "color": "brown",
+                    "value": 13.7
+                }
+            ]
         }
     },
     "dimensionDetails": null

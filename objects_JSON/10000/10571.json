@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書籍/期刊"
+                "書籍／期刊"
             ]
         },
         "archivalLevel": {
@@ -40,7 +40,7 @@
         "zh-hant": "整體 （合上）︰4.2 × 19.6 × 27.1 厘米\r\r\n整體 約 （打開）︰0.2 × 470.4 × 27.1 厘米"
     },
     "medium": {
-        "en": "lithography on paper, paint, and silk",
+        "en": "lithograph on paper, paint, and silk",
         "zh-hant": "平版印刷、紙、油漆、絲綢"
     },
     "creditLine": {
@@ -56,11 +56,25 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EBE2D3",
+                "value": 95.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 95.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

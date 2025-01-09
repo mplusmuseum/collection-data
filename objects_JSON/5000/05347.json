@@ -45,10 +45,10 @@
     },
     "medium": {
         "en": "paint, felt-tip pen and graphite on paper",
-        "zh-hant": "顏料、墨水及石墨紙本"
+        "zh-hant": "顏料、氈頭筆及石墨紙本"
     },
     "creditLine": {
-        "en": "M+, Hong Kong. Gift of Nam Wah Neonlight & Electrical Mfy, Ltd., 2015",
+        "en": "M+, Hong Kong. Gift of Nam Wah Neonlight & Electrical Manufactory, Ltd., 2015",
         "zh-hant": "M+，香港，南華霓虹燈電器廠有限公司捐贈，2015年"
     },
     "constituents": [
@@ -63,68 +63,99 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#AAB2B6",
-                "value": 28.2
+                "color": "#D4C198",
+                "value": 61.7
             },
             {
-                "color": "#ACAFB6",
-                "value": 21.9
+                "color": "#324F97",
+                "value": 11.7
             },
             {
-                "color": "#87765B",
-                "value": 21.5
+                "color": "#D8C8B7",
+                "value": 8
             },
             {
-                "color": "#9A9BA0",
-                "value": 9.6
+                "color": "#567AB8",
+                "value": 3.7
             },
             {
-                "color": "#959B9F",
-                "value": 7.3
+                "color": "#D6D8BF",
+                "value": 3.1
             },
             {
-                "color": "#0E2A61",
-                "value": 3.4
+                "color": "#B1C484",
+                "value": 1.9
             },
             {
-                "color": "#0C2252",
-                "value": 1
+                "color": "#B5BED4",
+                "value": 1.1
             },
             {
-                "color": "#887D75",
+                "color": "#BDC486",
                 "value": 0.9
             },
             {
-                "color": "#344A72",
-                "value": 0.9
+                "color": "#D292A2",
+                "value": 0.8
             },
             {
-                "color": "#728257",
+                "color": "#D4D099",
                 "value": 0.7
+            },
+            {
+                "color": "#B7C6D0",
+                "value": 0.6
+            },
+            {
+                "color": "#C5D3C4",
+                "value": 0.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 67.9
+                    "value": 8.6
                 },
                 {
                     "color": "green",
-                    "value": 0.7
+                    "value": 1.9
                 },
                 {
                     "color": "blue",
-                    "value": 5.3
+                    "value": 15.5
                 },
                 {
                     "color": "brown",
                     "value": 21.5
+                },
+                {
+                    "color": "orange",
+                    "value": 61.7
+                },
+                {
+                    "color": "pink",
+                    "value": 0.8
+                },
+                {
+                    "color": "white",
+                    "value": 0.6
+                },
+                {
+                    "color": "yellow",
+                    "value": 4.8
+                },
+                {
+                    "color": "teal",
+                    "value": 1.1
                 }
             ]
         }

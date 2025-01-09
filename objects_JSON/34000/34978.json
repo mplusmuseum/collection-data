@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書籍/期刊"
+                "書籍／期刊"
             ]
         },
         "archivalLevel": {
@@ -41,7 +41,7 @@
     "endDate": 1999,
     "dimension": {
         "en": "189 items",
-        "zh-hant": "189 份/張/件"
+        "zh-hant": "189 份／張／件"
     },
     "medium": {
         "en": "printing ink and offset lithograph on paper; printing ink on newsprint",
@@ -60,11 +60,77 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D7D5CF",
+                "value": 61.3
+            },
+            {
+                "color": "#D7D6CF",
+                "value": 13.2
+            },
+            {
+                "color": "#2A2926",
+                "value": 6.5
+            },
+            {
+                "color": "#CAA30D",
+                "value": 5.3
+            },
+            {
+                "color": "#817A72",
+                "value": 2.7
+            },
+            {
+                "color": "#C36152",
+                "value": 2.3
+            },
+            {
+                "color": "#161618",
+                "value": 1.4
+            },
+            {
+                "color": "#C27559",
+                "value": 0.9
+            },
+            {
+                "color": "#87877C",
+                "value": 0.9
+            },
+            {
+                "color": "#865F50",
+                "value": 0.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 5.3
+                },
+                {
+                    "color": "red",
+                    "value": 4
+                },
+                {
+                    "color": "gray",
+                    "value": 3.5
+                },
+                {
+                    "color": "white",
+                    "value": 74.5
+                },
+                {
+                    "color": "black",
+                    "value": 7.9
+                }
+            ]
         }
     },
     "dimensionDetails": null

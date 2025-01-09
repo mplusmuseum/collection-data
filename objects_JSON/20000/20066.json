@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書籍/期刊"
+                "書籍／期刊"
             ]
         },
         "archivalLevel": {
@@ -56,11 +56,137 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#2B2B27",
+                "value": 17.7
+            },
+            {
+                "color": "#7F979A",
+                "value": 16.4
+            },
+            {
+                "color": "#99AEB1",
+                "value": 9.1
+            },
+            {
+                "color": "#848672",
+                "value": 6.2
+            },
+            {
+                "color": "#2D3330",
+                "value": 4.7
+            },
+            {
+                "color": "#86704B",
+                "value": 4.4
+            },
+            {
+                "color": "#393221",
+                "value": 3.5
+            },
+            {
+                "color": "#28282B",
+                "value": 3
+            },
+            {
+                "color": "#363C24",
+                "value": 2.7
+            },
+            {
+                "color": "#6D796D",
+                "value": 2.7
+            },
+            {
+                "color": "#508291",
+                "value": 2.5
+            },
+            {
+                "color": "#7D5A43",
+                "value": 2.5
+            },
+            {
+                "color": "#526D48",
+                "value": 2.4
+            },
+            {
+                "color": "#3A2A21",
+                "value": 2.4
+            },
+            {
+                "color": "#67754D",
+                "value": 2.3
+            },
+            {
+                "color": "#817A6C",
+                "value": 2.3
+            },
+            {
+                "color": "#BAA277",
+                "value": 2.3
+            },
+            {
+                "color": "#B5B49A",
+                "value": 1.8
+            },
+            {
+                "color": "#817D52",
+                "value": 1.6
+            },
+            {
+                "color": "#30412B",
+                "value": 1.6
+            },
+            {
+                "color": "#767B50",
+                "value": 1.4
+            },
+            {
+                "color": "#BCB19A",
+                "value": 1.1
+            },
+            {
+                "color": "#BB8E6F",
+                "value": 0.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 4.2
+                },
+                {
+                    "color": "gray",
+                    "value": 36.8
+                },
+                {
+                    "color": "green",
+                    "value": 6.3
+                },
+                {
+                    "color": "black",
+                    "value": 31.3
+                },
+                {
+                    "color": "yellow",
+                    "value": 1.8
+                },
+                {
+                    "color": "teal",
+                    "value": 2.5
+                },
+                {
+                    "color": "brown",
+                    "value": 12.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

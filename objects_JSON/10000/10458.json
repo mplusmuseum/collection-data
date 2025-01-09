@@ -44,8 +44,8 @@
         "zh-hant": "紙本︰41.7 × 29.8 厘米"
     },
     "medium": {
-        "en": "ink, graphite, and coloured pencil on paper",
-        "zh-hant": "墨水及炭筆藝術紙本"
+        "en": "felt-tip pen, graphite, and coloured pencil on paper",
+        "zh-hant": "氈頭筆、石墨及彩色鉛筆紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -63,17 +63,20 @@
     "images": [
         {
             "altText": null
+        },
+        {
+            "altText": null
         }
     ],
     "color": {
         "predominant": [
             {
-                "color": "#8F8D8A",
-                "value": 54.2
+                "color": "#DDDBCE",
+                "value": 73
             },
             {
-                "color": "#878882",
-                "value": 42.3
+                "color": "#DCD9CE",
+                "value": 22.1
             }
         ],
         "search": {
@@ -81,6 +84,10 @@
                 {
                     "color": "gray",
                     "value": 96.5
+                },
+                {
+                    "color": "white",
+                    "value": 95.1
                 }
             ]
         }

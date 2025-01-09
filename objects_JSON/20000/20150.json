@@ -17,7 +17,7 @@
                 "Book/Periodical"
             ],
             "zh-hant": [
-                "書籍/期刊"
+                "書籍／期刊"
             ]
         },
         "archivalLevel": {
@@ -56,11 +56,89 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D1CECB",
+                "value": 17.9
+            },
+            {
+                "color": "#E3E3E7",
+                "value": 12.9
+            },
+            {
+                "color": "#474548",
+                "value": 10.3
+            },
+            {
+                "color": "#C4CED1",
+                "value": 10.2
+            },
+            {
+                "color": "#7E7B78",
+                "value": 8.5
+            },
+            {
+                "color": "#B33B4E",
+                "value": 7.8
+            },
+            {
+                "color": "#967D51",
+                "value": 6.8
+            },
+            {
+                "color": "#4B4948",
+                "value": 6
+            },
+            {
+                "color": "#C2C2BC",
+                "value": 5.3
+            },
+            {
+                "color": "#8C8C86",
+                "value": 4.2
+            },
+            {
+                "color": "#67676B",
+                "value": 2.3
+            },
+            {
+                "color": "#A03444",
+                "value": 1.8
+            },
+            {
+                "color": "#6D6B6D",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 9.6
+                },
+                {
+                    "color": "gray",
+                    "value": 21.7
+                },
+                {
+                    "color": "white",
+                    "value": 41
+                },
+                {
+                    "color": "black",
+                    "value": 16.3
+                },
+                {
+                    "color": "brown",
+                    "value": 6.8
+                }
+            ]
         }
     },
     "dimensionDetails": {

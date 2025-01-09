@@ -41,7 +41,7 @@
     "endDate": 1996,
     "dimension": {
         "en": "98 items",
-        "zh-hant": "98 份/張/件"
+        "zh-hant": "98 份／張／件"
     },
     "medium": {
         "en": "chromogenic print; album",
@@ -60,11 +60,65 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#BC926C",
+                "value": 41.3
+            },
+            {
+                "color": "#C19C74",
+                "value": 22.9
+            },
+            {
+                "color": "#DFD6CB",
+                "value": 14
+            },
+            {
+                "color": "#8F6B50",
+                "value": 8.1
+            },
+            {
+                "color": "#E2E2DA",
+                "value": 4.5
+            },
+            {
+                "color": "#34251D",
+                "value": 2.5
+            },
+            {
+                "color": "#997A58",
+                "value": 1.5
+            },
+            {
+                "color": "#2B2724",
+                "value": 1.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 64.2
+                },
+                {
+                    "color": "white",
+                    "value": 18.5
+                },
+                {
+                    "color": "black",
+                    "value": 3.9
+                },
+                {
+                    "color": "brown",
+                    "value": 9.6
+                }
+            ]
         }
     },
     "dimensionDetails": null
