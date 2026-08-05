@@ -39,15 +39,15 @@
     "endDate": 2006,
     "dimension": {
         "en": "sheet: 364.1 × 143.5 cm",
-        "zh-hant": "紙本︰364.1 × 143.5 厘米"
+        "zh-hant": "紙張：364.1 × 143.5 厘米"
     },
     "medium": {
         "en": "ink on paper",
-        "zh-hant": "墨水紙本"
+        "zh-hant": "水墨紙本"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港"
+        "zh-hant": "M+希克藏品（捐贈），香港"
     },
     "constituents": [
         {
@@ -58,18 +58,36 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#BCB7AF",
+                "value": 70.5
+            },
+            {
+                "color": "#A29C94",
+                "value": 25
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 95.5
+                }
+            ]
         }
     },
     "dimensionDetails": {
         "element": "sheet",
         "unit": "cm",
-        "width": 143.5,
-        "height": 364.1,
+        "width": 144.2,
+        "height": 365,
         "depth": null
     },
     "concepts": null

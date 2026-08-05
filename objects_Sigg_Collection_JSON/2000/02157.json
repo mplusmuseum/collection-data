@@ -14,11 +14,9 @@
         },
         "category": {
             "en": [
-                "Installation",
                 "Sculpture"
             ],
             "zh-hant": [
-                "裝置藝術",
                 "雕塑"
             ]
         },
@@ -43,11 +41,11 @@
     },
     "medium": {
         "en": "fibre-reinforced resin, wood, metal, and paint",
-        "zh-hant": "纖維強化樹脂、木、金屬及油彩"
+        "zh-hant": "纖維強化樹脂、木、金屬、油彩"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港"
+        "zh-hant": "M+希克藏品（捐贈），香港"
     },
     "constituents": [
         {
@@ -58,11 +56,57 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Installation comprising five figures made of fibre-reinforced resin, wood, metal, and paint. The beige and grey figures lack eyes and appear expressionless. On our left, a figure carrying a child and a figure with folded arms stand behind a squatting person. A burly figure with a cigarette stands slightly apart on our right."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#CBCCC4",
+                "value": 40.9
+            },
+            {
+                "color": "#96774E",
+                "value": 17.2
+            },
+            {
+                "color": "#D8DBD8",
+                "value": 16.9
+            },
+            {
+                "color": "#BEB8A8",
+                "value": 11.8
+            },
+            {
+                "color": "#998F79",
+                "value": 6.4
+            },
+            {
+                "color": "#949483",
+                "value": 2.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 6.4
+                },
+                {
+                    "color": "gray",
+                    "value": 14.2
+                },
+                {
+                    "color": "white",
+                    "value": 57.9
+                },
+                {
+                    "color": "brown",
+                    "value": 17.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

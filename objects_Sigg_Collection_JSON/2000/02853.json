@@ -37,7 +37,7 @@
     "endDate": 2004,
     "dimension": {
         "en": "overall: 108 × 75 × 58 cm",
-        "zh-hant": "整體︰108 × 75 × 58 厘米"
+        "zh-hant": "整體：108 × 75 × 58 厘米"
     },
     "medium": {
         "en": "waxwork, newspaper, fabric, plastic and leather",
@@ -45,7 +45,7 @@
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港"
+        "zh-hant": "M+希克藏品（捐贈），香港"
     },
     "constituents": [
         {
@@ -131,5 +131,22 @@
         "height": 108,
         "depth": 58
     },
-    "concepts": null
+    "concepts": [
+        {
+            "id": 102,
+            "title": {
+                "en": "Avant-garde",
+                "zh-hant": "前衛藝術"
+            },
+            "description": {
+                "en": "The term \"avant-garde,\" derived from French, translates to \"advanced guard\" or \"vanguard\" and refers to visionary concepts that are ahead of their time. The avant-garde movement fostered artists who challenged boundaries and introduced new forms of art, making significant contributions to society and culture.\r\r\n\r\r\nIn the realm of art, avant-garde is associated with aesthetic innovation, often misunderstood or unappreciated during its inception. This concept applies to creatives who challenge mainstream ideals and push the limits of artistic expression.",
+                "zh-hant": "The term \"avant-garde,\" derived from French, translates to \"advanced guard\" or \"vanguard\" and refers to visionary concepts that are ahead of their time. The avant-garde movement fostered artists who challenged boundaries and introduced new forms of art, making significant contributions to society and culture.\r\r\n\r\r\nIn the realm of art, avant-garde is associated with aesthetic innovation, often misunderstood or unappreciated during its inception. This concept applies to creatives who challenge mainstream ideals and push the limits of artistic expression."
+            },
+            "timeline": "Artist Movements",
+            "beginDate": null,
+            "endDate": null,
+            "displayDate": null,
+            "publicAccess": true
+        }
+    ]
 }

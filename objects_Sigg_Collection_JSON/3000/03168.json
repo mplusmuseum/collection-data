@@ -40,12 +40,12 @@
         "zh-hant": "尺寸可變"
     },
     "medium": {
-        "en": "folding table, water cooler, stool, tea pot, electrical appliances, plug-in air fresheners, fabric, clock and electronic parts",
-        "zh-hant": "折疊桌、飲水機、凳子、茶壺、電器、插電式空氣清新劑、布料、時鐘、電子零件"
+        "en": "electrical appliances and cabling, folding table, stool, water cooler, plug-in air fresheners, fabrics, and clock",
+        "zh-hant": "電器及線路、折疊桌、凳子、飲水機、插電式空氣清新劑、布料、時鐘"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港"
+        "zh-hant": "M+希克藏品（捐贈），香港"
     },
     "constituents": [
         {
@@ -56,11 +56,61 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#000000",
+                "value": 59.8
+            },
+            {
+                "color": "#02010D",
+                "value": 19.7
+            },
+            {
+                "color": "#160100",
+                "value": 8.3
+            },
+            {
+                "color": "#0A0812",
+                "value": 2.8
+            },
+            {
+                "color": "#050007",
+                "value": 1.8
+            },
+            {
+                "color": "#762800",
+                "value": 1.2
+            },
+            {
+                "color": "#000508",
+                "value": 1
+            },
+            {
+                "color": "#020875",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "blue",
+                    "value": 0.6
+                },
+                {
+                    "color": "black",
+                    "value": 93.4
+                },
+                {
+                    "color": "brown",
+                    "value": 1.2
+                }
+            ]
         }
     },
     "dimensionDetails": null,

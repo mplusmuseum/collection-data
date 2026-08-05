@@ -36,8 +36,8 @@
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
-        "en": "frame: 88.4 × 89 × 4 cm\r\r\nimage (sight): 75 × 75.3 cm",
-        "zh-hant": "連框︰88.4 × 89 × 4 厘米\r\r\n圖像 （目測）︰75 × 75.3 厘米"
+        "en": "image (sight): 75 x 75.3 cm",
+        "zh-hant": "連框：88.4 × 89 × 4 厘米\r\r\n圖像 （目測）：75 × 75.3 厘米"
     },
     "medium": {
         "en": "inkjet print",
@@ -45,7 +45,7 @@
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港"
+        "zh-hant": "M+希克藏品（捐贈），香港"
     },
     "constituents": [
         {
@@ -118,11 +118,11 @@
         }
     },
     "dimensionDetails": {
-        "element": "frame",
+        "element": "image",
         "unit": "cm",
-        "width": 89,
-        "height": 88.4,
-        "depth": 4
+        "width": 75.3,
+        "height": 75,
+        "depth": null
     },
     "concepts": null
 }

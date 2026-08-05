@@ -40,12 +40,12 @@
         "zh-hant": "尺寸可變"
     },
     "medium": {
-        "en": "painted plaster, plastic, and paper",
-        "zh-hant": "著色石膏、塑膠、紙"
+        "en": "painted plaster, plastic, metal, and newspaper",
+        "zh-hant": "著色石膏、塑膠、金屬、報紙"
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港"
+        "zh-hant": "M+希克藏品（捐贈），香港"
     },
     "constituents": [
         {
@@ -64,72 +64,80 @@
     "color": {
         "predominant": [
             {
-                "color": "#C5C7D0",
-                "value": 18.7
+                "color": "#868171",
+                "value": 19.4
             },
             {
-                "color": "#817675",
-                "value": 12.7
+                "color": "#BEC5C9",
+                "value": 12.6
             },
             {
-                "color": "#C6BFBB",
-                "value": 12
+                "color": "#754F30",
+                "value": 10.3
             },
             {
-                "color": "#DDE1E3",
-                "value": 8.9
+                "color": "#7A5F3D",
+                "value": 7.7
             },
             {
-                "color": "#3F3740",
-                "value": 8.7
+                "color": "#CBC4BB",
+                "value": 7.5
             },
             {
-                "color": "#E3E7E5",
-                "value": 6.3
+                "color": "#87877E",
+                "value": 5.7
             },
             {
-                "color": "#1A1617",
-                "value": 5.5
+                "color": "#C6C6BE",
+                "value": 4.4
             },
             {
-                "color": "#CCCCC7",
-                "value": 4.1
+                "color": "#362006",
+                "value": 4
             },
             {
-                "color": "#1D1829",
-                "value": 3.4
+                "color": "#C0C2C7",
+                "value": 3.9
             },
             {
-                "color": "#776F74",
-                "value": 3.1
+                "color": "#452D1B",
+                "value": 3.9
             },
             {
-                "color": "#8D8A94",
-                "value": 2.6
+                "color": "#979D9F",
+                "value": 3
             },
             {
-                "color": "#02010E",
-                "value": 2.5
+                "color": "#3F2E1B",
+                "value": 2.7
             },
             {
-                "color": "#231A28",
-                "value": 2.4
+                "color": "#261104",
+                "value": 2
             },
             {
-                "color": "#CDC8CB",
-                "value": 1.4
+                "color": "#805119",
+                "value": 1.9
             },
             {
-                "color": "#382223",
-                "value": 1
+                "color": "#BDC2BE",
+                "value": 1.7
             },
             {
-                "color": "#855F50",
-                "value": 1
+                "color": "#939794",
+                "value": 1.7
             },
             {
-                "color": "#7F4C4E",
-                "value": 0.8
+                "color": "#94969A",
+                "value": 1.1
+            },
+            {
+                "color": "#2B2A25",
+                "value": 0.9
+            },
+            {
+                "color": "#744318",
+                "value": 0.9
             }
         ],
         "search": {
@@ -140,7 +148,7 @@
                 },
                 {
                     "color": "gray",
-                    "value": 50.5
+                    "value": 61
                 },
                 {
                     "color": "white",
@@ -148,11 +156,15 @@
                 },
                 {
                     "color": "black",
-                    "value": 20.1
+                    "value": 0.9
                 },
                 {
                     "color": "purple",
                     "value": 3.4
+                },
+                {
+                    "color": "brown",
+                    "value": 33.3
                 }
             ]
         }

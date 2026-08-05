@@ -37,7 +37,7 @@
     "endDate": 2007,
     "dimension": {
         "en": "overall: 79.9 × 119.9 cm",
-        "zh-hant": "整體︰79.9 × 119.9 厘米"
+        "zh-hant": "整體：79.9 × 119.9 厘米"
     },
     "medium": {
         "en": "oil on canvas",
@@ -45,7 +45,7 @@
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港"
+        "zh-hant": "M+希克藏品（捐贈），香港"
     },
     "constituents": [
         {
@@ -56,11 +56,57 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Oil painting on canvas filled with a sea of varying grey strokes interspersed with small daubs of black paint."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#3E3D41",
+                "value": 26.2
+            },
+            {
+                "color": "#67686C",
+                "value": 19.1
+            },
+            {
+                "color": "#777270",
+                "value": 17.9
+            },
+            {
+                "color": "#43403E",
+                "value": 12.3
+            },
+            {
+                "color": "#6F7274",
+                "value": 9.1
+            },
+            {
+                "color": "#404244",
+                "value": 5.2
+            },
+            {
+                "color": "#6F6C6E",
+                "value": 3.1
+            },
+            {
+                "color": "#BEB9B8",
+                "value": 2.2
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 51.4
+                },
+                {
+                    "color": "black",
+                    "value": 43.7
+                }
+            ]
         }
     },
     "dimensionDetails": {

@@ -37,7 +37,7 @@
     "endDate": 2003,
     "dimension": {
         "en": "sheet (each): 34 × 103.7 cm\r\r\nimage (each): 30 × 97.8 cm",
-        "zh-hant": "紙本 （各）︰34 × 103.7 厘米\r\r\n圖像 （各）︰30 × 97.8 厘米"
+        "zh-hant": "紙張 （各）：34 × 103.7 厘米\r\r\n圖像 （各）：30 × 97.8 厘米"
     },
     "medium": {
         "en": "chromogenic print",
@@ -45,7 +45,7 @@
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港"
+        "zh-hant": "M+希克藏品（捐贈），香港"
     },
     "constituents": [
         {
@@ -56,11 +56,117 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D5C8C5",
+                "value": 38.5
+            },
+            {
+                "color": "#1A1516",
+                "value": 18
+            },
+            {
+                "color": "#181618",
+                "value": 6.3
+            },
+            {
+                "color": "#DFD9DE",
+                "value": 5.5
+            },
+            {
+                "color": "#1B1112",
+                "value": 4.8
+            },
+            {
+                "color": "#0E0D17",
+                "value": 3
+            },
+            {
+                "color": "#D8D6DC",
+                "value": 2.3
+            },
+            {
+                "color": "#CEB67A",
+                "value": 2.2
+            },
+            {
+                "color": "#28050B",
+                "value": 2.1
+            },
+            {
+                "color": "#160D13",
+                "value": 1.9
+            },
+            {
+                "color": "#897C7B",
+                "value": 1.7
+            },
+            {
+                "color": "#7C0B19",
+                "value": 1.6
+            },
+            {
+                "color": "#87383B",
+                "value": 1.4
+            },
+            {
+                "color": "#130D15",
+                "value": 1.3
+            },
+            {
+                "color": "#CB6567",
+                "value": 1.2
+            },
+            {
+                "color": "#C7BB5E",
+                "value": 1
+            },
+            {
+                "color": "#CC8D72",
+                "value": 1
+            },
+            {
+                "color": "#CA4C1E",
+                "value": 0.6
+            },
+            {
+                "color": "#8E868C",
+                "value": 0.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 6.9
+                },
+                {
+                    "color": "orange",
+                    "value": 3.2
+                },
+                {
+                    "color": "gray",
+                    "value": 40.6
+                },
+                {
+                    "color": "white",
+                    "value": 7.8
+                },
+                {
+                    "color": "black",
+                    "value": 35.3
+                },
+                {
+                    "color": "yellow",
+                    "value": 1
+                }
+            ]
         }
     },
     "dimensionDetails": {
