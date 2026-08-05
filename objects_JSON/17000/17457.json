@@ -26,7 +26,7 @@
         }
     },
     "title": {
-        "en": "Poster, 'Shigeo Fukuda' exhibition (1976), Seibu Ikebukuro, Tokyo",
+        "en": "Poster, 'Shigeo Fukuda' exhibition (1976), Seibu Department Store Ikebukuro, Tokyo",
         "zh-hant": "1976年東京池袋西武百貨店「福田繁雄」展覽海報"
     },
     "displayDate": {
@@ -36,8 +36,8 @@
     "beginDate": 1976,
     "endDate": 1976,
     "dimension": {
-        "en": "overall: 103 × 72.8 cm",
-        "zh-hant": "整體︰103 × 72.8 厘米"
+        "en": "sheet: 102.9 × 73 cm",
+        "zh-hant": "紙張：102.9 × 73 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -93,5 +93,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 73,
+        "height": 102.9,
+        "depth": null
+    }
 }

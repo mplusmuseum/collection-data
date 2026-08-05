@@ -36,8 +36,8 @@
     "beginDate": 1968,
     "endDate": 1968,
     "dimension": {
-        "en": "overall: 35.8 × 40 cm",
-        "zh-hant": "整體︰35.8 × 40 厘米"
+        "en": "sheet: 35.8 × 39.9 cm\r\r\nimage: 27.8 × 28 cm",
+        "zh-hant": "紙張：35.8 × 39.9 厘米\r\r\n圖像：27.8 × 28 厘米"
     },
     "medium": {
         "en": "embossing on paper",
@@ -93,5 +93,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 39.9,
+        "height": 35.8,
+        "depth": null
+    }
 }

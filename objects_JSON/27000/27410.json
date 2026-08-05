@@ -41,7 +41,7 @@
     "endDate": 1977,
     "dimension": {
         "en": "overall: 20.9 × 27.2 × 0.1 cm\r\r\n3 pages",
-        "zh-hant": "整體︰20.9 × 27.2 × 0.1 厘米\r\r\n3 頁"
+        "zh-hant": "整體：20.9 × 27.2 × 0.1 厘米\r\r\n3 頁"
     },
     "medium": {
         "en": "ink on paper",
@@ -53,10 +53,17 @@
     },
     "constituents": [
         {
-            "id": 327,
+            "id": 1529,
             "role": {
                 "en": "Author",
                 "zh-hant": "作者"
+            }
+        },
+        {
+            "id": 327,
+            "role": {
+                "en": "Subject",
+                "zh-hant": "作品主體"
             }
         }
     ],

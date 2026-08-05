@@ -14,11 +14,9 @@
         },
         "category": {
             "en": [
-                "Installation",
                 "Sculpture"
             ],
             "zh-hant": [
-                "裝置藝術",
                 "雕塑"
             ]
         },
@@ -42,7 +40,7 @@
         "zh-hant": "尺寸可變"
     },
     "medium": {
-        "en": "bronze, concrete and recycled aluminium",
+        "en": "bronze, concrete, and recycled aluminium",
         "zh-hant": "青銅、混凝土、回收鋁材"
     },
     "creditLine": {
@@ -58,11 +56,77 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#C2BCB5",
+                "value": 26.8
+            },
+            {
+                "color": "#B4B9C6",
+                "value": 19.9
+            },
+            {
+                "color": "#2F2929",
+                "value": 13.2
+            },
+            {
+                "color": "#787C89",
+                "value": 7.2
+            },
+            {
+                "color": "#B8B8AF",
+                "value": 6.7
+            },
+            {
+                "color": "#2E2A2F",
+                "value": 6.7
+            },
+            {
+                "color": "#86807A",
+                "value": 6.5
+            },
+            {
+                "color": "#8C8D80",
+                "value": 2.5
+            },
+            {
+                "color": "#231B19",
+                "value": 2.2
+            },
+            {
+                "color": "#7B6C4F",
+                "value": 1.9
+            },
+            {
+                "color": "#352E21",
+                "value": 1.2
+            },
+            {
+                "color": "#C2C0C2",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 70.6
+                },
+                {
+                    "color": "black",
+                    "value": 23.3
+                },
+                {
+                    "color": "brown",
+                    "value": 1.9
+                }
+            ]
         }
     },
     "dimensionDetails": null

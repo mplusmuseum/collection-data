@@ -36,8 +36,8 @@
     "beginDate": 1969,
     "endDate": 1969,
     "dimension": {
-        "en": "overall: 102.9 × 72.6 cm",
-        "zh-hant": "整體︰102.9 × 72.6 厘米"
+        "en": "sheet: 102.8 × 72.4 cm",
+        "zh-hant": "紙張：102.8 × 72.4 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -125,5 +125,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 72.4,
+        "height": 102.8,
+        "depth": null
+    }
 }

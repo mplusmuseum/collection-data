@@ -37,11 +37,11 @@
     "endDate": 1990,
     "dimension": {
         "en": "overall: 51.5 × 30.5 × 22.6 cm",
-        "zh-hant": "整體︰51.5 × 30.5 × 22.6 厘米"
+        "zh-hant": "整體：51.5 × 30.5 × 22.6 厘米"
     },
     "medium": {
-        "en": "plastic",
-        "zh-hant": "塑膠"
+        "en": "plastic, synthetic polymer paint, and adhesive",
+        "zh-hant": "塑膠、合成聚合物顔料、膠紙"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -109,44 +109,52 @@
     "color": {
         "predominant": [
             {
-                "color": "#E4E4E8",
-                "value": 42.6
+                "color": "#E7E7EC",
+                "value": 50.2
             },
             {
-                "color": "#F1F3F4",
-                "value": 18.5
+                "color": "#EFEDE9",
+                "value": 27
             },
             {
-                "color": "#E8E4DB",
-                "value": 13
+                "color": "#131111",
+                "value": 5.4
             },
             {
-                "color": "#171618",
-                "value": 8.9
+                "color": "#1E1C20",
+                "value": 3.7
             },
             {
-                "color": "#1D1B1A",
-                "value": 5
+                "color": "#1D1411",
+                "value": 2.2
             },
             {
-                "color": "#F3F5F4",
-                "value": 2.3
+                "color": "#060405",
+                "value": 1.4
             },
             {
-                "color": "#F2F2F0",
-                "value": 1.6
-            },
-            {
-                "color": "#F0EFF0",
-                "value": 1.5
-            },
-            {
-                "color": "#888279",
-                "value": 1.2
-            },
-            {
-                "color": "#1D1512",
+                "color": "#0F1117",
                 "value": 1.1
+            },
+            {
+                "color": "#EAEFF2",
+                "value": 1.1
+            },
+            {
+                "color": "#898078",
+                "value": 1.1
+            },
+            {
+                "color": "#1685BF",
+                "value": 1
+            },
+            {
+                "color": "#125F8A",
+                "value": 0.7
+            },
+            {
+                "color": "#1F1B14",
+                "value": 0.7
             }
         ],
         "search": {
@@ -157,23 +165,27 @@
                 },
                 {
                     "color": "gray",
-                    "value": 1.2
+                    "value": 1.1
                 },
                 {
                     "color": "white",
-                    "value": 79.5
+                    "value": 78.2
                 },
                 {
                     "color": "blue",
-                    "value": 0.9
+                    "value": 0.7
                 },
                 {
                     "color": "black",
-                    "value": 15
+                    "value": 14.5
                 },
                 {
                     "color": "brown",
                     "value": 13.5
+                },
+                {
+                    "color": "teal",
+                    "value": 1
                 }
             ]
         }

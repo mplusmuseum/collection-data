@@ -38,8 +38,8 @@
     "beginDate": 1995,
     "endDate": 1998,
     "dimension": {
-        "en": "image: 152 × 457 cm",
-        "zh-hant": "圖像︰152 × 457 厘米"
+        "en": "sheet: 157 × 378.5 cm\r\r\nimage: 143 × 364.5 cm",
+        "zh-hant": "紙張：157 × 378.5 厘米\r\r\n圖像：143 × 364.5 厘米"
     },
     "medium": {
         "en": "ink on paper",
@@ -88,10 +88,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "image",
+        "element": "sheet",
         "unit": "cm",
-        "width": 457,
-        "height": 152,
+        "width": 378.5,
+        "height": 157,
         "depth": null
     }
 }

@@ -41,7 +41,7 @@
     "endDate": 1991,
     "dimension": {
         "en": "sheet: 29.7 × 42 cm",
-        "zh-hant": "紙本︰29.7 × 42 厘米"
+        "zh-hant": "紙張：29.7 × 42 厘米"
     },
     "medium": {
         "en": "xerographic copy on transparent paper",
@@ -75,20 +75,12 @@
     "color": {
         "predominant": [
             {
-                "color": "#868681",
-                "value": 75.4
+                "color": "#ECE7DA",
+                "value": 93.8
             },
             {
-                "color": "#82817F",
-                "value": 12.2
-            },
-            {
-                "color": "#4C4C48",
-                "value": 6.2
-            },
-            {
-                "color": "#9B9D9B",
-                "value": 2.8
+                "color": "#ECE9DC",
+                "value": 3.6
             }
         ],
         "search": {
@@ -96,6 +88,10 @@
                 {
                     "color": "gray",
                     "value": 96.6
+                },
+                {
+                    "color": "white",
+                    "value": 97.4
                 }
             ]
         }

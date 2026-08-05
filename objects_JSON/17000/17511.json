@@ -36,8 +36,8 @@
     "beginDate": 1986,
     "endDate": 1986,
     "dimension": {
-        "en": "overall: 103 × 72.8 cm",
-        "zh-hant": "整體︰103 × 72.8 厘米"
+        "en": "sheet: 102.7 × 72.7 cm",
+        "zh-hant": "紙張：102.7 × 72.7 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -56,12 +56,56 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#1A1A18",
+                "value": 66.8
+            },
+            {
+                "color": "#ECE8E5",
+                "value": 15.9
+            },
+            {
+                "color": "#1C1A1B",
+                "value": 9
+            },
+            {
+                "color": "#231E32",
+                "value": 2.5
+            },
+            {
+                "color": "#1F1211",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 15.9
+                },
+                {
+                    "color": "black",
+                    "value": 76.7
+                },
+                {
+                    "color": "purple",
+                    "value": 2.5
+                }
+            ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 72.7,
+        "height": 102.7,
+        "depth": null
+    }
 }

@@ -36,8 +36,8 @@
     "beginDate": 1997,
     "endDate": 1997,
     "dimension": {
-        "en": "sheet: 33.4 × 52 cm",
-        "zh-hant": "紙本︰33.4 × 52 厘米"
+        "en": "frame: 40.4 × 48.3 × 3.8 cm\r\r\nsheet: 33.4 × 52 cm",
+        "zh-hant": "連框：40.4 × 48.3 × 3.8 厘米\r\r\n紙張：33.4 × 52 厘米"
     },
     "medium": {
         "en": "chromogenic print",
@@ -146,10 +146,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 52,
-        "height": 33.4,
-        "depth": null
+        "width": 48.3,
+        "height": 40.4,
+        "depth": 3.8
     }
 }

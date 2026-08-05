@@ -14,10 +14,12 @@
         },
         "category": {
             "en": [
-                "Photography"
+                "Photography",
+                "Performance"
             ],
             "zh-hant": [
-                "攝影"
+                "攝影",
+                "行為展演"
             ]
         },
         "archivalLevel": {
@@ -41,7 +43,7 @@
     "endDate": 1966,
     "dimension": {
         "en": "sheet: 49.8 × 64.8 cm",
-        "zh-hant": "紙本︰49.8 × 64.8 厘米"
+        "zh-hant": "紙張：49.8 × 64.8 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -67,6 +69,13 @@
             }
         },
         {
+            "id": 8301,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        },
+        {
             "id": 1313,
             "role": {
                 "en": "Photographer",
@@ -76,7 +85,7 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Monochrome photograph of the American cellist Charlotte Moorman in our lower right area. A spotlight casts Moorman’s shadow on a piece of paper affixed to the wall behind. On our left, the Japanese composer Takehisa Kosugi, who appears as a silhouette, cuts out Moorman’s shadow."
         }
     ],
     "color": {

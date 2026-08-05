@@ -40,8 +40,8 @@
     "beginDate": 2002,
     "endDate": 2002,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "duration: 4 min.",
+        "zh-hant": "影片長度：4 分"
     },
     "medium": {
         "en": "single-channel digital animation (black and white, sound)",
@@ -67,5 +67,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "duration",
+        "unit": null,
+        "width": null,
+        "height": null,
+        "depth": null
+    }
 }

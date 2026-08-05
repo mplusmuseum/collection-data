@@ -36,8 +36,8 @@
     "beginDate": 1973,
     "endDate": 1977,
     "dimension": {
-        "en": "213 items",
-        "zh-hant": "213 份／張／件"
+        "en": "220 items",
+        "zh-hant": "220 份／張／件"
     },
     "medium": {
         "en": null,
@@ -45,7 +45,7 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of P&T Group (Formerly known as Palmer and Turner), 2020",
-        "zh-hant": "M+，香港，巴馬丹拿集團捐贈，2020 年"
+        "zh-hant": "M+，香港，巴馬丹拿集團捐贈，2020年"
     },
     "constituents": [
         {
@@ -56,11 +56,65 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#DDD1BE",
+                "value": 43.3
+            },
+            {
+                "color": "#E6E6EA",
+                "value": 17.6
+            },
+            {
+                "color": "#232227",
+                "value": 17.5
+            },
+            {
+                "color": "#13121F",
+                "value": 7.3
+            },
+            {
+                "color": "#CCB58D",
+                "value": 4.9
+            },
+            {
+                "color": "#E0E0D8",
+                "value": 2.2
+            },
+            {
+                "color": "#EEF0EF",
+                "value": 2
+            },
+            {
+                "color": "#8C3544",
+                "value": 0.9
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 4.9
+                },
+                {
+                    "color": "red",
+                    "value": 0.9
+                },
+                {
+                    "color": "white",
+                    "value": 65.1
+                },
+                {
+                    "color": "black",
+                    "value": 24.9
+                }
+            ]
         }
     },
     "dimensionDetails": null

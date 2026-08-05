@@ -38,8 +38,8 @@
     "beginDate": 1968,
     "endDate": 1968,
     "dimension": {
-        "en": "sheet (sight): 150.8 × 98.8 cm",
-        "zh-hant": "紙本 （目測）︰150.8 × 98.8 厘米"
+        "en": "frame: 165.2 × 111 × 5 cm\r\r\nsheet (sight): 150.8 × 98.8 cm",
+        "zh-hant": "連框：165.2 × 111 × 5 厘米\r\r\n紙張 （目測）：150.8 × 98.8 厘米"
     },
     "medium": {
         "en": "acrylic on paper",
@@ -256,10 +256,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 98.8,
-        "height": 150.8,
-        "depth": null
+        "width": 111,
+        "height": 165.2,
+        "depth": 5
     }
 }

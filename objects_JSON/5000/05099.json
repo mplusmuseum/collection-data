@@ -36,8 +36,8 @@
     "beginDate": 1981,
     "endDate": 1981,
     "dimension": {
-        "en": "overall: 25.5 × 23.2 × 0.1 cm",
-        "zh-hant": "整體︰25.5 × 23.2 × 0.1 厘米"
+        "en": "frame: 29.3 × 27.3 × 4 cm\r\r\noverall: 25.3 × 23.2 × 0.2 cm",
+        "zh-hant": "連框：29.3 × 27.3 × 4 厘米\r\r\n整體：25.3 × 23.2 × 0.2 厘米"
     },
     "medium": {
         "en": "oil on wooden board",
@@ -130,10 +130,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "overall",
+        "element": "frame",
         "unit": "cm",
-        "width": 23.2,
-        "height": 25.5,
-        "depth": 0.1
+        "width": 27.3,
+        "height": 29.3,
+        "depth": 4
     }
 }

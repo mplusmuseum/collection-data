@@ -26,8 +26,8 @@
         }
     },
     "title": {
-        "en": "Poster, 'Graphic Four' exhibition (1974), Tobu department store, Ikebukuro, Tokyo",
-        "zh-hant": "1974年東京池袋東武百貨店「Graphic Four」展覽海報"
+        "en": "Poster, 'Graphic 4—Shigeo Fukuda, Kazumasa Nagai, Ikko Tanaka and Tadanori Yokoo' exhibition (1974), Tobu Department Store Ikebukuro, Tokyo",
+        "zh-hant": "1974年東京池袋東武百貨店「Graphic 4──福田繁雄、永井一正、田中一光、橫尾忠則」展覽海報"
     },
     "displayDate": {
         "en": "1974",
@@ -36,8 +36,8 @@
     "beginDate": 1974,
     "endDate": 1974,
     "dimension": {
-        "en": "overall: 103 × 72.8 cm",
-        "zh-hant": "整體︰103 × 72.8 厘米"
+        "en": "sheet: 102.7 × 72.5 cm",
+        "zh-hant": "紙張：102.7 × 72.5 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -97,5 +97,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 72.5,
+        "height": 102.7,
+        "depth": null
+    }
 }

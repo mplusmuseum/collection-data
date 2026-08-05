@@ -45,7 +45,7 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of P&T Group (Formerly known as Palmer and Turner), 2020",
-        "zh-hant": "M+，香港，巴馬丹拿集團捐贈，2020 年"
+        "zh-hant": "M+，香港，巴馬丹拿集團捐贈，2020年"
     },
     "constituents": [
         {
@@ -56,11 +56,49 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#E2E4E8",
+                "value": 53.9
+            },
+            {
+                "color": "#E0E1D9",
+                "value": 15.9
+            },
+            {
+                "color": "#E1DFDB",
+                "value": 13.4
+            },
+            {
+                "color": "#DBE1E5",
+                "value": 7.2
+            },
+            {
+                "color": "#DFE3E1",
+                "value": 2.5
+            },
+            {
+                "color": "#028BC6",
+                "value": 2.4
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "white",
+                    "value": 93
+                },
+                {
+                    "color": "teal",
+                    "value": 2.4
+                }
+            ]
         }
     },
     "dimensionDetails": null

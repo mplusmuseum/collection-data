@@ -36,8 +36,8 @@
     "beginDate": 1947,
     "endDate": 1947,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "overall (closed): 0.2 × 19.8 × 27.3 cm",
+        "zh-hant": "overall (closed): 0.2 × 19.8 × 27.3 cm"
     },
     "medium": {
         "en": "print on paper",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 19.8,
+        "height": 0.2,
+        "depth": 27.3
+    }
 }

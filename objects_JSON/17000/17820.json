@@ -36,8 +36,8 @@
     "beginDate": 1972,
     "endDate": 1972,
     "dimension": {
-        "en": "overall: 37.5 × 54 cm",
-        "zh-hant": "整體︰37.5 × 54 厘米"
+        "en": "sheet: 53.6 × 37.5 cm",
+        "zh-hant": "紙張：53.6 × 37.5 厘米"
     },
     "medium": {
         "en": "embossing on paper",
@@ -77,5 +77,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 37.5,
+        "height": 53.6,
+        "depth": null
+    }
 }

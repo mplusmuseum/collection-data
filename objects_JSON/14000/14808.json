@@ -36,8 +36,8 @@
     "beginDate": 1959,
     "endDate": 1959,
     "dimension": {
-        "en": "sheet: 111.8 × 67.8 cm",
-        "zh-hant": "紙本︰111.8 × 67.8 厘米"
+        "en": "frame: 67.9 × 52.5 × 4.7 cm\r\r\nimage: 55 × 42 cm",
+        "zh-hant": "連框：67.9 × 52.5 × 4.7 厘米\r\r\n 圖像：55 × 42 厘米"
     },
     "medium": {
         "en": "offset print on paper",
@@ -64,10 +64,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 67.8,
-        "height": 111.8,
-        "depth": null
+        "width": 52.5,
+        "height": 67.9,
+        "depth": 4.7
     }
 }

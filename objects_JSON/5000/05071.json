@@ -36,8 +36,8 @@
     "beginDate": 1975,
     "endDate": 1975,
     "dimension": {
-        "en": "overall (sight): 45.5 × 36 cm\r\r\nframe (artist frame): 71.5 × 62.1 × 10.2 cm",
-        "zh-hant": "整體 （目測）︰45.5 × 36 厘米\r\r\n連框 (原框)︰71.5 × 62.1 × 10.2 厘米"
+        "en": "frame: 49.9 x 40.8 x 4.3 cm\r\r\nsight: 45.5 x 36 cm",
+        "zh-hant": "整體 （目測）︰45.5 × 36 厘米"
     },
     "medium": {
         "en": "oil on canvas",
@@ -98,10 +98,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "overall",
+        "element": "frame",
         "unit": "cm",
-        "width": 36,
-        "height": 45.5,
-        "depth": null
+        "width": 40.8,
+        "height": 49.9,
+        "depth": 4.3
     }
 }

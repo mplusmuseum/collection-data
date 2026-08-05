@@ -42,8 +42,8 @@
     "beginDate": 1963,
     "endDate": 1963,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "duration: approx. 60 min.",
+        "zh-hant": "影片長度：約 60 分"
     },
     "medium": {
         "en": "16mm open reel audiotape",
@@ -57,8 +57,8 @@
         {
             "id": 327,
             "role": {
-                "en": "Artist",
-                "zh-hant": "藝術家"
+                "en": "Subject",
+                "zh-hant": "作品主體"
             }
         }
     ],
@@ -69,5 +69,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "duration",
+        "unit": null,
+        "width": null,
+        "height": null,
+        "depth": null
+    }
 }

@@ -36,8 +36,8 @@
     "beginDate": 1982,
     "endDate": 1982,
     "dimension": {
-        "en": "overall: 103 × 72.8 cm",
-        "zh-hant": "整體︰103 × 72.8 厘米"
+        "en": "sheet: 102.8 × 72.7 cm",
+        "zh-hant": "紙張：102.8 × 72.7 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -64,32 +64,24 @@
     "color": {
         "predominant": [
             {
-                "color": "#5EB686",
-                "value": 64.7
+                "color": "#00BE8C",
+                "value": 67.8
             },
             {
-                "color": "#141918",
-                "value": 19
+                "color": "#020504",
+                "value": 14.5
             },
             {
-                "color": "#111B19",
-                "value": 4.3
+                "color": "#010506",
+                "value": 5
             },
             {
-                "color": "#62B88E",
-                "value": 3
+                "color": "#030708",
+                "value": 4.5
             },
             {
-                "color": "#18171A",
-                "value": 1.5
-            },
-            {
-                "color": "#122318",
-                "value": 1.4
-            },
-            {
-                "color": "#579271",
-                "value": 1.2
+                "color": "#010F0C",
+                "value": 3.3
             }
         ],
         "search": {
@@ -100,14 +92,20 @@
                 },
                 {
                     "color": "black",
-                    "value": 26.1
+                    "value": 27.4
                 },
                 {
                     "color": "teal",
-                    "value": 3
+                    "value": 67.8
                 }
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 72.7,
+        "height": 102.8,
+        "depth": null
+    }
 }

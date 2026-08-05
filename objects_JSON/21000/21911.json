@@ -35,11 +35,11 @@
         "en": "2010",
         "zh-hant": "2010"
     },
-    "beginDate": 0,
-    "endDate": 0,
+    "beginDate": 2010,
+    "endDate": 2010,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "overall (closed): 1 x 12.8 x 14.4 cm\r\r\noverall (open, approx.): 11.5 x 20 x 14.4 cm",
+        "zh-hant": "整體 （合上）：1 x 12.8 x 14.4 厘米\r\r\n整體 （打開，約）：11.5 x 20 x 14.4 厘米"
     },
     "medium": {
         "en": "print on paper",
@@ -155,5 +155,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 12.8,
+        "height": 1,
+        "depth": 14.4
+    }
 }

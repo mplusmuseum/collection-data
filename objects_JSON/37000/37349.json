@@ -13,35 +13,39 @@
             ]
         },
         "category": {
-            "en": null,
-            "zh-hant": null
+            "en": [
+                "Ephemera"
+            ],
+            "zh-hant": [
+                "短期印刷品"
+            ]
         },
         "archivalLevel": {
             "en": [
-                "Series"
+                "Item"
             ],
             "zh-hant": [
-                "系列"
+                "單件"
             ]
         }
     },
     "title": {
-        "en": "Ephemera, The Sea Ranch",
-        "zh-hant": "澄碧邨短期印刷品"
+        "en": "Invitation card, preview event, The Sea Ranch",
+        "zh-hant": "澄碧邨預展邀請卡"
     },
     "displayDate": {
-        "en": "[1970s–2016]",
+        "en": "1975",
         "zh-hant": "[1970年代至2016年]"
     },
-    "beginDate": 1970,
-    "endDate": 2016,
+    "beginDate": 1975,
+    "endDate": 1975,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "sheet: 20.8 × 13.3 cm",
+        "zh-hant": "sheet: 20.8 × 13.3 cm"
     },
     "medium": {
-        "en": null,
-        "zh-hant": null
+        "en": "printing ink and foil on paper",
+        "zh-hant": "printing ink and foil on paper"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Alan Chan, 2020",
@@ -51,8 +55,15 @@
         {
             "id": 1720,
             "role": {
-                "en": "Archive Creator",
-                "zh-hant": "建檔者"
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 8332,
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
             }
         }
     ],
@@ -63,5 +74,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 13.3,
+        "height": 20.8,
+        "depth": null
+    }
 }

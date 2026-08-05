@@ -36,8 +36,8 @@
     "beginDate": 1968,
     "endDate": 1968,
     "dimension": {
-        "en": "overall: 103 × 72.8 cm",
-        "zh-hant": "整體︰103 × 72.8 厘米"
+        "en": "sheet: 102.7 × 72.7 cm",
+        "zh-hant": "紙張：102.7 × 72.7 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -64,62 +64,44 @@
     "color": {
         "predominant": [
             {
-                "color": "#F64D33",
-                "value": 29.1
+                "color": "#F85D48",
+                "value": 45.7
             },
             {
-                "color": "#422522",
-                "value": 19.2
+                "color": "#382526",
+                "value": 17.4
             },
             {
-                "color": "#D8564A",
-                "value": 14.2
+                "color": "#342B2B",
+                "value": 16
             },
             {
-                "color": "#F1502C",
-                "value": 7.1
+                "color": "#FE7355",
+                "value": 9.6
             },
             {
-                "color": "#843630",
-                "value": 6.3
-            },
-            {
-                "color": "#4A180B",
-                "value": 4.6
-            },
-            {
-                "color": "#721D14",
-                "value": 4.5
-            },
-            {
-                "color": "#352F2C",
-                "value": 3.2
-            },
-            {
-                "color": "#712711",
-                "value": 2.7
-            },
-            {
-                "color": "#CB5E43",
-                "value": 2.4
-            },
-            {
-                "color": "#372E20",
-                "value": 2.1
+                "color": "#7E3231",
+                "value": 7.3
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "red",
-                    "value": 90.2
+                    "value": 62.7
                 },
                 {
                     "color": "black",
-                    "value": 5.3
+                    "value": 33.4
                 }
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 72.7,
+        "height": 102.7,
+        "depth": null
+    }
 }

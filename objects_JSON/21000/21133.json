@@ -14,10 +14,12 @@
         },
         "category": {
             "en": [
-                "Photography"
+                "Photography",
+                "Performance"
             ],
             "zh-hant": [
-                "攝影"
+                "攝影",
+                "行為展演"
             ]
         },
         "archivalLevel": {
@@ -41,7 +43,7 @@
     "endDate": 1974,
     "dimension": {
         "en": "sheet: 50 × 60 cm",
-        "zh-hant": "紙本︰50 × 60 厘米"
+        "zh-hant": "紙張：50 × 60 厘米"
     },
     "medium": {
         "en": "chromogenic print",
@@ -53,14 +55,21 @@
     },
     "constituents": [
         {
-            "id": 359,
+            "id": 1312,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"
             }
         },
         {
-            "id": 1312,
+            "id": 359,
+            "role": {
+                "en": "Art Director",
+                "zh-hant": "藝術總監"
+            }
+        },
+        {
+            "id": 8301,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"
@@ -69,7 +78,7 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Photograph of a large greyish-blue bag with zipped compartments lying in the lower centre area of a grassy area lined with grapevines. The bag appears to contain a seated figure. A cello's body emerges on our right from the bag."
         }
     ],
     "color": {

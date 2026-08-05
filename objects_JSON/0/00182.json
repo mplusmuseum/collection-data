@@ -37,7 +37,7 @@
     "endDate": 1958,
     "dimension": {
         "en": "sheet (sight): 109.2 × 109.4 cm\r\r\nimage (sight): 99.3 × 99.8 cm\r\r\nframe: 114 × 114.5 × 4.8 cm",
-        "zh-hant": "紙本 （目測）︰109.2 × 109.4 厘米\r\r\n圖像 （目測）︰99.3 × 99.8 厘米\r\r\n連框︰114 × 114.5 × 4.8 厘米"
+        "zh-hant": "紙張 （目測）：109.2 × 109.4 厘米\r\r\n圖像 （目測）：99.3 × 99.8 厘米\r\r\n連框：114 × 114.5 × 4.8 厘米"
     },
     "medium": {
         "en": "inkjet print",
@@ -64,31 +64,47 @@
     "color": {
         "predominant": [
             {
-                "color": "#313131",
-                "value": 49
+                "color": "#2D2B2A",
+                "value": 47.4
             },
             {
-                "color": "#7F7F7F",
-                "value": 30.5
+                "color": "#807E7E",
+                "value": 19.5
             },
             {
-                "color": "#D0D0D0",
-                "value": 20.6
+                "color": "#CFCED1",
+                "value": 9.9
+            },
+            {
+                "color": "#292628",
+                "value": 6.1
+            },
+            {
+                "color": "#908D8F",
+                "value": 4.6
+            },
+            {
+                "color": "#B4B2B3",
+                "value": 4.3
+            },
+            {
+                "color": "#BEBCBD",
+                "value": 4.3
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 30.5
+                    "value": 32.7
                 },
                 {
                     "color": "white",
-                    "value": 20.6
+                    "value": 9.9
                 },
                 {
                     "color": "black",
-                    "value": 49
+                    "value": 53.5
                 }
             ]
         }

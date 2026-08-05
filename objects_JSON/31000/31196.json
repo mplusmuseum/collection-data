@@ -45,7 +45,7 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of P&T Group (Formerly known as Palmer and Turner), 2020",
-        "zh-hant": "M+，香港，巴馬丹拿集團捐贈，2020 年"
+        "zh-hant": "M+，香港，巴馬丹拿集團捐贈，2020年"
     },
     "constituents": [
         {
@@ -56,11 +56,105 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#ECECF0",
+                "value": 30
+            },
+            {
+                "color": "#E0D5C3",
+                "value": 23.9
+            },
+            {
+                "color": "#C6A37A",
+                "value": 10.5
+            },
+            {
+                "color": "#1F1D39",
+                "value": 8.1
+            },
+            {
+                "color": "#EAEEEC",
+                "value": 7.3
+            },
+            {
+                "color": "#C3CFD3",
+                "value": 2.5
+            },
+            {
+                "color": "#3A4870",
+                "value": 2.4
+            },
+            {
+                "color": "#6B6A7A",
+                "value": 2.4
+            },
+            {
+                "color": "#C39D7A",
+                "value": 1.7
+            },
+            {
+                "color": "#E7E8E1",
+                "value": 1.3
+            },
+            {
+                "color": "#8B8079",
+                "value": 1.1
+            },
+            {
+                "color": "#2F2D36",
+                "value": 1
+            },
+            {
+                "color": "#768489",
+                "value": 0.9
+            },
+            {
+                "color": "#E0DDE0",
+                "value": 0.9
+            },
+            {
+                "color": "#84B1C8",
+                "value": 0.6
+            },
+            {
+                "color": "#0F0B31",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 12.2
+                },
+                {
+                    "color": "gray",
+                    "value": 4.4
+                },
+                {
+                    "color": "white",
+                    "value": 65.9
+                },
+                {
+                    "color": "blue",
+                    "value": 11.1
+                },
+                {
+                    "color": "black",
+                    "value": 1
+                },
+                {
+                    "color": "teal",
+                    "value": 0.6
+                }
+            ]
         }
     },
     "dimensionDetails": null

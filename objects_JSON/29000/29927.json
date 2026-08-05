@@ -36,8 +36,8 @@
     "beginDate": 2013,
     "endDate": 2013,
     "dimension": {
-        "en": "sheet: 41.4 × 53.9 cm\r\r\nimage: 37.4 × 50 cm",
-        "zh-hant": "紙本︰41.4 × 53.9 厘米\r\r\n圖像︰37.4 × 50 厘米"
+        "en": "frame: 44.6 × 57.1 × 5 cm\r\r\nsheet: 41.4 × 53.9 cm\r\r\nimage: 37.4 × 50 cm",
+        "zh-hant": "連框：44.6 × 57.1 × 5 厘米\r\r\n紙張：41.4 × 53.9 厘米\r\r\n圖像：37.4 × 50 厘米"
     },
     "medium": {
         "en": "inkjet print",
@@ -64,10 +64,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 53.9,
-        "height": 41.4,
-        "depth": null
+        "width": 57.1,
+        "height": 44.6,
+        "depth": 5
     }
 }

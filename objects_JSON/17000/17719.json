@@ -36,8 +36,8 @@
     "beginDate": 1992,
     "endDate": 1992,
     "dimension": {
-        "en": "overall: 103.2 × 72.8 cm",
-        "zh-hant": "整體︰103.2 × 72.8 厘米"
+        "en": "sheet: 103.3 × 72.8 cm",
+        "zh-hant": "紙張：103.3 × 72.8 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -64,36 +64,44 @@
     "color": {
         "predominant": [
             {
-                "color": "#C1BD9A",
-                "value": 67
+                "color": "#C9C09C",
+                "value": 47.2
             },
             {
-                "color": "#D3DEDF",
+                "color": "#D6D0AE",
+                "value": 14.7
+            },
+            {
+                "color": "#3F657C",
                 "value": 7.9
             },
             {
-                "color": "#353A3B",
-                "value": 5.5
+                "color": "#C3D4D3",
+                "value": 6.3
             },
             {
-                "color": "#526A7A",
-                "value": 4.1
+                "color": "#272625",
+                "value": 5.4
             },
             {
-                "color": "#5F6B73",
-                "value": 4.1
+                "color": "#BFB58D",
+                "value": 5.1
             },
             {
-                "color": "#353431",
-                "value": 3.8
+                "color": "#28282B",
+                "value": 3.5
             },
             {
-                "color": "#283740",
-                "value": 2.5
+                "color": "#272C2C",
+                "value": 2.2
             },
             {
-                "color": "#35363A",
+                "color": "#C1D1CB",
                 "value": 2.1
+            },
+            {
+                "color": "#2E3E48",
+                "value": 2
             }
         ],
         "search": {
@@ -104,22 +112,32 @@
                 },
                 {
                     "color": "white",
-                    "value": 7.9
+                    "value": 8.4
                 },
                 {
                     "color": "yellow",
-                    "value": 67
+                    "value": 14.7
                 },
                 {
                     "color": "black",
-                    "value": 13.9
+                    "value": 13.1
                 },
                 {
                     "color": "teal",
-                    "value": 4.1
+                    "value": 7.9
+                },
+                {
+                    "color": "orange",
+                    "value": 52.3
                 }
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 72.8,
+        "height": 103.3,
+        "depth": null
+    }
 }

@@ -45,7 +45,7 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of P&T Group (Formerly known as Palmer and Turner), 2020",
-        "zh-hant": "M+，香港，巴馬丹拿集團捐贈，2020 年"
+        "zh-hant": "M+，香港，巴馬丹拿集團捐贈，2020年"
     },
     "constituents": [
         {
@@ -56,11 +56,125 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EEEFE9",
+                "value": 28.3
+            },
+            {
+                "color": "#9A6C5C",
+                "value": 15
+            },
+            {
+                "color": "#E1E0E4",
+                "value": 14.1
+            },
+            {
+                "color": "#89544F",
+                "value": 10
+            },
+            {
+                "color": "#BE8E7A",
+                "value": 6.5
+            },
+            {
+                "color": "#D8C7B5",
+                "value": 6
+            },
+            {
+                "color": "#EBF0E9",
+                "value": 3.3
+            },
+            {
+                "color": "#035B8B",
+                "value": 2
+            },
+            {
+                "color": "#141312",
+                "value": 1.4
+            },
+            {
+                "color": "#0B0D14",
+                "value": 1.2
+            },
+            {
+                "color": "#6B7E6E",
+                "value": 1.2
+            },
+            {
+                "color": "#031E29",
+                "value": 1.1
+            },
+            {
+                "color": "#CCB084",
+                "value": 1
+            },
+            {
+                "color": "#132228",
+                "value": 0.8
+            },
+            {
+                "color": "#B4776F",
+                "value": 0.8
+            },
+            {
+                "color": "#33201D",
+                "value": 0.7
+            },
+            {
+                "color": "#19181C",
+                "value": 0.5
+            },
+            {
+                "color": "#87766F",
+                "value": 0.5
+            },
+            {
+                "color": "#8A724B",
+                "value": 0.5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 25.8
+                },
+                {
+                    "color": "orange",
+                    "value": 7.5
+                },
+                {
+                    "color": "gray",
+                    "value": 6.5
+                },
+                {
+                    "color": "green",
+                    "value": 1.2
+                },
+                {
+                    "color": "white",
+                    "value": 45.8
+                },
+                {
+                    "color": "blue",
+                    "value": 2
+                },
+                {
+                    "color": "black",
+                    "value": 5.7
+                },
+                {
+                    "color": "brown",
+                    "value": 0.5
+                }
+            ]
         }
     },
     "dimensionDetails": null
