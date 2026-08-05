@@ -36,7 +36,7 @@
     "beginDate": 2012,
     "endDate": 2012,
     "dimension": {
-        "en": "dimensions variable",
+        "en": "dimension variable",
         "zh-hant": "尺寸可變"
     },
     "medium": {
@@ -137,11 +137,5 @@
             ]
         }
     },
-    "dimensionDetails": {
-        "element": "overall",
-        "unit": "cm",
-        "width": 52,
-        "height": 80,
-        "depth": 17
-    }
+    "dimensionDetails": null
 }

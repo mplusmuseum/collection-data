@@ -33,13 +33,13 @@
     },
     "displayDate": {
         "en": "1987, printed 2015",
-        "zh-hant": "1987年，2015年印刷"
+        "zh-hant": "1987年，2015年印"
     },
     "beginDate": 1987,
     "endDate": 2015,
     "dimension": {
-        "en": "sheet: 55 × 74.8 cm\r\r\nimage: 40.2 × 59.9 cm",
-        "zh-hant": "紙本︰55 × 74.8 厘米\r\r\n圖像︰40.2 × 59.9 厘米"
+        "en": "frame: 64 × 91.2 × 3.3 cm\r\r\nsheet: 55 × 74.8 cm\r\r\nimage: 40.2 × 59.9 cm",
+        "zh-hant": "連框：64 × 91.2 × 3.3 厘米\r\r\n紙張：55 × 74.8 厘米\r\r\n圖像：40.2 × 59.9 厘米"
     },
     "medium": {
         "en": "inkjet print",
@@ -140,10 +140,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 74.8,
-        "height": 55,
-        "depth": null
+        "width": 91.2,
+        "height": 64,
+        "depth": 3.3
     }
 }
