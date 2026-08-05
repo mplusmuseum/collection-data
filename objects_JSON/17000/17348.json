@@ -36,8 +36,8 @@
     "beginDate": 1975,
     "endDate": 1975,
     "dimension": {
-        "en": "overall: 56 × 44 cm",
-        "zh-hant": "整體︰56 × 44 厘米"
+        "en": "sheet: 66.5 × 54.5 cm\r\r\nimage: 56 × 43.9 cm",
+        "zh-hant": "紙張：66.5 × 54.5 厘米\r\r\n圖像：56 × 43.9 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 54.5,
+        "height": 66.5,
+        "depth": null
+    }
 }

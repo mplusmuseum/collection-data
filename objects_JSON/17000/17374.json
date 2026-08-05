@@ -36,8 +36,8 @@
     "beginDate": 1986,
     "endDate": 1986,
     "dimension": {
-        "en": "overall: 51 × 51 cm",
-        "zh-hant": "整體︰51 × 51 厘米"
+        "en": "sheet: 70 × 70.2 cm\r\r\nimage: 51 × 50.9 cm",
+        "zh-hant": "紙張：70 × 70.2 厘米\r\r\n圖像：51 × 50.9 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 70.2,
+        "height": 70,
+        "depth": null
+    }
 }

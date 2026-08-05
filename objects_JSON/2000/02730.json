@@ -37,7 +37,7 @@
     "endDate": 2003,
     "dimension": {
         "en": "overall: 158.4 × 100.5 cm",
-        "zh-hant": "整體︰158.4 × 100.5 厘米"
+        "zh-hant": "整體：158.4 × 100.5 厘米"
     },
     "medium": {
         "en": "acrylic on silk",
@@ -45,7 +45,7 @@
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港"
+        "zh-hant": "M+希克藏品（捐贈），香港"
     },
     "constituents": [
         {
@@ -56,12 +56,20 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Acrylic painting on silk depicting a woman's torso from upper thighs to neck rendered in beige and white shades. The figure wears a cream-coloured bra. Her right hand tugs at her right bra strap, and her left hand pulls the left strap up."
+        }
+    ],
     "color": {
         "predominant": [
             {
-                "color": "#CEC5BC",
-                "value": 97.2
+                "color": "#F2DECF",
+                "value": 91.2
+            },
+            {
+                "color": "#EBEAEF",
+                "value": 7.4
             }
         ],
         "search": {
@@ -69,6 +77,10 @@
                 {
                     "color": "gray",
                     "value": 97.2
+                },
+                {
+                    "color": "white",
+                    "value": 98.6
                 }
             ]
         }

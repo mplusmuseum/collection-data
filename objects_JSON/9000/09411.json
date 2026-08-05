@@ -33,13 +33,13 @@
     },
     "displayDate": {
         "en": "photographed 1993, printed 1998",
-        "zh-hant": "1993年拍攝，1998年印刷"
+        "zh-hant": "1993年攝，1998年印"
     },
     "beginDate": 1993,
     "endDate": 1998,
     "dimension": {
-        "en": "sheet: 50.6 × 60.6 cm\r\r\nimage: 40.5 × 51 cm",
-        "zh-hant": "紙本︰50.6 × 60.6 厘米\r\r\n圖像︰40.5 × 51 厘米"
+        "en": "frame: 70.2 × 70.2 × 3.1 cm\r\r\nsheet: 50.6 × 60.6 cm\r\r\nimage: 40.5 × 51 cm",
+        "zh-hant": "連框：70.2 × 70.2 × 3.1 厘米\r\r\n紙張：50.6 × 60.6 厘米\r\r\n圖像：40.5 × 51 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -112,10 +112,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 60.6,
-        "height": 50.6,
-        "depth": null
+        "width": 70.2,
+        "height": 70.2,
+        "depth": 3.1
     }
 }

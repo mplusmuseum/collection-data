@@ -36,8 +36,8 @@
     "beginDate": 1982,
     "endDate": 1982,
     "dimension": {
-        "en": "overall: 54.1 × 53.9 cm",
-        "zh-hant": "整體︰54.1 × 53.9 厘米"
+        "en": "sheet: 53.9 × 53.9 cm\r\r\nimage: 39.9 × 40.4 cm",
+        "zh-hant": "紙張：53.9 × 53.9 厘米\r\r\n圖像：39.9 × 40.4 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -105,5 +105,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 53.9,
+        "height": 53.9,
+        "depth": null
+    }
 }

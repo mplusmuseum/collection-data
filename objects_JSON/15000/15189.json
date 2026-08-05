@@ -40,8 +40,8 @@
     "beginDate": 2007,
     "endDate": 2007,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "duration: 15 min. 47 sec.",
+        "zh-hant": "影片長度：15 分 47 秒"
     },
     "medium": {
         "en": "single-channel digital animation (colour, sound)",
@@ -137,5 +137,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "duration",
+        "unit": null,
+        "width": null,
+        "height": null,
+        "depth": null
+    }
 }

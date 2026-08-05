@@ -14,10 +14,12 @@
         },
         "category": {
             "en": [
-                "Photography"
+                "Photography",
+                "Performance"
             ],
             "zh-hant": [
-                "攝影"
+                "攝影",
+                "行為展演"
             ]
         },
         "archivalLevel": {
@@ -41,7 +43,7 @@
     "endDate": 1974,
     "dimension": {
         "en": "sheet: 65.2 × 50.3 cm",
-        "zh-hant": "紙本︰65.2 × 50.3 厘米"
+        "zh-hant": "紙張：65.2 × 50.3 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -53,14 +55,21 @@
     },
     "constituents": [
         {
-            "id": 359,
+            "id": 1312,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"
             }
         },
         {
-            "id": 1312,
+            "id": 359,
+            "role": {
+                "en": "Art Director",
+                "zh-hant": "藝術總監"
+            }
+        },
+        {
+            "id": 8301,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"
@@ -69,7 +78,7 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Monochrome photograph of a large bag with zipped compartments. The bag appears to contain a figure, on a grassy area backed by trees and shrubs. A rod reaches up from the top of the bag."
         }
     ],
     "color": {

@@ -36,8 +36,8 @@
     "beginDate": 1984,
     "endDate": 1984,
     "dimension": {
-        "en": "overall: 7.5 × 12 × 4cm",
-        "zh-hant": "整體︰7.5 × 12 × 4厘米"
+        "en": "overall: 7.4 × 11.9 × 4.4 cm",
+        "zh-hant": "整體：7.4 × 11.9 × 4.4 厘米"
     },
     "medium": {
         "en": "plastic and transparency",
@@ -70,5 +70,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 11.9,
+        "height": 7.4,
+        "depth": 4.4
+    }
 }

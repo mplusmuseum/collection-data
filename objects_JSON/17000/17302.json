@@ -36,8 +36,8 @@
     "beginDate": 2000,
     "endDate": 2000,
     "dimension": {
-        "en": "overall: 84.1 × 59.4 cm",
-        "zh-hant": "整體︰84.1 × 59.4 厘米"
+        "en": "sheet: 84 × 59.5 cm",
+        "zh-hant": "紙張：84 × 59.5 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 59.5,
+        "height": 84,
+        "depth": null
+    }
 }

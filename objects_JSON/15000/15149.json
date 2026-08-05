@@ -40,8 +40,8 @@
     "beginDate": 2002,
     "endDate": 2002,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "file size: 1.31 Mb",
+        "zh-hant": "文件大小：1.31 Mb"
     },
     "medium": {
         "en": "single-channel digital animation (black and white, sound)",
@@ -89,5 +89,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "file size",
+        "unit": null,
+        "width": null,
+        "height": null,
+        "depth": null
+    }
 }

@@ -37,7 +37,7 @@
     "endDate": 2018,
     "dimension": {
         "en": "artist frame: 60.5 × 43 × 1.3 cm\r\r\nsheet: 21.8 × 29.6 cm",
-        "zh-hant": "原框︰60.5 × 43 × 1.3 厘米\r\r\n紙本︰21.8 × 29.6 厘米"
+        "zh-hant": "原框：60.5 × 43 × 1.3 厘米\r\r\n紙張：21.8 × 29.6 厘米"
     },
     "medium": {
         "en": "pigment print, foil on glass",
@@ -56,11 +56,49 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#EBEBE7",
+                "value": 65.9
+            },
+            {
+                "color": "#E9E6DE",
+                "value": 11.7
+            },
+            {
+                "color": "#7B6E4F",
+                "value": 9
+            },
+            {
+                "color": "#49422F",
+                "value": 5.2
+            },
+            {
+                "color": "#D7BF95",
+                "value": 5
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 5
+                },
+                {
+                    "color": "white",
+                    "value": 77.6
+                },
+                {
+                    "color": "brown",
+                    "value": 14.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

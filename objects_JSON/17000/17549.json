@@ -36,8 +36,8 @@
     "beginDate": 1991,
     "endDate": 1991,
     "dimension": {
-        "en": "overall: 103 × 72.8 cm",
-        "zh-hant": "整體︰103 × 72.8 厘米"
+        "en": "sheet: 102.6 × 72.7 cm",
+        "zh-hant": "紙張：102.6 × 72.7 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -113,5 +113,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 72.7,
+        "height": 102.6,
+        "depth": null
+    }
 }

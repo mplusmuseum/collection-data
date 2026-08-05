@@ -36,7 +36,7 @@
     "beginDate": 2011,
     "endDate": 2011,
     "dimension": {
-        "en": "image: 88 × 110 cm\r\r\npaper size:  90 × 193 cm",
+        "en": "sheet: 192.8 x 89.9 cm\r\r\nimage: 110 x 88 cm",
         "zh-hant": "圖像：88 × 110厘米\r\r\n紙張尺寸：90 × 193 厘米"
     },
     "medium": {
@@ -70,5 +70,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 89.9,
+        "height": 192.8,
+        "depth": null
+    }
 }

@@ -14,10 +14,12 @@
         },
         "category": {
             "en": [
-                "Photography"
+                "Photography",
+                "Performance"
             ],
             "zh-hant": [
-                "攝影"
+                "攝影",
+                "行為展演"
             ]
         },
         "archivalLevel": {
@@ -41,7 +43,7 @@
     "endDate": 1974,
     "dimension": {
         "en": "sheet: 64.6 × 50.2 cm",
-        "zh-hant": "紙本︰64.6 × 50.2 厘米"
+        "zh-hant": "紙張：64.6 × 50.2 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -53,14 +55,21 @@
     },
     "constituents": [
         {
-            "id": 359,
+            "id": 1312,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"
             }
         },
         {
-            "id": 1312,
+            "id": 359,
+            "role": {
+                "en": "Art Director",
+                "zh-hant": "藝術總監"
+            }
+        },
+        {
+            "id": 8301,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"
@@ -69,7 +78,7 @@
     ],
     "images": [
         {
-            "altText": null
+            "altText": "Monochrome photograph of a figure enveloped almost entirely in a large bag with only their eyes exposed. The figure appears to be seated position on the grassy area. A tree with leaves reaching the top stands in the background on our right."
         }
     ],
     "color": {

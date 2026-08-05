@@ -36,8 +36,8 @@
     "beginDate": 1984,
     "endDate": 1984,
     "dimension": {
-        "en": "sheet: 4 × 10 cm",
-        "zh-hant": "紙本︰4 × 10 厘米"
+        "en": "overall: 9.8 × 4.5 × 2.6 cm\r\r\nsheet: 4 × 10 cm",
+        "zh-hant": "整體：9.8 × 4.5 × 2.6 厘米\r\r\n紙張：4 × 10 厘米"
     },
     "medium": {
         "en": "transparency",
@@ -64,10 +64,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "overall",
         "unit": "cm",
-        "width": 10,
-        "height": 4,
-        "depth": null
+        "width": 4.5,
+        "height": 9.8,
+        "depth": 2.6
     }
 }

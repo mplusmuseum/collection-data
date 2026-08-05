@@ -37,7 +37,7 @@
     "endDate": 2008,
     "dimension": {
         "en": "overall: 149.4 × 200 cm",
-        "zh-hant": "整體︰149.4 × 200 厘米"
+        "zh-hant": "整體：149.4 × 200 厘米"
     },
     "medium": {
         "en": "oil on canvas",
@@ -45,7 +45,7 @@
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港"
+        "zh-hant": "M+希克藏品（捐贈），香港"
     },
     "constituents": [
         {
@@ -56,11 +56,177 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Oil painting on canvas depicting a red and blue strip stretching horizontally across the centre. In the upper half, lines of green, yellow, and brown rise and fade into white and blue. In the lower half, lines of pink and orange descend into white and purple tones."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#72414A",
+                "value": 15.2
+            },
+            {
+                "color": "#4A3036",
+                "value": 7.8
+            },
+            {
+                "color": "#7D8E57",
+                "value": 5.8
+            },
+            {
+                "color": "#B1BCB3",
+                "value": 5.7
+            },
+            {
+                "color": "#777D3E",
+                "value": 5.5
+            },
+            {
+                "color": "#C3C7B6",
+                "value": 5
+            },
+            {
+                "color": "#7F9582",
+                "value": 4.8
+            },
+            {
+                "color": "#C6B5B2",
+                "value": 4.3
+            },
+            {
+                "color": "#757138",
+                "value": 4
+            },
+            {
+                "color": "#6F4860",
+                "value": 3.4
+            },
+            {
+                "color": "#7B706D",
+                "value": 3.3
+            },
+            {
+                "color": "#7B6C44",
+                "value": 2.6
+            },
+            {
+                "color": "#423D38",
+                "value": 2.6
+            },
+            {
+                "color": "#B87981",
+                "value": 2.2
+            },
+            {
+                "color": "#464C30",
+                "value": 2.1
+            },
+            {
+                "color": "#7E778B",
+                "value": 2
+            },
+            {
+                "color": "#363E3B",
+                "value": 1.9
+            },
+            {
+                "color": "#836D7F",
+                "value": 1.9
+            },
+            {
+                "color": "#452F3E",
+                "value": 1.8
+            },
+            {
+                "color": "#7A7F68",
+                "value": 1.5
+            },
+            {
+                "color": "#3A333C",
+                "value": 1.4
+            },
+            {
+                "color": "#7C9092",
+                "value": 1.4
+            },
+            {
+                "color": "#738D64",
+                "value": 1.3
+            },
+            {
+                "color": "#ADB9BA",
+                "value": 1.2
+            },
+            {
+                "color": "#282F3F",
+                "value": 1.2
+            },
+            {
+                "color": "#ADB364",
+                "value": 1.2
+            },
+            {
+                "color": "#815A4A",
+                "value": 1.1
+            },
+            {
+                "color": "#4C4930",
+                "value": 0.8
+            },
+            {
+                "color": "#BCB75F",
+                "value": 0.7
+            },
+            {
+                "color": "#BD846B",
+                "value": 0.6
+            },
+            {
+                "color": "#674864",
+                "value": 0.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 23
+                },
+                {
+                    "color": "orange",
+                    "value": 0.6
+                },
+                {
+                    "color": "pink",
+                    "value": 2.2
+                },
+                {
+                    "color": "gray",
+                    "value": 22.9
+                },
+                {
+                    "color": "green",
+                    "value": 13.5
+                },
+                {
+                    "color": "black",
+                    "value": 7.2
+                },
+                {
+                    "color": "yellow",
+                    "value": 1.8
+                },
+                {
+                    "color": "purple",
+                    "value": 7.7
+                },
+                {
+                    "color": "brown",
+                    "value": 16.2
+                }
+            ]
         }
     },
     "dimensionDetails": {

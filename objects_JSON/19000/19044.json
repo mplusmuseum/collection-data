@@ -14,10 +14,12 @@
         },
         "category": {
             "en": [
-                "Photography"
+                "Photography",
+                "Performance"
             ],
             "zh-hant": [
-                "攝影"
+                "攝影",
+                "行為展演"
             ]
         },
         "archivalLevel": {
@@ -41,7 +43,7 @@
     "endDate": 1974,
     "dimension": {
         "en": "sheet: 60 × 50 cm",
-        "zh-hant": "紙本︰60 × 50 厘米"
+        "zh-hant": "紙張：60 × 50 厘米"
     },
     "medium": {
         "en": "chromogenic print",
@@ -61,6 +63,13 @@
         },
         {
             "id": 359,
+            "role": {
+                "en": "Art Director",
+                "zh-hant": "藝術總監"
+            }
+        },
+        {
+            "id": 8301,
             "role": {
                 "en": "Artist",
                 "zh-hant": "藝術家"

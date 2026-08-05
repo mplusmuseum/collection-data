@@ -39,7 +39,7 @@
     "endDate": 1997,
     "dimension": {
         "en": "sheet: 198.1 × 115.5 cm\r\r\nimage: 178.9 × 96.3 cm",
-        "zh-hant": "紙本︰198.1 × 115.5 厘米\r\r\n圖像︰178.9 × 96.3 厘米"
+        "zh-hant": "紙張：198.1 × 115.5 厘米\r\r\n圖像：178.9 × 96.3 厘米"
     },
     "medium": {
         "en": "ink on paper",
@@ -47,7 +47,7 @@
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港"
+        "zh-hant": "M+希克藏品（捐贈），香港"
     },
     "constituents": [
         {
@@ -58,11 +58,29 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Ink painting on paper with a vertical orientation in which multiple rows and columns of black dots form a grid. Various grey strokes, appearing as vertical and horizontal cross-hatching, fill a large part of each grid module, leaving small areas of the white paper uncovered."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#A29896",
+                "value": 65
+            },
+            {
+                "color": "#B5ABA9",
+                "value": 34.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "gray",
+                    "value": 99.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

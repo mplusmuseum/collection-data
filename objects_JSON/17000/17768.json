@@ -36,12 +36,12 @@
     "beginDate": 1996,
     "endDate": 1996,
     "dimension": {
-        "en": "overall: 102.8 × 72.7 cm",
-        "zh-hant": "整體︰102.8 × 72.7 厘米"
+        "en": "sheet: 102.7 × 72.6 cm",
+        "zh-hant": "紙張：102.7 × 72.6 厘米"
     },
     "medium": {
         "en": "offset lithograph",
-        "zh-hant": "平版印刷"
+        "zh-hant": "平版間接印刷"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of DNP Foundation for Cultural Promotion, 2018",
@@ -93,5 +93,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 72.6,
+        "height": 102.7,
+        "depth": null
+    }
 }

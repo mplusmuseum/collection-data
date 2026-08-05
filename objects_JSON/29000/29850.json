@@ -14,9 +14,11 @@
         },
         "category": {
             "en": [
+                "Book/Periodical",
                 "Product Design"
             ],
             "zh-hant": [
+                "書籍／期刊",
                 "產品設計"
             ]
         },
@@ -41,11 +43,11 @@
     "endDate": 1987,
     "dimension": {
         "en": "overall: 23 × 27.5 × 2.4 cm\r\r\n91 pages",
-        "zh-hant": "整體︰23 × 27.5 × 2.4 厘米\r\r\n91 頁"
+        "zh-hant": "整體：23 × 27.5 × 2.4 厘米\r\r\n91 頁"
     },
     "medium": {
         "en": "offset lithograph",
-        "zh-hant": "平版印刷"
+        "zh-hant": "平版間接印刷"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of House of Tai Ping, 2019",
@@ -53,10 +55,17 @@
     },
     "constituents": [
         {
+            "id": 8145,
+            "role": {
+                "en": "Author",
+                "zh-hant": "作者"
+            }
+        },
+        {
             "id": 4546,
             "role": {
-                "en": "Design Firm",
-                "zh-hant": "設計師事務所"
+                "en": "Subject",
+                "zh-hant": "作品主體"
             }
         }
     ],

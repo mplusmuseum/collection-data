@@ -37,7 +37,7 @@
     "endDate": 0,
     "dimension": {
         "en": "overall (closed): 0.2 × 18.5 × 12.9 cm",
-        "zh-hant": "整體 （合上）︰0.2 × 18.5 × 12.9 厘米"
+        "zh-hant": "整體 （合上）：0.2 × 18.5 × 12.9 厘米"
     },
     "medium": {
         "en": "print on paper",
@@ -47,15 +47,16 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
-    "images": [
+    "constituents": [
         {
-            "altText": null
-        },
-        {
-            "altText": null
+            "id": 1530,
+            "role": {
+                "en": "Publisher",
+                "zh-hant": "出版社"
+            }
         }
     ],
+    "images": [],
     "color": {
         "predominant": [
             {

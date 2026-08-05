@@ -38,8 +38,8 @@
     "beginDate": 1956,
     "endDate": 1957,
     "dimension": {
-        "en": "image (sight): 36.8 × 28.8 cm\r\r\nframe: 54 × 45.9 × 2.5 cm",
-        "zh-hant": "圖像 （目測）︰36.8 × 28.8 厘米\r\r\n連框︰54 × 45.9 × 2.5 厘米"
+        "en": "frame: 54 × 46 × 4 cm\r\r\nimage: 37.1 × 29.1 cm",
+        "zh-hant": "連框：54 × 46 × 4 厘米\r\r\n圖像：37.1 × 29.1 厘米"
     },
     "medium": {
         "en": "pen and ink, ink stamp, Conté and charcoal on paper",
@@ -66,40 +66,40 @@
     "color": {
         "predominant": [
             {
-                "color": "#807870",
-                "value": 35.7
+                "color": "#C9C2B6",
+                "value": 32.5
             },
             {
-                "color": "#C5BEB6",
-                "value": 30.9
+                "color": "#33312C",
+                "value": 29.7
             },
             {
-                "color": "#3C3936",
-                "value": 28.3
+                "color": "#807A6F",
+                "value": 27.5
             },
             {
-                "color": "#292829",
-                "value": 4.4
+                "color": "#2A251D",
+                "value": 6.2
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 66.7
+                    "value": 60
                 },
                 {
                     "color": "black",
-                    "value": 32.7
+                    "value": 35.9
                 }
             ]
         }
     },
     "dimensionDetails": {
-        "element": "image",
+        "element": "frame",
         "unit": "cm",
-        "width": 28.8,
-        "height": 36.8,
-        "depth": null
+        "width": 46,
+        "height": 54,
+        "depth": 4
     }
 }

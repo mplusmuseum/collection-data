@@ -36,8 +36,8 @@
     "beginDate": 0,
     "endDate": 0,
     "dimension": {
-        "en": "overall: 37 × 26.1 cm",
-        "zh-hant": "整體︰37 × 26.1 厘米"
+        "en": "sheet: 37 × 25.9 cm",
+        "zh-hant": "紙張：37 × 25.9 厘米"
     },
     "medium": {
         "en": "embossing on paper",
@@ -77,5 +77,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 25.9,
+        "height": 37,
+        "depth": null
+    }
 }

@@ -40,8 +40,8 @@
     "beginDate": 2010,
     "endDate": 2010,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "duration: 2 min. 42 sec.",
+        "zh-hant": "影片長度：2 分 42 秒"
     },
     "medium": {
         "en": "single-channel digital animation (colour, sound)",
@@ -85,5 +85,11 @@
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "duration",
+        "unit": null,
+        "width": null,
+        "height": null,
+        "depth": null
+    }
 }

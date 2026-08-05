@@ -26,18 +26,18 @@
         }
     },
     "title": {
-        "en": "No Title",
-        "zh-hant": "無標題"
+        "en": "Comic Book Stand (Reclamation Street)",
+        "zh-hant": "公仔書檔（新填地街）"
     },
     "displayDate": {
-        "en": "1960s",
+        "en": "1938",
         "zh-hant": "1960年代"
     },
-    "beginDate": 1960,
-    "endDate": 1969,
+    "beginDate": 1938,
+    "endDate": 1938,
     "dimension": {
         "en": "overall: 35.6 × 30.5 cm",
-        "zh-hant": "整體︰35.6 × 30.5 厘米"
+        "zh-hant": "整體：35.6 × 30.5 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 8103,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of three children sitting side by side on stools against a wall. Comics hang on the wall, filling the upper half. The child on our far left peers over the shoulders of the other two children reading a book."

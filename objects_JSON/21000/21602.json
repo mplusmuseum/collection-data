@@ -36,12 +36,12 @@
     "beginDate": 1983,
     "endDate": 1983,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "overall (closed): 5.2 × 33.3 × 30.9 cm",
+        "zh-hant": "overall (closed): 5.2 × 33.3 × 30.9 cm"
     },
     "medium": {
-        "en": null,
-        "zh-hant": null
+        "en": "print on paper",
+        "zh-hant": "print on paper"
     },
     "creditLine": {
         "en": "M+, Hong Kong",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 33.3,
+        "height": 5.2,
+        "depth": 30.9
+    }
 }

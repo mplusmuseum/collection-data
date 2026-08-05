@@ -38,12 +38,12 @@
     "beginDate": 1967,
     "endDate": 1971,
     "dimension": {
-        "en": "sheet: 87 × 60 × 2 cm",
+        "en": "frame: 89 x 59 x 2.5 cm\r\r\nsheet (sight): 85 x 55.3 cm",
         "zh-hant": "紙本︰87 × 60 × 2 厘米"
     },
     "medium": {
-        "en": "offset printing on paper",
-        "zh-hant": "平版印刷"
+        "en": "offset lithograph on paper",
+        "zh-hant": "平版間接印刷紙本"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift in honour of David Lam, 2020",
@@ -65,5 +65,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "frame",
+        "unit": "cm",
+        "width": 59,
+        "height": 89,
+        "depth": 2.5
+    }
 }

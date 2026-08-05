@@ -37,7 +37,7 @@
     "endDate": 2008,
     "dimension": {
         "en": "overall: 199.4 × 149.5 cm",
-        "zh-hant": "整體︰199.4 × 149.5 厘米"
+        "zh-hant": "整體：199.4 × 149.5 厘米"
     },
     "medium": {
         "en": "oil on canvas",
@@ -45,7 +45,7 @@
     },
     "creditLine": {
         "en": "M+ Sigg Collection, Hong Kong. By donation",
-        "zh-hant": "M+ 希克藏品（捐贈），香港"
+        "zh-hant": "M+希克藏品（捐贈），香港"
     },
     "constituents": [
         {
@@ -56,11 +56,133 @@
             }
         }
     ],
-    "images": [],
+    "images": [
+        {
+            "altText": "Oil painting on canvas filled with fuzzy, thin vertical bands stretching from top to bottom. Repeated at irregular intervals, the bands of yellow, red, blue, orange, and brown appear as woven threads of a colourful piece of fabric."
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#7C3C39",
+                "value": 16.2
+            },
+            {
+                "color": "#86724A",
+                "value": 13.1
+            },
+            {
+                "color": "#7D5642",
+                "value": 12.6
+            },
+            {
+                "color": "#30446C",
+                "value": 9.5
+            },
+            {
+                "color": "#756A65",
+                "value": 5.5
+            },
+            {
+                "color": "#837D3F",
+                "value": 5
+            },
+            {
+                "color": "#242C43",
+                "value": 4.6
+            },
+            {
+                "color": "#403B37",
+                "value": 4.3
+            },
+            {
+                "color": "#39363E",
+                "value": 3.8
+            },
+            {
+                "color": "#BEAB07",
+                "value": 3
+            },
+            {
+                "color": "#9C9219",
+                "value": 2.2
+            },
+            {
+                "color": "#943D17",
+                "value": 2
+            },
+            {
+                "color": "#5B5C6A",
+                "value": 1.9
+            },
+            {
+                "color": "#7C7E6B",
+                "value": 1.6
+            },
+            {
+                "color": "#4D3533",
+                "value": 1.6
+            },
+            {
+                "color": "#193D75",
+                "value": 1.5
+            },
+            {
+                "color": "#B39861",
+                "value": 1.2
+            },
+            {
+                "color": "#3F4545",
+                "value": 1
+            },
+            {
+                "color": "#767944",
+                "value": 1
+            },
+            {
+                "color": "#4E4733",
+                "value": 1
+            },
+            {
+                "color": "#606B6F",
+                "value": 1
+            },
+            {
+                "color": "#3B576B",
+                "value": 0.9
+            },
+            {
+                "color": "#6A746B",
+                "value": 0.8
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "red",
+                    "value": 18.3
+                },
+                {
+                    "color": "orange",
+                    "value": 6.4
+                },
+                {
+                    "color": "gray",
+                    "value": 10.8
+                },
+                {
+                    "color": "blue",
+                    "value": 16.4
+                },
+                {
+                    "color": "black",
+                    "value": 10.7
+                },
+                {
+                    "color": "brown",
+                    "value": 32.7
+                }
+            ]
         }
     },
     "dimensionDetails": {

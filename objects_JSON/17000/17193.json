@@ -26,7 +26,7 @@
         }
     },
     "title": {
-        "en": "Poster, The 10th 'Hundred Masters of Ikebana' exhibition, Seibu Ikebukuro, Tokyo",
+        "en": "Poster, The 10th 'Hundred Masters of Ikebana' exhibition, Seibu Department Store Ikebukuro, Tokyo",
         "zh-hant": "東京池袋西武百貨店「第十屆花道日本百傑展」海報"
     },
     "displayDate": {
@@ -36,12 +36,12 @@
     "beginDate": 1977,
     "endDate": 1977,
     "dimension": {
-        "en": "overall: 36.4 × 51.5 cm",
-        "zh-hant": "整體︰36.4 × 51.5 厘米"
+        "en": "sheet: 36.3 × 51.5 cm",
+        "zh-hant": "紙張：36.3 × 51.5 厘米"
     },
     "medium": {
         "en": "offset lithograph",
-        "zh-hant": "平版印刷"
+        "zh-hant": "平版間接印刷"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of DNP Foundation for Cultural Promotion, 2018",
@@ -70,5 +70,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 51.5,
+        "height": 36.3,
+        "depth": null
+    }
 }

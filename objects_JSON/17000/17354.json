@@ -36,8 +36,8 @@
     "beginDate": 1977,
     "endDate": 1977,
     "dimension": {
-        "en": "overall: 37.5 × 53 cm",
-        "zh-hant": "整體︰37.5 × 53 厘米"
+        "en": "sheet: 54.5 × 66.4 cm\r\r\nimage: 37.5 × 53 cm",
+        "zh-hant": "紙張：54.5 × 66.4 厘米\r\r\n圖像：37.5 × 53 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 66.4,
+        "height": 54.5,
+        "depth": null
+    }
 }

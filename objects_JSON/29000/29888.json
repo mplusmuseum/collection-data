@@ -37,7 +37,7 @@
     "endDate": 2017,
     "dimension": {
         "en": "overall: 90.6 × 152.9 × 15.5 cm",
-        "zh-hant": "整體︰90.6 × 152.9 × 15.5 厘米"
+        "zh-hant": "整體：90.6 × 152.9 × 15.5 厘米"
     },
     "medium": {
         "en": "recycled wood and audio equipment",
@@ -45,7 +45,7 @@
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Jean-Marc Bottazzi, 2023",
-        "zh-hant": "M+，香港，Jean-Marc Bottazzi捐贈, 2023"
+        "zh-hant": "M+，香港，Jean-Marc Bottazzi捐贈，2023年"
     },
     "constituents": [
         {
@@ -56,11 +56,49 @@
             }
         }
     ],
-    "images": null,
+    "images": [
+        {
+            "altText": null
+        }
+    ],
     "color": {
-        "predominant": null,
+        "predominant": [
+            {
+                "color": "#D8D7D7",
+                "value": 55.3
+            },
+            {
+                "color": "#D6D6D4",
+                "value": 17.4
+            },
+            {
+                "color": "#808086",
+                "value": 9.1
+            },
+            {
+                "color": "#D8DAD9",
+                "value": 8.8
+            },
+            {
+                "color": "#C1AA7F",
+                "value": 6.6
+            }
+        ],
         "search": {
-            "google": null
+            "google": [
+                {
+                    "color": "orange",
+                    "value": 6.6
+                },
+                {
+                    "color": "gray",
+                    "value": 9.1
+                },
+                {
+                    "color": "white",
+                    "value": 81.6
+                }
+            ]
         }
     },
     "dimensionDetails": {

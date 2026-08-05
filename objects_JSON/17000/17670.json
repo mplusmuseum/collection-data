@@ -36,12 +36,12 @@
     "beginDate": 1987,
     "endDate": 1987,
     "dimension": {
-        "en": "overall: 103 × 72.8 cm",
-        "zh-hant": "整體︰103 × 72.8 厘米"
+        "en": "sheet: 103 × 72.8 cm",
+        "zh-hant": "紙張：103 × 72.8 厘米"
     },
     "medium": {
         "en": "offset lithograph",
-        "zh-hant": "平版印刷"
+        "zh-hant": "平版間接印刷"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of DNP Foundation for Cultural Promotion, 2018",
@@ -64,39 +64,43 @@
     "color": {
         "predominant": [
             {
-                "color": "#D7D6B8",
-                "value": 42.5
+                "color": "#D9D8BA",
+                "value": 38.1
             },
             {
-                "color": "#767660",
-                "value": 20.3
+                "color": "#72684B",
+                "value": 16.2
             },
             {
-                "color": "#4C4C41",
-                "value": 14.5
+                "color": "#C6C289",
+                "value": 12.9
             },
             {
-                "color": "#C9CB92",
-                "value": 8
+                "color": "#4C4231",
+                "value": 11.2
             },
             {
-                "color": "#E5E0D4",
-                "value": 5.8
+                "color": "#908B5F",
+                "value": 6.2
             },
             {
-                "color": "#5C584C",
-                "value": 3.4
+                "color": "#E0DAC1",
+                "value": 5.1
             },
             {
-                "color": "#C5C590",
-                "value": 2.1
+                "color": "#CFD194",
+                "value": 4.3
+            },
+            {
+                "color": "#6F6657",
+                "value": 3.6
             }
         ],
         "search": {
             "google": [
                 {
                     "color": "gray",
-                    "value": 18
+                    "value": 3.6
                 },
                 {
                     "color": "white",
@@ -104,14 +108,20 @@
                 },
                 {
                     "color": "yellow",
-                    "value": 52.6
+                    "value": 60.5
                 },
                 {
                     "color": "brown",
-                    "value": 20.3
+                    "value": 33.7
                 }
             ]
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 72.8,
+        "height": 103,
+        "depth": null
+    }
 }

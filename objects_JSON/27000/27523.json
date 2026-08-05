@@ -41,7 +41,7 @@
     "endDate": 1971,
     "dimension": {
         "en": "overall: 29.7 × 20.8 × 0.1 cm\r\r\n8 pages",
-        "zh-hant": "整體︰29.7 × 20.8 × 0.1 厘米\r\r\n8 頁"
+        "zh-hant": "整體：29.7 × 20.8 × 0.1 厘米\r\r\n8 頁"
     },
     "medium": {
         "en": "printing ink on paper",
@@ -55,8 +55,15 @@
         {
             "id": 327,
             "role": {
-                "en": "Subject",
-                "zh-hant": "作品主體"
+                "en": "Author",
+                "zh-hant": "作者"
+            }
+        },
+        {
+            "id": 5624,
+            "role": {
+                "en": "Translator",
+                "zh-hant": "譯者"
             }
         }
     ],

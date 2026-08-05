@@ -13,35 +13,39 @@
             ]
         },
         "category": {
-            "en": null,
-            "zh-hant": null
+            "en": [
+                "Archival Documentation"
+            ],
+            "zh-hant": [
+                "檔案文獻"
+            ]
         },
         "archivalLevel": {
             "en": [
-                "Series"
+                "Item"
             ],
             "zh-hant": [
-                "系列"
+                "單件"
             ]
         }
     },
     "title": {
-        "en": "Archival material, Fairwood",
-        "zh-hant": "大快活檔案資料"
+        "en": "Corporate Identity Manual, Fairwood",
+        "zh-hant": "大快活企業識別手冊"
     },
     "displayDate": {
-        "en": "[1970s–2016]",
-        "zh-hant": "[1970年代至2016年]"
+        "en": "[2003]",
+        "zh-hant": "[約2003年]"
     },
-    "beginDate": 1970,
-    "endDate": 2016,
+    "beginDate": 2003,
+    "endDate": 2003,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "overall: 29.8 × 42.5 × 1.1 cm\r\r\n92 pages",
+        "zh-hant": "overall: 29.8 × 42.5 × 1.1 cm\r\r\n92 pages"
     },
     "medium": {
-        "en": null,
-        "zh-hant": null
+        "en": "inkjet print, plastic sheet",
+        "zh-hant": "inkjet print, plastic sheet"
     },
     "creditLine": {
         "en": "M+, Hong Kong. Gift of Alan Chan, 2020",
@@ -51,8 +55,15 @@
         {
             "id": 1720,
             "role": {
-                "en": "Archive Creator",
-                "zh-hant": "建檔者"
+                "en": "Designer",
+                "zh-hant": "設計師"
+            }
+        },
+        {
+            "id": 8350,
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
             }
         }
     ],
@@ -63,5 +74,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "overall",
+        "unit": "cm",
+        "width": 42.5,
+        "height": 29.8,
+        "depth": 1.1
+    }
 }

@@ -35,13 +35,13 @@
     },
     "displayDate": {
         "en": "photographed 1987, printed 2004",
-        "zh-hant": "1987年拍攝，2004年印刷"
+        "zh-hant": "1987年攝，2004年印"
     },
     "beginDate": 1987,
     "endDate": 2004,
     "dimension": {
-        "en": "sheet: 60.9 × 50.5 cm\r\r\nimage: 51.2 × 34.7 cm",
-        "zh-hant": "紙本︰60.9 × 50.5 厘米\r\r\n圖像︰51.2 × 34.7 厘米"
+        "en": "frame: 70.2 × 70.2 × 3.1 cm\r\r\nsheet: 60.9 × 50.5 cm\r\r\nimage: 51.2 × 34.7 cm",
+        "zh-hant": "連框：70.2 × 70.2 × 3.1 厘米\r\r\n紙張：60.9 × 50.5 厘米\r\r\n圖像：51.2 × 34.7 厘米"
     },
     "medium": {
         "en": "gelatin silver print",
@@ -102,10 +102,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 50.5,
-        "height": 60.9,
-        "depth": null
+        "width": 70.2,
+        "height": 70.2,
+        "depth": 3.1
     }
 }

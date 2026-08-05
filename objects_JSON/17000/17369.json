@@ -36,8 +36,8 @@
     "beginDate": 1981,
     "endDate": 1981,
     "dimension": {
-        "en": "overall: 34 × 34 cm",
-        "zh-hant": "整體︰34 × 34 厘米"
+        "en": "sheet: 54.4 × 54.3 cm\r\r\nimage: 33.8 × 33.9 cm",
+        "zh-hant": "紙張：54.4 × 54.3 厘米\r\r\n圖像：33.8 × 33.9 厘米"
     },
     "medium": {
         "en": "screen print",
@@ -63,5 +63,11 @@
             "google": null
         }
     },
-    "dimensionDetails": null
+    "dimensionDetails": {
+        "element": "sheet",
+        "unit": "cm",
+        "width": 54.3,
+        "height": 54.4,
+        "depth": null
+    }
 }

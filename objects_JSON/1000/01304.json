@@ -37,7 +37,7 @@
     "endDate": 1969,
     "dimension": {
         "en": "overall: 50.8 × 40.6 cm",
-        "zh-hant": "整體︰50.8 × 40.6 厘米"
+        "zh-hant": "整體：50.8 × 40.6 厘米"
     },
     "medium": {
         "en": "black and white print",
@@ -47,7 +47,15 @@
         "en": "M+, Hong Kong",
         "zh-hant": "M+，香港"
     },
-    "constituents": [],
+    "constituents": [
+        {
+            "id": 7919,
+            "role": {
+                "en": "Artist",
+                "zh-hant": "藝術家"
+            }
+        }
+    ],
     "images": [
         {
             "altText": "Monochrome photograph of the actress Josephine Siao Fong-fong as a young girl. She wears a striped samfu and is seated at a dressing table. Holding a pen to a book resting on the table, she turns to face the camera with a smile."

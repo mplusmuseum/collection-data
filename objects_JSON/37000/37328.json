@@ -13,8 +13,12 @@
             ]
         },
         "category": {
-            "en": null,
-            "zh-hant": null
+            "en": [
+                "Archival Documentation"
+            ],
+            "zh-hant": [
+                "檔案文獻"
+            ]
         },
         "archivalLevel": {
             "en": [
@@ -26,18 +30,18 @@
         }
     },
     "title": {
-        "en": "Archival material, Convenience Foods",
-        "zh-hant": "健全食品工業有限公司檔案資料"
+        "en": "Ephemera, Convenience Foods",
+        "zh-hant": "健全食品工業有限公司短期印刷品"
     },
     "displayDate": {
-        "en": "[1970s–2016]",
+        "en": "1980s",
         "zh-hant": "[1970年代至2016年]"
     },
-    "beginDate": 1970,
-    "endDate": 2016,
+    "beginDate": 1980,
+    "endDate": 1989,
     "dimension": {
-        "en": null,
-        "zh-hant": null
+        "en": "2 items",
+        "zh-hant": "2 items"
     },
     "medium": {
         "en": null,
@@ -53,6 +57,13 @@
             "role": {
                 "en": "Archive Creator",
                 "zh-hant": "建檔者"
+            }
+        },
+        {
+            "id": 8361,
+            "role": {
+                "en": "Commissioned by",
+                "zh-hant": "委約方"
             }
         }
     ],

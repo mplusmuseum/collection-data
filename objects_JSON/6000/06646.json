@@ -31,13 +31,13 @@
     },
     "displayDate": {
         "en": "photographed 1984, printed 2016",
-        "zh-hant": "1984年拍攝，2016年印刷"
+        "zh-hant": "1984年攝，2016年印"
     },
     "beginDate": 1984,
     "endDate": 2016,
     "dimension": {
-        "en": "sheet: 51 × 40.6 cm\r\r\nimage: 38 × 37.8 cm",
-        "zh-hant": "紙本︰51 × 40.6 厘米\r\r\n圖像︰38 × 37.8 厘米"
+        "en": "frame: 73.6 × 52.7 × 3.6 cm\r\r\nsheet: 51 × 40.6 cm\r\r\nimage: 38 × 37.8 cm",
+        "zh-hant": "連框：73.6 × 52.7 × 3.6 厘米\r\r\n紙張：51 × 40.6 厘米\r\r\n圖像：38 × 37.8 厘米"
     },
     "medium": {
         "en": "selenium-toned gelatin silver print",
@@ -122,10 +122,10 @@
         }
     },
     "dimensionDetails": {
-        "element": "sheet",
+        "element": "frame",
         "unit": "cm",
-        "width": 40.6,
-        "height": 51,
-        "depth": null
+        "width": 52.7,
+        "height": 73.6,
+        "depth": 3.6
     }
 }
